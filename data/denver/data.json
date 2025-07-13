@@ -1,0 +1,1298 @@
+{
+  "state": "CO",
+  "kitchens": [
+    {
+      "title": "Denver Commissary",
+      "price": null,
+      "description": "Denver Commissary is a fully licensed industrial commercial kitchen designed specifically for food trucks, meal delivery services, restaurants, caterers, national marketing campaigns and aspiring food entrepreneurs.",
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3600 E 40th Ave, Denver, CO 80205",
+      "neighborhood": "Clayton",
+      "street": "3600 E 40th Ave",
+      "city": "Denver",
+      "postalCode": "80205",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "http://www.denvercommissary.com/",
+      "phone": "(303) 369-4653",
+      "phoneUnformatted": "+13033694653",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.7726207,
+        "lng": -104.9449679
+      },
+      "verified": true,
+      "tags": ["Hourly Rental", "Equipment Included", "Parking"],
+      "totalScore": 4.5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJnSNInGR5bIcRvMYcHek2m18",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x876c79649c48239d:0x5f9b36e91d1cc6bc",
+      "cid": "6889160429837010620",
+      "reviewsCount": 62,
+      "imagesCount": 26,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T03:52:27.168Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Denver%20Commissary&query_place_id=ChIJnSNInGR5bIcRvMYcHek2m18",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.76426895,-105.06013260999227,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOq8Y1SbZphfPma6V_PrdH0dZ9n6yq6bX-CaImA=w408-h408-k-no",
+      "kgmid": "/g/11cn9nhtkk"
+    },
+    {
+      "title": "Spindle Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "970 Yuma St Suite #160, Denver, CO 80204",
+      "neighborhood": "Central",
+      "street": "970 Yuma St Suite #160",
+      "city": "Denver",
+      "postalCode": "80204",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "http://www.spindlekitchen.com/",
+      "phone": "(912) 506-4162",
+      "phoneUnformatted": "+19125064162",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.7322664,
+        "lng": -105.0147409
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJHTY7Oml_bIcR_kpIRNuZu5k",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x876c7f693a3b361d:0x99bb99db44484afe",
+      "cid": "11077616875470342910",
+      "reviewsCount": 6,
+      "imagesCount": 15,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T03:52:27.170Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Spindle%20Kitchen&query_place_id=ChIJHTY7Oml_bIcR_kpIRNuZu5k",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.76426895,-105.06013260999227,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNd6SUhSwTovsgfXnnA6sAwwMDUg_InJSaLGyEu=w408-h306-k-no",
+      "kgmid": "/g/11h31_bqdc"
+    },
+    {
+      "title": "Vallejo Food Pick-Up Commercial Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "810 Vallejo St, Denver, CO 80204",
+      "neighborhood": "Central",
+      "street": "810 Vallejo St",
+      "city": "Denver",
+      "postalCode": "80204",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "https://vallejofood.com/",
+      "phone": "(213) 329-4100",
+      "phoneUnformatted": "+12133294100",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.7296595,
+        "lng": -105.0125542
+      },
+      "totalScore": 3.2,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJz-blr3d_bIcRxUr3IRGknZo",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Delivery service",
+        "Takeout Restaurant"
+      ],
+      "fid": "0x876c7f77afe5e6cf:0x9a9da41121f74ac5",
+      "cid": "11141241446675729093",
+      "reviewsCount": 17,
+      "imagesCount": 10,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T03:52:27.170Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Vallejo%20Food%20Pick-Up%20Commercial%20Kitchens&query_place_id=ChIJz-blr3d_bIcRxUr3IRGknZo",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.76426895,-105.06013260999227,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 3,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP6Jk-9GULN4VCQWuNEYoV618diIRWcfWjFpTav=w426-h240-k-no",
+      "kgmid": "/g/11ryt3t_tg"
+    },
+    {
+      "title": "Kitchen Network",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "4986 Morrison Rd, Denver, CO 80219",
+      "neighborhood": "Westwood",
+      "street": "4986 Morrison Rd",
+      "city": "Denver",
+      "postalCode": "80219",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "http://kitchennetworkdenver.com/",
+      "phone": "(303) 922-0222",
+      "phoneUnformatted": "+13039220222",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.6982481,
+        "lng": -105.0508505
+      },
+      "totalScore": 4.1,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJc5e1wY2Aa4cRGsGBF9GjAx4",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Business development service"
+      ],
+      "fid": "0x876b808dc1b59773:0x1e03a3d11781c11a",
+      "cid": "2162752364505841946",
+      "reviewsCount": 41,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T03:52:27.170Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM to 4 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 4 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 4 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 4 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 4 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Kitchen%20Network&query_place_id=ChIJc5e1wY2Aa4cRGsGBF9GjAx4",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.76426895,-105.06013260999227,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 4,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PHx-ixeLUVQ-D5hcAYgpEA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=135.92628&pitch=0&thumbfov=100",
+      "kgmid": "/g/1v2f0_mm"
+    },
+    {
+      "title": "Maker Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "707 Federal Blvd, Denver, CO 80204",
+      "neighborhood": "West",
+      "street": "707 Federal Blvd",
+      "city": "Denver",
+      "postalCode": "80204",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "https://makerkitchens.com/locations",
+      "phone": "(213) 537-4474",
+      "phoneUnformatted": "+12135374474",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.7277338,
+        "lng": -105.0255814
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJVVXFW1F_bIcRxl0oiLj-tnA",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x876c7f515bc55555:0x70b6feb888285dc6",
+      "cid": "8121959046521052614",
+      "reviewsCount": 0,
+      "imagesCount": 27,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T03:52:27.170Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Maker%20Kitchens&query_place_id=ChIJVVXFW1F_bIcRxl0oiLj-tnA",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.76426895,-105.06013260999227,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 7,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOnaL-ik8sLGtt1dqVdEUjQ9wFgypuS_najpfHj=w408-h272-k-no",
+      "kgmid": "/g/11q2y_px1z"
+    },
+    {
+      "title": "Whisk it Here",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1594 S Acoma St, Denver, CO 80223",
+      "neighborhood": "Overland",
+      "street": "1594 S Acoma St",
+      "city": "Denver",
+      "postalCode": "80223",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "http://www.whiskithere.com/",
+      "phone": "(720) 445-6868",
+      "phoneUnformatted": "+17204456868",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.6877403,
+        "lng": -104.9885177
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJYfvZgCt5bIcRFCUI_kvbvk8",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Bakery",
+        "Bakery equipment",
+        "Food manufacturer",
+        "Food processing equipment",
+        "Food producer",
+        "Research and product development"
+      ],
+      "fid": "0x876c792b80d9fb61:0x4fbedb4bfe082514",
+      "cid": "5746271294002308372",
+      "reviewsCount": 3,
+      "imagesCount": 4,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T03:52:27.170Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Whisk%20it%20Here&query_place_id=ChIJYfvZgCt5bIcRFCUI_kvbvk8",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.76426895,-105.06013260999227,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 8,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOAzZ4ZheE_xzlzN_DQN2RjW7B-aDt6YfyJ9jSN=w408-h271-k-no",
+      "kgmid": "/g/11v032xggs"
+    },
+    {
+      "title": "Kitchen Network",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1895 Quebec St, Denver, CO 80220",
+      "neighborhood": "South Park Hill",
+      "street": "1895 Quebec St",
+      "city": "Denver",
+      "postalCode": "80220",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "http://www.kitchennetworkdenver.com/",
+      "phone": "(303) 922-0222",
+      "phoneUnformatted": "+13039220222",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.7460327,
+        "lng": -104.9039364
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJI59Bkmx9bIcR9zeqsyUVoFE",
+      "categories": ["Shared-use commercial kitchen", "Education center"],
+      "fid": "0x876c7d6c92419f23:0x51a01525b3aa37f7",
+      "cid": "5881724365018118135",
+      "reviewsCount": 1,
+      "imagesCount": null,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T03:52:27.170Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM to 4 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 4 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 4 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 4 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 4 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Kitchen%20Network&query_place_id=ChIJI59Bkmx9bIcR9zeqsyUVoFE",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.76426895,-105.06013260999227,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 9,
+      "isAdvertisement": false,
+      "kgmid": "/g/11p5j0j87z"
+    },
+    {
+      "title": "Denver Kitchen Share",
+      "price": null,
+      "categoryName": "Commercial real estate agency",
+      "address": "4897 N Oakland St, Denver, CO 80239",
+      "neighborhood": "Montbello",
+      "street": "4897 N Oakland St",
+      "city": "Denver",
+      "postalCode": "80239",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "http://coloradokitchenshare.com/",
+      "phone": "(720) 435-1980",
+      "phoneUnformatted": "+17204351980",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.7858712,
+        "lng": -104.8512537
+      },
+      "totalScore": 4.3,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJawVsBjJ7bIcRLPIMTMTePS0",
+      "categories": ["Commercial real estate agency"],
+      "fid": "0x876c7b32066c056b:0x2d3ddec44c0cf22c",
+      "cid": "3260006639956980268",
+      "reviewsCount": 27,
+      "imagesCount": 6,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T03:52:27.171Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Denver%20Kitchen%20Share&query_place_id=ChIJawVsBjJ7bIcRLPIMTMTePS0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.76426895,-105.06013260999227,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 10,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPfhIKluJQ-S6a3UmW1-O_IpYUEl_uTyuNxf_-9=w408-h268-k-no",
+      "kgmid": "/g/1hhkzxsbp"
+    },
+    {
+      "title": "ChefReady",
+      "price": null,
+      "categoryName": "Business to business service",
+      "address": "1468 S Cherokee St, Denver, CO 80223",
+      "neighborhood": "Overland",
+      "street": "1468 S Cherokee St",
+      "city": "Denver",
+      "postalCode": "80223",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "https://chefready.com/",
+      "phone": "(720) 844-2501",
+      "phoneUnformatted": "+17208442501",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.6899292,
+        "lng": -104.9907941
+      },
+      "totalScore": 4.6,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJJVQT5Nx_bIcRlD1CVYymOm4",
+      "categories": [
+        "Business to business service",
+        "Delivery service",
+        "Delivery Restaurant"
+      ],
+      "fid": "0x876c7fdce4135425:0x6e3aa68c55423d94",
+      "cid": "7942844014477327764",
+      "reviewsCount": 10,
+      "imagesCount": 75,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T03:52:27.171Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM to 9 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 9 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 9 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 9 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 9 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM to 9 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=ChefReady&query_place_id=ChIJJVQT5Nx_bIcRlD1CVYymOm4",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.76426895,-105.06013260999227,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 12,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPIF1YTDVQuUH3GUMrS9qCWq3ZYzlzaQEjMoaUU=w408-h306-k-no",
+      "kgmid": "/g/11rfdm8nv9"
+    },
+    {
+      "title": "Park Hill Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "5155 E 39th Ave, Denver, CO 80207",
+      "neighborhood": "Park Hill",
+      "street": "5155 E 39th Ave",
+      "city": "Denver",
+      "postalCode": "80207",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "https://makerkitchens.com/kitchen/park-hill-kitchens/",
+      "phone": "(954) 261-6756",
+      "phoneUnformatted": "+19542616756",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.7716978,
+        "lng": -104.9276
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJb3J9h8B7bIcRHfo3sfF5H_s",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x876c7bc0877d726f:0xfb1f79f1b137fa1d",
+      "cid": "18095315906765257245",
+      "reviewsCount": 0,
+      "imagesCount": null,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T03:52:27.171Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Park%20Hill%20Kitchens&query_place_id=ChIJb3J9h8B7bIcRHfo3sfF5H_s",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.76426895,-105.06013260999227,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 14,
+      "isAdvertisement": false,
+      "kgmid": "/g/11xn3jptvn"
+    },
+    {
+      "title": "The Spice & Curry Kitchen Indian and Nepali Cuisine",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "810 Vallejo St, Denver, CO 80204",
+      "neighborhood": "Central",
+      "street": "810 Vallejo St",
+      "city": "Denver",
+      "postalCode": "80204",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "http://www.spicekitchendenver.com/",
+      "phone": "(720) 971-0027",
+      "phoneUnformatted": "+17209710027",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.7297273,
+        "lng": -105.0126435
+      },
+      "totalScore": 4.3,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJS-0DHsN_bIcREQHvxUTn_9w",
+      "categories": ["Shared-use commercial kitchen", "Restaurant"],
+      "fid": "0x876c7fc31e03ed4b:0xdcffe744c5ef0111",
+      "cid": "15924701089969930513",
+      "reviewsCount": 11,
+      "imagesCount": 16,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T03:52:27.171Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM to 12 AM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 12 AM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 12 AM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 12 AM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 12 AM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 12 AM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM to 12 AM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking garage": true
+          },
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Spice%20%26%20Curry%20Kitchen%20Indian%20and%20Nepali%20Cuisine&query_place_id=ChIJS-0DHsN_bIcREQHvxUTn_9w",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.76426895,-105.06013260999227,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 18,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNspCQWrsVaL0lVWp8z-_cqXjG-SyJkVo2Ia2-P=w428-h240-k-no",
+      "kgmid": "/g/11vslnw3jw"
+    },
+    {
+      "title": "ProtoTaste",
+      "price": null,
+      "categoryName": "Trailer rental service",
+      "address": "3600 E 40th Ave, Denver, CO 80205",
+      "neighborhood": "Clayton",
+      "street": "3600 E 40th Ave",
+      "city": "Denver",
+      "postalCode": "80205",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "https://prototaste.com/",
+      "phone": "(720) 295-8639",
+      "phoneUnformatted": "+17202958639",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.7723084,
+        "lng": -104.9449999
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJifu-l53t3AgRhdCAGEXMJtM",
+      "categories": [
+        "Trailer rental service",
+        "Distribution service",
+        "Shared-use commercial kitchen"
+      ],
+      "fid": "0x8dced9d97befb89:0xd326cc451880d085",
+      "cid": "15215072988253704325",
+      "reviewsCount": 13,
+      "imagesCount": 6,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T03:52:27.171Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Parking": [
+          {
+            "On-site parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=ProtoTaste&query_place_id=ChIJifu-l53t3AgRhdCAGEXMJtM",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.76426895,-105.06013260999227,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 20,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNlWKUm6o8XTLgCFfFoK9YUi6Htg6VKMMVDbXh4=w408-h436-k-no",
+      "kgmid": "/g/11shp6bh90"
+    },
+    {
+      "title": "A & L Foods",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3989 Ulster St, Denver, CO 80207, United States",
+      "neighborhood": "Central Park",
+      "street": "3989 Ulster St",
+      "city": "Denver",
+      "postalCode": "80207",
+      "state": "Colorado",
+      "countryCode": "US",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 39.772622,
+        "lng": -104.8943792
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ8WwzEVF7bIcRjhddNbcum8w",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x876c7b5111336cf1:0xcc9b2eb7355d178e",
+      "cid": "14743429169536636814",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T03:52:29.574Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=A%20%26%20L%20Foods&query_place_id=ChIJ8WwzEVF7bIcRjhddNbcum8w",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.86971905350051,-104.78636166333594,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 17,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ir3b_ywQXjjv8RJG7iKx6g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=276.78107&pitch=0&thumbfov=100",
+      "kgmid": "/g/11pzhz8yx5"
+    },
+    {
+      "title": "Marczyk Culinary Center",
+      "price": null,
+      "categoryName": "Corporate office",
+      "address": "4850 E 39th Ave, Denver, CO 80207, United States",
+      "neighborhood": "Park Hill",
+      "street": "4850 E 39th Ave",
+      "city": "Denver",
+      "postalCode": "80207",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "https://marczykfinefoods.com/marczyk-culinary-center",
+      "phone": "+1 303-894-9499",
+      "phoneUnformatted": "+13038949499",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.7715538,
+        "lng": -104.9310099
+      },
+      "totalScore": 4,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJY2gYGyx7bIcRA7GW4WLu7D4",
+      "categories": [
+        "Corporate office",
+        "Bakery",
+        "Shared-use commercial kitchen"
+      ],
+      "fid": "0x876c7b2c1b186863:0x3eecee62e196b103",
+      "cid": "4534261033314201859",
+      "reviewsCount": 4,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T03:52:36.748Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Marczyk%20Culinary%20Center&query_place_id=ChIJY2gYGyx7bIcRA7GW4WLu7D4",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.76426895,-104.9232471366641,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 17,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ciTLGeDzhnSEq24Z9jAhyQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=274.93326&pitch=0&thumbfov=100",
+      "kgmid": "/g/11q24lgnzm"
+    },
+    {
+      "title": "Grid Collaborative Workspace",
+      "price": null,
+      "categoryName": "Coworking space",
+      "address": "445 Broadway, Denver, CO 80203",
+      "neighborhood": "Baker",
+      "street": "445 Broadway",
+      "city": "Denver",
+      "postalCode": "80203",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "https://connectatgrid.com/denver/?utm_campaign=gmb&utm_medium=gmb&utm_source=google",
+      "phone": "(720) 637-5427",
+      "phoneUnformatted": "+17206375427",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.7234789,
+        "lng": -104.9877365
+      },
+      "totalScore": 4.6,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ-5GgLyd_bIcR8VOwy2gbLHI",
+      "categories": ["Coworking space"],
+      "fid": "0x876c7f272fa091fb:0x722c1b68cbb053f1",
+      "cid": "8226980756206932977",
+      "reviewsCount": 65,
+      "imagesCount": 179,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T03:52:44.719Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Grid%20Collaborative%20Workspace&query_place_id=ChIJ-5GgLyd_bIcR8VOwy2gbLHI",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.72984675,-105.01638,13.62388375463287z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 19,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNis6Pz1TCRBcNSKbyiKuuDEY5URxDq6wkLus8Q=w408-h272-k-no",
+      "kgmid": "/g/11c6t7rcf9"
+    }
+  ]
+}

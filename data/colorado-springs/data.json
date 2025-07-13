@@ -1,0 +1,526 @@
+{
+  "state": "CO",
+  "kitchens": [
+    {
+      "title": "Chefs Kitchen",
+      "price": null,
+      "categoryName": "Manufacturer",
+      "address": "1753 S 8th St, Colorado Springs, CO 80905",
+      "neighborhood": null,
+      "street": "1753 S 8th St",
+      "city": "Colorado Springs",
+      "postalCode": "80905",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "https://www.chefskitchencos.com/",
+      "phone": "(719) 650-0530",
+      "phoneUnformatted": "+17196500530",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 38.8069521,
+        "lng": -104.8395792
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJTUPkfZJFE4cReRqE2elv0Xg",
+      "categories": ["Manufacturer"],
+      "fid": "0x871345927de4434d:0x78d16fe9d9841a79",
+      "cid": "8705862604851255929",
+      "reviewsCount": 14,
+      "imagesCount": 7,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:11:53.417Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Chefs%20Kitchen&query_place_id=ChIJTUPkfZJFE4cReRqE2elv0Xg",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@38.87529945,-104.62050859784036,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMzn6Z9fFe-c6fzYvlvwOIXGYhT_Suba_YyxaY=w408-h272-k-no",
+      "kgmid": "/g/11rwwhyhrs"
+    },
+    {
+      "title": "The Hive Kitchen Market",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "6628a Delmonico Dr, Colorado Springs, CO 80919",
+      "neighborhood": "Northeast Colorado Springs",
+      "street": "6628a Delmonico Dr",
+      "city": "Colorado Springs",
+      "postalCode": "80919",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "http://www.thehivekitchenmarket.com/",
+      "phone": "(719) 463-8962",
+      "phoneUnformatted": "+17194638962",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 38.9272962,
+        "lng": -104.8315073
+      },
+      "totalScore": 4.6,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ2S2UofNPE4cR9bT_1sZ52Qw",
+      "categories": ["Shared-use commercial kitchen", "Market"],
+      "fid": "0x87134ff3a1942dd9:0xcd979c6d6ffb4f5",
+      "cid": "925905093318915317",
+      "reviewsCount": 21,
+      "imagesCount": 22,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:11:53.418Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11 AM to 7 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11 AM to 7 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": false
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "On-site parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Hive%20Kitchen%20Market&query_place_id=ChIJ2S2UofNPE4cR9bT_1sZ52Qw",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@38.87529945,-104.62050859784036,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npFpRF_J1pmrwUE1KfQyr6Qpn7L-aRTDN1bG-kFWGt91ThQjZJ9GXa52uUG9YQHulqTFoWT5eZqKgoZqeTx56eOzIeq6zGTwmfL-wTTyj_KUhDOrqSp5EamnIvi9J7-19pIGy4=w408-h306-k-no",
+      "kgmid": "/g/11s3sqcnfp"
+    },
+    {
+      "title": "Moon Peppers Co.",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "6620 Delmonico Dr Suite B, Colorado Springs, CO 80919",
+      "neighborhood": "Northeast Colorado Springs",
+      "street": "6620 Delmonico Dr Suite B",
+      "city": "Colorado Springs",
+      "postalCode": "80919",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "http://www.moonpeppersco.com/",
+      "phone": "(832) 600-3690",
+      "phoneUnformatted": "+18326003690",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 38.9270849,
+        "lng": -104.8313233
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJRTvJ57hPE4cRs8BY1-bcoGU",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x87134fb8e7c93b45:0x65a0dce6d758c0b3",
+      "cid": "7323095878117933235",
+      "reviewsCount": 4,
+      "imagesCount": 7,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:11:55.655Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Moon%20Peppers%20Co.&query_place_id=ChIJRTvJ57hPE4cRs8BY1-bcoGU",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@38.87529945,-104.75737445,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 4,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqz5PIPCuLxExAfrrW18BdCaqFhaJTWByAgyTOZTHAQb8qEOYY9YHS0IPCBdwMmhUK3InODBl-62sZlhj04PpgODpkXlw8EODOY4YMs6OW9r3QmjE1RTVAq2nqNrBd9SZTC-0Fz2Q=w408-h511-k-no",
+      "kgmid": "/g/11tf828nln"
+    },
+    {
+      "title": "Five Star Food Stop",
+      "price": null,
+      "categoryName": "Ice cream shop",
+      "address": "4621 Austin Bluffs Pkwy suite A, Colorado Springs, CO 80918",
+      "neighborhood": null,
+      "street": "4621 Austin Bluffs Pkwy suite A",
+      "city": "Colorado Springs",
+      "postalCode": "80918",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "https://fivestarfoodstop.com/",
+      "phone": "(719) 465-2057",
+      "phoneUnformatted": "+17194652057",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 38.898078,
+        "lng": -104.744296
+      },
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJcYh_ZThJE4cRIT8hxc4teo0",
+      "categories": [
+        "Ice cream shop",
+        "Cupcake shop",
+        "Dessert restaurant",
+        "Dessert shop",
+        "Market",
+        "Takeout Restaurant",
+        "Mexican restaurant",
+        "Pizza Takeout",
+        "Shared-use commercial kitchen",
+        "Soup shop"
+      ],
+      "fid": "0x87134938657f8871:0x8d7a2dcec5213f21",
+      "cid": "10194511072600342305",
+      "reviewsCount": 133,
+      "imagesCount": 106,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:11:55.655Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "11 AM to 7 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Curbside pickup": true
+          },
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pickup": true
+          },
+          {
+            "In-store shopping": true
+          },
+          {
+            "Onsite services": true
+          },
+          {
+            "Takeout": true
+          },
+          {
+            "Dine-in": true
+          }
+        ],
+        "Popular for": [
+          {
+            "Solo dining": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Coffee": true
+          }
+        ],
+        "Dining options": [
+          {
+            "Seating": true
+          },
+          {
+            "Table service": false
+          }
+        ],
+        "Atmosphere": [
+          {
+            "Casual": true
+          }
+        ],
+        "Crowd": [
+          {
+            "Family-friendly": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "SNAP/EBT": true
+          }
+        ],
+        "Children": [
+          {
+            "Good for kids": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Five%20Star%20Food%20Stop&query_place_id=ChIJcYh_ZThJE4cRIT8hxc4teo0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@38.87529945,-104.75737445,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 7,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrWtDn17jWJLOeCiVrirgKWcJLb6Nhb8A5eDSusHWSk0AXbinupImtSelTG_nYfPtTBSOX3zw-MI4owv9_w4y7x_GCU_6neF8NgB-8sRoEXRcvTLoZCYNR9EdjZCBBiLiW_6iQi=w513-h240-k-no",
+      "kgmid": "/g/11s4v47662"
+    },
+    {
+      "title": "The Link Commissary",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "6620 Delmonico Dr Suite B, Colorado Springs, CO 80919",
+      "neighborhood": "Northeast Colorado Springs",
+      "street": "6620 Delmonico Dr Suite B",
+      "city": "Colorado Springs",
+      "postalCode": "80919",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "http://www.thelinkcommissary.com/",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 38.9270849,
+        "lng": -104.8313233
+      },
+      "totalScore": 5,
+      "permanentlyClosed": true,
+      "temporarilyClosed": false,
+      "placeId": "ChIJkblQmYdPE4cRjCGbw8RnEm0",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x87134f879950b991:0x6d1267c4c39b218c",
+      "cid": "7859458394507911564",
+      "reviewsCount": 3,
+      "imagesCount": 28,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:11:55.656Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Link%20Commissary&query_place_id=ChIJkblQmYdPE4cRjCGbw8RnEm0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@38.87529945,-104.75737445,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 15,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP36hlZZBcNtdJ26VvQHW2rDs0OxjzFkKbg2sdM=w408-h307-k-no",
+      "kgmid": "/g/11q3ytlx8_"
+    }
+  ]
+}

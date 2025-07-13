@@ -1,0 +1,443 @@
+{
+  "state": "CO",
+  "kitchens": [
+    {
+      "title": "Mile High Commissary",
+      "price": null,
+      "categoryName": "Manufacturer",
+      "address": "1670 Jasper St Unit H, Aurora, CO 80011",
+      "neighborhood": "Norfolk Glen",
+      "street": "1670 Jasper St Unit H",
+      "city": "Aurora",
+      "postalCode": "80011",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "https://milehighcommissary.com/",
+      "phone": "(303) 905-5184",
+      "phoneUnformatted": "+13039055184",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.7432383,
+        "lng": -104.8035193
+      },
+      "totalScore": 3.7,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJGzDwlXRjbIcRk2bDsoXM2pg",
+      "categories": ["Manufacturer"],
+      "fid": "0x876c637495f0301b:0x98dacc85b2c36693",
+      "cid": "11014340713289836179",
+      "reviewsCount": 3,
+      "imagesCount": 7,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:24:20.961Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Mile%20High%20Commissary&query_place_id=ChIJGzDwlXRjbIcRk2bDsoXM2pg",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.74636395,-104.56601666581292,15z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 9,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO1HIiY9LTv1nexWLaZK0o1FjC5Hn7ChFmhFxD-=w408-h271-k-no",
+      "kgmid": "/g/11bx1y9_vz"
+    },
+    {
+      "title": "Aurora Eatery - Aurora CloudKitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "14200 E Alameda Ave, Aurora, CO 80012",
+      "neighborhood": "City Center",
+      "street": "14200 E Alameda Ave",
+      "city": "Aurora",
+      "postalCode": "80012",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "https://cloudkitchens.com/locations/denver/aurora/?utm_source=gmb&utm_medium=organic&utm_content=AuroraEatery",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.7082577,
+        "lng": -104.823209
+      },
+      "totalScore": 2.3,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJeTPRL_djbIcRRN5VqUDSlOE",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Delivery service",
+        "Takeout Restaurant"
+      ],
+      "fid": "0x876c63f72fd13379:0xe194d240a955de44",
+      "cid": "16254848130247679556",
+      "reviewsCount": 3,
+      "imagesCount": 6,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:24:20.961Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Aurora%20Eatery%20-%20Aurora%20CloudKitchens&query_place_id=ChIJeTPRL_djbIcRRN5VqUDSlOE",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.74636395,-104.56601666581292,15z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 10,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN3OkJeHeiRSHHP7t3aZp4gRh9oVFavLQ6Bwekn=w426-h240-k-no",
+      "kgmid": "/g/11syd3m9jx"
+    },
+    {
+      "title": "La victoria incubator kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1427 Elmira St Suite B, Aurora, CO 80010",
+      "neighborhood": "Delmar Parkway",
+      "street": "1427 Elmira St Suite B",
+      "city": "Aurora",
+      "postalCode": "80010",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "https://lvincubator.com/",
+      "phone": "(720) 477-0041",
+      "phoneUnformatted": "+17204770041",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 39.7388547,
+        "lng": -104.8731812
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJJzIeV4R9bIcRDSTD6yyG84Y",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x876c7d84571e3227:0x86f3862cebc3240d",
+      "cid": "9724263547915150349",
+      "reviewsCount": 1,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:24:20.961Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "4 AM to 11 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "4 AM to 11 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "4 AM to 11 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "4 AM to 11 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "4 AM to 11 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "4 AM to 11 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "4 AM to 11 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20victoria%20incubator%20kitchen&query_place_id=ChIJJzIeV4R9bIcRDSTD6yyG84Y",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.74636395,-104.56601666581292,15z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 11,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2JKep9zlEhxvoRq-NtBZsg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=189.66107&pitch=0&thumbfov=100",
+      "kgmid": "/g/11y67b7dqy"
+    },
+    {
+      "title": "The Crazy Caterer Commissary Kitchen",
+      "price": null,
+      "categoryName": "Catering food and drink supplier",
+      "address": "15821 E Centretech Cir UNIT B, Aurora, CO 80011",
+      "neighborhood": "Centretech",
+      "street": "15821 E Centretech Cir UNIT B",
+      "city": "Aurora",
+      "postalCode": "80011",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "http://thecrazycaterer.com/",
+      "phone": "(720) 434-6135",
+      "phoneUnformatted": "+17204346135",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.7221263,
+        "lng": -104.8032388
+      },
+      "totalScore": 4.4,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJQd4e6_VjbIcRnANeGGTIfo4",
+      "categories": ["Catering food and drink supplier"],
+      "fid": "0x876c63f5eb1ede41:0x8e7ec864185e039c",
+      "cid": "10267864532682408860",
+      "reviewsCount": 7,
+      "imagesCount": 16,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:24:31.345Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Crazy%20Caterer%20Commissary%20Kitchen&query_place_id=ChIJQd4e6_VjbIcRnANeGGTIfo4",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.688999949999996,-104.6877789,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 9,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMso2tltDofSry3er8XjFQNHdGzPWo2G7gRmPWQ=w408-h544-k-no",
+      "kgmid": "/g/11fjmc3xd_"
+    },
+    {
+      "title": "Commissary Near Me",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "10941 E Colfax Ave Unit D, Aurora, CO 80010, United States",
+      "neighborhood": "North Aurora Division",
+      "street": "10941 E Colfax Ave Unit D",
+      "city": "Aurora",
+      "postalCode": "80010",
+      "state": "Colorado",
+      "countryCode": "US",
+      "website": "http://www.commissarynearme.com/",
+      "phone": "+1 720-805-2225",
+      "phoneUnformatted": "+17208052225",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.740364,
+        "lng": -104.8601925
+      },
+      "permanentlyClosed": true,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ1yogur19bIcRbdlC0e50UeU",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x876c7dbdba202ad7:0xe55174eed142d96d",
+      "cid": "16524117076860918125",
+      "reviewsCount": 0,
+      "imagesCount": 11,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:24:50.808Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Commissary%20Near%20Me&query_place_id=ChIJ1yogur19bIcRbdlC0e50UeU",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.7388547,-104.8731812,15.623695216717527z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 19,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN-UP4YbmFJWL0ppyebaKoCjj6zTHrI2ujnVlMw=w493-h240-k-no",
+      "kgmid": "/g/11rwmr8wx1"
+    }
+  ]
+}

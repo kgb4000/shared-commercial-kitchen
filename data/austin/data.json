@@ -1,0 +1,1320 @@
+{
+  "kitchens": [
+    {
+      "title": "Capital Kitchens - Shared Commercial Kitchen",
+      "price": null,
+      "categoryName": "Self-catering accommodation",
+      "address": "1606 W Stassney Ln #1, Austin, TX 78745",
+      "neighborhood": "South Manchaca",
+      "street": "1606 W Stassney Ln #1",
+      "city": "Austin",
+      "postalCode": "78745",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "http://www.capital-kitchens.com/",
+      "phone": "(512) 686-4456",
+      "phoneUnformatted": "+15126864456",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 30.2136708,
+        "lng": -97.7930876
+      },
+      "totalScore": 4.6,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ6Tyhs1FLW4YRTpP1ISo7zm8",
+      "categories": [
+        "Self-catering accommodation",
+        "Food and beverage consultant",
+        "Food processing company",
+        "Food producer",
+        "Food products supplier"
+      ],
+      "fid": "0x865b4b51b3a13ce9:0x6fce3b2a21f5934e",
+      "cid": "8056441835556803406",
+      "reviewsCount": 24,
+      "imagesCount": 42,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:17:14.952Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Capital%20Kitchens%20-%20Shared%20Commercial%20Kitchen&query_place_id=ChIJ6Tyhs1FLW4YRTpP1ISo7zm8",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@30.12586601973166,-97.6436668165556,15z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOYMFPUBmGoXr_WYB1ku_JCnDN39akTICP3OJs3=w408-h272-k-no",
+      "kgmid": "/g/1ptwlkskv"
+    },
+    {
+      "title": "GhostLine Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3400 Comsouth Dr, Austin, TX 78744",
+      "neighborhood": "McKinney",
+      "street": "3400 Comsouth Dr",
+      "city": "Austin",
+      "postalCode": "78744",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "https://ghostline.kitchen/",
+      "phone": "(512) 306-0200",
+      "phoneUnformatted": "+15123060200",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 30.21258,
+        "lng": -97.7200951
+      },
+      "totalScore": 4.1,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJE7lfRHC1RIYRpVo-b73A8YA",
+      "categories": ["Shared-use commercial kitchen", "Event venue"],
+      "fid": "0x8644b570445fb913:0x80f1c0bd6f3e5aa5",
+      "cid": "9291419426089753253",
+      "reviewsCount": 71,
+      "imagesCount": 48,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:17:14.953Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free street parking": true
+          },
+          {
+            "On-site parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=GhostLine%20Kitchens&query_place_id=ChIJE7lfRHC1RIYRpVo-b73A8YA",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@30.12586601973166,-97.6436668165556,15z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP6OqzKgRR_wgvbsL8ANcfS8GKZb1KnXe83LGPQ=w408-h272-k-no",
+      "kgmid": "/g/11mvvngcm7"
+    },
+    {
+      "title": "Commercial Kitchen Factories Austin - South Commissary",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "630 Ralph Ablanedo Dr Kitchen 6, Austin, TX 78748",
+      "neighborhood": "Dittmar-Slaughter",
+      "street": "630 Ralph Ablanedo Dr Kitchen 6",
+      "city": "Austin",
+      "postalCode": "78748",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "https://www.kitchenfactories.com/",
+      "phone": "(512) 571-0110",
+      "phoneUnformatted": "+15125710110",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 30.1744616,
+        "lng": -97.7970572
+      },
+      "totalScore": 4.2,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJV6y9MdNNW4YRVQqfEE6qOx0",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Catering food and drink supplier",
+        "Caterer",
+        "Food manufacturer",
+        "Food processing company",
+        "Food producer",
+        "Mobile caterer"
+      ],
+      "fid": "0x865b4dd331bdac57:0x1d3baa4e109f0a55",
+      "cid": "2106464502988868181",
+      "reviewsCount": 6,
+      "imagesCount": 34,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:17:14.953Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalOpeningHours": {
+        "Kitchen": [
+          {
+            "day": "Monday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Thursday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Friday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Saturday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Open 24 hours"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ],
+        "Payments": [
+          {
+            "Checks": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Paid parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Commercial%20Kitchen%20Factories%20Austin%20-%20South%20Commissary&query_place_id=ChIJV6y9MdNNW4YRVQqfEE6qOx0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@30.12586601973166,-97.6436668165556,15z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 3,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOf5n11K3vXAPSzrt_r-mkjbEqrNd8tdU1A8nwf=w408-h272-k-no",
+      "kgmid": "/g/11g1dmv0qg"
+    },
+    {
+      "title": "PREP ATX Commercial Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1300 E Anderson Ln Building D, Austin, TX 78752",
+      "neighborhood": "Heritage Hills",
+      "street": "1300 E Anderson Ln Building D",
+      "city": "Austin",
+      "postalCode": "78752",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "https://www.prepatx.com/",
+      "phone": "(512) 690-2080",
+      "phoneUnformatted": "+15126902080",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 30.3367451,
+        "lng": -97.6878883
+      },
+      "totalScore": 4.1,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ28_EnR7JRIYRP_jRppOTM3o",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Caterer",
+        "Coworking space",
+        "Food and beverage consultant",
+        "Food manufacturer",
+        "Food producer",
+        "Food products supplier"
+      ],
+      "fid": "0x8644c91e9dc4cfdb:0x7a339393a6d1f83f",
+      "cid": "8805543958807705663",
+      "reviewsCount": 29,
+      "imagesCount": 43,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:17:14.954Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=PREP%20ATX%20Commercial%20Kitchens&query_place_id=ChIJ28_EnR7JRIYRP_jRppOTM3o",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@30.12586601973166,-97.6436668165556,15z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 4,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqSdCca18UapwcqWSmLtZs9xj6KESvv_fdnH3WuF86ci_CHXX4bWtQ4VVaeJY5Val-Wd3ViHIhT_t4KWIAaivnWyrH0J7s92EPdtlb4M5mqmSyL2aTqhDg3knLC1wngaQ72hDu_wA=w408-h544-k-no",
+      "kgmid": "/g/11j0r3tcy6"
+    },
+    {
+      "title": "Manon's Shared Kitchen - Commercial Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "8309 Research Blvd Ste B, Austin, TX 78758",
+      "neighborhood": "North Austin Civic Association",
+      "street": "8309 Research Blvd Ste B",
+      "city": "Austin",
+      "postalCode": "78758",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "http://www.manonssharedkitchen.com/",
+      "phone": "(512) 587-3080",
+      "phoneUnformatted": "+15125873080",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 30.3561322,
+        "lng": -97.7148334
+      },
+      "totalScore": 4.6,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJe_LTy8jLRIYRbH4chiRudg0",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Caterer",
+        "Food manufacturer",
+        "Food processing company",
+        "Mobile caterer"
+      ],
+      "fid": "0x8644cbc8cbd3f27b:0xd766e24861c7e6c",
+      "cid": "970083872892812908",
+      "reviewsCount": 20,
+      "imagesCount": 50,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:17:14.954Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Manon's%20Shared%20Kitchen%20-%20Commercial%20Kitchen&query_place_id=ChIJe_LTy8jLRIYRbH4chiRudg0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@30.12586601973166,-97.6436668165556,15z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 5,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPagga6yTno8C7wmUo-FVoF3g4brQJlHtLNv5gH=w408-h270-k-no",
+      "kgmid": "/g/11b6nwjhcx"
+    },
+    {
+      "title": "Moonbeam Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "6319 El Mirando St, Austin, TX 78741",
+      "neighborhood": "Montopolis",
+      "street": "6319 El Mirando St",
+      "city": "Austin",
+      "postalCode": "78741",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "https://www.moonbeam.kitchen/",
+      "phone": "(512) 508-3849",
+      "phoneUnformatted": "+15125083849",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 30.2392268,
+        "lng": -97.6925228
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJOeXhzPG3RIYRc-cWXskDKm0",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8644b7f1cce1e539:0x6d2a03c95e16e773",
+      "cid": "7866103862557861747",
+      "reviewsCount": 2,
+      "imagesCount": 10,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:17:14.954Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Moonbeam%20Kitchens&query_place_id=ChIJOeXhzPG3RIYRc-cWXskDKm0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@30.12586601973166,-97.6436668165556,15z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 6,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMA4JFQb8YdbCi97P1OIWWoUTZ8isZdYPA9TRv4=w408-h281-k-no",
+      "kgmid": "/g/11tm_8ypny"
+    },
+    {
+      "title": "Wingman Kitchens",
+      "price": null,
+      "categoryName": "Coworking space",
+      "address": "1023 Springdale Rd BLDG 1 STE I, Austin, TX 78721",
+      "neighborhood": "East MLK",
+      "street": "1023 Springdale Rd BLDG 1 STE I",
+      "city": "Austin",
+      "postalCode": "78721",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "https://www.wingmankitchens.com/",
+      "phone": "(512) 710-6347",
+      "phoneUnformatted": "+15127106347",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 30.2676324,
+        "lng": -97.6939238
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJFzrophe3RIYRR6gI9gnWjIM",
+      "categories": ["Coworking space", "Shared-use commercial kitchen"],
+      "fid": "0x8644b717a6e83a17:0x838cd609f608a847",
+      "cid": "9479186653978863687",
+      "reviewsCount": 8,
+      "imagesCount": 15,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:17:14.954Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as veteran-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "On-site parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Wingman%20Kitchens&query_place_id=ChIJFzrophe3RIYRR6gI9gnWjIM",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@30.12586601973166,-97.6436668165556,15z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 7,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPQP9o2j5KiPH9QZLtzXBI4S21fzBcbjhU9Zr57=w408-h544-k-no",
+      "kgmid": "/g/11h4vv_8td"
+    },
+    {
+      "title": "Just Add Chef",
+      "price": null,
+      "categoryName": "Food and beverage consultant",
+      "address": "3505 N Interstate 35 Frontage Rd, Austin, TX 78722, United States",
+      "neighborhood": "East Austin",
+      "street": "3505 N Interstate 35 Frontage Rd",
+      "city": "Austin",
+      "postalCode": "78722",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "http://www.justaddchef.com/",
+      "phone": "+1 512-431-1157",
+      "phoneUnformatted": "+15124311157",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 30.293034,
+        "lng": -97.72017
+      },
+      "totalScore": 4.6,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ3baRtYy1RIYRmI3WU59kVf8",
+      "categories": ["Food and beverage consultant"],
+      "fid": "0x8644b58cb591b6dd:0xff55649f53d68d98",
+      "cid": "18398722488161176984",
+      "reviewsCount": 9,
+      "imagesCount": 9,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:17:28.664Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Parking": [
+          {
+            "On-site parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Just%20Add%20Chef&query_place_id=ChIJ3baRtYy1RIYRmI3WU59kVf8",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@30.24834995203544,-97.61174993276663,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 8,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq8DbME_gLi0SB4mhfWXN2ic-1dSRRkeWZZwfGyznkHUuSLqzMZ8HRvvryTTKAniiltSVs3zbQeYbebAKMZx5P6u2CJarjLcKGceg6LHM4Q9mhTsroE8zhnn9xKG9oZ7nrEqbNBzg=w408-h306-k-no",
+      "kgmid": "/g/1tsjf0nf"
+    },
+    {
+      "title": "Temporary Kitchens 123",
+      "price": null,
+      "categoryName": "Kitchen remodeler",
+      "address": "106 E 6th St #900, Austin, TX 78701, United States",
+      "neighborhood": "Downtown Austin",
+      "street": "106 E 6th St #900",
+      "city": "Austin",
+      "postalCode": "78701",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "https://bit.ly/2G9PGnF",
+      "phone": "+1 800-205-6106",
+      "phoneUnformatted": "+18002056106",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 30.2681573,
+        "lng": -97.7423917
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJDxBBF1K1RIYR7h6WSVLzvT0",
+      "categories": [
+        "Kitchen remodeler",
+        "Equipment rental agency",
+        "Portable building manufacturer",
+        "Trailer dealer",
+        "Trailer rental service"
+      ],
+      "fid": "0x8644b5521741100f:0x3dbdf35249961eee",
+      "cid": "4448979541659361006",
+      "reviewsCount": 1,
+      "imagesCount": 33,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:17:28.664Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "6 AM to 9 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6 AM to 9 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6 AM to 9 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6 AM to 9 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6 AM to 9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7 AM to 5 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7 AM to 5 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Temporary%20Kitchens%20123&query_place_id=ChIJDxBBF1K1RIYR7h6WSVLzvT0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@30.24834995203544,-97.61174993276663,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 12,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPX-_9Juu2GuXaYE1u13Q_1RKMAblXrLMQwnzn_=w408-h306-k-no",
+      "kgmid": "/g/11fgh_pwky"
+    },
+    {
+      "title": "ATX Shared Kitchen",
+      "price": null,
+      "categoryName": "Caterer",
+      "address": "8863 Anderson Mill Rd Ste 101, Austin, TX 78729, United States",
+      "neighborhood": "Springwoods",
+      "street": "8863 Anderson Mill Rd Ste 101",
+      "city": "Austin",
+      "postalCode": "78729",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "http://atxkitchenrental.com/",
+      "phone": "+1 512-534-9325",
+      "phoneUnformatted": "+15125349325",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 30.4538338,
+        "lng": -97.7726768
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJud-aQE7NRIYRCxA1m87xCE0",
+      "categories": ["Caterer"],
+      "fid": "0x8644cd4e409adfb9:0x4d08f1ce9b35100b",
+      "cid": "5550952410403639307",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:17:28.665Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=ATX%20Shared%20Kitchen&query_place_id=ChIJud-aQE7NRIYRCxA1m87xCE0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@30.24834995203544,-97.61174993276663,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 19,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9BXqXY8vbBkIMof9CvPfYA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=336.23807&pitch=0&thumbfov=100",
+      "kgmid": "/g/11t5sbszz1"
+    },
+    {
+      "title": "Mission Restaurant Supply",
+      "description": "Outfitter offering commercial-grade kitchen, restaurant & janitorial equipment, open to the public.",
+      "price": null,
+      "categoryName": "Kitchen supply store",
+      "address": "6509 N Lamar Blvd, Austin, TX 78752, United States",
+      "neighborhood": "Highland",
+      "street": "6509 N Lamar Blvd",
+      "city": "Austin",
+      "postalCode": "78752",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "http://www.missionrs.com/",
+      "phone": "+1 512-389-1705",
+      "phoneUnformatted": "+15123891705",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 30.332615,
+        "lng": -97.721374
+      },
+      "totalScore": 4.6,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJscOduUfKRIYRJKOFR5lIYFQ",
+      "categories": [
+        "Kitchen supply store",
+        "Commercial refrigerator supplier",
+        "Restaurant supply store"
+      ],
+      "fid": "0x8644ca47b99dc3b1:0x546048994785a324",
+      "cid": "6079939320117306148",
+      "reviewsCount": 78,
+      "imagesCount": 58,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:17:28.665Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Kerbside pickup": true
+          },
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pick-up": true
+          },
+          {
+            "In-store shopping": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Mission%20Restaurant%20Supply&query_place_id=ChIJscOduUfKRIYRJKOFR5lIYFQ",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@30.24834995203544,-97.61174993276663,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 20,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqc8fnPu_WIO3G6dRTDcGEReaUfxty8DlEQwmbQ9Fj6JvKTTx6E399Y9ZTxx5QrTEgOeO8ERcUmuFdw7JPPeMnw5XoAyVYrlE6bOE6fGIp2MtS7Gk1Yav63wVpLnyqRiDahG88c=w426-h240-k-no",
+      "kgmid": "/g/1thmfst3"
+    },
+    {
+      "title": "East Side King Commissary",
+      "price": null,
+      "categoryName": "Restaurant supply store",
+      "address": "7601 N Lamar Blvd, Austin, TX 78752",
+      "neighborhood": "Highland",
+      "street": "7601 N Lamar Blvd",
+      "city": "Austin",
+      "postalCode": "78752",
+      "state": "Texas",
+      "countryCode": "US",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 30.3441229,
+        "lng": -97.7139213
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ3USnAPrLRIYR-etUOG0zGZ0",
+      "categories": ["Restaurant supply store"],
+      "fid": "0x8644cbfa00a744dd:0x9d19336d3854ebf9",
+      "cid": "11320135682561993721",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:17:29.021Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=East%20Side%20King%20Commissary&query_place_id=ChIJ3USnAPrLRIYR-etUOG0zGZ0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@30.146593380268342,-97.6436668165556,15z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 17,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YwqvZgqIolf5JLFoM2VzEg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=59.597633&pitch=0&thumbfov=100",
+      "kgmid": "/g/11frnmtnhp"
+    },
+    {
+      "title": "Manon's Food Storage",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "8309 Research Blvd Ste A, Austin, TX 78758",
+      "neighborhood": "North Austin Civic Association",
+      "street": "8309 Research Blvd Ste A",
+      "city": "Austin",
+      "postalCode": "78758",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "http://manonssharedkitchen.com/",
+      "phone": "(512) 587-3080",
+      "phoneUnformatted": "+15125873080",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 30.3561322,
+        "lng": -97.7148334
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJS0yQcIPLRIYRVYXoCnn9aVw",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8644cb8370904c4b:0x5c69fd790ae88555",
+      "cid": "6659132220359869781",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:17:29.021Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Manon's%20Food%20Storage&query_place_id=ChIJS0yQcIPLRIYRVYXoCnn9aVw",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@30.146593380268342,-97.6436668165556,15z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 19,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yFnAaq8rIopoVQcAN04eJA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=102.29989&pitch=0&thumbfov=100",
+      "kgmid": "/g/11tj_9mfj3"
+    },
+    {
+      "title": "Lotz of BBQ",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3400 Comsouth Dr, Austin, TX 78744",
+      "neighborhood": "McKinney",
+      "street": "3400 Comsouth Dr",
+      "city": "Austin",
+      "postalCode": "78744",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "http://lotzofbbqtx.com/",
+      "phone": "(512) 831-7426",
+      "phoneUnformatted": "+15128317426",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 30.21258,
+        "lng": -97.7200951
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJF08jwq61RIYRSkOVSh9Rh_Y",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8644b5aec2234f17:0xf687511f4a95434a",
+      "cid": "17764256450023342922",
+      "reviewsCount": 2,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-11T06:17:56.408Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Lotz%20of%20BBQ&query_place_id=ChIJF08jwq61RIYRSkOVSh9Rh_Y",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@30.24834995203544,-97.74864755,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 15,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM_KanvZRqe4tHYqKE03HzhNKuRC_HIoUKr7nB8=w519-h240-k-no",
+      "kgmid": "/g/11x0gcdfjp"
+    }
+  ]
+}
