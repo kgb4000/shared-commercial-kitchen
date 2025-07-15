@@ -2,5 +2,14 @@
   { "city": "denver", "state": "co" },
   { "city": "colorado-springs", "state": "co" },
   { "city": "austin", "state": "tx" },
-  { "city": "miami", "state": "fl" }
+  { "city": "san-antonio", "state": "tx" },
+  { "city": "houston", "state": "tx" },
+  { "city": "cypress", "state": "tx" },
+  { "city": "pueblo", "state": "tx" },
+  { "city": "el-paso", "state": "tx" },
+  { "city": "fort-worth", "state": "tx" },
+  { "city": "dallas", "state": "tx" },
+  { "city": "los-angeles", "state": "ca" },
+  { "city": "new-york", "state": "ny" },
+  { "city": "phoenix", "state": "az" }
 ]

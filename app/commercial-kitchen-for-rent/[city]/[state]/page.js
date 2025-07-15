@@ -14,11 +14,11 @@ export async function generateMetadata({ params }) {
   const formattedCity = formatCityName(params.city)
   const formattedState = params.state.toUpperCase()
 
-  const canonicalUrl = `https://yourdomain.com/commercial-kitchen-for-rent/${params.city}/${params.state}`
+  const canonicalUrl = `https://sharedkitchenlocator.com/commercial-kitchen-for-rent/${params.city}/${params.state}`
 
   return {
-    title: `Commercial Kitchens for Rent in ${formattedCity}, ${formattedState}`,
-    description: `Browse shared-use and commissary kitchens in ${formattedCity}, ${formattedState}. Verified listings, flexible pricing.`,
+    title: `Shared-Use Commercial Kitchens for Rent in ${formattedCity}, ${formattedState} | Rent a Kitchen Today!`,
+    description: `Find shared-use, commissary, and ghost kitchens in ${formattedCity}, ${formattedState}. Verified listings, flexible pricing.`,
     alternates: {
       canonical: canonicalUrl,
     },

@@ -1,0 +1,824 @@
+{
+  "state": "AZ",
+  "city": "Phoenix",
+  "kitchens": [
+    {
+      "title": "NT Kitchen",
+      "price": null,
+      "categoryName": "Food manufacturer",
+      "address": "1620 S 16th St, Phoenix, AZ 85034",
+      "neighborhood": "Central City",
+      "street": "1620 S 16th St",
+      "city": "Phoenix",
+      "postalCode": "85034",
+      "state": "Arizona",
+      "countryCode": "US",
+      "website": "https://ntkitchenaz.com/",
+      "phone": "(602) 315-7447",
+      "phoneUnformatted": "+16023157447",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 33.4321267,
+        "lng": -112.0482196
+      },
+      "totalScore": 4.4,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJG1It--ERK4cRX55LpPAhZZg",
+      "categories": ["Food manufacturer", "Food processing company"],
+      "fid": "0x872b11e1fb2d521b:0x986521f0a44b9e5f",
+      "cid": "10981220583845109343",
+      "reviewsCount": 20,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T13:32:03.986Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=NT%20Kitchen&query_place_id=ChIJG1It--ERK4cRX55LpPAhZZg",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@33.43140312424732,-111.9884260694482,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MXW75-BHhysMmUpRgGx7Ug&cb_client=search.gws-prod.gps&w=408&h=240&yaw=140.89146&pitch=0&thumbfov=100",
+      "kgmid": "/g/11bw82khr2"
+    },
+    {
+      "title": "Scratch Catering Commissary Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "2601 S 24th St, Phoenix, AZ 85034",
+      "neighborhood": "Central City",
+      "street": "2601 S 24th St",
+      "city": "Phoenix",
+      "postalCode": "85034",
+      "state": "Arizona",
+      "countryCode": "US",
+      "website": "http://www.sckitchenaz.com/",
+      "phone": "(602) 321-8867",
+      "phoneUnformatted": "+16023218867",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.4235968,
+        "lng": -112.0300315
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJX8u80s8PK4cRWPVRj8vFFis",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x872b0fcfd2bccb5f:0x2b16c5cb8f51f558",
+      "cid": "3104886471192081752",
+      "reviewsCount": 5,
+      "imagesCount": 4,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T13:32:03.986Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Scratch%20Catering%20Commissary%20Kitchen&query_place_id=ChIJX8u80s8PK4cRWPVRj8vFFis",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@33.43140312424732,-111.9884260694482,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 3,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrWtWM6TkDn-XF_Uf7r2Sv-gfgSMaMtZTurzzKFp9obxC6HZ4VdX0GC2_Zyb9G15jhxrXHD5QWsPjUVPt5oDwTikIlF0gaQRwoo5djZ7On80zKGmc3wuSQlhmXYVfkO7EOAlvVb=w513-h240-k-no",
+      "kgmid": "/g/11v0cw3xt0"
+    },
+    {
+      "title": "Phoenix Commercial Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "12020 S Warner Elliot Loop Suite 112, Phoenix, AZ 85044",
+      "neighborhood": "Ahwatukee",
+      "street": "12020 S Warner Elliot Loop Suite 112",
+      "city": "Phoenix",
+      "postalCode": "85044",
+      "state": "Arizona",
+      "countryCode": "US",
+      "website": "http://www.phoenixcommercialkitchen.com/",
+      "phone": "(602) 759-7995",
+      "phoneUnformatted": "+16027597995",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.3374683,
+        "lng": -111.994494
+      },
+      "totalScore": 4,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJdX7dwDkFK4cRF7VQhM7SlQ4",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x872b0539c0dd7e75:0xe95d2ce8450b517",
+      "cid": "1050977872485856535",
+      "reviewsCount": 1,
+      "imagesCount": 4,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T13:32:03.987Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Phoenix%20Commercial%20Kitchen&query_place_id=ChIJdX7dwDkFK4cRF7VQhM7SlQ4",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@33.43140312424732,-111.9884260694482,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 4,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMgplCdTaM45Mj3f0_TlpxRcWpWYzbS0LpKSSyp=w408-h306-k-no",
+      "kgmid": "/g/11jn_tq18b"
+    },
+    {
+      "title": "B L T Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "739 E Dunlap Ave, Phoenix, AZ 85020",
+      "neighborhood": "North Mountain Village",
+      "street": "739 E Dunlap Ave",
+      "city": "Phoenix",
+      "postalCode": "85020",
+      "state": "Arizona",
+      "countryCode": "US",
+      "website": "https://bltkitchens.com/",
+      "phone": "(602) 887-9544",
+      "phoneUnformatted": "+16028879544",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.5675192,
+        "lng": -112.0636466
+      },
+      "totalScore": 4.3,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJpZA3laZtK4cRhT98fnZdkHU",
+      "categories": ["Shared-use commercial kitchen", "Food manufacturer"],
+      "fid": "0x872b6da6953790a5:0x75905d767e7c3f85",
+      "cid": "8471373662593499013",
+      "reviewsCount": 23,
+      "imagesCount": 26,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T13:32:03.987Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=B%20L%20T%20Kitchens&query_place_id=ChIJpZA3laZtK4cRhT98fnZdkHU",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@33.43140312424732,-111.9884260694482,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 6,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMzR7X6GymV7o7P1Qald_LV0kUFHiXuUfUowCO-=w408-h306-k-no",
+      "kgmid": "/g/11frs75bmx"
+    },
+    {
+      "title": "Jackson Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "910 W Jackson St, Phoenix, AZ 85007",
+      "neighborhood": "Governmental Mall",
+      "street": "910 W Jackson St",
+      "city": "Phoenix",
+      "postalCode": "85007",
+      "state": "Arizona",
+      "countryCode": "US",
+      "website": "https://www.makerkitchens.com/",
+      "phone": "(617) 233-1965",
+      "phoneUnformatted": "+16172331965",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.4453002,
+        "lng": -112.0852793
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ_4kWYkITK4cRBoTZuyQYtlU",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x872b1342621689ff:0x55b61824bbd98406",
+      "cid": "6176150485034697734",
+      "reviewsCount": 0,
+      "imagesCount": 5,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T13:32:03.987Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Jackson%20Kitchens&query_place_id=ChIJ_4kWYkITK4cRBoTZuyQYtlU",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@33.43140312424732,-111.9884260694482,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 7,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPJC7_zgFe7m3G771UxLPCxacPTflJkjpf9e4ZJ=w408-h272-k-no",
+      "kgmid": "/g/11vdv0f94z"
+    },
+    {
+      "title": "PrepOne Shared Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "15414 N 19th Ave Suite O, Phoenix, AZ 85023",
+      "neighborhood": "Sierra Prieta Estates",
+      "street": "15414 N 19th Ave Suite O",
+      "city": "Phoenix",
+      "postalCode": "85023",
+      "state": "Arizona",
+      "countryCode": "US",
+      "website": "http://www.preponekitchen.com/",
+      "phone": "(404) 281-9146",
+      "phoneUnformatted": "+14042819146",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 33.6259032,
+        "lng": -112.1001269
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJfcToAsJvK4cRs-KMena4meI",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x872b6fc202e8c47d:0xe299b8767a8ce2b3",
+      "cid": "16328284743010149043",
+      "reviewsCount": 6,
+      "imagesCount": 4,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T13:32:03.987Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "12 to 7 AM, 8 AM to 12 AM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "12 to 7 AM, 8 AM to 12 AM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "12 to 7 AM, 8 AM to 12 AM"
+        },
+        {
+          "day": "Friday",
+          "hours": "12 to 7 AM, 8 AM to 12 AM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "12 to 7 AM, 8 AM to 12 AM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "12 to 7 AM, 8 AM to 12 AM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": false
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=PrepOne%20Shared%20Kitchen&query_place_id=ChIJfcToAsJvK4cRs-KMena4meI",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@33.43140312424732,-111.9884260694482,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 8,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nplZej_Jm55G7N3U3T6wAoOAg6IdAOVV2b5Xpq86dv6yY6X1G4F8heGsc6M2hw2aqYupaZmJa16gkbe-2EZ53pOX7VqhxVZdMZSUf3c1oDrfld2sDNeVaCynN-S4mytEEkJF0okbQ=w426-h240-k-no",
+      "kgmid": "/g/11v5tp2p09"
+    },
+    {
+      "title": "Highland Food Hub - Highland CloudKitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "720 W Highland Ave, Phoenix, AZ 85013",
+      "neighborhood": "Alhambra",
+      "street": "720 W Highland Ave",
+      "city": "Phoenix",
+      "postalCode": "85013",
+      "state": "Arizona",
+      "countryCode": "US",
+      "website": "https://cloudkitchens.com/locations/phoenix/midtown/",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 33.506052,
+        "lng": -112.0837327
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJTSgJvi4TK4cRzmsCB-YlZ3Q",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x872b132ebe09284d:0x746725e607026bce",
+      "cid": "8387714500891143118",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T13:32:03.987Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8 AM to 8 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM to 8 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM to 8 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM to 8 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM to 8 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Highland%20Food%20Hub%20-%20Highland%20CloudKitchens&query_place_id=ChIJTSgJvi4TK4cRzmsCB-YlZ3Q",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@33.43140312424732,-111.9884260694482,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 11,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6z9oZs2k2mYjqa3dx1vr3A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=319.5944&pitch=0&thumbfov=100",
+      "kgmid": "/g/11ryrl6rys"
+    },
+    {
+      "title": "Muscular Moving Men and Storage",
+      "price": null,
+      "categoryName": "Mover",
+      "address": "77 N 45th Ave Suite 1, Phoenix, AZ 85043",
+      "neighborhood": "Estrella Village",
+      "street": "77 N 45th Ave Suite 1",
+      "city": "Phoenix",
+      "postalCode": "85043",
+      "state": "Arizona",
+      "countryCode": "US",
+      "website": "https://muscularmovingmen.com/?utm_source=gmb&utm_medium=organic&utm_campaign=listing&utm_content=ave_phoenix",
+      "phone": "(480) 470-2359",
+      "phoneUnformatted": "+14804702359",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.4496022,
+        "lng": -112.1543854
+      },
+      "totalScore": 4.5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJbyk69WcVK4cRl-V-zkFnBn4",
+      "categories": [
+        "Mover",
+        "Delivery service",
+        "Logistics service",
+        "Moving and storage service",
+        "Moving supply store",
+        "Packaging company",
+        "Packaging supply store",
+        "Piano moving service",
+        "Storage facility",
+        "Warehouse"
+      ],
+      "fid": "0x872b1567f53a296f:0x7e066741ce7ee597",
+      "cid": "9081059230974141847",
+      "reviewsCount": 30,
+      "reviewsDistribution": {
+        "oneStar": 1,
+        "twoStar": 3,
+        "threeStar": 0,
+        "fourStar": 1,
+        "fiveStar": 25
+      },
+      "imagesCount": 11,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T13:32:09.909Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "7 AM to 6 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7 AM to 6 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7 AM to 6 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7 AM to 6 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7 AM to 6 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8 AM to 4 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Online estimates": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Muscular%20Moving%20Men%20and%20Storage&query_place_id=ChIJbyk69WcVK4cRl-V-zkFnBn4",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@33.43140312424732,-112.26140803055179,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 21,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOUg2iHmxolBli5fBRJO39I9VhQE-cKP_oEqQtk=w427-h240-k-no",
+      "kgmid": "/g/11qq0hdvww"
+    },
+    {
+      "title": "CoFam",
+      "price": null,
+      "categoryName": "Caterer",
+      "address": "3775 N 36th Ave, Phoenix, AZ 85009",
+      "neighborhood": "Payne Industrial District",
+      "street": "3775 N 36th Ave",
+      "city": "Phoenix",
+      "postalCode": "85009",
+      "state": "Arizona",
+      "countryCode": "US",
+      "phone": "(602) 725-5193",
+      "phoneUnformatted": "+16027255193",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 33.4911135,
+        "lng": -112.1366214
+      },
+      "totalScore": 4.7,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ-QOe_HsTK4cR40_Sw5WTdkg",
+      "categories": ["Caterer"],
+      "fid": "0x872b137bfc9e03f9:0x48769395c3d24fe3",
+      "cid": "5221523089427419107",
+      "reviewsCount": 10,
+      "imagesCount": 4,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T13:32:15.862Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=CoFam&query_place_id=ChIJ-QOe_HsTK4cR40_Sw5WTdkg",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@33.545495808082435,-112.26140803055179,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 9,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZNv7uk7MDEpv3pkXWiQxYvQqpvz2nV1YYDIzx9oYfJcQdbtcAMfHsUTVV9uFz3fcbLPssStCd5sy6WCS869wLEp0nIVYui3REH0gjsESQZkSaN0dQGYCc7ml_fhksaghgojqF=w408-h544-k-no",
+      "kgmid": "/g/11bw2hnycf"
+    }
+  ]
+}

@@ -1,0 +1,4762 @@
+{
+  "state": "ny",
+  "city": "New York",
+  "kitchens": [
+    {
+      "title": "Essential Kitchen Co",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "149-18 Guy R Brewer Blvd, Jamaica, NY 11434",
+      "neighborhood": "Jamaica",
+      "street": "149-18 Guy R Brewer Blvd",
+      "city": "Jamaica",
+      "postalCode": "11434",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "https://www.essentialkitchen.org/",
+      "phone": "(646) 818-4301",
+      "phoneUnformatted": "+16468184301",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.657755,
+        "lng": -73.767845
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJo5Mc4a1nwokR7nRa-E5xqj0",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c267ade11c93a3:0x3daa714ef85a74ee",
+      "cid": "4443488566342481134",
+      "reviewsCount": 7,
+      "imagesCount": 12,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.882Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Essential%20Kitchen%20Co&query_place_id=ChIJo5Mc4a1nwokR7nRa-E5xqj0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.59321488768417,-73.70638644734598,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM1Y16xOANQCEEyiyNsl7YnHihGN546Yln5PyhT=w408-h306-k-no",
+      "kgmid": "/g/11smdp80ht"
+    },
+    {
+      "title": "e.terra Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "2191 3rd Ave 3rd floor, New York, NY 10035",
+      "neighborhood": "Manhattan",
+      "street": "2191 3rd Ave 3rd floor",
+      "city": "New York",
+      "postalCode": "10035",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://www.eterrakitchen.com/",
+      "phone": "(866) 383-7721",
+      "phoneUnformatted": "+18663837721",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.8000547,
+        "lng": -73.9381979
+      },
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJq4PC7WL3wokRPfNOaZoE8oI",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c2f762edc283ab:0x82f2049a694ef33d",
+      "cid": "9435609230532866877",
+      "reviewsCount": 45,
+      "imagesCount": 128,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.883Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=e.terra%20Kitchen&query_place_id=ChIJq4PC7WL3wokRPfNOaZoE8oI",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.59321488768417,-73.70638644734598,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPv5nEFvslW1V-mr8V7Z7huIc0O3n5HljlIiuxD=w408-h272-k-no",
+      "kgmid": "/g/11r9c4cc9f"
+    },
+    {
+      "title": "e.terra Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1580 Park Ave Kitchen 3, New York, NY 10029",
+      "neighborhood": "Manhattan",
+      "street": "1580 Park Ave Kitchen 3",
+      "city": "New York",
+      "postalCode": "10029",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://eterrakitchen.com/",
+      "phone": "(866) 383-7721",
+      "phoneUnformatted": "+18663837721",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.7975484,
+        "lng": -73.9450395
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJsaeAX4v3wokRQSda1577AVo",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c2f78b5f80a7b1:0x5a01fb9ed75a2741",
+      "cid": "6485741598026639169",
+      "reviewsCount": 1,
+      "imagesCount": 14,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.884Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=e.terra%20Kitchen&query_place_id=ChIJsaeAX4v3wokRQSda1577AVo",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.59321488768417,-73.70638644734598,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 3,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPw2pi8T9CRGDl3DYUw3mSvg_cvRcKSv-34SONN=w408-h306-k-no",
+      "kgmid": "/g/11k9_r42nj"
+    },
+    {
+      "title": "Cook Collective Kitchen - Shared Kitchens for Rent",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "999 Atlantic Ave, Brooklyn, NY 11238",
+      "neighborhood": "Clinton Hill",
+      "street": "999 Atlantic Ave",
+      "city": "Brooklyn",
+      "postalCode": "11238",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://cookcollectivekitchen.com/",
+      "phone": "(718) 500-0285",
+      "phoneUnformatted": "+17185000285",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.6802328,
+        "lng": -73.9591725
+      },
+      "totalScore": 4,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ6ZFM_stbwokRgvMylwu3wfc",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c25bcbfe4c91e9:0xf7c1b70b9732f382",
+      "cid": "17852751658282578818",
+      "reviewsCount": 3,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.884Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Cook%20Collective%20Kitchen%20-%20Shared%20Kitchens%20for%20Rent&query_place_id=ChIJ6ZFM_stbwokRgvMylwu3wfc",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.59321488768417,-73.70638644734598,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 4,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Y93PRHnmteJrlPTP9pkAQQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=342.13275&pitch=0&thumbfov=100",
+      "kgmid": "/g/11hz__wv_0"
+    },
+    {
+      "title": "Nimbus Lower East Side",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "196 Stanton St, New York, NY 10002",
+      "neighborhood": "Manhattan",
+      "street": "196 Stanton St",
+      "city": "New York",
+      "postalCode": "10002",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://www.nimbuskitchen.com/",
+      "phone": "(646) 718-3475",
+      "phoneUnformatted": "+16467183475",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.7199799,
+        "lng": -73.9830948
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJxcVGQnFZwokRasvQe9qJ7hA",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Event venue",
+        "Restaurant"
+      ],
+      "fid": "0x89c259714246c5c5:0x10ee89da7bd0cb6a",
+      "cid": "1220064120537140074",
+      "reviewsCount": 36,
+      "imagesCount": 34,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.884Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "6 AM to 10 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Nimbus%20Lower%20East%20Side&query_place_id=ChIJxcVGQnFZwokRasvQe9qJ7hA",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.59321488768417,-73.70638644734598,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 6,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMVWW3fU2k-ydMzgJ-S9OP8d1Ua1qk0I_71BMRU=w408-h271-k-no",
+      "kgmid": "/g/11jkd4kvxy"
+    },
+    {
+      "title": "Bed-Stuy Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "217 Pulaski St, Brooklyn, NY 11206",
+      "neighborhood": "Bedford-Stuyvesant",
+      "street": "217 Pulaski St",
+      "city": "Brooklyn",
+      "postalCode": "11206",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://www.bedstuykitchen.com/formmap",
+      "phone": "(347) 915-0439",
+      "phoneUnformatted": "+13479150439",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 40.6932382,
+        "lng": -73.9426345
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJtUTYj_NbwokRUGyztRXI3YQ",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c25bf38fd844b5:0x84ddc815b5b36c50",
+      "cid": "9574028378427845712",
+      "reviewsCount": 1,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.884Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Bed-Stuy%20Kitchen&query_place_id=ChIJtUTYj_NbwokRUGyztRXI3YQ",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.59321488768417,-73.70638644734598,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 7,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U3X6vk3XjjojzAFY42XHdA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=94.9289&pitch=0&thumbfov=100",
+      "kgmid": "/g/11d_784vty"
+    },
+    {
+      "title": "Milk Money Kitchens Inc.",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "172 E 106th St, New York, NY 10029",
+      "neighborhood": "Manhattan",
+      "street": "172 E 106th St",
+      "city": "New York",
+      "postalCode": "10029",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "https://www.milkmoneykitchens.com/",
+      "phone": "(917) 364-7053",
+      "phoneUnformatted": "+19173647053",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.7916278,
+        "lng": -73.945421
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJo77kZeH3wokRqpZ8NWJNsKw",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c2f7e165e4bea3:0xacb04d62357c96aa",
+      "cid": "12443530854624171690",
+      "reviewsCount": 1,
+      "imagesCount": 24,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.884Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as Asian-owned": true
+          },
+          {
+            "Identifies as veteran-owned": true
+          },
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Delivery": false
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free street parking": true
+          },
+          {
+            "Paid street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Milk%20Money%20Kitchens%20Inc.&query_place_id=ChIJo77kZeH3wokRqpZ8NWJNsKw",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.59321488768417,-73.70638644734598,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 9,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN3MWcVxXZmBL_I0wg_lHoJYzAyZurpyUOWp4TM=w408-h544-k-no",
+      "kgmid": "/g/11v_0qq_b1"
+    },
+    {
+      "title": "NKR Commerical Kitchen & Refrigeration",
+      "price": null,
+      "categoryName": "Establishment",
+      "address": "218 W 37th St 5th Floor, New York, NY 10018",
+      "neighborhood": "Manhattan",
+      "street": "218 W 37th St 5th Floor",
+      "city": "New York",
+      "postalCode": "10018",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "https://nyccommericalkitchenrefigerationservices.com/",
+      "phone": "(800) 798-1350",
+      "phoneUnformatted": "+18007981350",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.7531007,
+        "lng": -73.99028
+      },
+      "totalScore": 4.8,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJObsTE-VZwokRgJascOs7yqc",
+      "categories": [
+        "Establishment",
+        "Commercial refrigerator supplier",
+        "Refrigerator repair service",
+        "Shared-use commercial kitchen"
+      ],
+      "fid": "0x89c259e51313bb39:0xa7ca3beb70ac9680",
+      "cid": "12090542032023230080",
+      "reviewsCount": 32,
+      "imagesCount": 25,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.885Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=NKR%20Commerical%20Kitchen%20%26%20Refrigeration&query_place_id=ChIJObsTE-VZwokRgJascOs7yqc",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.59321488768417,-73.70638644734598,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 11,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOs7zjLfMLioLwuL4A5b6FpG-aYIjW04CMWUoKv=w430-h240-k-no",
+      "kgmid": "/g/11k4ng2kzg"
+    },
+    {
+      "title": "Nimbus Downtown Brooklyn",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "383 Bridge St, Brooklyn, NY 11201",
+      "neighborhood": "Downtown Brooklyn",
+      "street": "383 Bridge St",
+      "city": "Brooklyn",
+      "postalCode": "11201",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://www.nimbuskitchen.com/",
+      "phone": "(646) 718-3475",
+      "phoneUnformatted": "+16467183475",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.6917479,
+        "lng": -73.985035
+      },
+      "totalScore": 4.7,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJe9HZ4WNbwokRDPKXARkVjfw",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c25b63e1d9d17b:0xfc8d15190197f20c",
+      "cid": "18198224866419143180",
+      "reviewsCount": 51,
+      "imagesCount": 46,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.885Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "6 AM to 10 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": false
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Paid street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Nimbus%20Downtown%20Brooklyn&query_place_id=ChIJe9HZ4WNbwokRDPKXARkVjfw",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.59321488768417,-73.70638644734598,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 12,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOWrsqBzgS6jJ3pdPzDRoYkclyjqofG8a-mVPfj=w408-h272-k-no",
+      "kgmid": "/g/11p5ndw3l7"
+    },
+    {
+      "title": "Foodio Space",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "49 Wyckoff Ave, Brooklyn, NY 11237",
+      "neighborhood": "Bushwick",
+      "street": "49 Wyckoff Ave",
+      "city": "Brooklyn",
+      "postalCode": "11237",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "https://www.foodio.space/",
+      "phone": "(347) 315-0035",
+      "phoneUnformatted": "+13473150035",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.706009,
+        "lng": -73.9215154
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJG23dmqNdwokRMe-_LaepPZs",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c25da39add6d1b:0x9b3da9a72dbfef31",
+      "cid": "11186283584950366001",
+      "reviewsCount": 0,
+      "imagesCount": 4,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.885Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Foodio%20Space&query_place_id=ChIJG23dmqNdwokRMe-_LaepPZs",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.59321488768417,-73.70638644734598,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 13,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOlHMXAOPa8jvps4H98iOtq-vyVHLmDzKBV-h83=w408-h306-k-no",
+      "kgmid": "/g/11vys0fyng"
+    },
+    {
+      "title": "Cypress Hills Community Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "276 Chestnut St, Brooklyn, NY 11208",
+      "neighborhood": "Cypress Hills",
+      "street": "276 Chestnut St",
+      "city": "Brooklyn",
+      "postalCode": "11208",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "https://www.cypresshills.org/communitykitchen",
+      "phone": "(929) 481-7566",
+      "phoneUnformatted": "+19294817566",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.6810858,
+        "lng": -73.8751109
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJfe1mbhVdwokRCMI7ey8n2R0",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c25d156e66ed7d:0x1dd9272f7b3bc208",
+      "cid": "2150793381930582536",
+      "reviewsCount": 0,
+      "imagesCount": 8,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.885Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 9 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 9 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 9 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 9 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Cypress%20Hills%20Community%20Kitchen&query_place_id=ChIJfe1mbhVdwokRCMI7ey8n2R0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.59321488768417,-73.70638644734598,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 14,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPNNaPF09RkccxD9u6pC22mDCoWq-et0eeIghlc=w408-h314-k-no",
+      "kgmid": "/g/11vs38vnyx"
+    },
+    {
+      "title": "Bronx CookSpace",
+      "price": null,
+      "categoryName": "Food machinery supplier",
+      "address": "50 E 168th St, Bronx, NY 10452",
+      "neighborhood": "Concourse",
+      "street": "50 E 168th St",
+      "city": "Bronx",
+      "postalCode": "10452",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://www.bronxcookspace.org/",
+      "phone": "(718) 839-1105",
+      "phoneUnformatted": "+17188391105",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.8364755,
+        "lng": -73.9190552
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJDwjM5AT1wokRqNzFGXETEew",
+      "categories": [
+        "Food machinery supplier",
+        "Bakery",
+        "Catering food and drink supplier",
+        "Food manufacturer",
+        "Food producer"
+      ],
+      "fid": "0x89c2f504e4cc080f:0xec11137119c5dca8",
+      "cid": "17010398644039703720",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.914Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Bronx%20CookSpace&query_place_id=ChIJDwjM5AT1wokRqNzFGXETEew",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.80099311231582,-73.84296222367298,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 9,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nGayTefZOSNlUHvdKJS-rQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=200.34909&pitch=0&thumbfov=100",
+      "kgmid": "/g/11f7r2_fp2"
+    },
+    {
+      "title": "The Entrepreneur Space",
+      "price": null,
+      "categoryName": "Business development service",
+      "address": "36-46 37th St, Long Island City, NY 11101",
+      "neighborhood": "Long Island City",
+      "street": "36-46 37th St",
+      "city": "Long Island City",
+      "postalCode": "11101",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://entrepreneurspace.org/",
+      "phone": "(718) 392-0025",
+      "phoneUnformatted": "+17183920025",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.7532039,
+        "lng": -73.9260856
+      },
+      "totalScore": 4.6,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJIzhrPi9fwokRK1cGBwCHuT4",
+      "categories": [
+        "Business development service",
+        "Food and beverage consultant",
+        "Office space rental agency"
+      ],
+      "fid": "0x89c25f2f3e6b3823:0x3eb987000706572b",
+      "cid": "4519792135230609195",
+      "reviewsCount": 34,
+      "imagesCount": 23,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.914Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalOpeningHours": {
+        "Kitchen": [
+          {
+            "day": "Monday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Thursday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Friday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Saturday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Open 24 hours"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Entrepreneur%20Space&query_place_id=ChIJIzhrPi9fwokRK1cGBwCHuT4",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.80099311231582,-73.84296222367298,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 11,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqUCHpadROCLO_EtUA3bNYDBD-HZ3e6AHyx56GlCBbiruMnZQDgo2qBc5DiPINy-jXZsp5M63Esz1Qq9urqxqceSs-qaS5eKcH7-ms2r5bCJdQRfP-YvKEqFgYrvJ7iPzuw_Cvcsw=w408-h270-k-no",
+      "kgmid": "/g/1w4vkvqy"
+    },
+    {
+      "title": "Even Tinier Drumsticks, Inc.",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "41-28 37th St, Long Island City, NY 11101",
+      "neighborhood": "Long Island City",
+      "street": "41-28 37th St",
+      "city": "Long Island City",
+      "postalCode": "11101",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "https://www.tinydrumsticks.com/",
+      "phone": "(917) 526-3263",
+      "phoneUnformatted": "+19175263263",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.7466079,
+        "lng": -73.9277457
+      },
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJZXeBJkNfwokRT0SDdpuvdV4",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c25f4326817765:0x5e75af9b7683444f",
+      "cid": "6806539494083478607",
+      "reviewsCount": 8,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.914Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Even%20Tinier%20Drumsticks%2C%20Inc.&query_place_id=ChIJZXeBJkNfwokRT0SDdpuvdV4",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.80099311231582,-73.84296222367298,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 14,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ENLaxhSRsjRhQDAwf-A9WA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=268.93576&pitch=0&thumbfov=100",
+      "kgmid": "/g/11j1sql0vb"
+    },
+    {
+      "title": "Nimbus SoHo",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "30 Vandam St, New York, NY 10013",
+      "neighborhood": "Manhattan",
+      "street": "30 Vandam St",
+      "city": "New York",
+      "postalCode": "10013",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "https://nimbuskitchen.com/",
+      "phone": "(646) 718-3475",
+      "phoneUnformatted": "+16467183475",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.7261367,
+        "lng": -74.0049941
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ3_sGXJVZwokRMfeh_gTok9E",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c259955c06fbdf:0xd193e804fea1f731",
+      "cid": "15101669083652945713",
+      "reviewsCount": 5,
+      "imagesCount": 10,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.914Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "6 AM to 10 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Nimbus%20SoHo&query_place_id=ChIJ3_sGXJVZwokRMfeh_gTok9E",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.80099311231582,-73.84296222367298,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 17,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPDjxBzYWM5J02zX7JnOJrf9pyYbFEIyM7Njgvx=w408-h272-k-no",
+      "kgmid": "/g/11l2cd27v9"
+    },
+    {
+      "title": "Nimbus Midtown",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "307 W 38th St, New York, NY 10018",
+      "neighborhood": "Manhattan",
+      "street": "307 W 38th St",
+      "city": "New York",
+      "postalCode": "10018",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "https://nimbuskitchen.com/",
+      "phone": "(646) 718-3475",
+      "phoneUnformatted": "+16467183475",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.7551445,
+        "lng": -73.9923253
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJwZN_s0BZwokRQjWqS11LlZA",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c25940b37f93c1:0x90954b5d4baa3542",
+      "cid": "10418316177064998210",
+      "reviewsCount": 9,
+      "imagesCount": 8,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.914Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "6 AM to 10 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Nimbus%20Midtown&query_place_id=ChIJwZN_s0BZwokRQjWqS11LlZA",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.80099311231582,-73.84296222367298,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 19,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNyW5Wigwv-3CXsJ9wrvT7xzQ669D23oi_f4hLI=w408-h272-k-no",
+      "kgmid": "/g/11vb7vzk40"
+    },
+    {
+      "title": "NY Commercial Kitchen",
+      "price": null,
+      "categoryName": "School",
+      "address": "85-27 91st St, Woodhaven, NY 11421",
+      "neighborhood": "Woodhaven",
+      "street": "85-27 91st St",
+      "city": "Woodhaven",
+      "postalCode": "11421",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://nyccommercialkitchen.com/",
+      "phone": "(212) 470-2207",
+      "phoneUnformatted": "+12124702207",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 40.6957872,
+        "lng": -73.8542655
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJi-xF9aJdwokR64R1ba4iBhk",
+      "categories": ["School"],
+      "fid": "0x89c25da2f545ec8b:0x190622ae6d7584eb",
+      "cid": "1803166833364534507",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.914Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=NY%20Commercial%20Kitchen&query_place_id=ChIJi-xF9aJdwokR64R1ba4iBhk",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.80099311231582,-73.84296222367298,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 20,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vlZ7eEBm2LuslMO5jl0caw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=84.47841&pitch=0&thumbfov=100",
+      "kgmid": "/g/11g2whvzkj"
+    },
+    {
+      "title": "Customers Kitchen & Bath (CK&B)",
+      "description": "Spacious showroom offers kitchen & bathroom counters, tiles & cabinets, plus design services.",
+      "price": null,
+      "categoryName": "Kitchen supply store",
+      "address": "252-02 Rockaway Blvd, Rosedale, NY 11422",
+      "neighborhood": "Rosedale",
+      "street": "252-02 Rockaway Blvd",
+      "city": "Rosedale",
+      "postalCode": "11422",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://www.customerskb.com/",
+      "phone": "(718) 276-3111",
+      "phoneUnformatted": "+17182763111",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.636575,
+        "lng": -73.740836
+      },
+      "totalScore": 4.6,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ98unYNFlwokRNUWpzE88wqI",
+      "categories": [
+        "Kitchen supply store",
+        "Bathroom remodeler",
+        "Bathroom supply store",
+        "Kitchen furniture store",
+        "Kitchen remodeler",
+        "Cabinet store"
+      ],
+      "fid": "0x89c265d160a7cbf7:0xa2c23c4fcca94535",
+      "cid": "11728002693059921205",
+      "reviewsCount": 131,
+      "reviewsDistribution": {
+        "oneStar": 5,
+        "twoStar": 5,
+        "threeStar": 3,
+        "fourStar": 9,
+        "fiveStar": 109
+      },
+      "imagesCount": 253,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:44.756Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 6:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 6:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 6:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 6:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 6:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9:30 AM to 5:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "12 to 5 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Small business": true
+          }
+        ],
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "Same-day delivery": false
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "On-site parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Customers%20Kitchen%20%26%20Bath%20(CK%26B)&query_place_id=ChIJ98unYNFlwokRNUWpzE88wqI",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.59321488768417,-73.70638644734598,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 21,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npaWOBFmfLseG3wKOdsmDp-bXeLpk4xsQxzkXwyT3ETA7iEjNIOuw6Kus6HRewD-dASlnQ74R_xl3ql-EfrRWcRfx3aVnyfsrj8apWq2-SRYc02gXnS0fTPW5OGDdTcL0vpB6xZ=w408-h243-k-no",
+      "kgmid": "/g/1tjrqx57"
+    },
+    {
+      "title": "Mi Kitchen es su Kitchen",
+      "price": null,
+      "categoryName": "Educational consultant",
+      "address": "370 E 76th St, New York, NY 10021",
+      "neighborhood": "Manhattan",
+      "street": "370 E 76th St",
+      "city": "New York",
+      "postalCode": "10021",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://www.mikitchenessukitchen.com/",
+      "phone": "(212) 452-1866",
+      "phoneUnformatted": "+12124521866",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.7704513,
+        "lng": -73.9548752
+      },
+      "totalScore": 3,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJB9Xjo8BYwokRFx0z_0atgEs",
+      "categories": ["Educational consultant", "Kitchen remodeler"],
+      "fid": "0x89c258c0a3e3d507:0x4b80ad46ff331d17",
+      "cid": "5440538870304414999",
+      "reviewsCount": 1,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:46.461Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Online classes": true
+          },
+          {
+            "Onsite services": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Mi%20Kitchen%20es%20su%20Kitchen&query_place_id=ChIJB9Xjo8BYwokRFx0z_0atgEs",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.80099311231582,-73.97953799999999,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 15,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jbck82mO0doBqepw3U0H3Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=237.68188&pitch=0&thumbfov=100",
+      "kgmid": "/g/11bwl3tr_0"
+    },
+    {
+      "title": "Portable Provisions",
+      "price": null,
+      "categoryName": "Caterer",
+      "address": "220 E 81st St, New York, NY 10028",
+      "neighborhood": "Manhattan",
+      "street": "220 E 81st St",
+      "city": "New York",
+      "postalCode": "10028",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://www.portableprovisions.com/",
+      "phone": "(646) 494-3104",
+      "phoneUnformatted": "+16464943104",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.7750669,
+        "lng": -73.9554603
+      },
+      "totalScore": 4.8,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJb683jrhZwokRGABUsK69kqs",
+      "categories": [
+        "Caterer",
+        "Event venue",
+        "Restaurant",
+        "Shared-use commercial kitchen"
+      ],
+      "fid": "0x89c259b88e37af6f:0xab92bdaeb0540018",
+      "cid": "12363152485065687064",
+      "reviewsCount": 23,
+      "imagesCount": 20,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:46.461Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 12 AM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 12 AM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 12 AM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 12 AM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 12 AM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM to 12 AM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9 AM to 12 AM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "No-contact delivery": true
+          },
+          {
+            "Delivery": true
+          },
+          {
+            "Takeout": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Portable%20Provisions&query_place_id=ChIJb683jrhZwokRGABUsK69kqs",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.80099311231582,-73.97953799999999,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 17,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNUmbLJZddf9DHK0RDX-NtMEmj_DfOS4sbnEPtZ=w408-h478-k-no",
+      "kgmid": "/g/11qmbf3r1v"
+    },
+    {
+      "title": "Coney Island Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "2334 Coney Island Ave, Brooklyn, NY 11223, United States",
+      "neighborhood": "Sheepshead Bay",
+      "street": "2334 Coney Island Ave",
+      "city": "Brooklyn",
+      "postalCode": "11223",
+      "state": "New York",
+      "countryCode": "US",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 40.600026,
+        "lng": -73.9616751
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJI35BQABFwokRRbtf250GVMI",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c2450040417e23:0xc254069ddb5fbb45",
+      "cid": "14002824416461830981",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:48.955Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Coney%20Island%20Kitchens&query_place_id=ChIJI35BQABFwokRRbtf250GVMI",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.48932577536834,-73.84296222367298,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 15,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mHbULRyfXg3hCi0H3AQsBg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=265.8118&pitch=0&thumbfov=100",
+      "kgmid": "/g/11md1cw2hb"
+    },
+    {
+      "title": "Costco Wholesale",
+      "description": "Members-only warehouse selling a huge variety of items including bulk groceries, electronics & more.",
+      "price": "$",
+      "categoryName": "Warehouse store",
+      "address": "2975 Richmond Ave, Staten Island, NY 10314",
+      "neighborhood": "Mid Island",
+      "street": "2975 Richmond Ave",
+      "city": "Staten Island",
+      "postalCode": "10314",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "https://www.costco.com/warehouse-locations/staten-island-NY-316.html?utm_term=KW&utm_campaign=Homepage&utm_medium=GMB&utm_source=Google&utm_content=Link",
+      "phone": "(718) 982-9525",
+      "phoneUnformatted": "+17189829525",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.5728124,
+        "lng": -74.1687686
+      },
+      "locatedIn": "Costco Bakery",
+      "totalScore": 4.4,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJp9WCbJ1LwokR4VvISncl0rw",
+      "categories": ["Warehouse store", "Department store"],
+      "fid": "0x89c24b9d6c82d5a7:0xbcd225774ac85be1",
+      "cid": "13605978618525670369",
+      "reviewsCount": 6469,
+      "reviewsDistribution": {
+        "oneStar": 322,
+        "twoStar": 134,
+        "threeStar": 458,
+        "fourStar": 1458,
+        "fiveStar": 4097
+      },
+      "imagesCount": 3640,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:35:07.370Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM to 8:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 8:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 8:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 8:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 8:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9:30 AM to 7 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM to 6 PM"
+        }
+      ],
+      "additionalOpeningHours": {
+        "Costco Bakery": [
+          {
+            "day": "Monday",
+            "hours": "10 AM–8:30 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "10 AM–8:30 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "10 AM–8:30 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "10 AM–8:30 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "10 AM–8:30 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "9:30 AM–6 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "10 AM–6 PM"
+          }
+        ],
+        "Costco Food Court": [
+          {
+            "day": "Monday",
+            "hours": "10 AM–8:30 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "10 AM–8:30 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "10 AM–8:30 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "10 AM–8:30 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "10 AM–8:30 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "9:30 AM–7 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "10 AM–6 PM"
+          }
+        ],
+        "Costco Gas Station": [
+          {
+            "day": "Monday",
+            "hours": "6 AM–10 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "6 AM–10 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "6 AM–10 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "6 AM–10 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "6 AM–10 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "6 AM–8:30 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "6 AM–7:30 PM"
+          }
+        ],
+        "Costco Hearing Aid Center": [
+          {
+            "day": "Monday",
+            "hours": "10 AM–6 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "10 AM–6 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "10 AM–6 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "10 AM–6 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "10 AM–6 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "10 AM–6 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Closed"
+          }
+        ],
+        "Costco Optical Department": [
+          {
+            "day": "Monday",
+            "hours": "10 AM–8:30 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "10 AM–8:30 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "10 AM–8:30 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "10 AM–8:30 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "10 AM–8:30 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "9:30 AM–7 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "10 AM–6 PM"
+          }
+        ],
+        "Costco Pharmacy": [
+          {
+            "day": "Monday",
+            "hours": "9 AM–7 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "9 AM–7 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "9 AM–7 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "9 AM–7 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "9 AM–7 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "9 AM–6 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Closed"
+          }
+        ],
+        "Costco Tire Service Center": [
+          {
+            "day": "Monday",
+            "hours": "10 AM–8:30 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "10 AM–8:30 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "10 AM–8:30 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "10 AM–8:30 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "10 AM–8:30 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "9:30 AM–7 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "10 AM–6 PM"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pickup": true
+          },
+          {
+            "In-store shopping": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointment required": true
+          },
+          {
+            "Membership required": true
+          }
+        ],
+        "Recycling": [
+          {
+            "Light bulbs": true
+          },
+          {
+            "Metal cans": true
+          },
+          {
+            "Plastic bottles": true
+          }
+        ],
+        "Payments": [
+          {
+            "Checks": true
+          },
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "SNAP/EBT": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "On-site parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Costco%20Wholesale&query_place_id=ChIJp9WCbJ1LwokR4VvISncl0rw",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.59321488768417,-74.252689552654,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 23,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nodM6kkTJIFJKTlxk-oQDu_5vGO2TfnCPYYldLF0pdzNXT-feoHrpjV7WUNSumxLVXyTJ-18MSOjAU8yUPR6qr5eVh48117lQbaYolmH-sRNxh4D9loO9TY6-2360mHfvtqWJSG=w408-h306-k-no",
+      "kgmid": "/g/1tcy9tfj"
+    },
+    {
+      "title": "Target",
+      "description": "Retail chain offering home goods, clothing, electronics & more, plus exclusive designer collections.",
+      "price": "$$",
+      "categoryName": "Department store",
+      "address": "2873 Richmond Ave, Staten Island, NY 10314",
+      "neighborhood": "Mid Island",
+      "street": "2873 Richmond Ave",
+      "city": "Staten Island",
+      "postalCode": "10314",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "https://www.target.com/sl/staten-island-cntl/2753",
+      "phone": "(917) 791-5851",
+      "phoneUnformatted": "+19177915851",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.5748084,
+        "lng": -74.1667899
+      },
+      "locatedIn": "CVS Pharmacy",
+      "totalScore": 3.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJsyIZaoJLwokRJaJveZQLkLg",
+      "categories": [
+        "Department store",
+        "Baby store",
+        "Clothing store",
+        "Electronics store",
+        "Furniture store",
+        "Home goods store",
+        "Office supply store",
+        "Outdoor furniture store",
+        "Shoe store",
+        "Toy store"
+      ],
+      "fid": "0x89c24b826a1922b3:0xb8900b94796fa225",
+      "cid": "13299142431945499173",
+      "reviewsCount": 921,
+      "reviewsDistribution": {
+        "oneStar": 150,
+        "twoStar": 35,
+        "threeStar": 82,
+        "fourStar": 176,
+        "fiveStar": 478
+      },
+      "imagesCount": 850,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:35:07.371Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8 AM to 11 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM to 11 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM to 11 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM to 11 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM to 11 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8 AM to 11 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8 AM to 11 PM"
+        }
+      ],
+      "additionalOpeningHours": {
+        "CVS Pharmacy": [
+          {
+            "day": "Monday",
+            "hours": "10 AM–1:30 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "10 AM–1:30 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "10 AM–1:30 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "10 AM–1:30 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "10 AM–1:30 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "12–5 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Closed"
+          }
+        ],
+        "Target Grocery": [
+          {
+            "day": "Monday",
+            "hours": "8 AM–11 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "8 AM–11 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "8 AM–11 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "8 AM–11 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "8 AM–11 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "8 AM–11 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "8 AM–11 PM"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Curbside pickup": true
+          },
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pickup": true
+          },
+          {
+            "In-store shopping": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Flowers": true
+          },
+          {
+            "Pharmacy": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Restroom": true
+          },
+          {
+            "Wi-Fi": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Recycling": [
+          {
+            "Electronics": true
+          },
+          {
+            "Glass bottles": true
+          },
+          {
+            "Ink cartridges": true
+          },
+          {
+            "Metal cans": true
+          },
+          {
+            "Plastic bags": true
+          }
+        ],
+        "Payments": [
+          {
+            "Checks": true
+          },
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "SNAP/EBT": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "On-site parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Target&query_place_id=ChIJsyIZaoJLwokRJaJveZQLkLg",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.59321488768417,-74.252689552654,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 25,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4now5sCgmyHRsE48Z8BSo_kOLf4j2gm-eE3vkPJbQ1mQa4LVB-Nkb7xFcj2BVlzyu_CjtRNqkORpDyp7rBAvI0VDhqzqDQzteJFWoSL2j06PRrOLG_THJd2K-P0-MWCH_pnElpV8=w408-h306-k-no",
+      "kgmid": "/g/11bbrjh0yf"
+    },
+    {
+      "title": "Sani Building Corp",
+      "price": null,
+      "categoryName": "General contractor",
+      "address": "2954 Brighton 12th St, Brooklyn, NY 11235",
+      "neighborhood": "Brighton Beach",
+      "street": "2954 Brighton 12th St",
+      "city": "Brooklyn",
+      "postalCode": "11235",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "https://www.sanibuildingcorp.com/",
+      "phone": "(347) 902-8788",
+      "phoneUnformatted": "+13479028788",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.5808755,
+        "lng": -73.956225
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJUxOQnjaAFEERe1f-fXdcXpo",
+      "categories": [
+        "General contractor",
+        "Bathroom remodeler",
+        "Carpenter",
+        "Construction company",
+        "Deck builder",
+        "Handyman/Handywoman/Handyperson",
+        "Interior construction contractor",
+        "Kitchen remodeler",
+        "Painter",
+        "Wood floor refinishing service"
+      ],
+      "fid": "0x411480369e901353:0x9a5e5c777dfe577b",
+      "cid": "11123429797936387963",
+      "reviewsCount": 42,
+      "reviewsDistribution": {
+        "oneStar": 0,
+        "twoStar": 0,
+        "threeStar": 0,
+        "fourStar": 0,
+        "fiveStar": 42
+      },
+      "imagesCount": 90,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:35:25.240Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Online estimates": true
+          },
+          {
+            "Onsite services": true
+          },
+          {
+            "American Sign Language": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Sani%20Building%20Corp&query_place_id=ChIJUxOQnjaAFEERe1f-fXdcXpo",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.59321488768417,-73.84296222367298,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 21,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM9sd2geGO-QcmPC9iRmL-TOxmHkLClFNts0Cfo=w408-h408-k-no",
+      "kgmid": "/g/11ks4m43_p"
+    },
+    {
+      "title": "IMPERIO UNIDO TOWNECRAFT HOMEWARES DISTRIBUIDORES INDEPENDIENTES",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1765 Westchester Ave, Bronx, NY 10472",
+      "neighborhood": "East Bronx",
+      "street": "1765 Westchester Ave",
+      "city": "Bronx",
+      "postalCode": "10472",
+      "state": "New York",
+      "countryCode": "US",
+      "phone": "(203) 907-7772",
+      "phoneUnformatted": "+12039077772",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.8317093,
+        "lng": -73.8679716
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJfxViSMr1wokRCvhTRLcoHB8",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c2f5ca4862157f:0x1f1c28b74453f80a",
+      "cid": "2241711482114144266",
+      "reviewsCount": 1,
+      "imagesCount": 73,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:35:31.243Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "7 AM to 10 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7 AM to 10 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7 AM to 10 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7 AM to 10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7 AM to 10 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7 AM to 10 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=IMPERIO%20UNIDO%20TOWNECRAFT%20HOMEWARES%20DISTRIBUIDORES%20INDEPENDIENTES&query_place_id=ChIJfxViSMr1wokRCvhTRLcoHB8",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.8364755,-73.9190552,13.600265612482508z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 20,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPdqFHuYBcybu8n9teMmdHrFQ__NvIeG11pBwg_=w408-h544-k-no",
+      "kgmid": "/g/11ksbcxpn1"
+    },
+    {
+      "title": "Sistaz Cakes",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "105 W 125th St, New York, NY 10027",
+      "neighborhood": "Manhattan",
+      "street": "105 W 125th St",
+      "city": "New York",
+      "postalCode": "10027",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://sistazcakes.com/",
+      "phone": "(929) 432-8960",
+      "phoneUnformatted": "+19294328960",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.8082529,
+        "lng": -73.9459433
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJw7osJ1H3wokR1nUY12FGkas",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c2f751272cbac3:0xab914661d71875d6",
+      "cid": "12362739838143198678",
+      "reviewsCount": 0,
+      "imagesCount": 37,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:35:31.870Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9:30 AM to 8 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9:30 AM to 8 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9:30 AM to 8 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9:30 AM to 8 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9:30 AM to 8 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10:30 AM to 7:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Sistaz%20Cakes&query_place_id=ChIJw7osJ1H3wokR1nUY12FGkas",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.8364755,-73.9190552,13.600265612482508z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 23,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMguxFQILm_6cMSvYJHuIe931cdJAv7LYZlomaA=w408-h426-k-no",
+      "kgmid": "/g/11v_4f67p_"
+    },
+    {
+      "title": "Ajrin Construction Inc.",
+      "price": null,
+      "categoryName": "Construction company",
+      "address": "2475 Tiebout Ave Apt. A22, Bronx, NY 10458",
+      "neighborhood": "Fordham Heights",
+      "street": "2475 Tiebout Ave Apt. A22",
+      "city": "Bronx",
+      "postalCode": "10458",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "https://www.ajrinconstruction.com/",
+      "phone": "(347) 827-5656",
+      "phoneUnformatted": "+13478275656",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.861311,
+        "lng": -73.895451
+      },
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJf6Y-V4fzwokRiJgMS-gXlrU",
+      "categories": [
+        "Construction company",
+        "Bathroom remodeler",
+        "Cabinet maker",
+        "Interior construction contractor",
+        "Interior designer",
+        "Kitchen remodeler",
+        "Painter",
+        "Roofing contractor",
+        "Stucco contractor",
+        "Waterproofing service"
+      ],
+      "fid": "0x89c2f387573ea67f:0xb59617e84b0c9888",
+      "cid": "13084672053830523016",
+      "reviewsCount": 73,
+      "reviewsDistribution": {
+        "oneStar": 1,
+        "twoStar": 0,
+        "threeStar": 0,
+        "fourStar": 1,
+        "fiveStar": 71
+      },
+      "imagesCount": 203,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:35:35.722Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8 AM to 10 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM to 10 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM to 10 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM to 10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM to 10 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8 AM to 10 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8 AM to 10 PM"
+        }
+      ],
+      "additionalOpeningHours": {
+        "Access": [
+          {
+            "day": "Monday",
+            "hours": "8 AM–10 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "8 AM–10 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "8 AM–10 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "8 AM–10 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "8 AM–10 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "8 AM–10 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "8 AM–10 PM"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Online estimates": true
+          },
+          {
+            "Onsite services": true
+          },
+          {
+            "American Sign Language": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Assistive hearing loop": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Parking": [
+          {
+            "Paid street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Ajrin%20Construction%20Inc.&query_place_id=ChIJf6Y-V4fzwokRiJgMS-gXlrU",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.90488222463165,-73.84296222367298,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 22,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNF1EbqjLY6G3WhrjgGRw3dIwSuK4s7oVOxR59N=w408-h306-k-no",
+      "kgmid": "/g/11g6z0hlms"
+    },
+    {
+      "title": "Shared Online Kitchens, Inc.",
+      "price": null,
+      "categoryName": "Real estate agency",
+      "address": "205 E 42nd St, New York, NY 10017, United States",
+      "neighborhood": "Manhattan",
+      "street": "205 E 42nd St",
+      "city": "New York",
+      "postalCode": "10017",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://sharedcloudkitchens.com/",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 40.7507849,
+        "lng": -73.9736235
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJK_wIBQNZwokRp8hplnKCUAk",
+      "categories": ["Real estate agency"],
+      "fid": "0x89c259030508fc2b:0x95082729669c8a7",
+      "cid": "671179773139601575",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:35:37.968Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Shared%20Online%20Kitchens%2C%20Inc.&query_place_id=ChIJK_wIBQNZwokRp8hplnKCUAk",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.7532039,-73.9260856,13.602075158588038z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 27,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DFTdfOtrx-MebYOw1z9XXQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=27.94691&pitch=0&thumbfov=100",
+      "kgmid": "/g/11n1083ywv"
+    },
+    {
+      "title": "S & P Restaurant Supplies",
+      "price": null,
+      "categoryName": "Restaurant supply store",
+      "address": "36-13 Ditmars Blvd, Astoria, NY 11105, United States",
+      "neighborhood": "Astoria",
+      "street": "36-13 Ditmars Blvd",
+      "city": "Astoria",
+      "postalCode": "11105",
+      "state": "New York",
+      "countryCode": "US",
+      "phone": "+1 718-440-8198",
+      "phoneUnformatted": "+17184408198",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.7742411,
+        "lng": -73.9076663
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJZScjg_FfwokRpYgGTLJuE40",
+      "categories": ["Restaurant supply store"],
+      "fid": "0x89c25ff183232765:0x8d136eb24c0688a5",
+      "cid": "10165590495964072101",
+      "reviewsCount": 134,
+      "reviewsDistribution": {
+        "oneStar": 0,
+        "twoStar": 0,
+        "threeStar": 0,
+        "fourStar": 1,
+        "fiveStar": 133
+      },
+      "imagesCount": 100,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:35:37.968Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 7 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 7 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 7 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 7 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 7 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM to 6 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Small Business": true
+          }
+        ],
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "In-store shopping": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Paid street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=S%20%26%20P%20Restaurant%20Supplies&query_place_id=ChIJZScjg_FfwokRpYgGTLJuE40",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.7532039,-73.9260856,13.602075158588038z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 28,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMUeByUqMHb3Sb0GKJJ4zQNdAq3L7ylyhiz0vb6=w426-h240-k-no",
+      "kgmid": "/g/11s99v_k92"
+    },
+    {
+      "title": "Sur La Table",
+      "description": "Chain retailer for a variety of upscale cooking & dining supplies, plus home decor.",
+      "price": "€€€",
+      "categoryName": "Kitchen supply store",
+      "address": "306 W 57th St, New York, NY 10019, United States",
+      "neighborhood": "Manhattan",
+      "street": "306 W 57th St",
+      "city": "New York",
+      "postalCode": "10019",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "https://www.surlatable.com/locations/ny/newyork/store-102.html",
+      "phone": "+1 212-574-8334",
+      "phoneUnformatted": "+12125748334",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.76676,
+        "lng": -73.9836556
+      },
+      "totalScore": 3.7,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJB97qelhYwokRE26JuEOERVM",
+      "categories": [
+        "Kitchen supply store",
+        "Baking supply store",
+        "Cooking class",
+        "Culinary school",
+        "Cutlery store"
+      ],
+      "fid": "0x89c258587aeade07:0x53458443b8896e13",
+      "cid": "6000347504934743571",
+      "reviewsCount": 264,
+      "reviewsDistribution": {
+        "oneStar": 74,
+        "twoStar": 10,
+        "threeStar": 7,
+        "fourStar": 16,
+        "fiveStar": 157
+      },
+      "imagesCount": 748,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:35:37.968Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM to 9 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 9 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 9 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 9 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 9 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "11 AM to 7 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pick-up": true
+          },
+          {
+            "In-store shopping": true
+          },
+          {
+            "On-site services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible entrance": true
+          },
+          {
+            "Wheelchair-accessible car park": false
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Sur%20La%20Table&query_place_id=ChIJB97qelhYwokRE26JuEOERVM",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.7532039,-73.9260856,13.602075158588038z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 29,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5SOwtW56EzhU0EMs-LowAVQJgh4g-g78SSddzZK02mtCl9IJJo9vKX00FWbq9Qu5MAmvgqDd3T5fyU4-Q00xQc_OQmGT9-LNWWtQwykqiKTLTDrfO2GQ-yecXxQ3i1fw3Zqk=w408-h306-k-no",
+      "kgmid": "/g/1hc0_0wzd"
+    },
+    {
+      "title": "WORKVILLE - Flexible NYC Office & Meeting Spaces",
+      "price": null,
+      "categoryName": "Coworking space",
+      "address": "1412 Broadway 21st Floor, New York, NY 10018, United States",
+      "neighborhood": "Manhattan",
+      "street": "1412 Broadway 21st Floor",
+      "city": "New York",
+      "postalCode": "10018",
+      "state": "NY",
+      "countryCode": "US",
+      "website": "https://www.workvillenyc.com/",
+      "phone": "+1 646-257-5537",
+      "phoneUnformatted": "+16462575537",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.753615,
+        "lng": -73.9865612
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJuwEPBatZwokRo8ED9iGT9cQ",
+      "categories": [
+        "Coworking space",
+        "Conference center",
+        "Event venue",
+        "Executive suite rental agency",
+        "Meeting planning service",
+        "Office space rental agency"
+      ],
+      "fid": "0x89c259ab050f01bb:0xc4f59321f603c1a3",
+      "cid": "14192411574798631331",
+      "reviewsCount": 359,
+      "reviewsDistribution": {
+        "oneStar": 1,
+        "twoStar": 0,
+        "threeStar": 0,
+        "fourStar": 10,
+        "fiveStar": 348
+      },
+      "imagesCount": 153,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:35:37.968Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "On-site services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible entrance": true
+          },
+          {
+            "Wheelchair-accessible seating": true
+          },
+          {
+            "Wheelchair-accessible toilet": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=WORKVILLE%20-%20Flexible%20NYC%20Office%20%26%20Meeting%20Spaces&query_place_id=ChIJuwEPBatZwokRo8ED9iGT9cQ",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.7532039,-73.9260856,13.602075158588038z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 30,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOxnKKBvdFwkt5PSS-T5igsrPQD79lKDHXtfTRq=w408-h272-k-no",
+      "kgmid": "/g/11cmsj2scj"
+    },
+    {
+      "title": "Kommissary",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "36-31 33rd St, Long Island City, NY 11106, United States",
+      "neighborhood": "Long Island City",
+      "street": "36-31 33rd St",
+      "city": "Long Island City",
+      "postalCode": "11106",
+      "state": "New York",
+      "countryCode": "US",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 40.7547312,
+        "lng": -73.9287274
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJwauSLwBfwokRnaPiQOH3wlk",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c25f002f92abc1:0x59c2f7e140e2a39d",
+      "cid": "6468004561685750685",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:35:37.968Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Kommissary&query_place_id=ChIJwauSLwBfwokRnaPiQOH3wlk",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.7532039,-73.9260856,13.602075158588038z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 31,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U1dt7NBVSNKAHNbyNtlF9g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=90.84522&pitch=0&thumbfov=100",
+      "kgmid": "/g/11y7d2c5c9"
+    },
+    {
+      "title": "Ahimsa Express",
+      "price": "€€",
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "204 E 38th St, New York, NY 10016, United States",
+      "neighborhood": "Manhattan",
+      "street": "204 E 38th St",
+      "city": "New York",
+      "postalCode": "10016",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://www.ahimsaexpress.com/",
+      "phone": "+1 646-300-9080",
+      "phoneUnformatted": "+16463009080",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.7478055,
+        "lng": -73.9759295
+      },
+      "totalScore": 3.5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJFTKcwp9fwokRjz4JSvkY8F8",
+      "categories": ["Shared-use commercial kitchen", "Indian takeaway"],
+      "fid": "0x89c25f9fc29c3215:0x5ff018f94a093e8f",
+      "cid": "6913052886981754511",
+      "reviewsCount": 8,
+      "reviewsDistribution": {
+        "oneStar": 2,
+        "twoStar": 1,
+        "threeStar": 0,
+        "fourStar": 1,
+        "fiveStar": 4
+      },
+      "imagesCount": 27,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:35:37.968Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "11 AM to 9:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11 AM to 9:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11 AM to 9:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11 AM to 9:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11 AM to 9:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "11 AM to 9:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "11 AM to 9:30 PM"
+        }
+      ],
+      "additionalOpeningHours": {
+        "Delivery": [
+          {
+            "day": "Monday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Thursday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Friday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Saturday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Sunday",
+            "hours": "11 am–9:30 pm"
+          }
+        ],
+        "Takeout": [
+          {
+            "day": "Monday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Thursday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Friday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Saturday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Sunday",
+            "hours": "11 am–9:30 pm"
+          }
+        ],
+        "Pickup": [
+          {
+            "day": "Monday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Thursday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Friday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Saturday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Sunday",
+            "hours": "10 am–9:30 pm"
+          }
+        ],
+        "Access": [
+          {
+            "day": "Monday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Thursday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Friday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Saturday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Sunday",
+            "hours": "11 am–9:30 pm"
+          }
+        ],
+        "Kitchen": [
+          {
+            "day": "Monday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Thursday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Friday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Saturday",
+            "hours": "11 am–9:30 pm"
+          },
+          {
+            "day": "Sunday",
+            "hours": "11 am–9:30 pm"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as Asian-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible entrance": true
+          },
+          {
+            "Assistive hearing loop": false
+          },
+          {
+            "Wheelchair-accessible car park": false
+          },
+          {
+            "Wheelchair-accessible seating": false
+          },
+          {
+            "Wheelchair-accessible toilet": false
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral toilets": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Paid multi-storey car park": true
+          },
+          {
+            "Paid parking lot": true
+          },
+          {
+            "Paid street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Ahimsa%20Express&query_place_id=ChIJFTKcwp9fwokRjz4JSvkY8F8",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.7532039,-73.9260856,13.602075158588038z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 32,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrOQtTMFNZCFgycLCj-UtfhhOr8cXmZlER6QISBIFcbxNpBCRUAfxkkAb-D3G6ge3rTDyEJeCj0LGzipmC_JMAQKASuWknuzl0PUYpdMwr-ADMMhxdy7S9UZGT_Pj2PIRPLcrglLA0MAC_W=w408-h306-k-no",
+      "kgmid": "/g/11y1f8skp4"
+    },
+    {
+      "title": "Direct Kitchen Equipment",
+      "price": null,
+      "categoryName": "Restaurant supply store",
+      "address": "1100 Coney Island Ave, Brooklyn, NY 11230",
+      "neighborhood": "Midwood",
+      "street": "1100 Coney Island Ave",
+      "city": "Brooklyn",
+      "postalCode": "11230",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "https://directkitchenequip.com/",
+      "phone": "(347) 587-7488",
+      "phoneUnformatted": "+13475877488",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.630773,
+        "lng": -73.966537
+      },
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJSV45acxEwokRSanl1oLYU0Q",
+      "categories": [
+        "Restaurant supply store",
+        "Bakery equipment",
+        "Bar restaurant furniture store",
+        "Commercial refrigerator supplier",
+        "Equipment supplier",
+        "Gyro restaurant",
+        "Kitchen supply store"
+      ],
+      "fid": "0x89c244cc69395e49:0x4453d882d6e5a949",
+      "cid": "4923516874108807497",
+      "reviewsCount": 93,
+      "imagesCount": 71,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:35:39.254Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9:30 AM to 5:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9:30 AM to 5:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9:30 AM to 5:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9:30 AM to 5:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9:30 AM to 4 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Small business": true
+          }
+        ],
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pickup": true
+          },
+          {
+            "In-store shopping": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Checks": true
+          },
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Direct%20Kitchen%20Equipment&query_place_id=ChIJSV45acxEwokRSanl1oLYU0Q",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.6957872,-73.8542655,13.603319766946175z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 20,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOXq_5vLlPaWYfDlrRG0sw00n_K0JRQBcj5BAMK=w493-h240-k-no",
+      "kgmid": "/g/11dztwsw2d"
+    },
+    {
+      "title": "Prep Kitchen LLC",
+      "price": null,
+      "categoryName": "Food",
+      "address": "18 Extra Pl, New York, NY 10003",
+      "neighborhood": "Manhattan",
+      "street": "18 Extra Pl",
+      "city": "New York",
+      "postalCode": "10003",
+      "state": "New York",
+      "countryCode": "US",
+      "phone": "(212) 529-2500",
+      "phoneUnformatted": "+12125292500",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 40.7244522,
+        "lng": -73.9917735
+      },
+      "totalScore": 4.2,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ0zr6-YRZwokRWdnvdsSwOw4",
+      "categories": ["Food", "Food and drink"],
+      "fid": "0x89c25984f9fa3ad3:0xe3bb0c476efd959",
+      "cid": "1025607698012428633",
+      "reviewsCount": 5,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:35:45.538Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8 AM to 5:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM to 5:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM to 5:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM to 5:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM to 5:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible parking lot": false
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Prep%20Kitchen%20LLC&query_place_id=ChIJ0zr6-YRZwokRWdnvdsSwOw4",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.7365403,-73.9866874,13.602436631383853z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 12,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jLz8Ffy2kEsFZ3eahih8GQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=256.5895&pitch=0&thumbfov=100",
+      "kgmid": "/g/1tfscs08"
+    },
+    {
+      "title": "S T Management Commissary",
+      "price": null,
+      "categoryName": "Business management consultant",
+      "address": "350 W 38th St, New York, NY 10018",
+      "neighborhood": "Manhattan",
+      "street": "350 W 38th St",
+      "city": "New York",
+      "postalCode": "10018",
+      "state": "New York",
+      "countryCode": "US",
+      "phone": "(212) 290-8189",
+      "phoneUnformatted": "+12122908189",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 40.7554724,
+        "lng": -73.9940048
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJi1EEQ61ZwokRAO_uyuAGrAE",
+      "categories": ["Business management consultant"],
+      "fid": "0x89c259ad4304518b:0x1ac06e0caeeef00",
+      "cid": "120478852579258112",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:36:03.035Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=S%20T%20Management%20Commissary&query_place_id=ChIJi1EEQ61ZwokRAO_uyuAGrAE",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.7492952,-73.9747765,14.602159966598496z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 20,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YNjGV7Ikh9p82X4k_zeXeA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=224.1557&pitch=0&thumbfov=100",
+      "kgmid": "/g/1tj92ggj"
+    },
+    {
+      "title": "My Commercial Kitchen",
+      "price": null,
+      "categoryName": "Restaurant supply store",
+      "address": "102-17 Northern Blvd, Corona, NY 11368",
+      "neighborhood": "Corona",
+      "street": "102-17 Northern Blvd",
+      "city": "Corona",
+      "postalCode": "11368",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://mycommercialkitchennyc.com/",
+      "phone": "(718) 416-6777",
+      "phoneUnformatted": "+17184166777",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.7578556,
+        "lng": -73.8659094
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJF-WneXxfwokRI_8HfY0ikec",
+      "categories": ["Restaurant supply store"],
+      "fid": "0x89c25f7c79a7e517:0xe791228d7d07ff23",
+      "cid": "16686156085467807523",
+      "reviewsCount": 13,
+      "imagesCount": 7,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:36:08.214Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM to 1 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Small business": true
+          }
+        ],
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pickup": true
+          }
+        ],
+        "Payments": [
+          {
+            "Checks": true
+          },
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=My%20Commercial%20Kitchen&query_place_id=ChIJF-WneXxfwokRI_8HfY0ikec",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.7742411,-73.9076663,14.601618508380398z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 18,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOQEmn_spk0mC1D6TRq11ya2M29xDWBQGUkv6dw=w427-h240-k-no",
+      "kgmid": "/g/11pzk45v1l"
+    },
+    {
+      "title": "Bar Dalia",
+      "price": "$$",
+      "categoryName": "Cocktail bar",
+      "address": "33-17 31st Ave, Astoria, NY 11106",
+      "neighborhood": "Astoria",
+      "street": "33-17 31st Ave",
+      "city": "Astoria",
+      "postalCode": "11106",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "https://www.bardalia.nyc/?fbclid=PAAaZLUfCGbyFNSsmzP19aQ54SyZCkfhMOZIb4P8b-aAWwrbb_Grx_fWi3_xM",
+      "phone": "(347) 507-1218",
+      "phoneUnformatted": "+13475071218",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.7634581,
+        "lng": -73.9212253
+      },
+      "totalScore": 4.8,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJX_jsOiNfwokRMyC3CL5oSOk",
+      "categories": ["Cocktail bar", "Tapas restaurant"],
+      "fid": "0x89c25f233aecf85f:0xe94868be08b72033",
+      "cid": "16809800774559670323",
+      "reviewsCount": 233,
+      "reviewsDistribution": {
+        "oneStar": 3,
+        "twoStar": 0,
+        "threeStar": 3,
+        "fourStar": 34,
+        "fiveStar": 193
+      },
+      "imagesCount": 147,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:36:10.333Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "5 PM to 12 AM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "5 PM to 12 AM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "5 PM to 12 AM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "5 PM to 12 AM"
+        },
+        {
+          "day": "Friday",
+          "hours": "5 PM to 1 AM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "3 PM to 1 AM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "3 PM to 12 AM"
+        }
+      ],
+      "additionalOpeningHours": {
+        "Happy hours": [
+          {
+            "day": "Monday",
+            "hours": "5–7 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "5–7 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "5–7 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "5–7 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "5–7 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Closed"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Outdoor seating": true
+          },
+          {
+            "Delivery": true
+          },
+          {
+            "Takeout": true
+          },
+          {
+            "Dine-in": true
+          }
+        ],
+        "Highlights": [
+          {
+            "Fast service": true
+          },
+          {
+            "Great beer selection": true
+          },
+          {
+            "Great cocktails": true
+          },
+          {
+            "Great wine list": true
+          },
+          {
+            "Trivia night": true
+          }
+        ],
+        "Popular for": [
+          {
+            "Solo dining": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          },
+          {
+            "Wheelchair accessible parking lot": false
+          }
+        ],
+        "Offerings": [
+          {
+            "Alcohol": true
+          },
+          {
+            "Beer": true
+          },
+          {
+            "Cocktails": true
+          },
+          {
+            "Food": true
+          },
+          {
+            "Food at bar": true
+          },
+          {
+            "Happy hour drinks": true
+          },
+          {
+            "Hard liquor": true
+          },
+          {
+            "Wine": true
+          }
+        ],
+        "Dining options": [
+          {
+            "Seating": true
+          },
+          {
+            "Table service": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Restroom": true
+          }
+        ],
+        "Atmosphere": [
+          {
+            "Casual": true
+          },
+          {
+            "Cozy": true
+          },
+          {
+            "Trendy": true
+          }
+        ],
+        "Crowd": [
+          {
+            "Groups": true
+          },
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ],
+        "Planning": [
+          {
+            "Accepts reservations": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Bar%20Dalia&query_place_id=ChIJX_jsOiNfwokRMyC3CL5oSOk",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.7742411,-73.9076663,14.601618508380398z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 22,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npQO_Y0xLWOsyVIlaENPh2oHFLbBqKCUwyYDYdwPMBb_am6bEh90FZkauXwVFoheFMD1k4CElZLAseFlMdVJ6vWZPynI715D_s_EY3YnL2NtxXIW347PzkCIlmZBjOWRv5MZpL3vQ=w408-h306-k-no",
+      "kgmid": "/g/11jbn4fbrz"
+    },
+    {
+      "title": "Lagano Bar and Restaurant",
+      "price": "$$",
+      "categoryName": "European restaurant",
+      "address": "36-03 Ditmars Blvd, Astoria, NY 11105",
+      "neighborhood": "Astoria",
+      "street": "36-03 Ditmars Blvd",
+      "city": "Astoria",
+      "postalCode": "11105",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "https://laganonyc.com/",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.7743364,
+        "lng": -73.9079214
+      },
+      "totalScore": 4.8,
+      "permanentlyClosed": false,
+      "temporarilyClosed": true,
+      "placeId": "ChIJ_Tt3IWZfwokRAMmMhTZu7yI",
+      "categories": [
+        "European restaurant",
+        "Banquet hall",
+        "Bar",
+        "Beer hall",
+        "Cocktail bar",
+        "Event venue",
+        "Mediterranean restaurant",
+        "Wine bar"
+      ],
+      "fid": "0x89c25f6621773bfd:0x22ef6e36858cc900",
+      "cid": "2517351897171282176",
+      "reviewsCount": 216,
+      "reviewsDistribution": {
+        "oneStar": 3,
+        "twoStar": 4,
+        "threeStar": 3,
+        "fourStar": 14,
+        "fiveStar": 192
+      },
+      "imagesCount": 377,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:36:10.333Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "additionalOpeningHours": {
+        "Happy hours": [
+          {
+            "day": "Monday",
+            "hours": "11 AM–6 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "11 AM–6 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "11 AM–6 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "11 AM–6 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "11 AM–6 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Closed"
+          }
+        ],
+        "Kitchen": [
+          {
+            "day": "Monday",
+            "hours": "12–11 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "12–11 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "12–11 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "12–11 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "12–11 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "12–4 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "11 AM–11 PM"
+          }
+        ],
+        "Brunch": [
+          {
+            "day": "Monday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Thursday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Friday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Saturday",
+            "hours": "11 AM–4 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "11 AM–4 PM"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Outdoor seating": true
+          },
+          {
+            "Takeout": true
+          },
+          {
+            "Dine-in": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Alcohol": true
+          },
+          {
+            "Beer": true
+          },
+          {
+            "Cocktails": true
+          },
+          {
+            "Coffee": true
+          },
+          {
+            "Small plates": true
+          },
+          {
+            "Wine": true
+          }
+        ],
+        "Dining options": [
+          {
+            "Brunch": true
+          },
+          {
+            "Lunch": true
+          },
+          {
+            "Dinner": true
+          },
+          {
+            "Dessert": true
+          },
+          {
+            "Seating": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Bar onsite": true
+          },
+          {
+            "Restroom": true
+          }
+        ],
+        "Planning": [
+          {
+            "Accepts reservations": true
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Pets": [
+          {
+            "Dogs allowed outside": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Lagano%20Bar%20and%20Restaurant&query_place_id=ChIJ_Tt3IWZfwokRAMmMhTZu7yI",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.7742411,-73.9076663,14.601618508380398z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 23,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPJ3AOVQ_17MibHVPfAdAcZEgglB6NVETYa_R0v=w408-h271-k-no",
+      "kgmid": "/g/11sm8jmk19"
+    },
+    {
+      "title": "Utica Takeout",
+      "price": null,
+      "categoryName": "Restaurant",
+      "address": "1140 Utica Ave, Brooklyn, NY 11203, United States",
+      "neighborhood": "Little Caribbean",
+      "street": "1140 Utica Ave",
+      "city": "Brooklyn",
+      "postalCode": "11203",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://uticatakeout.com/",
+      "phone": "+1 929-582-9238",
+      "phoneUnformatted": "+19295829238",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.6449847,
+        "lng": -73.9299486
+      },
+      "totalScore": 4.6,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ24nJJfFdwokR7Ytw2uAzzKo",
+      "categories": [
+        "Restaurant",
+        "Deli",
+        "Delivery Chinese restaurant",
+        "Fast food restaurant",
+        "Fried chicken takeaway",
+        "Lunch restaurant",
+        "Takeout restaurant",
+        "Shared-use commercial kitchen"
+      ],
+      "fid": "0x89c25df125c989db:0xaacc33e0da708bed",
+      "cid": "12307268922527222765",
+      "reviewsCount": 138,
+      "imagesCount": 70,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:36:15.966Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "11 AM to 11 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11 AM to 11 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11 AM to 11 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11 AM to 11 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11 AM to 11 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "11 AM to 11 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "11 AM to 11 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "No-contact delivery": true
+          },
+          {
+            "Delivery": true
+          },
+          {
+            "Takeaway": true
+          }
+        ],
+        "Popular for": [
+          {
+            "Lunch": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible entrance": true
+          },
+          {
+            "Wheelchair-accessible toilet": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Comfort food": true
+          },
+          {
+            "Quick bite": true
+          }
+        ],
+        "Dining options": [
+          {
+            "Lunch": true
+          },
+          {
+            "Dinner": true
+          },
+          {
+            "Table service": false
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral toilets": true
+          },
+          {
+            "Toilet": true
+          }
+        ],
+        "Atmosphere": [
+          {
+            "Casual": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Children": [
+          {
+            "Good for kids": true
+          },
+          {
+            "Kids' menu": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free of charge street parking": true
+          },
+          {
+            "Somewhat difficult to find a space": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Utica%20Takeout&query_place_id=ChIJ24nJJfFdwokR7Ytw2uAzzKo",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.697103999999996,-73.84296222367298,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 18,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMjJxHHt8ElLMcrvd_rYS665Bb-jUaFmRCrS0mX=w408-h527-k-no",
+      "kgmid": "/g/11pdm_s318"
+    },
+    {
+      "title": "Flatbush Central Caribbean Marketplace x Mangrove FC",
+      "price": null,
+      "categoryName": "Restaurant",
+      "address": "2123 Caton Ave, Brooklyn, NY 11226",
+      "neighborhood": "Little Caribbean",
+      "street": "2123 Caton Ave",
+      "city": "Brooklyn",
+      "postalCode": "11226",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://www.flatbushcentral.com/",
+      "phone": "(917) 765-9005",
+      "phoneUnformatted": "+19177659005",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.6529867,
+        "lng": -73.959495
+      },
+      "totalScore": 4.3,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJD2YDVBVbwokRpGj9JFIVm1k",
+      "categories": [
+        "Restaurant",
+        "Clothing store",
+        "Community center",
+        "Cultural landmark",
+        "Design institute",
+        "Food court",
+        "Learning center",
+        "Market",
+        "Shared-use commercial kitchen"
+      ],
+      "fid": "0x89c25b155403660f:0x599b155224fd68a4",
+      "cid": "6456777933317826724",
+      "reviewsCount": 95,
+      "reviewsDistribution": {
+        "oneStar": 5,
+        "twoStar": 3,
+        "threeStar": 9,
+        "fourStar": 23,
+        "fiveStar": 55
+      },
+      "imagesCount": 271,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:36:25.232Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11 AM to 9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "11 AM to 9 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "12 to 7 PM"
+        }
+      ],
+      "additionalOpeningHours": {
+        "Breakfast": [
+          {
+            "day": "Monday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Thursday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Friday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Saturday",
+            "hours": "11 AM–3 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Closed"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as Black-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "In-store shopping": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Restroom": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Flatbush%20Central%20Caribbean%20Marketplace%20x%20Mangrove%20FC&query_place_id=ChIJD2YDVBVbwokRpGj9JFIVm1k",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.6449847,-73.9299486,13.60441889914174z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 23,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrDFHev43wx75l68kR_SD3fy3Qo088IU-3U0nTv63iyxVn2pPcMQyhH3gsBpRlVLmG0e-1YSLep2BqEWaf92vDMBq3ngtLlan_Dgq_XR5eda_CYL7QSfob31yDJQDqugY2B8Vt3-A=w426-h240-k-no",
+      "kgmid": "/g/1tj9cxy7"
+    }
+  ]
+}

@@ -15,9 +15,7 @@ export default function BreadCrumbs({ city, state }) {
             {city}
           </a>
           <span>›</span>
-          <span className="text-gray-900 font-medium">
-            Commercial Kitchens for Rent
-          </span>
+          <span className="text-gray-900 font-medium">Commercial Kitchens</span>
         </div>
       </div>
     </div>

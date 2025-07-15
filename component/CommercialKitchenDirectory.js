@@ -1,7 +1,21 @@
 'use client'
 
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import Hero from './Hero'
+import CityEvents from './CityEvents'
+import { fetchEventsFromEventbrite } from '@/lib/eventbrite'
+import Link from 'next/link'
+
+export async function getServerSideProps(context) {
+  const { city, state } = context.params
+  const events = await fetchEventsFromEventbrite(city, state)
+
+  return {
+    props: {
+      events,
+    },
+  }
+}
 
 import {
   MapPin,
@@ -15,7 +29,6 @@ import {
   Shield,
   ExternalLink,
   Check,
-  Search,
   Menu,
   X,
   Heart,
@@ -34,6 +47,7 @@ const CommercialKitchenDirectory = ({
   kitchens = [],
   relatedCities = [],
 }) => {
+  const [events, setEvents] = useState([])
   const [expandedFaq, setExpandedFaq] = useState(null)
   const [expandedRegulation, setExpandedRegulation] = useState(null)
   const [showFilters, setShowFilters] = useState(true)
@@ -41,13 +55,29 @@ const CommercialKitchenDirectory = ({
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
   const [viewType, setViewType] = useState('grid')
 
+  useEffect(() => {
+    async function fetchEvents() {
+      try {
+        const res = await fetch(`/api/events?city=${city}&state=${state}`)
+        const data = await res.json()
+        setEvents(Array.isArray(data) ? data : [])
+      } catch (err) {
+        console.error('Failed to load events:', err)
+      }
+    }
+
+    fetchEvents()
+  }, [city, state])
   // Use props data or fallback to sample data
   const displayKitchens =
     kitchens.length > 0
       ? kitchens.map((kitchen, index) => ({
           id: kitchen.placeId || index,
-          name: kitchen.title,
-          image: kitchen.imageUrl || '/images/commercial-kitchen-for-rent.jpg',
+          name: kitchen.name || kitchen.title,
+          image:
+            kitchen.imageUrl ||
+            kitchen.photo ||
+            '/images/commercial-kitchen-for-rent.jpg',
           rating: kitchen.totalScore || 0,
           reviews: kitchen.reviewsCount || 0,
           tags: kitchen.tags || [],
@@ -67,9 +97,10 @@ const CommercialKitchenDirectory = ({
               : 'Variable',
           availability: kitchen.hours || 'Contact for hours',
           phone: kitchen.phone,
-          website: kitchen.website,
-          address: kitchen.address,
+          website: kitchen.website || kitchen.site,
+          address: kitchen.street,
           neighborhood: kitchen.neighborhood,
+          city: kitchen.city,
         }))
       : [
           // Fallback sample data
@@ -91,46 +122,7 @@ const CommercialKitchenDirectory = ({
           },
         ]
 
-  const events = [
-    {
-      title: 'Start a Food Truck Workshop',
-      date: 'JUL 21',
-      time: '2:00 PM',
-      location: 'Downtown Denver',
-      price: '$45',
-    },
-    {
-      title: 'ServSafe Certification Course',
-      date: 'JUL 25',
-      time: '9:00 AM',
-      location: 'Denver Community College',
-      price: '$125',
-    },
-  ]
-
-  const faqs = [
-    {
-      question: `
-      Do I need a license to use a commercial kitchen in Denver?`,
-      answer: `Yes. If you’re preparing food for sale to the public, you’ll need a Retail Food License from the Denver Department of Public Health & Environment (DDPHE). Mobile vendors, caterers, and food producers must comply with local and state regulations.`,
-    },
-    {
-      question: `Can I rent a kitchen in Denver by the hour or just monthly?`,
-      answer: `Many shared-use kitchens in Denver offer both hourly and monthly rental options. Hourly rentals are great for early-stage businesses or pop-ups, while monthly memberships work well for high-volume food producers or caterers.`,
-    },
-    {
-      question: `What amenities are typically included in a shared-use kitchen?`,
-      answer: `Most kitchens offer prep tables, commercial ovens, refrigerators, cold and dry storage, dishwashing stations, and sometimes specialty equipment (like mixers or smokers). Amenities vary by location — use our filters to compare options.`,
-    },
-    {
-      question: `Is insurance required to use a commissary kitchen?`,
-      answer: `Yes. Most kitchens require that you carry general liability insurance (often with $1M coverage) and list the facility as an additional insured. Some may also require product liability or worker’s comp, depending on your business type.`,
-    },
-    {
-      question: `What types of food businesses use commercial kitchens?`,
-      answer: `Shared-use kitchens in Denver are used by food trucks, caterers, bakers, ghost kitchens, meal prep businesses, food product startups, and pop-up chefs. They're also great for testing new concepts before opening a brick-and-mortar location.`,
-    },
-  ]
+  const faqs = []
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -139,9 +131,12 @@ const CommercialKitchenDirectory = ({
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
-              <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+              <Link
+                href="/"
+                className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent"
+              >
                 Shared Kitchen Locator
-              </h1>
+              </Link>
             </div>
 
             <nav className="hidden md:flex items-center space-x-8">
@@ -356,29 +351,32 @@ const CommercialKitchenDirectory = ({
                   Upcoming Events
                 </h3>
                 <div className="space-y-4">
-                  {events.map((event, index) => (
-                    <div
-                      key={index}
-                      className="border border-gray-100 rounded-xl p-4 hover:border-blue-200 transition-colors"
-                    >
-                      <div className="flex items-start gap-3">
-                        <div className="bg-blue-100 text-blue-800 rounded-lg p-2 text-center min-w-[50px]">
-                          <div className="text-xs font-bold">{event.date}</div>
-                        </div>
-                        <div className="flex-1">
-                          <h4 className="font-semibold text-gray-900 text-sm mb-1">
-                            {event.title}
-                          </h4>
-                          <p className="text-xs text-gray-600 mb-2">
-                            {event.time} • {event.location}
-                          </p>
-                          <span className="text-xs font-medium text-green-600">
-                            {event.price}
-                          </span>
+                  {Array.isArray(events) &&
+                    events.map((event, index) => (
+                      <div
+                        key={index}
+                        className="border border-gray-100 rounded-xl p-4 hover:border-blue-200 transition-colors"
+                      >
+                        <div className="flex items-start gap-3">
+                          <div className="bg-blue-100 text-blue-800 rounded-lg p-2 text-center min-w-[50px]">
+                            <div className="text-xs font-bold">
+                              {event.date}
+                            </div>
+                          </div>
+                          <div className="flex-1">
+                            <h4 className="font-semibold text-gray-900 text-sm mb-1">
+                              {event.title}
+                            </h4>
+                            <p className="text-xs text-gray-600 mb-2">
+                              {event.time} • {event.location}
+                            </p>
+                            <span className="text-xs font-medium text-green-600">
+                              {event.price}
+                            </span>
+                          </div>
                         </div>
                       </div>
-                    </div>
-                  ))}
+                    ))}
                 </div>
                 <button className="w-full mt-4 text-blue-600 hover:text-blue-700 text-sm font-medium">
                   View All Events →
@@ -487,7 +485,7 @@ const CommercialKitchenDirectory = ({
                         kitchen.image ||
                         '/images/commercial-kitchen-for-rent.jpg'
                       }
-                      alt={kitchen.name || 'Kitchen image'}
+                      alt={kitchen.name || kitchen.title || 'Kitchen image'}
                       onError={(e) => {
                         e.currentTarget.onerror = null
                         e.currentTarget.src =
@@ -536,14 +534,14 @@ const CommercialKitchenDirectory = ({
                           )}
                         </div>
                       </div>
-                      <div className="text-right">
+                      {/* <div className="text-right">
                         <div className="text-md font-bold text-gray-900">
                           {kitchen.price}
                         </div>
                         <div className="text-sm text-gray-500">
                           {kitchen.priceType}
                         </div>
-                      </div>
+                      </div> */}
                     </div>
 
                     <p className="text-gray-600 text-sm mb-4">
@@ -574,12 +572,12 @@ const CommercialKitchenDirectory = ({
                       </div>
                       <div className="flex items-center">
                         <MapPin className="w-4 h-4 mr-1" />
-                        {kitchen.distance}
+                        {kitchen.address}, {kitchen.city}
                       </div>
-                      <div className="flex items-center">
+                      {/* <div className="flex items-center">
                         <Clock className="w-4 h-4 mr-1" />
                         {kitchen.availability}
-                      </div>
+                      </div> */}
                     </div>
 
                     <div className="flex gap-3">
@@ -587,14 +585,21 @@ const CommercialKitchenDirectory = ({
                         View Details
                       </button>
                       {kitchen.phone && (
-                        <button className="px-4 py-3 border border-gray-200 rounded-xl font-medium hover:bg-gray-50 transition-colors">
+                        <a
+                          href={`tel:${kitchen.phone}`}
+                          className="px-4 py-3 border border-gray-200 rounded-xl font-medium hover:bg-gray-50 transition-colors"
+                        >
                           <Phone className="w-4 h-4" />
-                        </button>
+                        </a>
                       )}
                       {kitchen.website && (
-                        <button className="px-4 py-3 border border-gray-200 rounded-xl font-medium hover:bg-gray-50 transition-colors">
+                        <a
+                          href={kitchen.website}
+                          target="_blank"
+                          className="px-4 py-3 border border-gray-200 rounded-xl font-medium hover:bg-gray-50 transition-colors"
+                        >
                           <ExternalLink className="w-4 h-4" />
-                        </button>
+                        </a>
                       )}
                     </div>
                   </div>
@@ -603,9 +608,9 @@ const CommercialKitchenDirectory = ({
             </div>
 
             <div className="mt-12 text-center">
-              <button className="px-8 py-4 bg-gray-100 text-gray-700 rounded-xl hover:bg-gray-200 transition-colors font-medium">
+              {/* <button className="px-8 py-4 bg-gray-100 text-gray-700 rounded-xl hover:bg-gray-200 transition-colors font-medium">
                 Load More Kitchens
-              </button>
+              </button> */}
               <p className="text-sm text-gray-500 mt-2">
                 Showing {displayKitchens.length} results
               </p>
@@ -616,70 +621,15 @@ const CommercialKitchenDirectory = ({
         {/* Additional Sections */}
         <div className="mt-20 space-y-16">
           {/* Events Section - Now in main content area */}
-          <section className="hidden lg:block">
+          {/* <section className="hidden lg:block">
             <h2 className="text-3xl font-bold text-gray-900 mb-8">
               Upcoming Events for Food Entrepreneurs
             </h2>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              {events.map((event, index) => (
-                <div
-                  key={index}
-                  className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-all"
-                >
-                  <div className="flex items-start gap-4 mb-4">
-                    <div className="bg-blue-100 text-blue-800 rounded-xl p-3 text-center min-w-[60px]">
-                      <div className="text-sm font-bold">{event.date}</div>
-                    </div>
-                    <div className="flex-1">
-                      <h3 className="font-bold text-gray-900 mb-2">
-                        {event.title}
-                      </h3>
-                      <p className="text-sm text-gray-600 mb-2">{event.time}</p>
-                      <p className="text-sm text-gray-500 mb-3">
-                        {event.location}
-                      </p>
-                      <span className="inline-block px-3 py-1 bg-green-100 text-green-800 text-sm font-medium rounded-full">
-                        {event.price}
-                      </span>
-                    </div>
-                  </div>
-                  <button className="w-full px-4 py-2 bg-blue-600 text-white rounded-xl hover:bg-blue-700 transition-colors font-medium">
-                    Register Now
-                  </button>
-                </div>
-              ))}
-
-              {/* Additional event placeholder */}
-              <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-all">
-                <div className="flex items-start gap-4 mb-4">
-                  <div className="bg-purple-100 text-purple-800 rounded-xl p-3 text-center min-w-[60px]">
-                    <div className="text-sm font-bold">AUG 3</div>
-                  </div>
-                  <div className="flex-1">
-                    <h3 className="font-bold text-gray-900 mb-2">
-                      Denver Local Makers Market
-                    </h3>
-                    <p className="text-sm text-gray-600 mb-2">8:00 AM</p>
-                    <p className="text-sm text-gray-500 mb-3">Union Station</p>
-                    <span className="inline-block px-3 py-1 bg-green-100 text-green-800 text-sm font-medium rounded-full">
-                      Free
-                    </span>
-                  </div>
-                </div>
-                <button className="w-full px-4 py-2 bg-blue-600 text-white rounded-xl hover:bg-blue-700 transition-colors font-medium">
-                  Register Now
-                </button>
-              </div>
-            </div>
-            <div className="text-center mt-8">
-              <button className="px-6 py-3 border border-gray-300 text-gray-700 rounded-xl hover:bg-gray-50 transition-colors font-medium">
-                View All Events on Eventbrite →
-              </button>
-            </div>
-          </section>
+            <CityEvents city={city} state={state} />
+          </section> */}
 
           {/* Tools & Resources */}
-          <section>
+          {/* <section>
             <h2 className="text-3xl font-bold text-gray-900 mb-8">
               Tools & Resources for Food Entrepreneurs
             </h2>
@@ -738,10 +688,10 @@ const CommercialKitchenDirectory = ({
                 </span>
               </a>
             </div>
-          </section>
+          </section> */}
 
           {/* Regulations Section */}
-          <section>
+          {/* <section>
             <h2 className="text-3xl font-bold text-gray-900 mb-8">
               {city} Food Business Regulations
             </h2>
@@ -852,10 +802,10 @@ const CommercialKitchenDirectory = ({
                 )}
               </div>
             </div>
-          </section>
+          </section> */}
 
           {/* Blog Previews */}
-          <section>
+          {/* <section>
             <h2 className="text-3xl font-bold text-gray-900 mb-8">
               Learn More About {city} Food Business
             </h2>
@@ -916,11 +866,11 @@ const CommercialKitchenDirectory = ({
                 </span>
               </a>
             </div>
-          </section>
+          </section> */}
         </div>
 
         {/* FAQ Section */}
-        <section className="mt-16">
+        {/* <section className="mt-16">
           <h2 className="text-3xl font-bold text-gray-900 mb-8">
             Frequently Asked Questions
           </h2>
@@ -959,7 +909,7 @@ const CommercialKitchenDirectory = ({
               </div>
             ))}
           </div>
-        </section>
+        </section> */}
       </div>
 
       {/* Footer CTA */}
@@ -989,7 +939,7 @@ const CommercialKitchenDirectory = ({
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div className="md:col-span-2">
               <h3 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent mb-4">
-                Shared Kitcehn Locator
+                Shared Kitchen Locator
               </h3>
               <p className="text-gray-400 mb-4 max-w-md">
                 The leading marketplace for commercial kitchen rentals. Find
@@ -1048,7 +998,7 @@ const CommercialKitchenDirectory = ({
 
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
             <p>
-              &copy; {new Date().getFullYear()} Shared Kitcehn Locator. All
+              &copy; {new Date().getFullYear()} Shared Kitchen Locator. All
               rights reserved.
             </p>
           </div>

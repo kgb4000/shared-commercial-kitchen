@@ -1,0 +1,2288 @@
+{
+  "state": "tx",
+  "city": "Houston",
+  "kitchens": [
+    {
+      "query": "shared-use commercial kitchen, 78419, Corpus Christi, TX, US",
+      "name": "Shared Commercial Kitchen & Rentals",
+      "name_for_emails": "Shared Commercial Kitchen And Rentals",
+      "site": "http://www.sharecommercialkitchen.com/",
+      "subtypes": "Shared-use commercial kitchen",
+      "category": "Shared-use commercial kitchen",
+      "type": "Shared-use commercial kitchen",
+      "phone": "+1 832-389-2658",
+      "full_address": "5738 W Gulf Bank Rd suite E, Houston, TX 77088",
+      "borough": "Greater Inwood",
+      "street": "5738 W Gulf Bank Rd suite E",
+      "city": "Houston",
+      "postal_code": 77088,
+      "state": "Texas",
+      "us_state": "Texas",
+      "country": "United States of America",
+      "country_code": "US",
+      "latitude": 29.8847342,
+      "longitude": -95.4731733,
+      "h3": "89446c37457ffff",
+      "time_zone": "America/Chicago",
+      "plus_code": "76X6VGMG+VP",
+      "area_service": false,
+      "rating": 5,
+      "reviews": 24,
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ62OYxUbnQIYRiX_-VukfqIk&q=shared-use+commercial+kitchen,+78419,+Corpus+Christi,+TX,+US&authuser=0&hl=en&gl=US",
+      "reviews_tags": "questions, management, startup, small business, chef, book, needs",
+      "reviews_per_score": null,
+      "reviews_per_score_1": 0,
+      "reviews_per_score_2": 0,
+      "reviews_per_score_3": 0,
+      "reviews_per_score_4": 1,
+      "reviews_per_score_5": 23,
+      "photos_count": 33,
+      "photo": "https://lh3.googleusercontent.com/p/AF1QipOGG2GvZnZsGBwz_YwOLwrWqE3OZ4k6F5LSUYpm=w800-h500-k-no",
+      "street_view": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7VFEsReg9_sFIDAPuBdtYw&cb_client=search.gws-prod.gps&w=1600&h=1000&yaw=170.23137&pitch=0&thumbfov=100",
+      "located_in": null,
+      "working_hours": {
+        "Sunday": "Open 24 hours",
+        "Monday": "Open 24 hours",
+        "Tuesday": "Open 24 hours",
+        "Wednesday": "Open 24 hours",
+        "Thursday": "Open 24 hours",
+        "Friday": "Open 24 hours",
+        "Saturday": "Open 24 hours"
+      },
+      "working_hours_csv_compatible": "Sunday,Open 24 hours|Monday,Open 24 hours|Tuesday,Open 24 hours|Wednesday,Open 24 hours|Thursday,Open 24 hours|Friday,Open 24 hours|Saturday,Open 24 hours",
+      "working_hours_old_format": "Sunday:Open 24 hours|Monday:Open 24 hours|Tuesday:Open 24 hours|Wednesday:Open 24 hours|Thursday:Open 24 hours|Friday:Open 24 hours|Saturday:Open 24 hours",
+      "other_hours": null,
+      "business_status": "OPERATIONAL",
+      "about": {
+        "From the business": {
+          "Identifies as women-owned": true
+        },
+        "Service options": {
+          "Delivery": true
+        },
+        "Accessibility": {
+          "Wheelchair accessible entrance": true,
+          "Wheelchair accessible parking lot": true
+        },
+        "Amenities": {
+          "Gender-neutral restroom": true
+        },
+        "Payments": {
+          "Credit cards": true
+        },
+        "Other": {
+          "Identifies as women-owned": true
+        }
+      },
+      "range": null,
+      "prices": null,
+      "posts": null,
+      "logo": "https://lh3.googleusercontent.com/-Lvdg0Ye3Of8/AAAAAAAAAAI/AAAAAAAAAAA/sTsA2iCOR1o/s44-p-k-no-ns-nd/photo.jpg",
+      "description": "A Place for Food Entrepreneurs\n\nShared Commercial / Commissary kitchen for rent. We are a Commercial Kitchen that offers shared rental space to Chefs and other Industry Professionals. We have 2 ovens, 2 stock pot burners, a flat top grill and a 4 burner cook top. We also have a walk in cooler and freezer, 20 qt mixer, warming ovens, and more. A perfect space to operate your ghost kitchen or food prep for your food truck We offer hourly rates with no minimum. Call or text Lisa to schedule a tour. Hourly and monthly rates available. No minimum and no long term contract. Even better than a ghost kitchen!!",
+      "typical_time_spent": null,
+      "verified": true,
+      "owner_id": 1.0117696671458922e20,
+      "owner_title": "Shared Commercial Kitchen & Rentals",
+      "owner_link": "https://www.google.com/maps/contrib/101176966714589211795",
+      "reservation_links": null,
+      "booking_appointment_link": null,
+      "menu_link": null,
+      "order_links": null,
+      "location_link": "https://www.google.com/maps/place/Shared+Commercial+Kitchen+%26+Rentals/@29.884734199999997,-95.4731733,14z/data=!4m8!1m2!2m1!1sShared+Commercial+Kitchen+%26+Rentals!3m4!1s0x8640e746c59863eb:0x89a81fe956fe7f89!8m2!3d29.884734199999997!4d-95.4731733",
+      "location_reviews_link": "https://www.google.com/maps/place/Shared+Commercial+Kitchen+%26+Rentals/@29.884734199999997,-95.4731733,13.99z/data=!4m16!1m7!3m6!1s0x8640e746c59863eb:0x89a81fe956fe7f89!2sShared+Commercial+Kitchen+%26+Rentals!8m2!3d29.884734199999997!4d-95.4731733!16s%2Fg%2F11ckvg1dmb!3m7!1s0x8640e746c59863eb:0x89a81fe956fe7f89!8m2!3d29.884734199999997!4d-95.4731733!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "place_id": "ChIJ62OYxUbnQIYRiX_-VukfqIk",
+      "google_id": "0x8640e746c59863eb:0x89a81fe956fe7f89",
+      "cid": 9.919213266330878e18,
+      "kgmid": "/g/11rcjnnj6h",
+      "reviews_id": -8.527530807378674e18,
+      "located_google_id": null
+    },
+    {
+      "title": "Shared Commercial Kitchen & Rentals",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "5738 W Gulf Bank Rd suite E, Houston, TX 77088, United States",
+      "neighborhood": "Greater Inwood",
+      "street": "5738 W Gulf Bank Rd suite E",
+      "city": "Houston",
+      "postalCode": "77088",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "http://www.sharecommercialkitchen.com/",
+      "phone": "+1 832-389-2658",
+      "phoneUnformatted": "+18323892658",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 29.8847342,
+        "lng": -95.4731733
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ62OYxUbnQIYRiX_-VukfqIk",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8640e746c59863eb:0x89a81fe956fe7f89",
+      "cid": "9919213266330877833",
+      "reviewsCount": 24,
+      "imagesCount": 33,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:29:05.995Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral toilets": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Shared%20Commercial%20Kitchen%20%26%20Rentals&query_place_id=ChIJ62OYxUbnQIYRiX_-VukfqIk",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.70477960940477,-95.05080688920859,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipODxKDpRgpjvSVJF1lQinIWdERBvDlbYyZCFMc9=w408-h306-k-no",
+      "kgmid": "/g/11rcjnnj6h"
+    },
+    {
+      "title": "CBG Shared Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "906 North Loop East, Houston, TX 77009, United States",
+      "neighborhood": "Northside",
+      "street": "906 North Loop East",
+      "city": "Houston",
+      "postalCode": "77009",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "https://cbgsharedkitchen.com/",
+      "phone": "+1 281-779-5719",
+      "phoneUnformatted": "+12817795719",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 29.8134215,
+        "lng": -95.359345
+      },
+      "totalScore": 4.5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJmVMDt5K5QIYRGNDyyRweifc",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8640b992b7035399:0xf7891e1cc9f2d018",
+      "cid": "17836820908173611032",
+      "reviewsCount": 10,
+      "imagesCount": 11,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:29:05.996Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "On-site services": false
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=CBG%20Shared%20Kitchen&query_place_id=ChIJmVMDt5K5QIYRGNDyyRweifc",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.70477960940477,-95.05080688920859,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPgngRPv7CX4WhRVHRkXo6dkgo2rQhvkJ8bQIV0=w408-h272-k-no",
+      "kgmid": "/g/11qgjw4qmd"
+    },
+    {
+      "title": "LIT Commercial Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "10887 S Wilcrest Dr, Houston, TX 77099, United States",
+      "neighborhood": "Westside",
+      "street": "10887 S Wilcrest Dr",
+      "city": "Houston",
+      "postalCode": "77099",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "https://www.litcommercialkitchen.com/",
+      "phone": "+1 713-347-2587",
+      "phoneUnformatted": "+17133472587",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 29.6647422,
+        "lng": -95.5682175
+      },
+      "totalScore": 4.4,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJbdE-VHfnQIYRPfJOH7x0UVA",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8640e777543ed16d:0x505174bc1f4ef23d",
+      "cid": "5787535347475739197",
+      "reviewsCount": 11,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:29:05.996Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as Asian-owned": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=LIT%20Commercial%20Kitchen&query_place_id=ChIJbdE-VHfnQIYRPfJOH7x0UVA",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.70477960940477,-95.05080688920859,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 3,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Y4QqOa1qf0Ygn-3w7Qa_Gg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=346.7843&pitch=0&thumbfov=100",
+      "kgmid": "/g/11vj8q1r8_"
+    },
+    {
+      "title": "Kitchen 205",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "205 W Crosstimbers St, Houston, TX 77018, United States",
+      "neighborhood": "Independence Heights",
+      "street": "205 W Crosstimbers St",
+      "city": "Houston",
+      "postalCode": "77018",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "http://www.commercialkitchen205.com/",
+      "phone": "+1 832-206-6529",
+      "phoneUnformatted": "+18322066529",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 29.8278507,
+        "lng": -95.4018605
+      },
+      "totalScore": 4.5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJjeZodYXHQIYRdKgY3DTsPxg",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8640c7857568e68d:0x183fec34dc18a874",
+      "cid": "1747374892218099828",
+      "reviewsCount": 36,
+      "imagesCount": 31,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:29:05.997Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "12 AM to 12 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "12 AM to 12 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "12 AM to 12 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "12 AM to 12 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "12 AM to 12 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "12 AM to 12 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "12 AM to 12 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Kitchen%20205&query_place_id=ChIJjeZodYXHQIYRdKgY3DTsPxg",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.70477960940477,-95.05080688920859,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 4,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOdpoDQtNlKQ-uUd3h1VUAId07YvNhPO0WMhQ4K=w408-h272-k-no",
+      "kgmid": "/g/11cknwg_34"
+    },
+    {
+      "title": "Blodgett Food Hall - Houston CloudKitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "2616 Blodgett St, Houston, TX 77004, United States",
+      "neighborhood": "South Side",
+      "street": "2616 Blodgett St",
+      "city": "Houston",
+      "postalCode": "77004",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "https://cloudkitchens.com/locations/houston/midtown/?utm_source=gmb&utm_medium=organic&utm_content=BlodgettFoodHall",
+      "phone": "+1 206-865-6298",
+      "phoneUnformatted": "+12068656298",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 29.7226889,
+        "lng": -95.3704827
+      },
+      "totalScore": 3,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJhVKRkmO_QIYRf635U0AufyQ",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Delivery service",
+        "Takeout restaurant"
+      ],
+      "fid": "0x8640bf6392915285:0x247f2e4053f9ad7f",
+      "cid": "2629871561229315455",
+      "reviewsCount": 2,
+      "imagesCount": null,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:29:05.997Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free of charge street parking": true
+          },
+          {
+            "Free parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Blodgett%20Food%20Hall%20-%20Houston%20CloudKitchens&query_place_id=ChIJhVKRkmO_QIYRf635U0AufyQ",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.70477960940477,-95.05080688920859,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 9,
+      "isAdvertisement": false,
+      "kgmid": "/g/11swzpyx6n"
+    },
+    {
+      "title": "Vito's Shared Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "7820 Fulton St, Houston, TX 77022, United States",
+      "neighborhood": "Northside / Northline",
+      "street": "7820 Fulton St",
+      "city": "Houston",
+      "postalCode": "77022",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "https://www.vitossharedkitchen.com/",
+      "phone": "+1 832-598-6789",
+      "phoneUnformatted": "+18325986789",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 29.8329202,
+        "lng": -95.3755935
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJAciE5Ja5QIYRdqtFZQbF-CM",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8640b996e484c801:0x23f8c5066545ab76",
+      "cid": "2592038216811260790",
+      "reviewsCount": 0,
+      "imagesCount": 14,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:29:05.997Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Vito's%20Shared%20Kitchen&query_place_id=ChIJAciE5Ja5QIYRdqtFZQbF-CM",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.70477960940477,-95.05080688920859,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 11,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNjwwjiASG14ky4dDt9II0jOdCOUUN8Fh5nkfy4=w408-h306-k-no",
+      "kgmid": "/g/11xcwsymhw"
+    },
+    {
+      "title": "Chef's Commissary Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "7820 Fulton St, Houston, TX 77022, United States",
+      "neighborhood": "Northside / Northline",
+      "street": "7820 Fulton St",
+      "city": "Houston",
+      "postalCode": "77022",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "http://www.htxkitchen.com/",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 29.8329202,
+        "lng": -95.3755935
+      },
+      "totalScore": 3.5,
+      "permanentlyClosed": true,
+      "temporarilyClosed": false,
+      "placeId": "ChIJAeG1e4y5QIYRe8O6yuT3oDk",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8640b98c7bb5e101:0x39a0f7e4cabac37b",
+      "cid": "4152591418461438843",
+      "reviewsCount": 6,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:29:05.998Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Chef's%20Commissary%20Kitchen&query_place_id=ChIJAeG1e4y5QIYRe8O6yuT3oDk",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.70477960940477,-95.05080688920859,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 15,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_MKyEaD2KDGcWp2hw7Z31Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=91.627106&pitch=0&thumbfov=100",
+      "kgmid": "/g/11tjj_k601"
+    },
+    {
+      "title": "Fair Food Co - Houston CloudKitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "5832 Fairdale Ln, Houston, TX 77057, United States",
+      "neighborhood": "Westside",
+      "street": "5832 Fairdale Ln",
+      "city": "Houston",
+      "postalCode": "77057",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "https://cloudkitchens.com/locations/houston/fairdale/?utm_source=gmb&utm_medium=organic&utm_content=FairFoodCo",
+      "phone": "+1 206-865-6298",
+      "phoneUnformatted": "+12068656298",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 29.7334158,
+        "lng": -95.4820821
+      },
+      "totalScore": 3.7,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJI_EtGfHDQIYRXo3zcEPjBZg",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Delivery service",
+        "Takeout restaurant"
+      ],
+      "fid": "0x8640c3f1192df123:0x9805e34370f38d5e",
+      "cid": "10954411547445923166",
+      "reviewsCount": 7,
+      "imagesCount": 6,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:29:08.011Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free of charge street parking": true
+          },
+          {
+            "Free parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Fair%20Food%20Co%20-%20Houston%20CloudKitchens&query_place_id=ChIJI_EtGfHDQIYRXo3zcEPjBZg",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.585848668809543,-95.32420042973621,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 7,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMDdovkIE06bpUsAjZ3LEIdqj_9q_0yZEcI4tpQ=w426-h240-k-no",
+      "kgmid": "/g/11ryt3f4l6"
+    },
+    {
+      "title": "Temporary Kitchens 123",
+      "price": null,
+      "categoryName": "Trailer rental service",
+      "address": "2425 W Loop S #200, Houston, TX 77027, United States",
+      "neighborhood": "Afton Oaks / River Oaks Area",
+      "street": "2425 W Loop S #200",
+      "city": "Houston",
+      "postalCode": "77027",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "https://bit.ly/2Quh1Vv",
+      "phone": "+1 800-205-6106",
+      "phoneUnformatted": "+18002056106",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 29.742077,
+        "lng": -95.4568952
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJKfV4au7BQIYReBUEFWDsGnc",
+      "categories": [
+        "Trailer rental service",
+        "Equipment rental agency",
+        "Kitchen remodeler",
+        "Trailer dealer"
+      ],
+      "fid": "0x8640c1ee6a78f529:0x771aec6015041578",
+      "cid": "8582431937321506168",
+      "reviewsCount": 2,
+      "imagesCount": 34,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:29:08.011Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "6 AM to 9 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6 AM to 9 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6 AM to 9 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6 AM to 9 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6 AM to 9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7 AM to 5 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7 AM to 5 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "On-site parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Temporary%20Kitchens%20123&query_place_id=ChIJKfV4au7BQIYReBUEFWDsGnc",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.585848668809543,-95.32420042973621,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 11,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOiObWglpcgplDGLsoxRzBWtPDurg0HaAeEOWjJ=w408-h306-k-no",
+      "kgmid": "/g/11h1yb1g95"
+    },
+    {
+      "title": "MIDTOWN",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "6880 Telephone Rd, Houston, TX 77061, United States",
+      "neighborhood": "Southeast Houston",
+      "street": "6880 Telephone Rd",
+      "city": "Houston",
+      "postalCode": "77061",
+      "state": "Texas",
+      "countryCode": "US",
+      "phone": "+1 832-418-0609",
+      "phoneUnformatted": "+18324180609",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 29.6591101,
+        "lng": -95.2893949
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJS3B-EQCXQIYRTYykwGg90_w",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x86409700117e704b:0xfcd33d68c0a48c4d",
+      "cid": "18217972437761690701",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:29:08.011Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 6 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 6 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 6 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 6 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 6 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM to 6 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9 AM to 6 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=MIDTOWN&query_place_id=ChIJS3B-EQCXQIYRTYykwGg90_w",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.585848668809543,-95.32420042973621,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 16,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EuAqHVk8T0uvCKflsZuW7g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=262.41254&pitch=0&thumbfov=100",
+      "kgmid": "/g/11wfscmjll"
+    },
+    {
+      "title": "The Proofing Station",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1204 W Gray St, Houston, TX 77019, United States",
+      "neighborhood": "Montrose",
+      "street": "1204 W Gray St",
+      "city": "Houston",
+      "postalCode": "77019",
+      "state": "Texas",
+      "countryCode": "US",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 29.753514,
+        "lng": -95.3939756
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJZTFPxeTBQIYRoGa71y2qbmc",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8640c1e4c54f3165:0x676eaa2dd7bb66a0",
+      "cid": "7453081547214382752",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:29:08.012Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Proofing%20Station&query_place_id=ChIJZTFPxeTBQIYRoGa71y2qbmc",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.585848668809543,-95.32420042973621,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 17,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hp7J2jfPFjrf8ycW7k4UZw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=8.545344&pitch=0&thumbfov=100",
+      "kgmid": "/g/11tcrzqfnn"
+    },
+    {
+      "title": "Wingman Kitchens Houston- Garden Oaks",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "5503 Pinemont Dr, Houston, TX 77092",
+      "neighborhood": "Central Northwest",
+      "street": "5503 Pinemont Dr",
+      "city": "Houston",
+      "postalCode": "77092",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "https://www.wingmankitchenshtx.com/",
+      "phone": "(713) 653-3370",
+      "phoneUnformatted": "+17136533370",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 29.8407563,
+        "lng": -95.4698457
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJV_kv1szHQIYRgR3U_M6a47M",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8640c7ccd62ff957:0xb3e39acefcd41d81",
+      "cid": "12962374366298119553",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:29:08.321Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Wingman%20Kitchens%20Houston-%20Garden%20Oaks&query_place_id=ChIJV_kv1szHQIYRgR3U_M6a47M",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.70477960940477,-95.1875036594724,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 14,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lBuv2eoz2lpXj6w3XlmJ0Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=195.99733&pitch=0&thumbfov=100",
+      "kgmid": "/g/11mdnmps6x"
+    },
+    {
+      "title": "The Haute Pot Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "17585 Imperial Valley Dr, Houston, TX 77060",
+      "neighborhood": "Greater Greenspoint",
+      "street": "17585 Imperial Valley Dr",
+      "city": "Houston",
+      "postalCode": "77060",
+      "state": "Texas",
+      "countryCode": "US",
+      "phone": "(346) 852-1078",
+      "phoneUnformatted": "+13468521078",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 29.952013,
+        "lng": -95.4008376
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJYf6HnHnJQIYRw2DFMOxwkoc",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8640c9799c87fe61:0x879270ec30c560c3",
+      "cid": "9768994701452861635",
+      "reviewsCount": 3,
+      "imagesCount": 4,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:29:13.370Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 5:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 12 AM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "12 to 6 AM, 10 AM to 6 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 6 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 6 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Haute%20Pot%20Kitchen&query_place_id=ChIJYf6HnHnJQIYRw2DFMOxwkoc",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.957722764121975,-95.25783578908802,15z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 6,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npaxL7w7sd12EEtsot02IS4_z78nFcOyt0qp5XxL61PGZtzCH2yDMLEgDIhzyVJgpnobz2fqKXGk9EvMoZ5FrftLqHBXaY4pO6K71r_80UuziKY3iBjNEs3jmdFLeJfMEtJwbb0=w408-h544-k-no",
+      "kgmid": "/g/11y39rd74b"
+    },
+    {
+      "title": "Masones Pub and Grill",
+      "price": null,
+      "categoryName": "Bar & grill",
+      "address": "24441 Tomball Pkwy #80, Tomball, TX 77375",
+      "neighborhood": "Northpointe Commercial",
+      "street": "24441 Tomball Pkwy #80",
+      "city": "Tomball",
+      "postalCode": "77375",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "https://www.facebook.com/masonespub/",
+      "phone": "(281) 374-0163",
+      "phoneUnformatted": "+12813740163",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 30.0376853,
+        "lng": -95.606285
+      },
+      "totalScore": 4.4,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJd13XRSXTQIYR3oDDvpcY3LQ",
+      "categories": ["Bar & grill"],
+      "fid": "0x8640d32545d75d77:0xb4dc1897bec380de",
+      "cid": "13032318461722984670",
+      "reviewsCount": 158,
+      "reviewsDistribution": {
+        "oneStar": 8,
+        "twoStar": 3,
+        "threeStar": 9,
+        "fourStar": 32,
+        "fiveStar": 106
+      },
+      "imagesCount": 25,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:29:27.902Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "11 AM to 2 AM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11 AM to 2 AM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11 AM to 2 AM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11 AM to 2 AM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11 AM to 2 AM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "11 AM to 2 AM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "11 AM to 2 AM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Outdoor seating": true
+          },
+          {
+            "Takeout": true
+          },
+          {
+            "Dine-in": true
+          },
+          {
+            "Delivery": false
+          }
+        ],
+        "Highlights": [
+          {
+            "Bar games": true
+          },
+          {
+            "Fast service": true
+          },
+          {
+            "Great beer selection": true
+          },
+          {
+            "Great cocktails": true
+          },
+          {
+            "Live performances": true
+          },
+          {
+            "Sports": true
+          }
+        ],
+        "Popular for": [
+          {
+            "Lunch": true
+          },
+          {
+            "Dinner": true
+          },
+          {
+            "Solo dining": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Alcohol": true
+          },
+          {
+            "Beer": true
+          },
+          {
+            "Cocktails": true
+          },
+          {
+            "Comfort food": true
+          },
+          {
+            "Food": true
+          },
+          {
+            "Food at bar": true
+          },
+          {
+            "Happy hour drinks": true
+          },
+          {
+            "Happy hour food": true
+          },
+          {
+            "Hard liquor": true
+          },
+          {
+            "Late-night food": true
+          },
+          {
+            "Quick bite": true
+          },
+          {
+            "Small plates": true
+          },
+          {
+            "Wine": true
+          }
+        ],
+        "Dining options": [
+          {
+            "Lunch": true
+          },
+          {
+            "Dinner": true
+          },
+          {
+            "Seating": true
+          },
+          {
+            "Table service": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Bar onsite": true
+          },
+          {
+            "Restroom": true
+          }
+        ],
+        "Atmosphere": [
+          {
+            "Casual": true
+          },
+          {
+            "Cozy": true
+          },
+          {
+            "Trendy": true
+          }
+        ],
+        "Crowd": [
+          {
+            "Groups": true
+          }
+        ],
+        "Planning": [
+          {
+            "Accepts reservations": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Masones%20Pub%20and%20Grill&query_place_id=ChIJd13XRSXTQIYR3oDDvpcY3LQ",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@30.061572431190452,-95.59759397026383,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 22,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqUfgvj7KjqfOSBOh3Jb-sOLsweZIlgXecqE5HazOLw6Eb54bOb5Io46Bkia1UNv_fOKMSJfwiEwAD7lF6yuGgcPBMplx9fh5LZ6Ky2c7zn7Or3ZAnD2QfFS20kz-aUtUvPp5QeLw=w408-h306-k-no",
+      "kgmid": "/g/11nf_lfvd3"
+    },
+    {
+      "title": "Top Sushi",
+      "price": "$$",
+      "categoryName": "Sushi restaurant",
+      "address": "24435 Tomball Pkwy Suite 70, Tomball, TX 77377",
+      "neighborhood": "Northpointe Commercial",
+      "street": "24435 Tomball Pkwy Suite 70",
+      "city": "Tomball",
+      "postalCode": "77377",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "https://topsushitomball.com/?utm_source=google",
+      "phone": "(281) 246-0002",
+      "phoneUnformatted": "+12812460002",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 30.0380941,
+        "lng": -95.6068048
+      },
+      "totalScore": 4.5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJb_3aRc3TQIYR5P9LKgYd_2k",
+      "categories": ["Sushi restaurant"],
+      "fid": "0x8640d3cd45dafd6f:0x69ff1d062a4bffe4",
+      "cid": "7637855405360283620",
+      "reviewsCount": 525,
+      "reviewsDistribution": {
+        "oneStar": 30,
+        "twoStar": 9,
+        "threeStar": 31,
+        "fourStar": 60,
+        "fiveStar": 395
+      },
+      "imagesCount": 555,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:29:27.903Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "11:30 AM to 9:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11:30 AM to 9:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11:30 AM to 9:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11:30 AM to 9:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11:30 AM to 10:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "11:30 AM to 10:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "11:30 AM to 8:30 PM"
+        }
+      ],
+      "additionalOpeningHours": {
+        "Delivery": [
+          {
+            "day": "Monday",
+            "hours": "11:30 AM–9:30 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "11:30 AM–9:30 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "11:30 AM–9:30 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "11:30 AM–9:30 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "11:30 AM–10:30 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "11:30 AM–10:30 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "11:30 AM–8:30 PM"
+          }
+        ],
+        "Takeout": [
+          {
+            "day": "Monday",
+            "hours": "11:30 AM–9:30 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "11:30 AM–9:30 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "11:30 AM–9:30 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "11:30 AM–9:30 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "11:30 AM–10:30 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "11:30 AM–10:30 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "11:30 AM–8:30 PM"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Curbside pickup": true
+          },
+          {
+            "No-contact delivery": true
+          },
+          {
+            "Delivery": true
+          },
+          {
+            "Takeout": true
+          },
+          {
+            "Dine-in": true
+          }
+        ],
+        "Highlights": [
+          {
+            "Fast service": true
+          },
+          {
+            "Great tea selection": true
+          }
+        ],
+        "Popular for": [
+          {
+            "Lunch": true
+          },
+          {
+            "Dinner": true
+          },
+          {
+            "Solo dining": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Alcohol": true
+          },
+          {
+            "Beer": true
+          },
+          {
+            "Cocktails": true
+          },
+          {
+            "Happy hour drinks": true
+          },
+          {
+            "Happy hour food": true
+          },
+          {
+            "Hard liquor": true
+          },
+          {
+            "Healthy options": true
+          },
+          {
+            "Quick bite": true
+          },
+          {
+            "Small plates": true
+          },
+          {
+            "Wine": true
+          }
+        ],
+        "Dining options": [
+          {
+            "Lunch": true
+          },
+          {
+            "Dinner": true
+          },
+          {
+            "Catering": true
+          },
+          {
+            "Dessert": true
+          },
+          {
+            "Seating": true
+          },
+          {
+            "Table service": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Bar onsite": true
+          },
+          {
+            "Restroom": true
+          }
+        ],
+        "Atmosphere": [
+          {
+            "Casual": true
+          },
+          {
+            "Cozy": true
+          },
+          {
+            "Quiet": true
+          },
+          {
+            "Trendy": true
+          }
+        ],
+        "Crowd": [
+          {
+            "Groups": true
+          },
+          {
+            "Tourists": true
+          }
+        ],
+        "Planning": [
+          {
+            "Accepts reservations": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Children": [
+          {
+            "Good for kids": true
+          },
+          {
+            "High chairs": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          },
+          {
+            "Usually plenty of parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Top%20Sushi&query_place_id=ChIJb_3aRc3TQIYR5P9LKgYd_2k",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@30.061572431190452,-95.59759397026383,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 24,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqRspeaEad9W3eLCmncsZMeW596Xc0pAWdOL8J3yR-cb259bfFPypXn0i6BN2Vfl7hJPvn__whLGAzTEsYddLx-8kD03ce8hG0HEsFw_uKF1RIaMrE3DWUk9AktSvj4q4aJQoIr=w408-h306-k-no",
+      "kgmid": "/g/11fmf0_9jb"
+    },
+    {
+      "title": "One Stop Restaurant Equipment",
+      "description": "Source for new & used chef equipment including refrigerators, prep counters, steamers & sinks.",
+      "price": null,
+      "categoryName": "Restaurant supply store",
+      "address": "7801 N Shepherd Dr #110, Houston, TX 77088",
+      "neighborhood": "Acres Home",
+      "street": "7801 N Shepherd Dr #110",
+      "city": "Houston",
+      "postalCode": "77088",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "http://www.osreinc.us/",
+      "phone": "(713) 695-9309",
+      "phoneUnformatted": "+17136959309",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 29.8737093,
+        "lng": -95.4135579
+      },
+      "totalScore": 4.6,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ0dLaQG64QIYRNnJpKq5fX5I",
+      "categories": [
+        "Restaurant supply store",
+        "Bakery equipment",
+        "Commercial refrigerator supplier",
+        "Consultant",
+        "Equipment supplier",
+        "HVAC contractor",
+        "Mechanical contractor",
+        "Shared-use commercial kitchen",
+        "Used appliance store"
+      ],
+      "fid": "0x8640b86e40dad2d1:0x925f5fae2a697236",
+      "cid": "10547254053965492790",
+      "reviewsCount": 7,
+      "imagesCount": 22,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:29:30.575Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalOpeningHours": {
+        "Pickup": [
+          {
+            "day": "Monday",
+            "hours": "9 AM–5 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "9 AM–5 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "9 AM–5 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "9 AM–5 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "9 AM–5 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Closed"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Small business": true
+          }
+        ],
+        "Service options": [
+          {
+            "Onsite services": true
+          },
+          {
+            "English": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Recycling": [
+          {
+            "Electronics": true
+          }
+        ],
+        "Payments": [
+          {
+            "Checks": true
+          },
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=One%20Stop%20Restaurant%20Equipment&query_place_id=ChIJ0dLaQG64QIYRNnJpKq5fX5I",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.823710549999998,-95.32420042973621,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 13,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noo6MZ536HSoTURrZQJcQo3F1Pq5NTniolA4F-Qob2IJKG33Pgfg8DV3-f5qE0XoWjyEiaB7CR9JVw6LoI4piDNMN2uJAEq09cGG217buaM8WgqblGbai8PfZhsVhBQ3hR45Mo=w408-h306-k-no",
+      "kgmid": "/g/1tl_m2rf"
+    },
+    {
+      "title": "Herbility",
+      "price": "$$",
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "12628 Briar Forest Dr, Houston, TX 77077",
+      "neighborhood": "Westside",
+      "street": "12628 Briar Forest Dr",
+      "city": "Houston",
+      "postalCode": "77077",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "https://herbility.com/",
+      "phone": "(646) 704-6449",
+      "phoneUnformatted": "+16467046449",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 29.7544086,
+        "lng": -95.6073895
+      },
+      "totalScore": 4.6,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJNaqbL0MBx4kRU__Kuna5ctE",
+      "categories": ["Shared-use commercial kitchen", "Bar & grill"],
+      "fid": "0x89c701432f9baa35:0xd172b976bacaff53",
+      "cid": "15092329220863098707",
+      "reviewsCount": 94,
+      "imagesCount": 39,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:29:35.098Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "11 AM to 2 AM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11 AM to 2 AM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11 AM to 2 AM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11 AM to 2 AM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11 AM to 2 AM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "12 PM to 2 AM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "1 PM to 2 AM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Herbility&query_place_id=ChIJNaqbL0MBx4kRU__Kuna5ctE",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.70477960940477,-95.73429074052764,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 8,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npD7llPcQnt5Ww5azzSFrXgK2u0Qb7zQRqxp1LiIEO56kDtpblw5C1aSZEuUOcFsA8HC2B3OQaOqDF3sFdVQnTO3T9eOKyqqx-_DmwKKQQo40TQNtvRc-jOfZUUaUDKprDqvck=w408-h544-k-no",
+      "kgmid": "/g/11mtd1nr47"
+    },
+    {
+      "title": "ARS / Rescue Rooter",
+      "price": null,
+      "categoryName": "Air conditioning repair service",
+      "address": "369 Tristar Dr, Webster, TX 77598, United States",
+      "neighborhood": "South Belt / Ellington",
+      "street": "369 Tristar Dr",
+      "city": "Webster",
+      "postalCode": "77598",
+      "state": "Texas",
+      "countryCode": "US",
+      "website": "https://www.ars.com/houston-south",
+      "phone": "+1 281-674-6272",
+      "phoneUnformatted": "+12816746272",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 29.5937455,
+        "lng": -95.1751827
+      },
+      "totalScore": 4.5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJq6qqqlrrQIYRw683viEERrA",
+      "categories": [
+        "Air conditioning repair service",
+        "Air conditioning contractor",
+        "Drainage service",
+        "Electrician",
+        "Furnace repair service",
+        "Heating contractor",
+        "HVAC contractor",
+        "Insulation contractor",
+        "Plumber"
+      ],
+      "fid": "0x8640eb5aaaaaaaab:0xb0460421be37afc3",
+      "cid": "12701844342016815043",
+      "reviewsCount": 3630,
+      "reviewsDistribution": {
+        "oneStar": 349,
+        "twoStar": 60,
+        "threeStar": 58,
+        "fourStar": 182,
+        "fiveStar": 2981
+      },
+      "imagesCount": 191,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:29:39.110Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalOpeningHours": {
+        "Online service hours": [
+          {
+            "day": "Monday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Thursday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Friday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Saturday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Open 24 hours"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Online estimates": true
+          },
+          {
+            "On-site services": true
+          },
+          {
+            "English": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Repair services": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointment required": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=ARS%20%2F%20Rescue%20Rooter&query_place_id=ChIJq6qqqlrrQIYRw683viEERrA",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.585848668809543,-95.1875036594724,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 22,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPD3HXgkvg9zkNL8Fqif0juhPaHJi6k716D4gmz=w408-h329-k-no",
+      "kgmid": "/g/1vsprwn2"
+    },
+    {
+      "title": "Str8 Out The Gulf Seafood",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "2616 Blodgett St k0, Houston, TX 77004, United States",
+      "neighborhood": "South Side",
+      "street": "2616 Blodgett St k0",
+      "city": "Houston",
+      "postalCode": "77004",
+      "state": "Texas",
+      "countryCode": "US",
+      "phone": "+1 832-229-0671",
+      "phoneUnformatted": "+18322290671",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 29.7226889,
+        "lng": -95.3704827
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": true,
+      "placeId": "ChIJ748FL7C_QIYRnB3bX0uAgVU",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8640bfb02f058fef:0x5581804b5fdb1d9c",
+      "cid": "6161346826438647196",
+      "reviewsCount": 0,
+      "imagesCount": 5,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:29:45.286Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Str8%20Out%20The%20Gulf%20Seafood&query_place_id=ChIJ748FL7C_QIYRnB3bX0uAgVU",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.70477960940477,-95.32420042973621,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 24,
+      "isAdvertisement": false,
+      "imageUrl": "http://t1.gstatic.com/images?q=tbn:ANd9GcQmfNG4cmECqJDkJFTO7JveoQyljfeBFBg3Rab9f3nxuG9krN5b",
+      "kgmid": "/g/11vksrbqfl"
+    }
+  ]
+}
