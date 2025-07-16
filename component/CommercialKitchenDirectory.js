@@ -5,6 +5,7 @@ import Hero from './Hero'
 import CityEvents from './CityEvents'
 import { fetchEventsFromEventbrite } from '@/lib/eventbrite'
 import Link from 'next/link'
+import SearchBar from './SearchBar'
 
 export async function getServerSideProps(context) {
   const { city, state } = context.params
@@ -229,7 +230,7 @@ const CommercialKitchenDirectory = ({
           {/* Filters Sidebar */}
           {showFilters && (
             <div className="lg:col-span-1">
-              <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 top-24">
+              {/* <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 top-24">
                 <div className="flex items-center justify-between mb-6">
                   <h3 className="text-lg font-bold text-gray-900">
                     Filter Results
@@ -303,7 +304,7 @@ const CommercialKitchenDirectory = ({
                 <button className="w-full px-4 py-2 text-gray-600 hover:text-gray-800 text-sm font-medium mt-2 transition-colors">
                   Clear All Filters
                 </button>
-              </div>
+              </div> */}
 
               {/* Related Cities Tabs */}
               {relatedCities && relatedCities.length > 0 && (
@@ -343,45 +344,6 @@ const CommercialKitchenDirectory = ({
                   </div>
                 </div>
               )}
-
-              {/* Events Sidebar - Only show on mobile when filters are open */}
-              <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 mt-6 lg:hidden">
-                <h3 className="text-lg font-bold text-gray-900 mb-4 flex items-center">
-                  <Calendar className="w-5 h-5 mr-2 text-blue-600" />
-                  Upcoming Events
-                </h3>
-                <div className="space-y-4">
-                  {Array.isArray(events) &&
-                    events.map((event, index) => (
-                      <div
-                        key={index}
-                        className="border border-gray-100 rounded-xl p-4 hover:border-blue-200 transition-colors"
-                      >
-                        <div className="flex items-start gap-3">
-                          <div className="bg-blue-100 text-blue-800 rounded-lg p-2 text-center min-w-[50px]">
-                            <div className="text-xs font-bold">
-                              {event.date}
-                            </div>
-                          </div>
-                          <div className="flex-1">
-                            <h4 className="font-semibold text-gray-900 text-sm mb-1">
-                              {event.title}
-                            </h4>
-                            <p className="text-xs text-gray-600 mb-2">
-                              {event.time} • {event.location}
-                            </p>
-                            <span className="text-xs font-medium text-green-600">
-                              {event.price}
-                            </span>
-                          </div>
-                        </div>
-                      </div>
-                    ))}
-                </div>
-                <button className="w-full mt-4 text-blue-600 hover:text-blue-700 text-sm font-medium">
-                  View All Events →
-                </button>
-              </div>
             </div>
           )}
 
@@ -390,14 +352,13 @@ const CommercialKitchenDirectory = ({
             {/* Results Header */}
             <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-6">
               <div>
-                <h2 className="text-2xl font-bold text-gray-900 mb-2">
+                <h1 className="text-3xl font-bold text-gray-900 mb-2">
                   Commercial Kitchens in {city}
-                </h2>
+                </h1>
                 <p className="text-gray-600">
                   Showing {displayKitchens.length} verified kitchens
                 </p>
               </div>
-
               <div className="flex items-center gap-3 mt-4 sm:mt-0">
                 {/* Filter Toggle */}
                 <button

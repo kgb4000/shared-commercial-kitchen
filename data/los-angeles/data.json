@@ -3,64 +3,1024 @@
   "city": "Los Angeles",
   "kitchens": [
     {
-      "title": "Alamo Kitchens",
+      "title": "Onkitchens",
       "price": null,
-      "categoryName": "Coworking space",
-      "address": "11825 West Ave #102, San Antonio, TX 78216",
-      "neighborhood": "San Antonio International Airport Vicinity",
-      "street": "11825 West Ave #102",
-      "city": "San Antonio",
-      "postalCode": "78216",
-      "state": "Texas",
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "15136 Stagg St, Van Nuys, CA 91405",
+      "neighborhood": "Van Nuys",
+      "street": "15136 Stagg St",
+      "city": "Van Nuys",
+      "postalCode": "91405",
+      "state": "California",
       "countryCode": "US",
-      "website": "https://www.alamokitchen.com/",
-      "phone": "(210) 909-9988",
-      "phoneUnformatted": "+12109099988",
+      "website": "https://www.onkitchens.com/",
+      "phone": "(844) 435-1255",
+      "phoneUnformatted": "+18444351255",
       "claimThisBusiness": false,
       "location": {
-        "lat": 29.549473,
-        "lng": -98.5063128
+        "lat": 34.2119976,
+        "lng": -118.4633318
       },
-      "totalScore": 4.8,
+      "totalScore": 5,
       "permanentlyClosed": false,
       "temporarilyClosed": false,
-      "placeId": "ChIJvTgqFwdhXIYReMjk7jSpba8",
-      "categories": [
-        "Coworking space",
-        "Children's party service",
-        "Consultant",
-        "Cooking class",
-        "Caterer",
-        "Shared-use commercial kitchen"
-      ],
-      "fid": "0x865c6107172a38bd:0xaf6da934eee4c878",
-      "cid": "12640945773910214776",
-      "reviewsCount": 15,
-      "imagesCount": 30,
+      "placeId": "ChIJO4ZPSamXwoARDbFygF2lq5Q",
+      "categories": ["Shared-use commercial kitchen", "Kitchen supply store"],
+      "fid": "0x80c297a9494f863b:0x94aba55d8072b10d",
+      "cid": "10712837959636398349",
+      "reviewsCount": 27,
+      "imagesCount": 17,
       "imageCategories": [],
-      "scrapedAt": "2025-07-15T05:07:12.204Z",
+      "scrapedAt": "2025-07-15T05:15:31.008Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [
         {
           "day": "Monday",
-          "hours": "9 AM to 4 PM"
+          "hours": "Open 24 hours"
         },
         {
           "day": "Tuesday",
-          "hours": "9 AM to 4 PM"
+          "hours": "Open 24 hours"
         },
         {
           "day": "Wednesday",
-          "hours": "9 AM to 4 PM"
+          "hours": "Open 24 hours"
         },
         {
           "day": "Thursday",
-          "hours": "9 AM to 4 PM"
+          "hours": "Open 24 hours"
         },
         {
           "day": "Friday",
-          "hours": "9 AM to 4 PM"
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Onkitchens&query_place_id=ChIJO4ZPSamXwoARDbFygF2lq5Q",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.055185398993856,-118.6163245590756,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noaSDNczuiPc9REUGdRjIYQ35L2U28U4tKmv1YXOK5dWfNQbADk0AAP3WFTQzeo9chfSlB5PB2lmBt1cdQFQoEuuRrEysaQIGhyeVEXOyPDOoHO5GrPLF1c1j8qmFvxUvQ26WdQ1A=w408-h544-k-no",
+      "kgmid": "/g/11jj2rx1km"
+    },
+    {
+      "title": "Laurel Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "6732 Crenshaw Blvd, Los Angeles, CA 90043",
+      "neighborhood": "South Los Angeles",
+      "street": "6732 Crenshaw Blvd",
+      "city": "Los Angeles",
+      "postalCode": "90043",
+      "state": "California",
+      "countryCode": "US",
+      "website": "http://laurelkitchens.com/",
+      "phone": "(323) 455-0058",
+      "phoneUnformatted": "+13234550058",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.9771723,
+        "lng": -118.3304995
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJoaoD-bC3woAR89Ddgn8w3vo",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Retail space rental agency"
+      ],
+      "fid": "0x80c2b7b0f903aaa1:0xfade307f82ddd0f3",
+      "cid": "18076939278526304499",
+      "reviewsCount": 7,
+      "imagesCount": 91,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:15:31.010Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Laurel%20Kitchens&query_place_id=ChIJoaoD-bC3woAR89Ddgn8w3vo",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.055185398993856,-118.6163245590756,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 3,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPq0fwfC3J3K6N7iD9isdoTtqUUrvjKNjGo_-2d=w408-h306-k-no",
+      "kgmid": "/g/11rfs26frm"
+    },
+    {
+      "title": "Kitchen Place",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "9030 Owensmouth Ave, Canoga Park, CA 91304",
+      "neighborhood": "Canoga Park",
+      "street": "9030 Owensmouth Ave",
+      "city": "Canoga Park",
+      "postalCode": "91304",
+      "state": "California",
+      "countryCode": "US",
+      "website": "http://kitchenplace.us/",
+      "phone": "(888) 910-3632",
+      "phoneUnformatted": "+18889103632",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.2345446,
+        "lng": -118.6012048
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJf_qKF9idwoARVU_GUVSHekI",
+      "categories": ["Shared-use commercial kitchen", "Kitchen supply store"],
+      "fid": "0x80c29dd8178afa7f:0x427a875451c64f55",
+      "cid": "4790289949880897365",
+      "reviewsCount": 37,
+      "imagesCount": 31,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:15:31.010Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Kitchen%20Place&query_place_id=ChIJf_qKF9idwoARVU_GUVSHekI",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.055185398993856,-118.6163245590756,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 4,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPtZmMJPvklzIPjnlQI6YEQHqarfTCyLCYW6h1m=w408-h298-k-no",
+      "kgmid": "/g/11g4f46ycd"
+    },
+    {
+      "title": "Onkitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1870 W Washington Blvd, Los Angeles, CA 90007",
+      "neighborhood": "Pico-Union",
+      "street": "1870 W Washington Blvd",
+      "city": "Los Angeles",
+      "postalCode": "90007",
+      "state": "California",
+      "countryCode": "US",
+      "website": "http://www.onkitchens.com/",
+      "phone": "(844) 435-1255",
+      "phoneUnformatted": "+18444351255",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.0397469,
+        "lng": -118.2997476
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJtQs7gJa5woARLYiNjfANMw8",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x80c2b996803b0bb5:0xf330df08d8d882d",
+      "cid": "1095234461199337517",
+      "reviewsCount": 9,
+      "imagesCount": 6,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:15:31.010Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Onkitchens&query_place_id=ChIJtQs7gJa5woARLYiNjfANMw8",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.055185398993856,-118.6163245590756,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 5,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMUCTOcths2TvMMm2J0vn2inlui1FsU0P6IKvV3=w408-h272-k-no",
+      "kgmid": "/g/11tsvcvylk"
+    },
+    {
+      "title": "Maker Kitchens: Fulton Ave",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "7333 Fulton Ave, North Hollywood, CA 91605",
+      "neighborhood": "North Hollywood",
+      "street": "7333 Fulton Ave",
+      "city": "North Hollywood",
+      "postalCode": "91605",
+      "state": "California",
+      "countryCode": "US",
+      "website": "http://makerkitchens.com/",
+      "phone": "(617) 233-1965",
+      "phoneUnformatted": "+16172331965",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.2040102,
+        "lng": -118.4232015
+      },
+      "totalScore": 4.5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJH4isq96XwoARwm0OdgCGkdQ",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x80c297deabac881f:0xd4918600760e6dc2",
+      "cid": "15317171144202546626",
+      "reviewsCount": 4,
+      "imagesCount": 2,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:15:31.010Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Maker%20Kitchens%3A%20Fulton%20Ave&query_place_id=ChIJH4isq96XwoARwm0OdgCGkdQ",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.055185398993856,-118.6163245590756,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 6,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JPAyX-9W4JTJgU8CLvTVjg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=264.40067&pitch=0&thumbfov=100",
+      "kgmid": "/g/11f666g14y"
+    },
+    {
+      "title": "Amped Kitchens L.A. South",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "6130 S Avalon Blvd, Los Angeles, CA 90003",
+      "neighborhood": "Florence",
+      "street": "6130 S Avalon Blvd",
+      "city": "Los Angeles",
+      "postalCode": "90003",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://www.ampedkitchens.com/los-angeles?utm_source=google&utm_medium=organic&utm_campaign=gmb_website_south",
+      "phone": "(872) 240-8731",
+      "phoneUnformatted": "+18722408731",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.9835853,
+        "lng": -118.2642745
+      },
+      "totalScore": 3.7,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJXeRg29fJwoARgWjgK6kukjA",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Food manufacturing supply"
+      ],
+      "fid": "0x80c2c9d7db60e45d:0x30922ea92be06881",
+      "cid": "3499911164540774529",
+      "reviewsCount": 22,
+      "imagesCount": 10,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:15:31.010Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Amped%20Kitchens%20L.A.%20South&query_place_id=ChIJXeRg29fJwoARgWjgK6kukjA",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.055185398993856,-118.6163245590756,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 7,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNit8rfJmDXlPmJqWfAljyLUg2S4A_0R85duaGc=w413-h240-k-no",
+      "kgmid": "/g/11fp577km1"
+    },
+    {
+      "title": "Crafted Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "672 S Santa Fe Ave, Los Angeles, CA 90021",
+      "neighborhood": "Arts District",
+      "street": "672 S Santa Fe Ave",
+      "city": "Los Angeles",
+      "postalCode": "90021",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://craftedkitchenla.com/",
+      "phone": "(213) 477-1127",
+      "phoneUnformatted": "+12134771127",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.0359673,
+        "lng": -118.2301606
+      },
+      "totalScore": 4.7,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJkYp-HCLGwoARbfBvOmCmj4Y",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Coworking space",
+        "Event venue",
+        "Photography studio"
+      ],
+      "fid": "0x80c2c6221c7e8a91:0x868fa6603a6ff06d",
+      "cid": "9696151454979453037",
+      "reviewsCount": 34,
+      "imagesCount": 37,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:15:31.011Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "4 AM to 4 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "5 AM to 12 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Crafted%20Kitchen&query_place_id=ChIJkYp-HCLGwoARbfBvOmCmj4Y",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.055185398993856,-118.6163245590756,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 9,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noiTj9gV4dDg6pJVYgAf6hAk7e7ocOGPn5c6eVH4TzPm_0fGE2fHgphtsnrI9nAay_b_P9Mpax4zTd5-e8eDamHXXn-T2Q1YJlSVN2GMbYhW0lKZAS5GNvP-0keFjwMSSi2nhI=w408-h251-k-no",
+      "kgmid": "/g/11cls7kxtj"
+    },
+    {
+      "title": "Shared Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "5528 Satsuma Ave, North Hollywood, CA 91601",
+      "neighborhood": "North Hollywood",
+      "street": "5528 Satsuma Ave",
+      "city": "North Hollywood",
+      "postalCode": "91601",
+      "state": "California",
+      "countryCode": "US",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 34.1710651,
+        "lng": -118.3672589
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ8V0NH72VwoARIoyHZSuuPIs",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x80c295bd1f0d5df1:0x8b3cae2b65878c22",
+      "cid": "10033085571284831266",
+      "reviewsCount": 0,
+      "imagesCount": 2,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:15:31.011Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Shared%20Kitchens&query_place_id=ChIJ8V0NH72VwoARIoyHZSuuPIs",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.055185398993856,-118.6163245590756,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 10,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojtB9pbKi0vpg8tULgs4xafnAw0eCoTjv8QN_djfR5HJZjXPuGR3ugx8uF6vPEj1Ek__CTBbaRY6wOD622F6RnMLVDu-yE6AXpBr-cT57nUOkYhtl6fVRCF3UOJoooeLFuZev_=w408-h286-k-no",
+      "kgmid": "/g/11nxt2_66p"
+    },
+    {
+      "title": "Cordova Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1631 Cordova St, Los Angeles, CA 90007",
+      "neighborhood": "Pico-Union",
+      "street": "1631 Cordova St",
+      "city": "Los Angeles",
+      "postalCode": "90007",
+      "state": "California",
+      "countryCode": "US",
+      "website": "http://cordovakitchens.com/",
+      "phone": "(818) 402-5219",
+      "phoneUnformatted": "+18184025219",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.0393687,
+        "lng": -118.29263
+      },
+      "totalScore": 3.7,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJRUrRKrrHwoARiFpUzN_0-9w",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Food and beverage consultant",
+        "Self-catering accommodation"
+      ],
+      "fid": "0x80c2c7ba2ad14a45:0xdcfbf4dfcc545a88",
+      "cid": "15923590149541485192",
+      "reviewsCount": 3,
+      "imagesCount": 31,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:15:31.011Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Cordova%20Kitchen&query_place_id=ChIJRUrRKrrHwoARiFpUzN_0-9w",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.055185398993856,-118.6163245590756,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 11,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO-yK2cYNWsO1m-Re0IfEjK-73b_0WIrwnjaEwL=w408-h272-k-no",
+      "kgmid": "/g/11mhd434b3"
+    },
+    {
+      "title": "The Hub Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1100 E 14th Pl, Los Angeles, CA 90021",
+      "neighborhood": "Fashion District",
+      "street": "1100 E 14th Pl",
+      "city": "Los Angeles",
+      "postalCode": "90021",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://www.thehubkitchens.com/about-us",
+      "phone": "(323) 445-0064",
+      "phoneUnformatted": "+13234450064",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.0283523,
+        "lng": -118.2495785
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJq6ouqivGwoARPj7ftPcHg6I",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x80c2c62baa2eaaab:0xa28307f7b4df3e3e",
+      "cid": "11710212216566267454",
+      "reviewsCount": 3,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:15:31.011Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Hub%20Kitchens&query_place_id=ChIJq6ouqivGwoARPj7ftPcHg6I",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.055185398993856,-118.6163245590756,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 12,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d-YfAAqUbjOv_ZtQM08i5A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=211.24506&pitch=0&thumbfov=100",
+      "kgmid": "/g/11p73qjk8c"
+    },
+    {
+      "title": "Chef's Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1716 S Robertson Blvd, Los Angeles, CA 90035",
+      "neighborhood": "Pico-Robertson",
+      "street": "1716 S Robertson Blvd",
+      "city": "Los Angeles",
+      "postalCode": "90035",
+      "state": "California",
+      "countryCode": "US",
+      "website": "http://www.chefskitchens.com/",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.0483657,
+        "lng": -118.3854973
+      },
+      "totalScore": 1,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJEWX1mGa5woARaKnalqR1JwU",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x80c2b96698f56511:0x52775a496daa968",
+      "cid": "371394844047354216",
+      "reviewsCount": 1,
+      "imagesCount": 8,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:15:31.012Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10:30 AM to 10:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10:30 AM to 10:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10:30 AM to 10:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10:30 AM to 10:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10:30 AM to 11 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10:30 AM to 11 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10:30 AM to 10:30 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Chef's%20Kitchens&query_place_id=ChIJEWX1mGa5woARaKnalqR1JwU",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.055185398993856,-118.6163245590756,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 13,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPboKBMthZeT-NPZNdiOYa9q5pPUZV93joqmUGO=w408-h272-k-no",
+      "kgmid": "/g/1thx49kl"
+    },
+    {
+      "title": "DTLA Kitchens - Commercial kitchen Rental",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3212 E Olympic Blvd, Los Angeles, CA 90023",
+      "neighborhood": "Boyle Heights",
+      "street": "3212 E Olympic Blvd",
+      "city": "Los Angeles",
+      "postalCode": "90023",
+      "state": "California",
+      "countryCode": "US",
+      "website": "http://www.dtlakitchens.com/",
+      "phone": "(310) 461-8200",
+      "phoneUnformatted": "+13104618200",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.0195119,
+        "lng": -118.2098723
+      },
+      "totalScore": 3.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJPTKFUEvJwoAR4tbd3vQbLlE",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Food and beverage consultant",
+        "Food manufacturer",
+        "Food manufacturing supply",
+        "Delivery Restaurant"
+      ],
+      "fid": "0x80c2c94b5085323d:0x512e1bf4deddd6e2",
+      "cid": "5849643704525903586",
+      "reviewsCount": 7,
+      "imagesCount": 22,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:15:31.012Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 6 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 6 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 6 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 6 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 6 PM"
         },
         {
           "day": "Saturday",
@@ -72,6 +1032,66 @@
         }
       ],
       "additionalOpeningHours": {
+        "Delivery": [
+          {
+            "day": "Monday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Thursday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Friday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Saturday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Open 24 hours"
+          }
+        ],
+        "Access": [
+          {
+            "day": "Monday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Thursday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Friday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Saturday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Open 24 hours"
+          }
+        ],
         "Kitchen": [
           {
             "day": "Monday",
@@ -107,408 +1127,6 @@
       "placesTags": [],
       "reviewsTags": [],
       "additionalInfo": {
-        "From the business": [
-          {
-            "Identifies as Black-owned": true
-          },
-          {
-            "Identifies as women-owned": true
-          }
-        ],
-        "Service options": [
-          {
-            "Delivery": true
-          },
-          {
-            "Takeout": true
-          }
-        ],
-        "Accessibility": [
-          {
-            "Wheelchair accessible entrance": true
-          },
-          {
-            "Wheelchair accessible parking lot": true
-          },
-          {
-            "Wheelchair accessible restroom": true
-          },
-          {
-            "Wheelchair accessible seating": true
-          }
-        ],
-        "Amenities": [
-          {
-            "Gender-neutral restroom": true
-          }
-        ],
-        "Payments": [
-          {
-            "Credit cards": true
-          },
-          {
-            "Debit cards": true
-          },
-          {
-            "Credit cards": true
-          }
-        ],
-        "Parking": [
-          {
-            "Free parking lot": true
-          },
-          {
-            "On-site parking": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=Alamo%20Kitchens&query_place_id=ChIJvTgqFwdhXIYReMjk7jSpba8",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.458609750000004,-98.38134807144172,13z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 1,
-      "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMVAyHVYVx97FRjcgpK310yIdtw3Rt5D9-X2DiU=w408-h544-k-no",
-      "kgmid": "/g/11f9_z55ml"
-    },
-    {
-      "title": "Lombrano Food Hall Commercial Kitchens",
-      "price": null,
-      "categoryName": "Shared-use commercial kitchen",
-      "address": "427 Lombrano St, San Antonio, TX 78207",
-      "neighborhood": "Inner West Side",
-      "street": "427 Lombrano St",
-      "city": "San Antonio",
-      "postalCode": "78207",
-      "state": "Texas",
-      "countryCode": "US",
-      "website": "https://cloudkitchens.com/locations/san-antonio/lombrano/?utm_source=gmb&utm_medium=organic&utm_content=LombranoFoodHall",
-      "phone": "(206) 865-6298",
-      "phoneUnformatted": "+12068656298",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 29.4419395,
-        "lng": -98.5105752
-      },
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJ5cn0vpJfXIYRtBq1pTmCqSs",
-      "categories": [
-        "Shared-use commercial kitchen",
-        "Delivery service",
-        "Takeout Restaurant"
-      ],
-      "fid": "0x865c5f92bef4c9e5:0x2ba98239a5b51ab4",
-      "cid": "3146188998799858356",
-      "reviewsCount": 0,
-      "imagesCount": 6,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-15T05:07:12.206Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [
-        {
-          "day": "Monday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Tuesday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Wednesday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Thursday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Friday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Saturday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Sunday",
-          "hours": "Open 24 hours"
-        }
-      ],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "Service options": [
-          {
-            "Delivery": true
-          }
-        ],
-        "Accessibility": [
-          {
-            "Wheelchair accessible entrance": true
-          },
-          {
-            "Wheelchair accessible parking lot": true
-          }
-        ],
-        "Payments": [
-          {
-            "Credit cards": true
-          },
-          {
-            "NFC mobile payments": true
-          }
-        ],
-        "Parking": [
-          {
-            "Free parking lot": true
-          },
-          {
-            "Free street parking": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=Lombrano%20Food%20Hall%20Commercial%20Kitchens&query_place_id=ChIJ5cn0vpJfXIYRtBq1pTmCqSs",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.458609750000004,-98.38134807144172,13z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 2,
-      "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNoXEpGv3oXrgC2V7Xsm898AHXL87HUy06auub6=w426-h240-k-no",
-      "kgmid": "/g/11q9scmh63"
-    },
-    {
-      "title": "La Cocina at Maestro - Comercial Kitchen",
-      "price": null,
-      "categoryName": "Shared-use commercial kitchen",
-      "address": "1811 S Laredo St, San Antonio, TX 78207",
-      "neighborhood": "Inner West Side",
-      "street": "1811 S Laredo St",
-      "city": "San Antonio",
-      "postalCode": "78207",
-      "state": "Texas",
-      "countryCode": "US",
-      "phone": "(210) 952-6672",
-      "phoneUnformatted": "+12109526672",
-      "claimThisBusiness": true,
-      "location": {
-        "lat": 29.4119196,
-        "lng": -98.5118746
-      },
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJ3wGIAwJZXIYRAgWG0eJnnJ8",
-      "categories": ["Shared-use commercial kitchen"],
-      "fid": "0x865c5902038801df:0x9f9c67e2d1860502",
-      "cid": "11501181772272895234",
-      "reviewsCount": 0,
-      "imagesCount": 9,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-15T05:07:12.206Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [
-        {
-          "day": "Monday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Tuesday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Wednesday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Thursday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Friday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Saturday",
-          "hours": "Closed"
-        },
-        {
-          "day": "Sunday",
-          "hours": "Closed"
-        }
-      ],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "Accessibility": [
-          {
-            "Wheelchair accessible entrance": true
-          },
-          {
-            "Wheelchair accessible parking lot": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=La%20Cocina%20at%20Maestro%20-%20Comercial%20Kitchen&query_place_id=ChIJ3wGIAwJZXIYRAgWG0eJnnJ8",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.458609750000004,-98.38134807144172,13z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 3,
-      "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npw6PRHr2Ji1T2kzmDLKwDLqGSnpfgb5es-yU9ocoZ7Qpgb-tWaTaWPaoNfbZoow6ZLVZ5Lrqv5O_9KOoFmS76gwOB2bqmZJGovlhdaInn2O0H-5NXmgLsazCHpnTsCPc7D84AKwA=w408-h271-k-no",
-      "kgmid": "/g/11q85mv353"
-    },
-    {
-      "title": "LocalSprout Food Hub",
-      "price": null,
-      "categoryName": "Shared-use commercial kitchen",
-      "address": "503 Chestnut St, San Antonio, TX 78202",
-      "neighborhood": "Dignowity Hill",
-      "street": "503 Chestnut St",
-      "city": "San Antonio",
-      "postalCode": "78202",
-      "state": "Texas",
-      "countryCode": "US",
-      "website": "http://www.localsprout.com/",
-      "phone": "(603) 759-9781",
-      "phoneUnformatted": "+16037599781",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 29.4266267,
-        "lng": -98.4793434
-      },
-      "totalScore": 5,
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJZfqwF8P1XIYRdMtRH6UZA6A",
-      "categories": [
-        "Shared-use commercial kitchen",
-        "Coffee shop",
-        "Food manufacturer",
-        "Food producer"
-      ],
-      "fid": "0x865cf5c317b0fa65:0xa00319a51f51cb74",
-      "cid": "11530087667984354164",
-      "reviewsCount": 4,
-      "imagesCount": 1,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-15T05:07:12.206Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "Service options": [
-          {
-            "Delivery": false
-          }
-        ],
-        "Accessibility": [
-          {
-            "Wheelchair accessible entrance": true
-          },
-          {
-            "Wheelchair accessible parking lot": true
-          }
-        ],
-        "Parking": [
-          {
-            "Free parking lot": true
-          },
-          {
-            "Free street parking": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=LocalSprout%20Food%20Hub&query_place_id=ChIJZfqwF8P1XIYRdMtRH6UZA6A",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.458609750000004,-98.38134807144172,13z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 4,
-      "isAdvertisement": false,
-      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tdgSkon8iW6Mc4qGS0tP5g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=286.033&pitch=0&thumbfov=100",
-      "kgmid": "/g/11h3jhgzmw"
-    },
-    {
-      "title": "SC Commissary & Catering Co.",
-      "price": "$$",
-      "categoryName": "Shared-use commercial kitchen",
-      "address": "5826 Hawk Springs Building #2, San Antonio, TX 78249",
-      "neighborhood": "Tanglewoodridge",
-      "street": "5826 Hawk Springs Building #2",
-      "city": "San Antonio",
-      "postalCode": "78249",
-      "state": "Texas",
-      "countryCode": "US",
-      "website": "http://www.sccommissary.com/",
-      "phone": "(210) 800-8499",
-      "phoneUnformatted": "+12108008499",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 29.5608938,
-        "lng": -98.5998778
-      },
-      "totalScore": 5,
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJ07XCs9lozi0RGD7F7tbxfVI",
-      "categories": [
-        "Shared-use commercial kitchen",
-        "Catering food and drink supplier",
-        "Food producer",
-        "Restaurant supply store"
-      ],
-      "fid": "0x2dce68d9b3c2b5d3:0x527df1d6eec53e18",
-      "cid": "5944172988630122008",
-      "reviewsCount": 3,
-      "imagesCount": 8,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-15T05:07:12.206Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [
-        {
-          "day": "Monday",
-          "hours": "9 AM to 5 PM"
-        },
-        {
-          "day": "Tuesday",
-          "hours": "9 AM to 5 PM"
-        },
-        {
-          "day": "Wednesday",
-          "hours": "9 AM to 5 PM"
-        },
-        {
-          "day": "Thursday",
-          "hours": "9 AM to 5 PM"
-        },
-        {
-          "day": "Friday",
-          "hours": "9 AM to 5 PM"
-        },
-        {
-          "day": "Saturday",
-          "hours": "Closed"
-        },
-        {
-          "day": "Sunday",
-          "hours": "Closed"
-        }
-      ],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
         "Service options": [
           {
             "Delivery": true
@@ -523,1380 +1141,48 @@
           },
           {
             "Wheelchair accessible parking lot": true
-          },
-          {
-            "Wheelchair accessible restroom": true
-          }
-        ],
-        "Amenities": [
-          {
-            "Gender-neutral restroom": true
-          }
-        ],
-        "Payments": [
-          {
-            "Credit cards": true
-          },
-          {
-            "Debit cards": true
-          },
-          {
-            "NFC mobile payments": true
-          },
-          {
-            "Credit cards": true
           }
         ]
       },
       "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=SC%20Commissary%20%26%20Catering%20Co.&query_place_id=ChIJ07XCs9lozi0RGD7F7tbxfVI",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.458609750000004,-98.38134807144172,13z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 6,
-      "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPdh0N9tAROrHxGuqBeAJL-ksqumK2PYAUmnnFI=w408-h298-k-no",
-      "kgmid": "/g/11p5fzrd88"
-    },
-    {
-      "title": "Cruising Kitchens",
-      "price": null,
-      "categoryName": "Manufacturer",
-      "address": "702 San Fernando St, San Antonio, TX 78207",
-      "neighborhood": "Inner West Side",
-      "street": "702 San Fernando St",
-      "city": "San Antonio",
-      "postalCode": "78207",
-      "state": "Texas",
-      "countryCode": "US",
-      "website": "http://www.cruisingkitchens.com/",
-      "phone": "(210) 864-2718",
-      "phoneUnformatted": "+12108642718",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 29.4194015,
-        "lng": -98.5080367
-      },
-      "totalScore": 4.7,
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJByBSlZiLXIYRUbKMKmST8mk",
-      "categories": ["Manufacturer"],
-      "fid": "0x865c8b9895522007:0x69f293642a8cb251",
-      "cid": "7634326376766288465",
-      "reviewsCount": 41,
-      "imagesCount": 84,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-15T05:07:12.632Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [
-        {
-          "day": "Monday",
-          "hours": "8:30 AM to 5 PM"
-        },
-        {
-          "day": "Tuesday",
-          "hours": "8:30 AM to 5 PM"
-        },
-        {
-          "day": "Wednesday",
-          "hours": "8:30 AM to 5 PM"
-        },
-        {
-          "day": "Thursday",
-          "hours": "8:30 AM to 5 PM"
-        },
-        {
-          "day": "Friday",
-          "hours": "8:30 AM to 5 PM"
-        },
-        {
-          "day": "Saturday",
-          "hours": "Closed"
-        },
-        {
-          "day": "Sunday",
-          "hours": "Closed"
-        }
-      ],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "Accessibility": [
-          {
-            "Wheelchair accessible entrance": true
-          },
-          {
-            "Wheelchair accessible parking lot": true
-          }
-        ],
-        "Payments": [
-          {
-            "Credit cards": true
-          },
-          {
-            "Debit cards": true
-          },
-          {
-            "Credit cards": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=Cruising%20Kitchens&query_place_id=ChIJByBSlZiLXIYRUbKMKmST8mk",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.57799477374045,-98.38134807144172,13z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 3,
-      "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPOMxnjsO8IeUP8rsmuZ0BXLfl666i7-7LBR6Sp=w408-h272-k-no",
-      "kgmid": "/g/1thlzw7r"
-    },
-    {
-      "title": "Kitchen at the Co-Op",
-      "price": null,
-      "categoryName": "Shared-use commercial kitchen",
-      "address": "11911 Crosswinds Way Ste. 307, San Antonio, TX 78233",
-      "neighborhood": "Uptown Central",
-      "street": "11911 Crosswinds Way Ste. 307",
-      "city": "San Antonio",
-      "postalCode": "78233",
-      "state": "Texas",
-      "countryCode": "US",
-      "phone": "(210) 638-8822",
-      "phoneUnformatted": "+12106388822",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 29.5476763,
-        "lng": -98.375856
-      },
-      "permanentlyClosed": true,
-      "temporarilyClosed": false,
-      "placeId": "ChIJo2NW1fmNXIYR7E1d85dYOd4",
-      "categories": ["Shared-use commercial kitchen"],
-      "fid": "0x865c8df9d55663a3:0xde395897f35d4dec",
-      "cid": "16012927359738793452",
-      "reviewsCount": 0,
-      "imagesCount": null,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-15T05:07:12.633Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "From the business": [
-          {
-            "Identifies as women-owned": true
-          }
-        ],
-        "Amenities": [
-          {
-            "Gender-neutral restroom": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=Kitchen%20at%20the%20Co-Op&query_place_id=ChIJo2NW1fmNXIYR7E1d85dYOd4",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.57799477374045,-98.38134807144172,13z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 16,
-      "isAdvertisement": false,
-      "kgmid": "/g/11q91nctym"
-    },
-    {
-      "title": "College Hunks Hauling Junk and Moving Northeast San Antonio",
-      "price": null,
-      "categoryName": "Mover",
-      "address": "6605 Topper Pkwy, San Antonio, TX 78233",
-      "neighborhood": "Uptown Central",
-      "street": "6605 Topper Pkwy",
-      "city": "San Antonio",
-      "postalCode": "78233",
-      "state": "Texas",
-      "countryCode": "US",
-      "website": "https://www.collegehunkshaulingjunk.com/north-east-san-antonio",
-      "phone": "(210) 942-0964",
-      "phoneUnformatted": "+12109420964",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 29.566527,
-        "lng": -98.3587207
-      },
-      "totalScore": 4.9,
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJvyTRkTuNXIYROgIT_D5kzEc",
-      "categories": [
-        "Mover",
-        "Junk removal service",
-        "Moving and storage service"
-      ],
-      "fid": "0x865c8d3b91d124bf:0x47cc643efc13023a",
-      "cid": "5173620293621711418",
-      "reviewsCount": 627,
-      "reviewsDistribution": {
-        "oneStar": 13,
-        "twoStar": 1,
-        "threeStar": 0,
-        "fourStar": 5,
-        "fiveStar": 608
-      },
-      "imagesCount": 51,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-15T05:07:16.283Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [
-        {
-          "day": "Monday",
-          "hours": "8 AM to 9 PM"
-        },
-        {
-          "day": "Tuesday",
-          "hours": "8 AM to 9 PM"
-        },
-        {
-          "day": "Wednesday",
-          "hours": "8 AM to 9 PM"
-        },
-        {
-          "day": "Thursday",
-          "hours": "8 AM to 9 PM"
-        },
-        {
-          "day": "Friday",
-          "hours": "8 AM to 9 PM"
-        },
-        {
-          "day": "Saturday",
-          "hours": "8 AM to 9 PM"
-        },
-        {
-          "day": "Sunday",
-          "hours": "9 AM to 9 PM"
-        }
-      ],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "Accessibility": [
-          {
-            "Wheelchair accessible entrance": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=College%20Hunks%20Hauling%20Junk%20and%20Moving%20Northeast%20San%20Antonio&query_place_id=ChIJvyTRkTuNXIYROgIT_D5kzEc",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.57799477374045,-98.38134807144172,13z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 21,
-      "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP4z8U1qbiCk4yBtVV_xhG_49VVOdWa0R0d8uBD=w408-h271-k-no",
-      "kgmid": "/g/11s3ydbqm3"
-    },
-    {
-      "title": "The Home Depot",
-      "description": "Chain home improvement retailer for tools, appliances & other products (some offer truck rentals).",
-      "price": "$",
-      "categoryName": "Home improvement store",
-      "address": "2658 SW Military Dr, San Antonio, TX 78224",
-      "neighborhood": "South San Antonio",
-      "street": "2658 SW Military Dr",
-      "city": "San Antonio",
-      "postalCode": "78224",
-      "state": "Texas",
-      "countryCode": "US",
-      "website": "https://www.homedepot.com/l/Military/TX/San-Antonio/78224/6529?emt=MSGMBGoogleMaps",
-      "phone": "(210) 932-1199",
-      "phoneUnformatted": "+12109321199",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 29.3550542,
-        "lng": -98.5389724
-      },
-      "locatedIn": "Compact Power Equipment Rental",
-      "totalScore": 4.1,
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJQ0hUfLdZXIYRhRdSNBUhvmw",
-      "categories": [
-        "Home improvement store",
-        "Appliance store",
-        "Bathroom supply store",
-        "Cabinet store",
-        "Hardware store",
-        "Lighting store",
-        "Paint store",
-        "Rug store",
-        "Tool store",
-        "Window treatment store"
-      ],
-      "fid": "0x865c59b77c544843:0x6cbe211534521785",
-      "cid": "7835736776627066757",
-      "reviewsCount": 2999,
-      "reviewsDistribution": {
-        "oneStar": 316,
-        "twoStar": 110,
-        "threeStar": 267,
-        "fourStar": 636,
-        "fiveStar": 1670
-      },
-      "imagesCount": 840,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-15T05:07:20.467Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [
-        {
-          "day": "Monday",
-          "hours": "6 AM to 10 PM"
-        },
-        {
-          "day": "Tuesday",
-          "hours": "6 AM to 10 PM"
-        },
-        {
-          "day": "Wednesday",
-          "hours": "6 AM to 10 PM"
-        },
-        {
-          "day": "Thursday",
-          "hours": "6 AM to 10 PM"
-        },
-        {
-          "day": "Friday",
-          "hours": "6 AM to 10 PM"
-        },
-        {
-          "day": "Saturday",
-          "hours": "6 AM to 10 PM"
-        },
-        {
-          "day": "Sunday",
-          "hours": "8 AM to 8 PM"
-        }
-      ],
-      "additionalOpeningHours": {
-        "Compact Power Equipment Rental": [
-          {
-            "day": "Monday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Tuesday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Wednesday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Thursday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Friday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Saturday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Sunday",
-            "hours": "8 AM–8 PM"
-          }
-        ],
-        "Garden Center at The Home Depot": [
-          {
-            "day": "Monday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Tuesday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Wednesday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Thursday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Friday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Saturday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Sunday",
-            "hours": "8 AM–8 PM"
-          }
-        ],
-        "Home Services at The Home Depot": [
-          {
-            "day": "Monday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Tuesday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Wednesday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Thursday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Friday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Saturday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Sunday",
-            "hours": "8 AM–8 PM"
-          }
-        ],
-        "Pro Desk at The Home Depot": [
-          {
-            "day": "Monday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Tuesday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Wednesday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Thursday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Friday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Saturday",
-            "hours": "6 AM–10 PM"
-          },
-          {
-            "day": "Sunday",
-            "hours": "8 AM–8 PM"
-          }
-        ],
-        "Rental Center at The Home Depot": [
-          {
-            "day": "Monday",
-            "hours": "6 AM–8 PM"
-          },
-          {
-            "day": "Tuesday",
-            "hours": "6 AM–8 PM"
-          },
-          {
-            "day": "Wednesday",
-            "hours": "6 AM–8 PM"
-          },
-          {
-            "day": "Thursday",
-            "hours": "6 AM–8 PM"
-          },
-          {
-            "day": "Friday",
-            "hours": "6 AM–8 PM"
-          },
-          {
-            "day": "Saturday",
-            "hours": "6 AM–8 PM"
-          },
-          {
-            "day": "Sunday",
-            "hours": "8 AM–8 PM"
-          }
-        ]
-      },
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "Service options": [
-          {
-            "Curbside pickup": true
-          },
-          {
-            "Delivery": true
-          },
-          {
-            "In-store pickup": true
-          },
-          {
-            "In-store shopping": true
-          },
-          {
-            "Onsite services": true
-          }
-        ],
-        "Accessibility": [
-          {
-            "Wheelchair accessible entrance": true
-          },
-          {
-            "Wheelchair accessible parking lot": true
-          }
-        ],
-        "Offerings": [
-          {
-            "Assembly service": true
-          }
-        ],
-        "Amenities": [
-          {
-            "Wi-Fi": true
-          },
-          {
-            "Free Wi-Fi": true
-          }
-        ],
-        "Planning": [
-          {
-            "Quick visit": true
-          }
-        ],
-        "Recycling": [
-          {
-            "Batteries": true
-          },
-          {
-            "Light bulbs": true
-          }
-        ],
-        "Payments": [
-          {
-            "Checks": true
-          },
-          {
-            "Credit cards": true
-          },
-          {
-            "Debit cards": true
-          },
-          {
-            "NFC mobile payments": true
-          },
-          {
-            "Credit cards": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "updatesFromCustomers": {
-        "text": "Are they not gonna refund me",
-        "language": "en",
-        "postDate": "a year ago",
-        "postedBy": {
-          "name": "Nathaniel Arreguin",
-          "url": "https://www.google.com/maps/contrib/111111566519072907712?hl=en-US",
-          "title": "Local Guide",
-          "totalReviews": 44
-        },
-        "media": [
-          {
-            "link": "https://lh3.googleusercontent.com/geougc-cs/AB3l90D0cpJ6tN6ePsqaw1JdlbLo5zML2CexjfI-Ue7itYtY_mt0Zm8UGBT2L6_sSfECCyygk76QdMeNNqkoJNdVDpNPY8EE-QshjNARV5dH4lyUeNSKSXzCTJ81MLR21FXipPKn289W",
-            "postDate": "a year ago"
-          }
-        ]
-      },
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Home%20Depot&query_place_id=ChIJQ0hUfLdZXIYRhRdSNBUhvmw",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.33922472625956,-98.65484132855826,13z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 21,
-      "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nohpWAJuE-HYxi4Ix4NaH0P-ayTPLqTwpx8UC7oYLzWjaa5wF716SL0LaPzPkH1gwS_TlHJXpYH69om-xpoF8G1dKBq78VulAgcoNG9znTK--PxVgMFSPiDBoJ9nyQ17HHvyfqs=w408-h544-k-no",
-      "kgmid": "/g/1td6gxk3"
-    },
-    {
-      "title": "Venture X San Antonio Northwest",
-      "price": null,
-      "categoryName": "Coworking space",
-      "address": "7550 I-10 Suite 800, San Antonio, TX 78229",
-      "neighborhood": "Northwest Side",
-      "street": "7550 I-10 Suite 800",
-      "city": "San Antonio",
-      "postalCode": "78229",
-      "state": "Texas",
-      "countryCode": "US",
-      "website": "https://venturex.com/locations/san-antonio-northwest/",
-      "phone": "(210) 934-6740",
-      "phoneUnformatted": "+12109346740",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 29.5043891,
-        "lng": -98.5512109
-      },
-      "totalScore": 5,
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJjejfAqpfXIYRvNZA7gf4NZ0",
-      "categories": [
-        "Coworking space",
-        "Office space rental agency",
-        "Virtual office rental"
-      ],
-      "fid": "0x865c5faa02dfe88d:0x9d35f807ee40d6bc",
-      "cid": "11328233150666036924",
-      "reviewsCount": 69,
-      "reviewsDistribution": {
-        "oneStar": 0,
-        "twoStar": 0,
-        "threeStar": 1,
-        "fourStar": 1,
-        "fiveStar": 67
-      },
-      "imagesCount": 89,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-15T05:07:31.253Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [
-        {
-          "day": "Monday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Tuesday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Wednesday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Thursday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Friday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Saturday",
-          "hours": "Closed"
-        },
-        {
-          "day": "Sunday",
-          "hours": "Closed"
-        }
-      ],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "From the business": [
-          {
-            "Identifies as Latino-owned": true
-          },
-          {
-            "Identifies as veteran-owned": true
-          }
-        ],
-        "Service options": [
-          {
-            "Online appointments": true
-          },
-          {
-            "Onsite services": true
-          }
-        ],
-        "Accessibility": [
-          {
-            "Wheelchair accessible entrance": true
-          },
-          {
-            "Wheelchair accessible parking lot": true
-          },
-          {
-            "Wheelchair accessible restroom": true
-          },
-          {
-            "Wheelchair accessible seating": true
-          }
-        ],
-        "Crowd": [
-          {
-            "LGBTQ+ friendly": true
-          },
-          {
-            "Transgender safespace": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=Venture%20X%20San%20Antonio%20Northwest&query_place_id=ChIJjejfAqpfXIYRvNZA7gf4NZ0",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.458609750000004,-98.65484132855826,13z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 21,
-      "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPn098Mf6FMbqIkOqswVR23_Z2CRHjs12Ozz7eq=w408-h255-k-no",
-      "kgmid": "/g/11rht80c79"
-    },
-    {
-      "title": "Goettl Air Conditioning and Plumbing - San Antonio TX",
-      "price": null,
-      "categoryName": "Air conditioning repair service",
-      "address": "7847 Fortune Dr, San Antonio, TX 78250",
-      "neighborhood": "Northwest",
-      "street": "7847 Fortune Dr",
-      "city": "San Antonio",
-      "postalCode": "78250",
-      "state": "Texas",
-      "countryCode": "US",
-      "website": "https://www.goettl.com/location/san-antonio-texas/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
-      "phone": "(210) 460-3966",
-      "phoneUnformatted": "+12104603966",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 29.5120043,
-        "lng": -98.6402135
-      },
-      "totalScore": 4.8,
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJv5kztYJnXIYRIzC9hji2uEk",
-      "categories": [
-        "Air conditioning repair service",
-        "Air conditioning contractor",
-        "Air conditioning system supplier",
-        "Air duct cleaning service",
-        "Air filter supplier",
-        "Furnace repair service",
-        "HVAC contractor",
-        "Plumber",
-        "Water filter supplier",
-        "Water softening equipment supplier"
-      ],
-      "fid": "0x865c6782b53399bf:0x49b8b63886bd3023",
-      "cid": "5312196114378469411",
-      "reviewsCount": 8931,
-      "reviewsDistribution": {
-        "oneStar": 337,
-        "twoStar": 85,
-        "threeStar": 75,
-        "fourStar": 185,
-        "fiveStar": 8249
-      },
-      "imagesCount": 422,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-15T05:07:31.253Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [
-        {
-          "day": "Monday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Tuesday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Wednesday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Thursday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Friday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Saturday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Sunday",
-          "hours": "Open 24 hours"
-        }
-      ],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "Service options": [
-          {
-            "Heat pump installation recognized by the US Dept. of Energy": true
-          },
-          {
-            "Onsite services": true
-          }
-        ],
-        "Accessibility": [
-          {
-            "Wheelchair accessible entrance": true
-          },
-          {
-            "Wheelchair accessible parking lot": true
-          }
-        ],
-        "Offerings": [
-          {
-            "Repair services": true
-          }
-        ],
-        "Payments": [
-          {
-            "Credit cards": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=Goettl%20Air%20Conditioning%20and%20Plumbing%20-%20San%20Antonio%20TX&query_place_id=ChIJv5kztYJnXIYRIzC9hji2uEk",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.458609750000004,-98.65484132855826,13z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 22,
-      "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOjifBhw3ohPY3cVsMXSA45QpnlZZigDwOq7ZgD=w408-h272-k-no",
-      "kgmid": "/g/11j2y_87nc"
-    },
-    {
-      "title": "PetSmart",
-      "description": "Chain featuring a range of pets, supplies & food (most offer grooming, boarding & other services).",
-      "price": null,
-      "categoryName": "Pet supply store",
-      "address": "119 SW Loop 410 Bldg 3, San Antonio, TX 78245",
-      "neighborhood": "Far West Side",
-      "street": "119 SW Loop 410 Bldg 3",
-      "city": "San Antonio",
-      "postalCode": "78245",
-      "state": "Texas",
-      "countryCode": "US",
-      "website": "https://www.petsmart.com/stores/us/tx/san-antonio-store1395.html?utm_source=google&utm_medium=organic&utm_campaign=google-my-business",
-      "phone": "(210) 680-7710",
-      "phoneUnformatted": "+12106807710",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 29.4374551,
-        "lng": -98.6469101
-      },
-      "locatedIn": "PetSmart Dog Training",
-      "totalScore": 4.3,
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJCf-UZLhcXIYROWSLawHQLJw",
-      "categories": ["Pet supply store"],
-      "fid": "0x865c5cb86494ff09:0x9c2cd0016b8b6439",
-      "cid": "11253598273409868857",
-      "reviewsCount": 1742,
-      "reviewsDistribution": {
-        "oneStar": 125,
-        "twoStar": 51,
-        "threeStar": 141,
-        "fourStar": 362,
-        "fiveStar": 1063
-      },
-      "imagesCount": 262,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-15T05:07:31.253Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [
-        {
-          "day": "Monday",
-          "hours": "9 AM to 9 PM"
-        },
-        {
-          "day": "Tuesday",
-          "hours": "9 AM to 9 PM"
-        },
-        {
-          "day": "Wednesday",
-          "hours": "9 AM to 9 PM"
-        },
-        {
-          "day": "Thursday",
-          "hours": "9 AM to 9 PM"
-        },
-        {
-          "day": "Friday",
-          "hours": "9 AM to 9 PM"
-        },
-        {
-          "day": "Saturday",
-          "hours": "9 AM to 9 PM"
-        },
-        {
-          "day": "Sunday",
-          "hours": "10 AM to 7 PM"
-        }
-      ],
-      "additionalOpeningHours": {
-        "PetSmart Dog Training": [
-          {
-            "day": "Monday",
-            "hours": "9 AM–9 PM"
-          },
-          {
-            "day": "Tuesday",
-            "hours": "9 AM–9 PM"
-          },
-          {
-            "day": "Wednesday",
-            "hours": "9 AM–9 PM"
-          },
-          {
-            "day": "Thursday",
-            "hours": "9 AM–9 PM"
-          },
-          {
-            "day": "Friday",
-            "hours": "9 AM–9 PM"
-          },
-          {
-            "day": "Saturday",
-            "hours": "9 AM–9 PM"
-          },
-          {
-            "day": "Sunday",
-            "hours": "10 AM–7 PM"
-          }
-        ],
-        "PetSmart Grooming": [
-          {
-            "day": "Monday",
-            "hours": "7 AM–8 PM"
-          },
-          {
-            "day": "Tuesday",
-            "hours": "7 AM–8 PM"
-          },
-          {
-            "day": "Wednesday",
-            "hours": "7 AM–8 PM"
-          },
-          {
-            "day": "Thursday",
-            "hours": "7 AM–9 PM"
-          },
-          {
-            "day": "Friday",
-            "hours": "7 AM–8 PM"
-          },
-          {
-            "day": "Saturday",
-            "hours": "7 AM–8 PM"
-          },
-          {
-            "day": "Sunday",
-            "hours": "8 AM–6 PM"
-          }
-        ]
-      },
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "Service options": [
-          {
-            "Curbside pickup": true
-          },
-          {
-            "Delivery": true
-          },
-          {
-            "In-store pickup": true
-          },
-          {
-            "In-store shopping": true
-          },
-          {
-            "Onsite services": true
-          }
-        ],
-        "Accessibility": [
-          {
-            "Wheelchair accessible entrance": true
-          },
-          {
-            "Wheelchair accessible parking lot": true
-          }
-        ],
-        "Amenities": [
-          {
-            "Wi-Fi": true
-          },
-          {
-            "Free Wi-Fi": true
-          }
-        ],
-        "Planning": [
-          {
-            "Quick visit": true
-          }
-        ],
-        "Payments": [
-          {
-            "Credit cards": true
-          },
-          {
-            "Debit cards": true
-          },
-          {
-            "NFC mobile payments": true
-          },
-          {
-            "Credit cards": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=PetSmart&query_place_id=ChIJCf-UZLhcXIYROWSLawHQLJw",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.458609750000004,-98.65484132855826,13z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 23,
-      "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqUxKxFu6ooSOS7aSYnYbL3GHkjqopXSmkbk7Uq6s40Jr6Sp6InSksPXCN5rDP8D4V77vuMbdXynxvvFlgZ-eOZzrmakAF4YMH-AERUl0LBoixfEiH1WBDMSmD3xrsnwAKvp_uqdA=w408-h408-k-no",
-      "kgmid": "/g/1tfm1wmp"
-    },
-    {
-      "title": "The Mission Kitchen",
-      "price": null,
-      "categoryName": "Food products supplier",
-      "address": "1811 S Laredo St, San Antonio, TX 78207",
-      "neighborhood": "Inner West Side",
-      "street": "1811 S Laredo St",
-      "city": "San Antonio",
-      "postalCode": "78207",
-      "state": "Texas",
-      "countryCode": "US",
-      "website": "http://www.themissionkitchen.com/",
-      "phone": "(571) 882-2433",
-      "phoneUnformatted": "+15718822433",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 29.4121799,
-        "lng": -98.5119233
-      },
-      "totalScore": 4.7,
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJCyHrHcCx5kgRyGdtAeM_W3Q",
-      "categories": ["Food products supplier"],
-      "fid": "0x48e6b1c01deb210b:0x745b3fe3016d67c8",
-      "cid": "8384365375494383560",
-      "reviewsCount": 16,
-      "imagesCount": 11,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-15T05:07:31.750Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [
-        {
-          "day": "Monday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Tuesday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Wednesday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Thursday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Friday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Saturday",
-          "hours": "11 AM to 5 PM"
-        },
-        {
-          "day": "Sunday",
-          "hours": "Closed"
-        }
-      ],
-      "additionalOpeningHours": {
-        "Dinner": [
-          {
-            "day": "Monday",
-            "hours": "Closed"
-          },
-          {
-            "day": "Tuesday",
-            "hours": "3:30–8:30 PM"
-          },
-          {
-            "day": "Wednesday",
-            "hours": "3:30–8:30 PM"
-          },
-          {
-            "day": "Thursday",
-            "hours": "3:30–8:30 PM"
-          },
-          {
-            "day": "Friday",
-            "hours": "3:30–8:30 PM"
-          },
-          {
-            "day": "Saturday",
-            "hours": "11 AM–7 PM"
-          },
-          {
-            "day": "Sunday",
-            "hours": "Closed"
-          }
-        ]
-      },
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "Service options": [
-          {
-            "Onsite services": true
-          },
-          {
-            "Delivery": false
-          },
-          {
-            "English": true
-          }
-        ],
-        "Accessibility": [
-          {
-            "Wheelchair accessible entrance": true
-          },
-          {
-            "Wheelchair accessible parking lot": true
-          },
-          {
-            "Wheelchair accessible restroom": true
-          }
-        ],
-        "Amenities": [
-          {
-            "Restroom": true
-          }
-        ],
-        "Crowd": [
-          {
-            "LGBTQ+ friendly": true
-          },
-          {
-            "Transgender safespace": true
-          }
-        ],
-        "Payments": [
-          {
-            "Credit cards": true
-          }
-        ],
-        "Parking": [
-          {
-            "Free parking lot": true
-          },
-          {
-            "On-site parking": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Mission%20Kitchen&query_place_id=ChIJCyHrHcCx5kgRyGdtAeM_W3Q",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.219839702519113,-98.51809469999999,13z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 14,
-      "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPGsEenT5swNM7vIGnuva7dRyTV8EOrOnAyi--g=w408-h358-k-no",
-      "kgmid": "/g/11tfkq6y47"
-    },
-    {
-      "title": "Commercial Kitchen Parts & Service",
-      "price": null,
-      "categoryName": "Appliance parts supplier",
-      "address": "1377 N Brazos St, San Antonio, TX 78207",
-      "neighborhood": "Inner West Side",
-      "street": "1377 N Brazos St",
-      "city": "San Antonio",
-      "postalCode": "78207",
-      "state": "Texas",
-      "countryCode": "US",
-      "website": "https://www.commercialkitchen.com/",
-      "phone": "(210) 735-2811",
-      "phoneUnformatted": "+12107352811",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 29.440203,
-        "lng": -98.51236
-      },
-      "totalScore": 3.9,
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJu7f05TtfXIYReA5C_nYE-Yw",
-      "categories": [
-        "Appliance parts supplier",
-        "Appliance repair service",
-        "Plumbing supply store",
-        "Refrigerator store",
-        "Small appliance repair service"
-      ],
-      "fid": "0x865c5f3be5f4b7bb:0x8cf90476fe420e78",
-      "cid": "10158155343629258360",
-      "reviewsCount": 74,
-      "imagesCount": 13,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-15T05:07:42.423Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [
-        {
-          "day": "Monday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Tuesday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Wednesday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Thursday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Friday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Saturday",
-          "hours": "Closed"
-        },
-        {
-          "day": "Sunday",
-          "hours": "Closed"
-        }
-      ],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "Service options": [
-          {
-            "Delivery": true
-          },
-          {
-            "In-store pickup": true
-          }
-        ],
-        "Accessibility": [
-          {
-            "Wheelchair accessible parking lot": true
-          }
-        ],
-        "Offerings": [
-          {
-            "Repair services": true
-          }
-        ],
-        "Planning": [
-          {
-            "Quick visit": true
-          }
-        ],
-        "Payments": [
-          {
-            "Credit cards": true
-          },
-          {
-            "Debit cards": true
-          },
-          {
-            "NFC mobile payments": true
-          },
-          {
-            "Credit cards": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=Commercial%20Kitchen%20Parts%20%26%20Service&query_place_id=ChIJu7f05TtfXIYReA5C_nYE-Yw",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.549473,-98.5063128,13.801674642269083z?hl=en",
+      "url": "https://www.google.com/maps/search/?api=1&query=DTLA%20Kitchens%20-%20Commercial%20kitchen%20Rental&query_place_id=ChIJPTKFUEvJwoAR4tbd3vQbLlE",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.055185398993856,-118.6163245590756,13z?hl=en",
       "searchString": "shared-use commercial kitchen",
       "language": "en",
       "rank": 15,
       "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN9rFwfIypykwfAxIBnbujw4Xfw5f5BaDph2qkk=w426-h240-k-no",
-      "kgmid": "/g/1tcvjj2g"
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqGb-ZkPcPzR3lrDOcCJefMalfvgoat3VGf-Qqi6PTWXf7wLXp9AtKLnmxfh88ZQOKkjIIezMWPbWFFs5F8T9PE3zHWsHrua4VwkQsUOguW7TFu_AGIBu9Vbn5bH5kaDLfinXHjvA=w408-h306-k-no",
+      "kgmid": "/g/11hm4lfxxw"
     },
     {
-      "title": "Mister Sparky",
+      "title": "Oak Commercial Kitchens",
       "price": null,
-      "categoryName": "Electrician",
-      "address": "12829 Wetmore Rd, San Antonio, TX 78247",
-      "neighborhood": "San Antonio International Airport Vicinity",
-      "street": "12829 Wetmore Rd",
-      "city": "San Antonio",
-      "postalCode": "78247",
-      "state": "Texas",
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1432 Oak St, Los Angeles, CA 90015",
+      "neighborhood": "Pico-Union",
+      "street": "1432 Oak St",
+      "city": "Los Angeles",
+      "postalCode": "90015",
+      "state": "California",
       "countryCode": "US",
-      "website": "http://www.mistersparky.com/san-antonio/",
-      "phone": "(210) 899-2430",
-      "phoneUnformatted": "+12108992430",
+      "website": "https://oak-kitchen.com/",
+      "phone": "(818) 836-9551",
+      "phoneUnformatted": "+18188369551",
       "claimThisBusiness": false,
       "location": {
-        "lat": 29.5578642,
-        "lng": -98.4253246
+        "lat": 34.0404678,
+        "lng": -118.2744557
       },
-      "totalScore": 4.8,
       "permanentlyClosed": false,
       "temporarilyClosed": false,
-      "placeId": "ChIJ7a7zRfRnXIYR9wk1HagK0pU",
-      "categories": ["Electrician"],
-      "fid": "0x865c67f445f3aeed:0x95d20aa81d3509f7",
-      "cid": "10795702973921298935",
-      "reviewsCount": 3147,
-      "reviewsDistribution": {
-        "oneStar": 102,
-        "twoStar": 20,
-        "threeStar": 22,
-        "fourStar": 99,
-        "fiveStar": 2904
-      },
-      "imagesCount": 130,
+      "placeId": "ChIJtYLbp2PHwoAR-oiU2Bya8XE",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x80c2c763a7db82b5:0x71f19a1cd89488fa",
+      "cid": "8210513044356499706",
+      "reviewsCount": 0,
+      "imagesCount": 24,
       "imageCategories": [],
-      "scrapedAt": "2025-07-15T05:07:50.410Z",
+      "scrapedAt": "2025-07-15T05:15:31.012Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [
@@ -1929,6 +1215,555 @@
           "hours": "Open 24 hours"
         }
       ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Oak%20Commercial%20Kitchens&query_place_id=ChIJtYLbp2PHwoAR-oiU2Bya8XE",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.055185398993856,-118.6163245590756,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 18,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMPVYir5tgDb3yhY3EJoEemqTUXd6vYyM94aXzS=w408-h306-k-no",
+      "kgmid": "/g/11l5hr0l8t"
+    },
+    {
+      "title": "WePermitU",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "21500 Burbank Blvd APT 211, Woodland Hills, CA 91367",
+      "neighborhood": "Woodland Hills",
+      "street": "21500 Burbank Blvd APT 211",
+      "city": "Woodland Hills",
+      "postalCode": "91367",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://wepermitu.com/",
+      "phone": "(818) 450-6506",
+      "phoneUnformatted": "+18184506506",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.1726612,
+        "lng": -118.5985454
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJGWMSFrefwoARJXOvfV1YFx0",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x80c29fb716126319:0x1d17585d7daf7325",
+      "cid": "2096241310128108325",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:15:31.012Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=WePermitU&query_place_id=ChIJGWMSFrefwoARJXOvfV1YFx0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.055185398993856,-118.6163245590756,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 20,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN-tMl_AgPg3EP5hSZ7Uy8r655coziFYiVMfuAg=w420-h240-k-no",
+      "kgmid": "/g/11v3_60zf6"
+    },
+    {
+      "title": "Maker Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "13346 Saticoy St, North Hollywood, CA 91605, United States",
+      "neighborhood": "North Hollywood",
+      "street": "13346 Saticoy St",
+      "city": "North Hollywood",
+      "postalCode": "91605",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://www.makerkitchens.com/",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.2078597,
+        "lng": -118.4242976
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJayaB6o6XwoARsZBJId0BigU",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x80c2978eea81266b:0x58a01dd214990b1",
+      "cid": "399133566233579697",
+      "reviewsCount": 0,
+      "imagesCount": 8,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:15:34.499Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Maker%20Kitchens&query_place_id=ChIJayaB6o6XwoARsZBJId0BigU",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.28223299496925,-118.47993421969187,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 10,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOrm_FIsLphSNdMSI3AC-kEDZpLm6syayeI7j9C=w408-h272-k-no",
+      "kgmid": "/g/11l2p2m_d7"
+    },
+    {
+      "title": "Amped Kitchens L.A. North",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "230 W Ave 26, Los Angeles, CA 90031, United States",
+      "neighborhood": "Lincoln Heights",
+      "street": "230 W Ave 26",
+      "city": "Los Angeles",
+      "postalCode": "90031",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://www.ampedkitchens.com/los-angeles?utm_source=google&utm_medium=organic&utm_campaign=gmb_website_north",
+      "phone": "+1 872-240-8731",
+      "phoneUnformatted": "+18722408731",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.0793196,
+        "lng": -118.2182499
+      },
+      "totalScore": 3.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJnzpCuojGwoARYbZ1Mgn0Rks",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Food manufacturing supply"
+      ],
+      "fid": "0x80c2c688ba423a9f:0x4b46f4093275b661",
+      "cid": "5424291121552799329",
+      "reviewsCount": 68,
+      "imagesCount": 34,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:15:34.500Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "5 AM to 11 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "5 AM to 11 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "5 AM to 11 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "5 AM to 11 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "5 AM to 11 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "5 AM to 9 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "5 AM to 9 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Amped%20Kitchens%20L.A.%20North&query_place_id=ChIJnzpCuojGwoARYbZ1Mgn0Rks",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.28223299496925,-118.47993421969187,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 20,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOF-IAdMKU_kb3wryUf2UQPzfs2HY0hkbyjFrE=w408-h272-k-no",
+      "kgmid": "/g/11b7q748nm"
+    },
+    {
+      "title": "Banyan Tree Marketplace",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "9626 Venice Blvd., Culver City, CA 90232, United States",
+      "neighborhood": "Palms",
+      "street": "9626 Venice Blvd.",
+      "city": "Culver City",
+      "postalCode": "90232",
+      "state": "California",
+      "countryCode": "US",
+      "website": "http://banyantreemarketplace.com/",
+      "phone": "+1 323-654-6654",
+      "phoneUnformatted": "+13236546654",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 34.0243994,
+        "lng": -118.3963919
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJcykCmGO7woAR4rqjynK4elg",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x80c2bb6398022973:0x587ab872caa3bae2",
+      "cid": "6375611025661868770",
+      "reviewsCount": 1,
+      "reviewsDistribution": {
+        "oneStar": 0,
+        "twoStar": 0,
+        "threeStar": 0,
+        "fourStar": 0,
+        "fiveStar": 1
+      },
+      "imagesCount": 2,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:15:44.429Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "11 AM to 9 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11 AM to 9 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11 AM to 9 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11 AM to 9 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11 AM to 9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "12 to 8:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "12 to 8:30 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Banyan%20Tree%20Marketplace&query_place_id=ChIJcykCmGO7woAR4rqjynK4elg",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.055185398993856,-118.47993421969187,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 23,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Hu2wEEiIc1vOgExvL4yqhA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=144.11497&pitch=0&thumbfov=100",
+      "kgmid": "/g/11r9t4vz0k"
+    },
+    {
+      "title": "PunkuLLC",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "9030 Owensmouth Ave, Canoga Park, CA 91304, United States",
+      "neighborhood": "Canoga Park",
+      "street": "9030 Owensmouth Ave",
+      "city": "Canoga Park",
+      "postalCode": "91304",
+      "state": "California",
+      "countryCode": "US",
+      "phone": "+1 747-230-1404",
+      "phoneUnformatted": "+17472301404",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.2346042,
+        "lng": -118.6011429
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJsf7bYOadwoARKOWH10-8F88",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x80c29de660dbfeb1:0xcf17bc4fd787e528",
+      "cid": "14922602941419873576",
+      "reviewsCount": 0,
+      "imagesCount": 2,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:15:44.474Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "11:30 AM to 10 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11:30 AM to 10 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11:30 AM to 10 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11:30 AM to 10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11:30 AM to 10 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 10 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM to 9:30 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=PunkuLLC&query_place_id=ChIJsf7bYOadwoARKOWH10-8F88",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.28223299496925,-118.6163245590756,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 8,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sxwt9K1XzLgQQaS4UFZRLA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=93.39939&pitch=0&thumbfov=100",
+      "kgmid": "/g/11yd9y_g23"
+    },
+    {
+      "title": "Biryani Temptations",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "9042 Owensmouth Ave, Canoga Park, CA 91304, United States",
+      "neighborhood": "Canoga Park",
+      "street": "9042 Owensmouth Ave",
+      "city": "Canoga Park",
+      "postalCode": "91304",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://biryanitemptations.com/",
+      "phone": "+1 818-280-3366",
+      "phoneUnformatted": "+18182803366",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.2349077,
+        "lng": -118.6011319
+      },
+      "totalScore": 4.6,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJN7i6ROudwoARxZ-dMuSX9FI",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x80c29deb44bab837:0x52f497e4329d9fc5",
+      "cid": "5977569611785019333",
+      "reviewsCount": 37,
+      "imagesCount": 13,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:15:44.474Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "11:30 AM to 2:30 PM, 5:30 to 10 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11:30 AM to 2:30 PM, 5:30 to 10 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11:30 AM to 2:30 PM, 5:30 to 10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11:30 AM to 2:30 PM, 5:30 to 10 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "11:30 AM to 2:30 PM, 5:30 to 10 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "11:30 AM to 2:30 PM, 5:30 to 10 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Biryani%20Temptations&query_place_id=ChIJN7i6ROudwoARxZ-dMuSX9FI",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.28223299496925,-118.6163245590756,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 9,
+      "isAdvertisement": false,
+      "imageUrl": "http://t0.gstatic.com/images?q=tbn:ANd9GcTjVB8NMF2jFEVhuqHU0jiDlhFCoRPNQ0KFkz1yD6j9hC8RaWVH",
+      "kgmid": "/g/11vxxxmvms"
+    },
+    {
+      "title": "Airport Ghost Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "7816 N Clybourn Ave Ste. 2, Sun Valley, CA 91352",
+      "neighborhood": "Sun Valley",
+      "street": "7816 N Clybourn Ave Ste. 2",
+      "city": "Sun Valley",
+      "postalCode": "91352",
+      "state": "California",
+      "countryCode": "US",
+      "phone": "(818) 771-9239",
+      "phoneUnformatted": "+18187719239",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.2125801,
+        "lng": -118.3635036
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": true,
+      "placeId": "ChIJUVAa3SOVwoARiuJHvHeSLBg",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x80c29523dd1a5051:0x182c9277bc47e28a",
+      "cid": "1741928198843130506",
+      "reviewsCount": 0,
+      "imagesCount": 9,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:15:46.472Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
       "peopleAlsoSearch": [],
       "placesTags": [],
       "reviewsTags": [],
@@ -1941,428 +1776,519 @@
             "Identifies as veteran-owned": true
           }
         ],
-        "Service options": [
+        "Accessibility": [
           {
-            "Onsite services": true
-          },
-          {
-            "Online estimates": false
-          }
-        ],
-        "Crowd": [
-          {
-            "LGBTQ+ friendly": true
+            "Wheelchair accessible entrance": true
           }
         ]
       },
       "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=Mister%20Sparky&query_place_id=ChIJ7a7zRfRnXIYR9wk1HagK0pU",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.55710165,-98.36728835,13.801565728308416z?hl=en",
+      "url": "https://www.google.com/maps/search/?api=1&query=Airport%20Ghost%20Kitchen&query_place_id=ChIJUVAa3SOVwoARiuJHvHeSLBg",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.16870919698155,-118.47993421969187,13z?hl=en",
       "searchString": "shared-use commercial kitchen",
       "language": "en",
-      "rank": 21,
+      "rank": 17,
       "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNiC9WkJln1hWhKEDM_cBamdOpGgvrgmNgc6SFL=w426-h240-k-no",
-      "kgmid": "/g/1tqg0rsp"
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM6Dtau7eGV6dUBamaJL-B36MvYQgPW8LUbCf1p=w408-h272-k-no",
+      "kgmid": "/g/11q3q48nq6"
     },
     {
-      "title": "Sam's Club",
-      "description": "Membership-only warehouse chain selling a variety of bulk grocery items, electronics & home goods.",
-      "price": "$",
-      "categoryName": "Warehouse club",
-      "address": "12349, I-35, San Antonio, TX 78233",
-      "neighborhood": "Valley Forge",
-      "street": "12349, I-35",
-      "city": "San Antonio",
-      "postalCode": "78233",
-      "state": "TX",
+      "title": "Tierra del Sol Kitchen - Commercial Kitchen For Rent",
+      "price": null,
+      "categoryName": "Coworking space",
+      "address": "9919 Sunland Blvd #1529, Shadow Hills, CA 91040",
+      "neighborhood": "Shadow Hills",
+      "street": "9919 Sunland Blvd #1529",
+      "city": "Shadow Hills",
+      "postalCode": "91040",
+      "state": "California",
       "countryCode": "US",
-      "website": "https://www.samsclub.com/club/san-antonio-tx-sams-club/8262",
-      "phone": "(210) 646-8188",
-      "phoneUnformatted": "+12106468188",
-      "claimThisBusiness": false,
+      "website": "http://www.tierradelsol.org/venue-rental",
+      "phone": "(818) 257-6600",
+      "phoneUnformatted": "+18182576600",
+      "claimThisBusiness": true,
       "location": {
-        "lat": 29.552832,
-        "lng": -98.358033
+        "lat": 34.2509711,
+        "lng": -118.3477795
       },
-      "locatedIn": "Sam's Club Bakery",
-      "totalScore": 4.2,
       "permanentlyClosed": false,
       "temporarilyClosed": false,
-      "placeId": "ChIJpZHtU92MXIYRb0BSYk3BCUM",
+      "placeId": "ChIJJVZLczqTwoARCxKezRVKTvY",
       "categories": [
-        "Warehouse club",
-        "Electronics store",
-        "Liquor store",
-        "Produce wholesaler",
-        "Wholesale grocer"
+        "Coworking space",
+        "Catering food and drink supplier",
+        "Caterer",
+        "Food processing company",
+        "Food producer",
+        "Delivery Restaurant",
+        "Mobile caterer",
+        "Restaurant"
       ],
-      "fid": "0x865c8cdd53ed91a5:0x4309c14d6252406f",
-      "cid": "4830604613437767791",
-      "reviewsCount": 2393,
-      "reviewsDistribution": {
-        "oneStar": 244,
-        "twoStar": 81,
-        "threeStar": 157,
-        "fourStar": 484,
-        "fiveStar": 1427
-      },
-      "imagesCount": 734,
+      "fid": "0x80c2933a734b5625:0xf64e4a15cd9e120b",
+      "cid": "17748204639018160651",
+      "reviewsCount": 0,
+      "imagesCount": null,
       "imageCategories": [],
-      "scrapedAt": "2025-07-15T05:07:50.410Z",
+      "scrapedAt": "2025-07-15T05:15:46.668Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [
         {
           "day": "Monday",
-          "hours": "10 AM to 8 PM"
+          "hours": "6 AM to 10 PM"
         },
         {
           "day": "Tuesday",
-          "hours": "10 AM to 8 PM"
+          "hours": "6 AM to 10 PM"
         },
         {
           "day": "Wednesday",
-          "hours": "10 AM to 8 PM"
+          "hours": "6 AM to 10 PM"
         },
         {
           "day": "Thursday",
-          "hours": "10 AM to 8 PM"
+          "hours": "6 AM to 10 PM"
         },
         {
           "day": "Friday",
-          "hours": "10 AM to 8 PM"
+          "hours": "6 AM to 10 PM"
         },
         {
           "day": "Saturday",
-          "hours": "9 AM to 8 PM"
+          "hours": "6 AM to 10 PM"
         },
         {
           "day": "Sunday",
-          "hours": "10 AM to 6 PM"
+          "hours": "12:30 to 10 PM"
         }
       ],
-      "additionalOpeningHours": {
-        "Sam's Club Bakery": [
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
           {
-            "day": "Monday",
-            "hours": "10 AM–8 PM"
+            "Wheelchair accessible entrance": true
           },
           {
-            "day": "Tuesday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Wednesday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Thursday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Friday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Saturday",
-            "hours": "9 AM–8 PM"
-          },
-          {
-            "day": "Sunday",
-            "hours": "10 AM–6 PM"
-          }
-        ],
-        "Sam's Club Cafe": [
-          {
-            "day": "Monday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Tuesday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Wednesday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Thursday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Friday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Saturday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Sunday",
-            "hours": "10 AM–6 PM"
-          }
-        ],
-        "Sam's Club Floral": [
-          {
-            "day": "Monday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Tuesday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Wednesday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Thursday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Friday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Saturday",
-            "hours": "9 AM–8 PM"
-          },
-          {
-            "day": "Sunday",
-            "hours": "10 AM–6 PM"
-          }
-        ],
-        "Sam's Club Gas Station": [
-          {
-            "day": "Monday",
-            "hours": "6 AM–9 PM"
-          },
-          {
-            "day": "Tuesday",
-            "hours": "6 AM–9 PM"
-          },
-          {
-            "day": "Wednesday",
-            "hours": "6 AM–9 PM"
-          },
-          {
-            "day": "Thursday",
-            "hours": "6 AM–9 PM"
-          },
-          {
-            "day": "Friday",
-            "hours": "6 AM–9 PM"
-          },
-          {
-            "day": "Saturday",
-            "hours": "6 AM–9 PM"
-          },
-          {
-            "day": "Sunday",
-            "hours": "8 AM–7 PM"
-          }
-        ],
-        "Sam's Club Hearing Aid Center": [
-          {
-            "day": "Monday",
-            "hours": "Closed"
-          },
-          {
-            "day": "Tuesday",
-            "hours": "9 AM–6 PM"
-          },
-          {
-            "day": "Wednesday",
-            "hours": "9 AM–6 PM"
-          },
-          {
-            "day": "Thursday",
-            "hours": "9 AM–6 PM"
-          },
-          {
-            "day": "Friday",
-            "hours": "9 AM–6 PM"
-          },
-          {
-            "day": "Saturday",
-            "hours": "9 AM–6 PM"
-          },
-          {
-            "day": "Sunday",
-            "hours": "Closed"
-          }
-        ],
-        "Sam's Club Optical Center": [
-          {
-            "day": "Monday",
-            "hours": "10 AM–7 PM"
-          },
-          {
-            "day": "Tuesday",
-            "hours": "10 AM–7 PM"
-          },
-          {
-            "day": "Wednesday",
-            "hours": "10 AM–7 PM"
-          },
-          {
-            "day": "Thursday",
-            "hours": "10 AM–7 PM"
-          },
-          {
-            "day": "Friday",
-            "hours": "10 AM–7 PM"
-          },
-          {
-            "day": "Saturday",
-            "hours": "10 AM–7 PM"
-          },
-          {
-            "day": "Sunday",
-            "hours": "12–5 PM"
-          }
-        ],
-        "Sam's Club Pharmacy": [
-          {
-            "day": "Monday",
-            "hours": "9 AM–7 PM"
-          },
-          {
-            "day": "Tuesday",
-            "hours": "9 AM–7 PM"
-          },
-          {
-            "day": "Wednesday",
-            "hours": "9 AM–7 PM"
-          },
-          {
-            "day": "Thursday",
-            "hours": "9 AM–7 PM"
-          },
-          {
-            "day": "Friday",
-            "hours": "9 AM–7 PM"
-          },
-          {
-            "day": "Saturday",
-            "hours": "9 AM–6 PM"
-          },
-          {
-            "day": "Sunday",
-            "hours": "Closed"
-          }
-        ],
-        "Sam's Club Tire & Battery": [
-          {
-            "day": "Monday",
-            "hours": "8 AM–7 PM"
-          },
-          {
-            "day": "Tuesday",
-            "hours": "8 AM–7 PM"
-          },
-          {
-            "day": "Wednesday",
-            "hours": "8 AM–7 PM"
-          },
-          {
-            "day": "Thursday",
-            "hours": "8 AM–7 PM"
-          },
-          {
-            "day": "Friday",
-            "hours": "8 AM–7 PM"
-          },
-          {
-            "day": "Saturday",
-            "hours": "8 AM–7 PM"
-          },
-          {
-            "day": "Sunday",
-            "hours": "10 AM–6 PM"
-          }
-        ],
-        "Delivery": [
-          {
-            "day": "Monday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Tuesday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Wednesday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Thursday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Friday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Saturday",
-            "hours": "9 AM–8 PM"
-          },
-          {
-            "day": "Sunday",
-            "hours": "10 AM–6 PM"
-          }
-        ],
-        "Pickup": [
-          {
-            "day": "Monday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Tuesday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Wednesday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Thursday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Friday",
-            "hours": "10 AM–8 PM"
-          },
-          {
-            "day": "Saturday",
-            "hours": "9 AM–8 PM"
-          },
-          {
-            "day": "Sunday",
-            "hours": "10 AM–6 PM"
+            "Wheelchair accessible parking lot": true
           }
         ]
       },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Tierra%20del%20Sol%20Kitchen%20-%20Commercial%20Kitchen%20For%20Rent&query_place_id=ChIJJVZLczqTwoARCxKezRVKTvY",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.28223299496925,-118.20715354092442,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 17,
+      "isAdvertisement": false,
+      "kgmid": "/g/11ghnbqnlk"
+    },
+    {
+      "title": "Mission Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3317 N Mission Rd, Los Angeles, CA 90031, United States",
+      "neighborhood": "Lincoln Heights",
+      "street": "3317 N Mission Rd",
+      "city": "Los Angeles",
+      "postalCode": "90031",
+      "state": "California",
+      "countryCode": "US",
+      "website": "http://www.makerkitchens.com/",
+      "phone": "+1 310-980-5125",
+      "phoneUnformatted": "+13109805125",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 34.066606,
+        "lng": -118.2057626
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJhcnc5GHFwoARnAjixXJi3EA",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x80c2c561e4dcc985:0x40dc6272c5e2089c",
+      "cid": "4673718758389450908",
+      "reviewsCount": 0,
+      "imagesCount": 16,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:15:56.507Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
       "peopleAlsoSearch": [],
       "placesTags": [],
       "reviewsTags": [],
       "additionalInfo": {
         "Service options": [
           {
-            "Curbside pickup": true
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
           },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Mission%20Kitchens&query_place_id=ChIJhcnc5GHFwoARnAjixXJi3EA",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.055185398993856,-118.34354388030815,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 19,
+      "isAdvertisement": false,
+      "imageUrl": "http://t2.gstatic.com/images?q=tbn:ANd9GcTVySQEK0IOdP3HO0ARoOiBLlYdvjzqe8aKkShL5Mh5Mql0npsK",
+      "kgmid": "/g/11tj7qkpv6"
+    },
+    {
+      "title": "Partake Collective - Glassell Park",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3716 Eagle Rock Blvd, Los Angeles, CA 90065",
+      "neighborhood": "Glassell Park",
+      "street": "3716 Eagle Rock Blvd",
+      "city": "Los Angeles",
+      "postalCode": "90065",
+      "state": "California",
+      "countryCode": "US",
+      "website": "http://www.partakecollective.com/",
+      "phone": "(323) 974-8150",
+      "phoneUnformatted": "+13239748150",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.1176219,
+        "lng": -118.2330017
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJB1UckebBwoARKBMt4kocy5c",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x80c2c1e6911c5507:0x97cb1c4ae22d1328",
+      "cid": "10937867227947143976",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:16:04.260Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Partake%20Collective%20-%20Glassell%20Park&query_place_id=ChIJB1UckebBwoARKBMt4kocy5c",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.16870919698155,-118.20715354092442,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 20,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fjM_K0ZT9bo7r0JiTmTgAA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=149.84682&pitch=0&thumbfov=100",
+      "kgmid": "/g/11sh5x6c40"
+    },
+    {
+      "title": "Maker Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3317 N Mission Rd, Los Angeles, CA 90031",
+      "neighborhood": "Lincoln Heights",
+      "street": "3317 N Mission Rd",
+      "city": "Los Angeles",
+      "postalCode": "90031",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://www.makerkitchens.com/",
+      "phone": "(424) 279-8983",
+      "phoneUnformatted": "+14242798983",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.066606,
+        "lng": -118.2057626
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJL4TBJs7FwoARm8aTWE5VcrY",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x80c2c5ce26c1842f:0xb672554e5893c69b",
+      "cid": "13146664057229788827",
+      "reviewsCount": 0,
+      "imagesCount": 6,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:16:11.044Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Maker%20Kitchens&query_place_id=ChIJL4TBJs7FwoARm8aTWE5VcrY",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.0321598,-118.23986955000001,13.73166598125217z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 13,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNgXmsGmePGSvdGZLU85qQDF8qc-7iW0ahuJc5R=w601-h240-k-no",
+      "kgmid": "/g/11y75f7sl2"
+    },
+    {
+      "title": "Nkwagala Concept",
+      "price": "$$",
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "14115 Crenshaw Blvd, Hawthorne, CA 90250",
+      "neighborhood": "Westlake",
+      "street": "14115 Crenshaw Blvd",
+      "city": "Hawthorne",
+      "postalCode": "90250",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://www.nkwagala.org/",
+      "phone": "(424) 877-1372",
+      "phoneUnformatted": "+14248771372",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.0611335,
+        "lng": -118.2818282
+      },
+      "totalScore": 4.8,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJc3iT5C7HwoARRP9ObhCYfso",
+      "categories": ["Shared-use commercial kitchen", "Restaurant"],
+      "fid": "0x80c2c72ee4937873:0xca7e98106e4eff44",
+      "cid": "14591267039064555332",
+      "reviewsCount": 69,
+      "imagesCount": 45,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:16:12.261Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "12 to 10 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Thursday",
+          "hours": "2 to 8 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "2 to 8 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "2 to 8 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "12 to 10 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
           {
             "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Assistive hearing loop": false
           },
           {
-            "In-store pickup": true
+            "Wheelchair accessible entrance": false
           },
           {
-            "In-store shopping": true
+            "Wheelchair accessible parking lot": false
           },
           {
-            "Onsite services": true
+            "Wheelchair accessible restroom": false
+          },
+          {
+            "Wheelchair accessible seating": false
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Nkwagala%20Concept&query_place_id=ChIJc3iT5C7HwoARRP9ObhCYfso",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.055185398993856,-118.20715354092442,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 18,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOqHLo3rgmRZCrVUmdu2bH6uQmXxZhfVzWZulAo=w408-h271-k-no",
+      "kgmid": "/g/11pv0h_jn8"
+    },
+    {
+      "title": "food mongers",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1842 W Washington Blvd, Los Angeles, CA 90007",
+      "neighborhood": "Pico-Union",
+      "street": "1842 W Washington Blvd",
+      "city": "Los Angeles",
+      "postalCode": "90007",
+      "state": "California",
+      "countryCode": "US",
+      "phone": "(818) 633-1496",
+      "phoneUnformatted": "+18186331496",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.0397099,
+        "lng": -118.2987956
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJgbP7gkrHwoARUhySPyHDzUY",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x80c2c74a82fbb381:0x46cdc3213f921c52",
+      "cid": "5101948500448517202",
+      "reviewsCount": 3,
+      "imagesCount": 9,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T05:16:12.261Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7 AM to 4:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7 AM to 4:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7 AM to 4:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
           }
         ],
         "Accessibility": [
@@ -2373,16 +2299,6 @@
             "Wheelchair accessible parking lot": true
           }
         ],
-        "Amenities": [
-          {
-            "Wi-Fi": true
-          }
-        ],
-        "Planning": [
-          {
-            "Quick visit": true
-          }
-        ],
         "Payments": [
           {
             "Credit cards": true
@@ -2391,809 +2307,78 @@
             "Debit cards": true
           },
           {
-            "SNAP/EBT": true
-          },
-          {
             "Credit cards": true
-          }
-        ],
-        "Parking": [
-          {
-            "Free parking lot": true
           }
         ]
       },
       "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=Sam's%20Club&query_place_id=ChIJpZHtU92MXIYRb0BSYk3BCUM",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.55710165,-98.36728835,13.801565728308416z?hl=en",
+      "url": "https://www.google.com/maps/search/?api=1&query=food%20mongers&query_place_id=ChIJgbP7gkrHwoARUhySPyHDzUY",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.055185398993856,-118.20715354092442,13z?hl=en",
       "searchString": "shared-use commercial kitchen",
       "language": "en",
-      "rank": 23,
+      "rank": 20,
       "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nppEkpHQDNtH9vcoX0PAnjttnw6VL9gMtNOoWfCp_zKmmNwSPq3BJ4zFtF_1L6P1YKmlXpkaZzoMYWUdmTJpQNK3MzQWuEILnNuYlGS1BX90oiZIY311aRrP5yXaE2fVyAgSWyNKg=w426-h240-k-no",
-      "kgmid": "/g/1tnhyrq2"
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN_61nd9GMHLsrI_kZnc-zxu6ZnDIsJ5heL_UFn=w408-h408-k-no",
+      "kgmid": "/g/11sshk83z3"
     },
     {
-      "title": "Estancia del Norte San Antonio, Tapestry Collection by Hilton",
-      "description": "Warm quarters, some with balconies, in relaxed hotel featuring a restaurant & an outdoor pool.",
-      "price": "SR 1,977",
-      "categoryName": "Hotel",
-      "address": "37 NE Loop 410 At McCullough, San Antonio, TX 78216, United States",
-      "neighborhood": "San Antonio International Airport Vicinity",
-      "street": "37 NE Loop 410 At McCullough",
-      "city": "San Antonio",
-      "postalCode": "78216",
-      "state": "TX",
+      "title": "Pitfire Pizza Commissary",
+      "description": "Laid-back outfit with a trendy vibe serving creative pizzas, pasta & panini, plus beer & wine.",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1905 Lincoln Blvd, Venice, CA 90291",
+      "neighborhood": "Venice",
+      "street": "1905 Lincoln Blvd",
+      "city": "Venice",
+      "postalCode": "90291",
+      "state": "California",
       "countryCode": "US",
-      "website": "https://www.hilton.com/en/hotels/satinup-estancia-del-norte-san-antonio/?SEO_id=GMB-AMER-UP-SATINUP&y_source=1_MjI3NDU5MjYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-      "phone": "+1 210-366-2424",
-      "phoneUnformatted": "+12103662424",
+      "website": "https://www.pitfirepizza.com/",
       "claimThisBusiness": false,
       "location": {
-        "lat": 29.521535,
-        "lng": -98.490831
+        "lat": 33.9958584,
+        "lng": -118.4569188
       },
-      "totalScore": 4.5,
       "permanentlyClosed": false,
       "temporarilyClosed": false,
-      "placeId": "ChIJy2Pln71hXIYRML-T-XvTl6U",
-      "categories": ["Hotel"],
-      "fid": "0x865c61bd9fe563cb:0xa597d37bf993bf30",
-      "cid": "11932238267163066160",
-      "reviewsCount": 1445,
-      "reviewsDistribution": {
-        "oneStar": 71,
-        "twoStar": 43,
-        "threeStar": 70,
-        "fourStar": 184,
-        "fiveStar": 1077
-      },
-      "imagesCount": 1281,
+      "placeId": "ChIJq6panOy6woARdM6M5eysKo8",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x80c2baec9c5aaaab:0x8f2aacece58cce74",
+      "cid": "10316248029909012084",
+      "reviewsCount": 0,
+      "imagesCount": 1,
       "imageCategories": [],
-      "scrapedAt": "2025-07-15T05:07:50.859Z",
+      "scrapedAt": "2025-07-15T05:16:21.152Z",
       "googleFoodUrl": null,
-      "hotelStars": "3-star hotel",
-      "hotelDescription": "Featuring an old-world vibe, this relaxed hotel is a 5-minute walk from North Star Mall, 2 miles from San Antonio International Airport and 9 miles from The Alamo.\n Warm rooms have Wi-Fi, flat-screen TVs and minifridges, as well as tea and coffeemakers. Upgraded rooms add balconies and/or pull-out sofas. Suites provide separate living rooms.\n Amenities include a restaurant, a bar and an outdoor pool, plus a gym. An airport shuttle and breakfast are available, as is parking.",
-      "checkInDate": "2025-07-30",
-      "checkOutDate": "2025-07-31",
-      "similarHotelsNearby": [
-        {
-          "name": "Staybridge Suites San Antonio-Airport by IHG",
-          "rating": 4.1,
-          "reviews": 927,
-          "description": "Also a 3-star hotel, for SR 534 less",
-          "price": "SR 1,443"
-        },
-        {
-          "name": "Pear Tree Inn San Antonio Airport",
-          "rating": 4.4,
-          "reviews": 1119,
-          "description": "2-star hotel for SR 867 less",
-          "price": "SR 1,110"
-        },
-        {
-          "name": "Hampton Inn & Suites San Antonio-Airport",
-          "rating": 3.9,
-          "reviews": 1202,
-          "description": "Also a 3-star hotel, for SR 691 less",
-          "price": "SR 1,286"
-        },
-        {
-          "name": "Drury Plaza Hotel San Antonio Airport",
-          "rating": 4.6,
-          "reviews": 2087,
-          "description": "Also a 3-star hotel, for SR 485 less",
-          "price": "SR 1,492"
-        },
-        {
-          "name": "Holiday Inn Express San Antonio-Airport by IHG",
-          "rating": 4.5,
-          "reviews": 1146,
-          "description": "Also a 3-star hotel, for SR 334 less",
-          "price": "SR 1,643"
-        },
-        {
-          "name": "Drury Inn & Suites San Antonio Airport",
-          "rating": 4.5,
-          "reviews": 278,
-          "description": "Also a 3-star hotel, for SR 503 less",
-          "price": "SR 1,474"
-        },
-        {
-          "name": "Home2 Suites by Hilton San Antonio Airport, TX",
-          "rating": 4.1,
-          "reviews": 1082,
-          "description": "Also a 3-star hotel, for SR 233 less",
-          "price": "SR 1,743"
-        },
-        {
-          "name": "Fairfield Inn & Suites San Antonio Airport/North Star Mall",
-          "rating": 3.9,
-          "reviews": 877,
-          "description": "Free breakfast",
-          "price": "SR 1,606"
-        },
-        {
-          "name": "Courtyard San Antonio Airport/North Star Mall",
-          "rating": 4.2,
-          "reviews": 526,
-          "description": "Also a 3-star hotel, for SR 335 less",
-          "price": "SR 1,642"
-        },
-        {
-          "name": "DoubleTree by Hilton San Antonio Airport",
-          "rating": 3.8,
-          "reviews": 2514,
-          "description": "Also a 3-star hotel, for SR 262 less",
-          "price": "SR 1,715"
-        }
-      ],
-      "hotelAds": [
-        {
-          "title": "Estancia del Norte San Antonio, Tapestry Collection by Hilton",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsylaiSr6kWpYCsg9Sq3qZQbptMZu1xY67uYtJCpCI6vFCf_10J8Yl6G7m0F1zHbf7hzj1VYRGr29BCpQleFXRY8_l4ez5apwvCLLAF7oQeX_G1cVmLrpZgu9NhJ3vF_noQNihNlslQdG52sDM2BPXwLmugAjPZocCdCnKk&pcurl=https://linkcenterus.derbysoftca.com/dplatform-linkcenter/booking.htm?hotelCode%3DHILTON-SATIN%26providerHotelCode%3DSATIN%26checkInDate%3D2025-07-30%26checkOutDate%3D2025-07-31%26identifier%3Dgoogle-hilton%26price%3D135.41%26roomTypeCode%3DQ2RRV%26ratePlanCode%3DQO%26currency%3DUSD%26language%3Den%26userCountry%3DSC%26dateType%3Ddefault%26testClick%3Dfalse%26sitetype%3Dmapresults%26occupancy%3D2%26partnerId%3Dhilton%26campaignid%3D%26rateRuleId%3D%26userlistid%3D%26ifDefaultDate%3Ddefault%26isPromoted%3Dfalse%26isRuleIdsClosed%3Dfalse%26s_is_ad%3Dfalse%26adType%3D0%26adults%3D2%26children%3D0%26clk_src%3D%26is_ds_account%3Dtrue",
-          "isOfficialSite": true,
-          "price": "SR 1,988",
-          "url": "https://linkcenterus.derbysoftca.com/dplatform-linkcenter/booking.htm?hotelCode=HILTON-SATIN&providerHotelCode=SATIN&checkInDate=2025-07-30&checkOutDate=2025-07-31&identifier=google-hilton&price=135.41&roomTypeCode=Q2RRV&ratePlanCode=QO&currency=USD&language=en&userCountry=SC&dateType=default&testClick=false&sitetype=mapresults&occupancy=2&partnerId=hilton&campaignid=&rateRuleId=&userlistid=&ifDefaultDate=default&isPromoted=false&isRuleIdsClosed=false&s_is_ad=false&adType=0&adults=2&children=0&clk_src=&is_ds_account=true"
-        },
-        {
-          "title": "My Luxury Hotel",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsxQz7XBDkqghfc7XG0HiMkJ52aUowV8UzgGNU9L1O_kx98ySw3K5Zx9eAsJM00xedua_Vf1KHOIXbjb-gz8L_PRLYTo3Gp1iPHvvZ1wLA0lli3-kel0Bmxm9EoJ5uFtIW9ml9Ikef8cE3-pDmcPVjyH04CRWpR-wtDBEs0Rpa3tHvxgGlrgo3F3q264BAuFbw&pcurl=https://www.myluxuryhotel.com/hotel/5045219?ppc%3Dtrue%26isHotel%3Dtrue%26checkin%3D2025-07-30%26checkout%3D2025-07-31%26nights%3D1%26rooms%3D%255B%257B%2522adults%2522:2,%2522children%2522:%255B%255D,%2522kidsAge%2522:%255B%255D%257D%255D%26utm_source%3DGoogleHC%26utm_medium%3Dpaid%26utm_campaign%3D%26utm_content%3Dmapresults%26utm_term%3D5045219%26ghv%3D1",
-          "isOfficialSite": false,
-          "price": "SR 1,977",
-          "url": "https://www.myluxuryhotel.com/hotel/5045219?ppc=true&isHotel=true&checkin=2025-07-30&checkout=2025-07-31&nights=1&rooms=[{\"adults\":2,\"children\":[],\"kidsAge\":[]}]&utm_source=GoogleHC&utm_medium=paid&utm_campaign=&utm_content=mapresults&utm_term=5045219&ghv=1"
-        },
-        {
-          "title": "Booking.com",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OswPVM8cqdsk5uGGNSPMK7HL7doCij2Krbyf5yfJj3h2COx3ae-sW8uAlFCz9uxvUDznMo0rMeOFIr7RQL2TU4t9UZpALvnB8n2cf3YyyrwT6pP61m_eK_zx8eDapCpQk8E__az6IKsZ7wKR72UVIbyKnV16yBgJqoRmtBH_DbuX0T3PazUgXv2U&pcurl=https://www.booking.com/hotel/us/doubletree-san-antonio-airport.html?checkin%3D2025-07-30%26checkout%3D2025-07-31%26group_adults%3D2%26req_adults%3D2%26show_room%3D4383228_95461662_2_42_0%26lang%3Den%26selected_currency%3DSCR%26exrt%3D14.67899990%26ext_price_total%3D1987.61%26ext_price_tax%3D303.19%26xfc%3DUSD%26hca%3Dm%26group_children%3D0%26req_children%3D0%26%26ts%3D1752550314%26no_rooms%3D1%26edgtid%3DSjqytw1KSJumbPdiuQlVlw%26efpc%3DEUt1oTW0Gi8%26utm_source%3Dmetagha%26utm_medium%3Dmapresults%26utm_campaign%3DSC%26utm_term%3Dhotel-43832%26utm_content%3Ddev-desktop_los-1_bw-15_dow-Wednesday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20250730_ppt-%26aid%3D2127708%26label%3Dmetagha-link-MRSC-hotel-43832_dev-desktop_los-1_bw-15_dow-Wednesday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20250730_ppt-",
-          "isOfficialSite": false,
-          "price": "SR 1,988",
-          "url": "https://www.booking.com/hotel/us/doubletree-san-antonio-airport.html?checkin=2025-07-30&checkout=2025-07-31&group_adults=2&req_adults=2&show_room=4383228_95461662_2_42_0&lang=en&selected_currency=SCR&exrt=14.67899990&ext_price_total=1987.61&ext_price_tax=303.19&xfc=USD&hca=m&group_children=0&req_children=0&&ts=1752550314&no_rooms=1&edgtid=Sjqytw1KSJumbPdiuQlVlw&efpc=EUt1oTW0Gi8&utm_source=metagha&utm_medium=mapresults&utm_campaign=SC&utm_term=hotel-43832&utm_content=dev-desktop_los-1_bw-15_dow-Wednesday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20250730_ppt-&aid=2127708&label=metagha-link-MRSC-hotel-43832_dev-desktop_los-1_bw-15_dow-Wednesday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20250730_ppt-"
-        },
-        {
-          "title": "Priceline",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsxyESFs7uZ81FjoAilgxeoR4l6Vdd-M2N2mSl8o21bpL1o0ke0Cja6VE5hZEhNXxEDRoPYdj2LPFdjijOQSXETfuHQFMLIjWeyS95h94TXVeurk1MR-tCxbd6nrfOW1PTRJE6kuWRDPSCyDrv4yMh2fOVXhq_9hTNRpXnk3US6oRC4aLP6Tiw&pcurl=https://www.priceline.com/r/?channel%3Dmeta%26product%3Dhotel%26theme%3Dghalistings%26refid%3DPLGOOGLEMSS%26refclickid%3DSC_HP%257C45909_mapresults_1%257C20250730%257Cdesktop%257Cdefaultdate%7Cpublic%7C%7C%7C15%257C2%257C0%7C0%7CEN%26hotelid%3D45909%26checkin%3D20250730%26checkout%3D20250731%26rooms%3D1%26currency%3DUSD%26displayedCurr%3DSCR%26POSCountryCode%3DSC%26taxDisplayMode%3DBP%26cityID%3D3000021763%26adults%3D2%26land%3DL%26metaid%3DnTflxztBMjLBNj4lFyv2gM56vTjaqQgiCTJlLeQ874KNxkgUOh-_lZQbBvAGa5WKpIVse1ThrEzTz7mp83n2ctZXBvVZmv1Lr8FxUoC5Djbn8Yxdd6ZTQOXqFPt9LuMuo0KMyF-eNpa9SPhzN8qrHobJBqgGV-KVwlg-FPPfV28ljSRnv0ja5Rb8z6cnou1E0gGdgN3uUlLjF9jDji1YQkKU-dzjQQ_nez85AM_sgMbW3taWvHlpfUCOaQTQICTdlUiCmyy1FeuJgdhhJwpU9rClm8tDpmPH0DraTtxp3QRhSya2Wb_HgnOqXOKvC8gX%26dblcnt%3Dtrue%26user_num_adults%3D2%26pdtax%3D303.12%26pdt%3D1987.54%26locale%3Den-us%26ad-src%3D",
-          "isOfficialSite": false,
-          "price": "SR 1,988",
-          "url": "https://www.priceline.com/r/?channel=meta&product=hotel&theme=ghalistings&refid=PLGOOGLEMSS&refclickid=SC_HP|45909_mapresults_1|20250730|desktop|defaultdate|public|||15|2|0|0|EN&hotelid=45909&checkin=20250730&checkout=20250731&rooms=1&currency=USD&displayedCurr=SCR&POSCountryCode=SC&taxDisplayMode=BP&cityID=3000021763&adults=2&land=L&metaid=nTflxztBMjLBNj4lFyv2gM56vTjaqQgiCTJlLeQ874KNxkgUOh-_lZQbBvAGa5WKpIVse1ThrEzTz7mp83n2ctZXBvVZmv1Lr8FxUoC5Djbn8Yxdd6ZTQOXqFPt9LuMuo0KMyF-eNpa9SPhzN8qrHobJBqgGV-KVwlg-FPPfV28ljSRnv0ja5Rb8z6cnou1E0gGdgN3uUlLjF9jDji1YQkKU-dzjQQ_nez85AM_sgMbW3taWvHlpfUCOaQTQICTdlUiCmyy1FeuJgdhhJwpU9rClm8tDpmPH0DraTtxp3QRhSya2Wb_HgnOqXOKvC8gX&dblcnt=true&user_num_adults=2&pdtax=303.12&pdt=1987.54&locale=en-us&ad-src="
-        },
-        {
-          "title": "pricetravel.com",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsyTkr1S8fjCpQOrtiPSV6GIm-kpBzBjCJKXqleAVaShFHpH_fSVuNaQPpr-HxHvqw3uhoSQM4s9GL2sZ6DWZmk7p_ozmlx2KcJX0nK5EvCLlLow9cqsD-YQ31FuLPnBguh8uJTn_j4rabTIVSlYVO_XpebdqE9BV2u-_ErbITUsSaL0mg&pcurl=https://www.pricetravel.com/en/hotel/estancia-del-norte-san-antonio-tapestry-collection-by-hilton?source%3Dgoogle-ha-usa%26currency%3DUSD%26ct%3DUS%26room1.adults%3D2%26room1.kids%3D%26room1.agekids%3D%26rooms%3D1%26checkin%3D2025-07-30%26checkout%3D2025-07-31%26hotelid%3D102731%26CampaignToken%3D8e98a835a2478df8e4f7e8099259c516%26utm_source%3Dppc%26utm_medium%3Dgha%26utm_campaign%3Dghamx%26pr%3D114.75%7C19.22%7Ctrue%7C16710919",
-          "isOfficialSite": false,
-          "price": "SR 1,967",
-          "url": "https://www.pricetravel.com/en/hotel/estancia-del-norte-san-antonio-tapestry-collection-by-hilton?source=google-ha-usa&currency=USD&ct=US&room1.adults=2&room1.kids=&room1.agekids=&rooms=1&checkin=2025-07-30&checkout=2025-07-31&hotelid=102731&CampaignToken=8e98a835a2478df8e4f7e8099259c516&utm_source=ppc&utm_medium=gha&utm_campaign=ghamx&pr=114.75|19.22|true|16710919"
-        },
-        {
-          "title": "Clicktrip.com",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsyIrWQY08NYKie-EV0-C4A1Swx0vJ2xgJQQHjp6GGz0rAV2ynuU6PBCyZauGKUvxF3HXQyxkAaiTqiVrjXcOy1bIvNlWWIdd7eu_6KxVeD-5GLk8VztDocy0SUcYLQ-ePdy1lQesezbh4XAZOlI5o0cWsRSncC-snCNq41qH_afUxK4Ln2CKJ1ZeqFwyw&pcurl=https://clicktrip.com/hotels/details/LIfaCZJ7-0LVcFABj7sdZWTz7yQAtjlD6dP4kUK8IDfZXSXJtKl4RbgUdhIWI28GvrIcDW5X2VMVTBx_GsHMLu4j21x2PyrG5lKjq2nhUR3KmY4WdNZe96_rU6ANAwfp0?locale%3Den%26currency%3DSCR%26pos%3DSC%26date_type%3Ddefault%26taf%3Dsh-4YdYKZx55HcOF-ul0VyL-NDQhJOK49WJY0QEf2kQ1%26verification%3Dfalse",
-          "isOfficialSite": false,
-          "price": "SR 1,983",
-          "url": "https://clicktrip.com/hotels/details/LIfaCZJ7-0LVcFABj7sdZWTz7yQAtjlD6dP4kUK8IDfZXSXJtKl4RbgUdhIWI28GvrIcDW5X2VMVTBx_GsHMLu4j21x2PyrG5lKjq2nhUR3KmY4WdNZe96_rU6ANAwfp0?locale=en&currency=SCR&pos=SC&date_type=default&taf=sh-4YdYKZx55HcOF-ul0VyL-NDQhJOK49WJY0QEf2kQ1&verification=false"
-        },
-        {
-          "title": "Bluepillow.com",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsypgzbwZTyeRl8it2x8klfLzHasxMgKtMz1gW3iyFBtp2Mvk6EeCSdsZLnuzitwR1BELuPFPToRdDJdFp3VlKsnFfTt0SyfNDhVuUeLXp1NBJ7XgydVYZfmfKmoB3TwB5KeNqcQFYapRJIXWscsVZF9pDOMe6SoYy8lHWkEHrST&pcurl=https://www.bluepillow.com/search/594395287c00cb0e643b1129?begin%3D2025-07-30%26end%3D2025-07-31%26block_id%3D-b,Vozax9rdsp61ElxOMMX_y3SfllSB8GR-voOuxFUGJZs6V112vuj9iUDNZUCVTrF5,-bkng-Hotel%26adults%3D2%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DSC%26currency%3DSCR%26language%3Den%26source%3Dmapresults%26utm_campaign%3Dhotel%26prid%3D",
-          "isOfficialSite": false,
-          "price": "SR 1,988",
-          "url": "https://www.bluepillow.com/search/594395287c00cb0e643b1129?begin=2025-07-30&end=2025-07-31&block_id=-b,Vozax9rdsp61ElxOMMX_y3SfllSB8GR-voOuxFUGJZs6V112vuj9iUDNZUCVTrF5,-bkng-Hotel&adults=2&childs=0&infants=0&childrens=0&country=SC&currency=SCR&language=en&source=mapresults&utm_campaign=hotel&prid="
-        },
-        {
-          "title": "LateRooms.com",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsyDvqnyvHJDtieBPZlkOLsM84jkPMprjyqPYzd0Y_v4xyVL5tivXD62utenXJHvKh3PGg6stPCJDK3076eLuPfXlBPkDvYkYwWm9bMd8XP8HiCzDMBUJm8nTtaNzHRNY_oZOQZfjHztSArAdaKX3OmtDFPI82Ph6fOFshPjVof9PT0q_-aN0KWmFQ&pcurl=https://www.laterooms.com/hotel/5045219/?ppc%3Dtrue%26isHotel%3Dtrue%26checkin%3D2025-07-30%26checkout%3D2025-07-31%26nights%3D1%26rooms%3D%255B%257B%2522adults%2522:2,%2522children%2522:%255B%255D,%2522kidsAge%2522:%255B%255D%257D%255D%26utm_source%3DGoogleHC%26utm_medium%3Dpaid%26utm_campaign%3D%26utm_content%3Dmapresults%26utm_term%3D5045219%26ghv%3D1",
-          "isOfficialSite": false,
-          "price": "SR 1,977",
-          "url": "https://www.laterooms.com/hotel/5045219/?ppc=true&isHotel=true&checkin=2025-07-30&checkout=2025-07-31&nights=1&rooms=[{\"adults\":2,\"children\":[],\"kidsAge\":[]}]&utm_source=GoogleHC&utm_medium=paid&utm_campaign=&utm_content=mapresults&utm_term=5045219&ghv=1"
-        },
-        {
-          "title": "Amimir.com",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80Osyz5tq5mj-JQ4gihawv_oCEddCg_WSthZWatFM1TfcnBSK7BkIOhGpY5XTyaDdktuG8R3kBt9x_Tc1SDltgkljIyeiA1lZ9tWOXp8lrTeVQe_3Yx2z48NLCP_Y3nctFqtBvEY5gctUFdEiCW0LYb-hLHvb3iUCx_xAxfG8DUIhFZFNSzxGXydS9qw&pcurl=https://www.amimir.com/en/book/?start%3D30%252F07%252F2025%26end%3D31%252F07%252F2025%26hotelId%3D132754%26highlightHotel%3Dtrue%26hab1%3D2%26ehab1%3D%26metasearch%26utm_content%3D132754%26checkV%3Dfalse%26totalPrice%3D1989.13%26userCountry%3DSC%26utm_source%3DgoogleMetasearch%26utm_medium%3Dorganic",
-          "isOfficialSite": false,
-          "price": "SR 1,989",
-          "url": "https://www.amimir.com/en/book/?start=30/07/2025&end=31/07/2025&hotelId=132754&highlightHotel=true&hab1=2&ehab1=&metasearch&utm_content=132754&checkV=false&totalPrice=1989.13&userCountry=SC&utm_source=googleMetasearch&utm_medium=organic"
-        },
-        {
-          "title": "Vio.com",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80Osz5eSAbE6cPpe8NBaKbVfnZ5jJT4z3yIopSPqI2HTsaRCurt-y8B-BO2CmdXDsji_Jqc7p7-kblbjJ6roCKh7ca7m_3DsB_on11MYlNE1fzn6Z7ioEOShMDA1KcyigjLpD-JatbcK0i0Lbgkx0pSQenbVRbAMN7W9ZazqL5b4Q&pcurl=https://deals.vio.com/?sig%3D73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233%26turl%3Dhttps%253A%252F%252Fwww.vio.com%252FHotel%252FSearch%253FcheckIn%253D2025-07-30%2526checkOut%253D2025-07-31%2526curr%253DSCR%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D1105118%2526userCountry%253DSC%2526profile%253Dr2d2m73kn8%2526preferredRate%253D1991.06%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Ddefault%252526gsite%25253Dmapresults%252526vf%25253D0%252526ucountry%25253DSC%252526udevice%25253Ddesktop%252526hotel%25253D1105118%252526day%25253D30%252526month%25253D07%252526year%25253D2025%252526los%25253D1%252526price%25253D1991.06%252526currency%25253DSCR%252526cid%25253D%252526listid%25253D%252526rateid%25253DOthers%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253DmRFi4LDenxgCgt5TERFZTJBQ0lnWRjpoNfDBiACOMjPh6ECQhgI4aa50-uLpfIaENNZGKcBIIIPKgNVU0Q",
-          "isOfficialSite": false,
-          "price": "SR 1,991",
-          "url": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https://www.vio.com/Hotel/Search?checkIn=2025-07-30&checkOut=2025-07-31&curr=SCR&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=2:&utm_source=gha&utm_medium=cpc&hotelId=1105118&userCountry=SC&profile=r2d2m73kn8&preferredRate=1991.06&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dmapresults%26vf%3D0%26ucountry%3DSC%26udevice%3Ddesktop%26hotel%3D1105118%26day%3D30%26month%3D07%26year%3D2025%26los%3D1%26price%3D1991.06%26currency%3DSCR%26cid%3D%26listid%3D%26rateid%3DOthers%26closerateid%3D%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0%26&cp=mRFi4LDenxgCgt5TERFZTJBQ0lnWRjpoNfDBiACOMjPh6ECQhgI4aa50-uLpfIaENNZGKcBIIIPKgNVU0Q"
-        },
-        {
-          "title": "Etrip.net",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsxxRzxffFhmmMS72lkBcfKCCysd39w6F-sZN0YeTMeXKgtBhrFkX-8u5Scti4IM9zYrwiQvF1QOpthBuwiQcFtQL-3aK9v2SF0Zu0JmkwugznxgceWelB5mDFnnOG3YAFWYiQ7N5v-FpQqHZ4uWXK8ifmCG_fehgYPbJg&pcurl=https://deals.etrip.net/?sig%3De9cc68956712e1e5d60f579a67e54afadd83f5d631dc9782cc50d47864de2f2c2d32303330363031313335%26turl%3Dhttps%253A%252F%252Fsearch.etrip.net%252FHotel%252FSearch%253FcheckIn%253D2025-07-30%2526checkOut%253D2025-07-31%2526curr%253DSCR%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D1105118%2526userCountry%253DSC%2526profile%253Dr2d2m73kn8%2526preferredRate%253D1991.06%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Ddefault%252526gsite%25253Dmapresults%252526vf%25253D0%252526ucountry%25253DSC%252526udevice%25253Ddesktop%252526hotel%25253D1105118%252526day%25253D30%252526month%25253D07%252526year%25253D2025%252526los%25253D1%252526price%25253D1991.06%252526currency%25253DSCR%252526cid%25253D%252526listid%25253D%252526rateid%25253DOthers%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253DmRFi4LDenxgCgt5TERFZTJBQ0lnWRjpoNfDBiACOMjPh6ECQhgI4aa50-uLpfIaENNZGKcBIIIPKgNVU0Q",
-          "isOfficialSite": false,
-          "price": "SR 1,991",
-          "url": "https://deals.etrip.net/?sig=e9cc68956712e1e5d60f579a67e54afadd83f5d631dc9782cc50d47864de2f2c2d32303330363031313335&turl=https://search.etrip.net/Hotel/Search?checkIn=2025-07-30&checkOut=2025-07-31&curr=SCR&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=2:&utm_source=gha&utm_medium=cpc&hotelId=1105118&userCountry=SC&profile=r2d2m73kn8&preferredRate=1991.06&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dmapresults%26vf%3D0%26ucountry%3DSC%26udevice%3Ddesktop%26hotel%3D1105118%26day%3D30%26month%3D07%26year%3D2025%26los%3D1%26price%3D1991.06%26currency%3DSCR%26cid%3D%26listid%3D%26rateid%3DOthers%26closerateid%3D%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0%26&cp=mRFi4LDenxgCgt5TERFZTJBQ0lnWRjpoNfDBiACOMjPh6ECQhgI4aa50-uLpfIaENNZGKcBIIIPKgNVU0Q"
-        },
-        {
-          "title": "CheapTickets.com",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80Osy9AMU7PihJJvBuEn2ZM_K0cIWV5h4YtW0iLkLW_1xXJFwGRpT-TgPVdhT0N805VRcYl3KVDlxYxp4NhQW8_A9NN77YN62BzvjKMlyVUGfcNFoYXxMaltZ3C8p0Qo5fVr5MxV6VwutC3RKq8ZiUbAjCOW7AaxvJqqH-axD0ePxIii3fE437G8-gog&pcurl=https://www.cheaptickets.com/Hotel-Search?selected%3D14527%26startDate%3D2025-07-30%26endDate%3D2025-07-31%26MDPCID%3DCHEAPTICKETS-US.META.HPA.ORGANIC-desktop.HOTEL%26langid%3D1033%26adults%3D2%26children%3D%26MDPDTL%3Dhtl.14527.20250730.20250731.DDT.15.CID..AUDID..mapresults%26exp_curr%3DSCR%26exp_dp%3D1991.21%26exp_tx%3D306.79%26mctc%3D10%26rateplanid%3D381948953%26rateplanid%3D381948953%26mpm%3D24%26mpn%3D314071914%26mpo%3DEC%26mpp%3D1",
-          "isOfficialSite": false,
-          "price": "SR 1,991",
-          "url": "https://www.cheaptickets.com/Hotel-Search?selected=14527&startDate=2025-07-30&endDate=2025-07-31&MDPCID=CHEAPTICKETS-US.META.HPA.ORGANIC-desktop.HOTEL&langid=1033&adults=2&children=&MDPDTL=htl.14527.20250730.20250731.DDT.15.CID..AUDID..mapresults&exp_curr=SCR&exp_dp=1991.21&exp_tx=306.79&mctc=10&rateplanid=381948953&rateplanid=381948953&mpm=24&mpn=314071914&mpo=EC&mpp=1"
-        },
-        {
-          "title": "dealbase.com",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsxkOseivJHHHyzgT4dhql6J5a_lyMHuj0d9qsTHcx5UtOkzYilMhmbZB-nTin53TClqaTAYrrlDgFWXuojz5I7py9W70UPV_VWKodGYSczoc2COPGpO3eYl9HKjcX5e-rsx0pLlDGlXNSdUzP0xia1_nTixMkpeQKBziyXYnD_hy0llUx6t4lQW&pcurl=https://deals.dealbase.com/?sig%3Dd24b78db5ff27b2a7633c125e8c1eb65fcdd29bfbe8d2468da3702f8e475011131373338383435313339%26turl%3Dhttps%253A%252F%252Fwww.dealbase.com%252FHotel%252FSearch%253FcheckIn%253D2025-07-30%2526checkOut%253D2025-07-31%2526curr%253DSCR%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D1105118%2526userCountry%253DSC%2526profile%253Dr2d2m73kn8%2526preferredRate%253D1991.21%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Ddefault%252526gsite%25253Dmapresults%252526vf%25253D0%252526ucountry%25253DSC%252526udevice%25253Ddesktop%252526hotel%25253D1105118%252526day%25253D30%252526month%25253D07%252526year%25253D2025%252526los%25253D1%252526price%25253D1991.21%252526currency%25253DSCR%252526cid%25253D%252526listid%25253D%252526rateid%25253DOthers%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253DZ2NUw1WjVkQCgs2RnFhZEtmNFNhNBjgs9fDBiACOLHlpcAKQhUI4aa50-uLpfIaENNZIKoQKgNVU0Q",
-          "isOfficialSite": false,
-          "price": "SR 1,991",
-          "url": "https://deals.dealbase.com/?sig=d24b78db5ff27b2a7633c125e8c1eb65fcdd29bfbe8d2468da3702f8e475011131373338383435313339&turl=https://www.dealbase.com/Hotel/Search?checkIn=2025-07-30&checkOut=2025-07-31&curr=SCR&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=2:&utm_source=gha&utm_medium=cpc&hotelId=1105118&userCountry=SC&profile=r2d2m73kn8&preferredRate=1991.21&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dmapresults%26vf%3D0%26ucountry%3DSC%26udevice%3Ddesktop%26hotel%3D1105118%26day%3D30%26month%3D07%26year%3D2025%26los%3D1%26price%3D1991.21%26currency%3DSCR%26cid%3D%26listid%3D%26rateid%3DOthers%26closerateid%3D%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0%26&cp=Z2NUw1WjVkQCgs2RnFhZEtmNFNhNBjgs9fDBiACOLHlpcAKQhUI4aa50-uLpfIaENNZIKoQKgNVU0Q"
-        },
-        {
-          "title": "Hotels.com",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OswKEYWwsl966K7F2fxVcef6VRgnOq_7e5CsJkY9Im4Zzf9iTO4PYpaE9JdmlhJRHCDC5V1Rs8M6oN1iDm_e2dJBcgfQ6Yk4p75Cn9dGRF8dXPxxe4sz8_91oOiesmpxMtgrsL7g_NcoWYX2i49xROhT1LvVJWteUMUSnXbduuI5wo9PbQ&pcurl=https://www.hotels.com/Hotel-Search?selected%3D14527%26startDate%3D2025-07-30%26endDate%3D2025-07-31%26mdpcid%3DHCOM-SC.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.14527.20250730.20250731.DDT.15.CID..AUDID.%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D1991.21%26mpg%3DSCR%26mpl%3DUSD%26mpj%3D306.79%26rffrid%3Dsem.hcom.SC.156.024.mapresults.02.desktop-1.kwrd%3DGGMETA.14527SCen-20250730-D-ABW%3D15-camp%3D-aud%3D-N%26rateplanid%3D381948969%26mpm%3D24%26mpn%3D314071923%26mpo%3DEC%26mpp%3D1",
-          "isOfficialSite": false,
-          "price": "SR 1,991",
-          "url": "https://www.hotels.com/Hotel-Search?selected=14527&startDate=2025-07-30&endDate=2025-07-31&mdpcid=HCOM-SC.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&MDPDTL=HTL.14527.20250730.20250731.DDT.15.CID..AUDID.&adults=2&children=&mctc=10&mpf=1991.21&mpg=SCR&mpl=USD&mpj=306.79&rffrid=sem.hcom.SC.156.024.mapresults.02.desktop-1.kwrd=GGMETA.14527SCen-20250730-D-ABW=15-camp=-aud=-N&rateplanid=381948969&mpm=24&mpn=314071923&mpo=EC&mpp=1"
-        },
-        {
-          "title": "goseek.com",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80Osx_eTVW0SqAhgQ-27nKToJhu3hGm0SthDmGBO8WFJc-jCUBhznSm3T585ybjEV7Sb3jZgfSsvkbfuyWPHca3qXe1PqjfuAoAurmJVpsDKr5bVkI-PZdKLuDWbMScByzK07Shh4pv2M-Up7tY0cK15XJxl8DGxy19X8jDalRObcvRrmlbSzn&pcurl=https://deals.goseek.com/?sig%3D34c47a49c3e8320dca5a5dda0da2a460c1bc23afde972e2894a4ff0b6052fb53383131303836353931%26turl%3Dhttps%253A%252F%252Fwww.goseek.com%252FHotel%252FSearch%253FcheckIn%253D2025-07-30%2526checkOut%253D2025-07-31%2526curr%253DSCR%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D1105118%2526userCountry%253DSC%2526profile%253Dr2d2m73kn8%2526preferredRate%253D1991.21%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Ddefault%252526gsite%25253Dmapresults%252526vf%25253D0%252526ucountry%25253DSC%252526udevice%25253Ddesktop%252526hotel%25253D1105118%252526day%25253D30%252526month%25253D07%252526year%25253D2025%252526los%25253D1%252526price%25253D1991.21%252526currency%25253DSCR%252526cid%25253D%252526listid%25253D%252526rateid%25253DOthers%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253Di3cjoW2rU1UCgtrcWVqUnBBaGhwYxi6otfDBiACOPrwsYYEQhUI4aa50-uLpfIaENNZIKoQKgNVU0Q",
-          "isOfficialSite": false,
-          "price": "SR 1,991",
-          "url": "https://deals.goseek.com/?sig=34c47a49c3e8320dca5a5dda0da2a460c1bc23afde972e2894a4ff0b6052fb53383131303836353931&turl=https://www.goseek.com/Hotel/Search?checkIn=2025-07-30&checkOut=2025-07-31&curr=SCR&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=2:&utm_source=gha&utm_medium=cpc&hotelId=1105118&userCountry=SC&profile=r2d2m73kn8&preferredRate=1991.21&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dmapresults%26vf%3D0%26ucountry%3DSC%26udevice%3Ddesktop%26hotel%3D1105118%26day%3D30%26month%3D07%26year%3D2025%26los%3D1%26price%3D1991.21%26currency%3DSCR%26cid%3D%26listid%3D%26rateid%3DOthers%26closerateid%3D%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0%26&cp=i3cjoW2rU1UCgtrcWVqUnBBaGhwYxi6otfDBiACOPrwsYYEQhUI4aa50-uLpfIaENNZIKoQKgNVU0Q"
-        },
-        {
-          "title": "Expedia.com",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OszSbjW1db2p73OJI2W2HNc4UH6RDEY3KvDYKSXgONo1NgaUAeuJQN-QbRmuUmoUAcSjntcvJcNOlPuUu2kQZS_KmdmrYC1ejy4zoC_0iV16uK1XulhbXRghicrQ50OqgMt4TWYnpzWxCMGzNvXjqANluvTNk2WJuEmMyqQM2lRTr5739uk&pcurl=https://www.expedia.com/Hotel-Search?selected%3D14527%26startDate%3D2025-07-30%26endDate%3D2025-07-31%26MDPCID%3DSC.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.14527.20250730.20250731.DDT.15.CID..AUDID..RRID.bex_us_desktop%26adults%3D2%26children%3D%26mctc%3D10%26ct%3Dhotel%26mpg%3DSCR%26mpf%3D1991.21%26mpj%3D306.79%26mpl%3DUSD%26exp_pg%3Dgoogle%26langid%3Den%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D14527%26utm_content%3Dmapresults%26utm_campaign%3DHotelAds%26rateplanid%3D381948953%26mpm%3D24%26mpn%3D314071914%26mpo%3DEC%26mpp%3D1",
-          "isOfficialSite": false,
-          "price": "SR 1,991",
-          "url": "https://www.expedia.com/Hotel-Search?selected=14527&startDate=2025-07-30&endDate=2025-07-31&MDPCID=SC.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&MDPDTL=HTL.14527.20250730.20250731.DDT.15.CID..AUDID..RRID.bex_us_desktop&adults=2&children=&mctc=10&ct=hotel&mpg=SCR&mpf=1991.21&mpj=306.79&mpl=USD&exp_pg=google&langid=en&ad=2&tp=&utm_source=google&utm_medium=cpc&utm_term=14527&utm_content=mapresults&utm_campaign=HotelAds&rateplanid=381948953&mpm=24&mpn=314071914&mpo=EC&mpp=1"
-        },
-        {
-          "title": "Closest Hotel",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OszUzfEmAO_1nrUuU5AEluj916WBkbUQGm21mae-RMb0s9fjcnnQdNyae_Fgm4p1rIyXOID5yfu_5uMt-ZNL3E66WKuUvBL2TL-y9PEtizmjKLNl3EXeqWNW3-D5PGoB24u26koP-D48ODb9v5R5WBzmyZjgF8y8gzkkea33pYbZWSg8l1nmUJXp_W5PKeyPdFSNX8Q&pcurl=https://closesthotel.com/googleRedirMainSearch.php?checkInYear%3D2025%26checkInMonth%3D07%26checkInDay%3D30%26checkOutYear%3D2025%26checkOutMonth%3D07%26checkOutDay%3D31%26numberOfNights%3D1%26numberOfAdults%3D2%26numberOfChildren%3D0%26numberOfGuests%3D2%26hotelID%3D14527%26roomID%3D314071894%26currency%3DSCR%26deviceType%3Ddesktop",
-          "isOfficialSite": false,
-          "price": "SR 1,991",
-          "url": "https://closesthotel.com/googleRedirMainSearch.php?checkInYear=2025&checkInMonth=07&checkInDay=30&checkOutYear=2025&checkOutMonth=07&checkOutDay=31&numberOfNights=1&numberOfAdults=2&numberOfChildren=0&numberOfGuests=2&hotelID=14527&roomID=314071894&currency=SCR&deviceType=desktop"
-        },
-        {
-          "title": "Brek",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsxKRZxTvay2KwJIq_JNl0rDxXfJ-wNymKiy77TGn0G8PFsnja0R5GXY6LG47XwO98WOtIcDeCb6Riilwocs8MtaslCKH2ldGnJtvnIGGq5Bma6OJDKyek3Em9otd4q-baUkbSEA4h7klqUDNgi11l30KPAXqs8K503L70kDKAXAv333_zY&pcurl=https://www.brek.com/search?lat%3D29.520979%26lng%3D-98.490586%26checkin%3D2025-07-30%26checkout%3D2025-07-31%26pinned%3D6473874fa1d24283bbcaf7a5%26utm_source%3Dgha%26ep%3D7f51dcbc8ed03f8df50a8a49eb040265d3817171cf8fa06d0af83e38e1bfb0b229841b58243f8304c932b5c44ab8e8fdee19477d18c78ec42846d7c606dcf532%26user_currency%3DSCR%26user_country%3DSC%26user_language%3Den%26user_displayed_total%3D1991.21%26user_displayed_tax%3D306.79",
-          "isOfficialSite": false,
-          "price": "SR 1,991",
-          "url": "https://www.brek.com/search?lat=29.520979&lng=-98.490586&checkin=2025-07-30&checkout=2025-07-31&pinned=6473874fa1d24283bbcaf7a5&utm_source=gha&ep=7f51dcbc8ed03f8df50a8a49eb040265d3817171cf8fa06d0af83e38e1bfb0b229841b58243f8304c932b5c44ab8e8fdee19477d18c78ec42846d7c606dcf532&user_currency=SCR&user_country=SC&user_language=en&user_displayed_total=1991.21&user_displayed_tax=306.79"
-        },
-        {
-          "title": "eDreams",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OswLuOsjyqbyGqx7kx5ohFgaur18D5zRexNxpJo15MkKqQGyjkGyDZzk9MkQXmz5eex2mzDXE7TjjNge1t9wpwXjrRGlDVLa6jvBq5ORiBt2UlAAKQdghT2SRVL_SJ-3hZo4wGYDD6bjM_ahI0bkSteupjNlKLMoe1_SNvo&pcurl=https://accommodation.edreams.net/Hotel-Search?selected%3D14527%26startDate%3D2025-07-30%26endDate%3D2025-07-31%26adults%3D2%26children%3D%26mpf%3D1991.21%26cur%3DSCR%26mpj%3D306.79%26wapb3%3D%7Cc.506950%7Cl.en_US%7Ct.meta%7Cs.ghs%26MDPCID%3DeDreams-US.DPS.Edreams.MetaSearch-GHA.HOTEL%26mpl%3DUSD%26numberOfRooms%3D1%26locale%3Den_US%26rffrid%3Dh4p.hcom.US.ghaodigeo.000.000.kwrd%3D%26pos%3DEDREAMS_US%26rateplanid%3D381948905%26mctc%3D10%26utm_medium%3Dmetasearch%26utm_campaign%3D127143%26utm_term%3Dhotel%26utm_source%3DFREEBOOKING",
-          "isOfficialSite": false,
-          "price": "SR 1,991",
-          "url": "https://accommodation.edreams.net/Hotel-Search?selected=14527&startDate=2025-07-30&endDate=2025-07-31&adults=2&children=&mpf=1991.21&cur=SCR&mpj=306.79&wapb3=|c.506950|l.en_US|t.meta|s.ghs&MDPCID=eDreams-US.DPS.Edreams.MetaSearch-GHA.HOTEL&mpl=USD&numberOfRooms=1&locale=en_US&rffrid=h4p.hcom.US.ghaodigeo.000.000.kwrd=&pos=EDREAMS_US&rateplanid=381948905&mctc=10&utm_medium=metasearch&utm_campaign=127143&utm_term=hotel&utm_source=FREEBOOKING"
-        },
-        {
-          "title": "Luxury Escapes",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsxKmTA_qD1LMuDwtw8EceF3x4iBBobzSE79-EnLjyuv7fxPwGdnsix7ertdfVgWZjYbaH0tbVuPS6LCj6WFWz0e_3__E0nFqZOODy8TRBsNWsUMSOTaeUs0AhnVExs9P0p9-bf-7fRELYSHULs0DFLG7w8ItTBZKBIWLeC_fLpAcKrRBYx3C-c&pcurl=https://luxuryescapes.com/us/metasearch/9d2c8575-95cd-4fb7-84d6-80dfac1ce09c?utm_bp%3D2%26source%3Dmetasearch%26checkIn%3D2025-07-30%26checkOut%3D2025-07-31%26propertyName%3DEstancia%2520del%2520Norte%2520San%2520Antonio,%2520Tapestry%2520Collection%2520by%2520Hilton%26propertyId%3Dle%253A9d2c8575-95cd-4fb7-84d6-80dfac1ce09c%26roomTypeId%3D%26roomRateId%3D%26adults%3D2%26children%3Dnone%26utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_content%3Dgha-lpp%26currency%3DSCR%26priceTotal%3D1991.47",
-          "isOfficialSite": false,
-          "price": "SR 1,991",
-          "url": "https://luxuryescapes.com/us/metasearch/9d2c8575-95cd-4fb7-84d6-80dfac1ce09c?utm_bp=2&source=metasearch&checkIn=2025-07-30&checkOut=2025-07-31&propertyName=Estancia del Norte San Antonio, Tapestry Collection by Hilton&propertyId=le:9d2c8575-95cd-4fb7-84d6-80dfac1ce09c&roomTypeId=&roomRateId=&adults=2&children=none&utm_source=google&utm_medium=organic&utm_content=gha-lpp&currency=SCR&priceTotal=1991.47"
-        },
-        {
-          "title": "Agoda",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OswEdZqWbWf_ZEqLbCPnQ_OiXN4GFAT9Z28Ft67yGAjQLCKV094oC1ISfdUxxcXYjZPlKIUex0aOJp83NxlBqX-KcyU8W3jiJR_hiZMnoWF03dmKzjVFi_3nRg2Pp1HBUOaq3NDHbVLODmdbFxoBkZ1rzMXGP9Js-tbYytHKEj8e7afW&pcurl=https://www.agoda.com/partners/partnersearch.aspx?site_id%3D1917614%26CkInDay%3D30%26CkInMonth%3D07%26CkInYear%3D2025%26CkOutDay%3D31%26campaignid%3D%26CkOutMonth%3D07%26CkOutYear%3D2025%26SearchDateType%3Ddefault%26NumberOfAdults%3D2%26LT%3D15%26NumberOfChildren%3D0%26childages%3D%26NumberOfRooms%3D1%26gsite%3Dmapresults%26los%3D1%26PartnerCurrency%3DUSD%26hid%3D79740%26RoomID%3D491622155%26masterRoomId%3D491622155%26PriceTax%3D330.28%26PriceTotal%3D2014.69%26RatePlan%3Df63d7982-5369-ae3e-72c6-20478cedcc32%26UserCountry%3DSC%26Currency%3DSCR%26UserDevice%3Ddesktop%26Verif%3Dfalse%26rr%3Drow_desktop%26audience_list%3D%26mcid%3D29005%26booking_source%3Dcpc%26adType%3D0%26mpt%3DVy9vQXJMNWNmbllvSkNBQ0xPdGtpa3RqTXdzZmtNM0Rub25DRElrOVpqMjZoaGEybmRMQzBZWT0%26original_rr%3D",
-          "isOfficialSite": false,
-          "price": "SR 2,015",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1917614&CkInDay=30&CkInMonth=07&CkInYear=2025&CkOutDay=31&campaignid=&CkOutMonth=07&CkOutYear=2025&SearchDateType=default&NumberOfAdults=2&LT=15&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=mapresults&los=1&PartnerCurrency=USD&hid=79740&RoomID=491622155&masterRoomId=491622155&PriceTax=330.28&PriceTotal=2014.69&RatePlan=f63d7982-5369-ae3e-72c6-20478cedcc32&UserCountry=SC&Currency=SCR&UserDevice=desktop&Verif=false&rr=row_desktop&audience_list=&mcid=29005&booking_source=cpc&adType=0&mpt=Vy9vQXJMNWNmbllvSkNBQ0xPdGtpa3RqTXdzZmtNM0Rub25DRElrOVpqMjZoaGEybmRMQzBZWT0&original_rr="
-        },
-        {
-          "title": "HomeToGo",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80Oswhkf1gJUXK1kXct3f8SvJQacmR4Sw3r8eDJRvMj0DQRy6CACDaYvDL6u3yPLq-Z37I6m753c9zjr4Eu8AkEl2BLl1Dy_G0N7ybZGKztw-S2muymSQcn1QijhnSHdvZYR8dkvvQV2wVMhO6-dMi1F5j4IowRc_UZV93rzfXPQ&pcurl=https://www.hometogo.com/search/59a5fd3117265?arrival%3D2025-07-30%26duration%3D1%26id%3Dzc85480009b76e2e2%2540f%2540s%26adults%3D2%26tpp%3Drxbzmhfq.6874f00d%26adword%3Dghf/us/zc85480009b76e2e2/ct%3Dhs/n-a/n-a/59a5fd3117265%26utm_source%3Dghf%26hl%3Den_SC%26ghf_acc%3Dhtg_ghf%26c%3DSCR%26type%5B%5D%3Dhotel%26gValidation%3Dfalse%26gSite%3Dmapresults",
-          "isOfficialSite": false,
-          "price": "SR 2,015",
-          "url": "https://www.hometogo.com/search/59a5fd3117265?arrival=2025-07-30&duration=1&id=zc85480009b76e2e2@f@s&adults=2&tpp=rxbzmhfq.6874f00d&adword=ghf/us/zc85480009b76e2e2/ct=hs/n-a/n-a/59a5fd3117265&utm_source=ghf&hl=en_SC&ghf_acc=htg_ghf&c=SCR&type[]=hotel&gValidation=false&gSite=mapresults"
-        },
-        {
-          "title": "BusinessHotels.com",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OszGBN7SAHeyYW2d0GuvSFHlhKMh5k1iBjmyxIQKtcAt6B_7E7zc3tU0aBUIa3gLaN__Yi1K0X8jcGmB0kkL1ZOfcNfRD0uiEYNDVjQyhatlzz_YGmCQ6xGj1Q9uGNNK1R7_GgU7LEWC0ZZbKXjt8-xOif5bebnfhz1lj-UMtlXtrsDfsR9XdLw&pcurl=https://www.businesshotels.com/reservation.php?hotel-id%3D700022825%26checkin-date%3D2025-07-30%26checkout-date%3D2025-07-31%26language%3Den%26USER-CURRENCY%3DSCR%26USER-COUNTRY%3DSC%26NUM-ADULTS%3D2%26NUM-CHILDREN%3D0%26prid%3D",
-          "isOfficialSite": false,
-          "price": "SR 2,015",
-          "url": "https://www.businesshotels.com/reservation.php?hotel-id=700022825&checkin-date=2025-07-30&checkout-date=2025-07-31&language=en&USER-CURRENCY=SCR&USER-COUNTRY=SC&NUM-ADULTS=2&NUM-CHILDREN=0&prid="
-        },
-        {
-          "title": "Vacations Made Easy",
-          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OswuKIIFYtmMlkJtSmn4b1tezP5xJxnqJhX35ywnJBPL3pn_kSeJyG4ftmTCH7Kpj90LUBrBMbnqNtW0J3ek13pUzV_lNOxXaTB7qaYYeTf-P_ynAVeThUSJlZv0tDR9GsYSwgujn81EUYhrS78tO-eqGMgyCFMr05D37HhzYw6eQAwy5-YdwO9QqY0t6g&pcurl=https://www.vacationsmadeeasy.com/bookHotel.cfm?listingID%3D735914%26arrivalDate%3D2025-07-30%26departureDate%3D2025-07-31%26nights%3D1%26numAdults%3D2%26numChildren%3D0",
-          "isOfficialSite": false,
-          "price": "SR 2,853",
-          "url": "https://www.vacationsmadeeasy.com/bookHotel.cfm?listingID=735914&arrivalDate=2025-07-30&departureDate=2025-07-31&nights=1&numAdults=2&numChildren=0"
-        }
-      ],
+      "hotelAds": [],
       "openingHours": [],
       "peopleAlsoSearch": [],
       "placesTags": [],
       "reviewsTags": [],
       "additionalInfo": {
-        "Amenities": [
-          {
-            "Free Wi-Fi": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=Estancia%20del%20Norte%20San%20Antonio%2C%20Tapestry%20Collection%20by%20Hilton&query_place_id=ChIJy2Pln71hXIYRML-T-XvTl6U",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.5043891,-98.5512109,13.802317613625439z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 22,
-      "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMyrWqkxICLYuutFH7ugpzaWCb5OQE5h6E_nSjh=w414-h240-k-no",
-      "kgmid": "/g/11my4b4glj"
-    },
-    {
-      "title": "Golden Wok",
-      "description": "Dim sum, stir-fries & lunch specials are among the draws at this casual Pan-Asian eatery.",
-      "price": "$$",
-      "categoryName": "Chinese restaurant",
-      "address": "8822 Wurzbach Rd, San Antonio, TX 78240, United States",
-      "neighborhood": "Northwest Side",
-      "street": "8822 Wurzbach Rd",
-      "city": "San Antonio",
-      "postalCode": "78240",
-      "state": "Texas",
-      "countryCode": "US",
-      "website": "https://fooddiscoveryapp.com/san-antonio/golden-wok",
-      "phone": "+1 210-615-8282",
-      "phoneUnformatted": "+12106158282",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 29.5245521,
-        "lng": -98.5678849
-      },
-      "totalScore": 4.3,
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJgX5TabJgXIYRvx86OFZH8aI",
-      "categories": ["Chinese restaurant", "Asian restaurant", "Restaurant"],
-      "fid": "0x865c60b269537e81:0xa2f14756383a1fbf",
-      "cid": "11741244139167686591",
-      "reviewsCount": 4157,
-      "reviewsDistribution": {
-        "oneStar": 278,
-        "twoStar": 174,
-        "threeStar": 312,
-        "fourStar": 827,
-        "fiveStar": 2566
-      },
-      "imagesCount": 1713,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-15T05:07:50.859Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [
-        {
-          "day": "Monday",
-          "hours": "10:45 AM to 9 PM"
-        },
-        {
-          "day": "Tuesday",
-          "hours": "10:45 AM to 9 PM"
-        },
-        {
-          "day": "Wednesday",
-          "hours": "10:45 AM to 9 PM"
-        },
-        {
-          "day": "Thursday",
-          "hours": "10:45 AM to 9 PM"
-        },
-        {
-          "day": "Friday",
-          "hours": "10:45 AM to 9 PM"
-        },
-        {
-          "day": "Saturday",
-          "hours": "10:45 AM to 9 PM"
-        },
-        {
-          "day": "Sunday",
-          "hours": "10:30 AM to 9 PM"
-        }
-      ],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "Service options": [
-          {
-            "Kerbside pickup": true
-          },
-          {
-            "Delivery": true
-          },
-          {
-            "Takeaway": true
-          },
-          {
-            "Dine-in": true
-          }
-        ],
-        "Highlights": [
-          {
-            "Fast service": true
-          },
-          {
-            "Great cocktails": true
-          },
-          {
-            "Great tea selection": true
-          },
-          {
-            "Serves local specialty": true
-          }
-        ],
-        "Popular for": [
-          {
-            "Lunch": true
-          },
-          {
-            "Dinner": true
-          },
-          {
-            "Solo dining": true
-          }
-        ],
         "Accessibility": [
           {
-            "Wheelchair-accessible car park": true
+            "Wheelchair accessible entrance": true
           },
           {
-            "Wheelchair-accessible entrance": true
-          },
-          {
-            "Wheelchair-accessible seating": true
-          },
-          {
-            "Wheelchair-accessible toilet": true
-          }
-        ],
-        "Offerings": [
-          {
-            "Alcohol": true
-          },
-          {
-            "Beer": true
-          },
-          {
-            "Cocktails": true
-          },
-          {
-            "Coffee": true
-          },
-          {
-            "Comfort food": true
-          },
-          {
-            "Happy-hour drinks": true
-          },
-          {
-            "Happy-hour food": true
-          },
-          {
-            "Healthy options": true
-          },
-          {
-            "Organic dishes": true
-          },
-          {
-            "Private dining room": true
-          },
-          {
-            "Quick bite": true
-          },
-          {
-            "Small plates": true
-          },
-          {
-            "Spirits": true
-          },
-          {
-            "Vegan options": true
-          },
-          {
-            "Vegetarian options": true
-          },
-          {
-            "Wine": true
-          }
-        ],
-        "Dining options": [
-          {
-            "Lunch": true
-          },
-          {
-            "Dinner": true
-          },
-          {
-            "Catering": true
-          },
-          {
-            "Dessert": true
-          },
-          {
-            "Seating": true
-          },
-          {
-            "Table service": true
-          }
-        ],
-        "Amenities": [
-          {
-            "Bar on site": true
-          },
-          {
-            "Toilet": true
-          }
-        ],
-        "Atmosphere": [
-          {
-            "Casual": true
-          },
-          {
-            "Cosy": true
-          },
-          {
-            "Trendy": true
-          }
-        ],
-        "Crowd": [
-          {
-            "Groups": true
-          },
-          {
-            "Tourists": true
-          },
-          {
-            "University students": true
-          }
-        ],
-        "Planning": [
-          {
-            "Accepts reservations": true
-          },
-          {
-            "Usually a wait": true
+            "Wheelchair accessible parking lot": true
           }
         ],
         "Payments": [
           {
             "Credit cards": true
-          },
-          {
-            "Debit cards": true
-          },
-          {
-            "NFC mobile payments": true
-          },
-          {
-            "Credit cards": true
-          }
-        ],
-        "Children": [
-          {
-            "Good for kids": true
-          },
-          {
-            "High chairs": true
-          },
-          {
-            "Kids' menu": true
-          }
-        ],
-        "Parking": [
-          {
-            "Free of charge street parking": true
-          },
-          {
-            "Free parking lot": true
-          },
-          {
-            "Plenty of parking": true
           }
         ]
       },
       "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Wok&query_place_id=ChIJgX5TabJgXIYRvx86OFZH8aI",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.5043891,-98.5512109,13.802317613625439z?hl=en",
+      "url": "https://www.google.com/maps/search/?api=1&query=Pitfire%20Pizza%20Commissary&query_place_id=ChIJq6panOy6woARdM6M5eysKo8",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.022456500000004,-118.4102987,13.731830951343667z?hl=en",
       "searchString": "shared-use commercial kitchen",
       "language": "en",
       "rank": 23,
       "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrC7BVAgl-bboL-xBOXHYiMXv2_qmFLr97Tp6VbvWZVlh_5DCeI5FrPtE6DZzE4znB09HJupV-JglTWf08ci0RiiE2muPMRIfDqT7S_44EcUuUCgnrNi0i_Rz2vHqiqY06Dxerk=w408-h306-k-no",
-      "kgmid": "/g/1thtq01t"
-    },
-    {
-      "title": "Best Buy",
-      "description": "Chain retailer with a large array of brand-name electronics, computers, appliances & more.",
-      "price": "$$",
-      "categoryName": "Electronics store",
-      "address": "125 NW Loop 410 #201, San Antonio, TX 78216, United States",
-      "neighborhood": "San Antonio International Airport Vicinity",
-      "street": "125 NW Loop 410 #201",
-      "city": "San Antonio",
-      "postalCode": "78216",
-      "state": "Texas",
-      "countryCode": "US",
-      "website": "https://stores.bestbuy.com/tx/san-antonio/125-nw-loop-410-201.html/?ref=NS&loc=ns100",
-      "phone": "+1 210-377-1116",
-      "phoneUnformatted": "+12103771116",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 29.52291,
-        "lng": -98.494705
-      },
-      "locatedIn": "Geek Squad",
-      "totalScore": 4.2,
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJXbX-_gVgXIYR26Ctms5621A",
-      "categories": [
-        "Electronics store",
-        "Appliance store",
-        "Computer store",
-        "Home theater store",
-        "Music store",
-        "Video game store",
-        "Video store"
-      ],
-      "fid": "0x865c6005fefeb55d:0x50db7ace9aada0db",
-      "cid": "5826385570710790363",
-      "reviewsCount": 6340,
-      "reviewsDistribution": {
-        "oneStar": 416,
-        "twoStar": 210,
-        "threeStar": 574,
-        "fourStar": 1410,
-        "fiveStar": 3730
-      },
-      "imagesCount": 724,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-15T05:07:50.860Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [
-        {
-          "day": "Monday",
-          "hours": "10 AM to 9 PM"
-        },
-        {
-          "day": "Tuesday",
-          "hours": "10 AM to 9 PM"
-        },
-        {
-          "day": "Wednesday",
-          "hours": "10 AM to 9 PM"
-        },
-        {
-          "day": "Thursday",
-          "hours": "10 AM to 9 PM"
-        },
-        {
-          "day": "Friday",
-          "hours": "10 AM to 9 PM"
-        },
-        {
-          "day": "Saturday",
-          "hours": "10 AM to 9 PM"
-        },
-        {
-          "day": "Sunday",
-          "hours": "10 AM to 8 PM"
-        }
-      ],
-      "additionalOpeningHours": {
-        "Geek Squad": [
-          {
-            "day": "Monday",
-            "hours": "10 am–9 pm"
-          },
-          {
-            "day": "Tuesday",
-            "hours": "10 am–9 pm"
-          },
-          {
-            "day": "Wednesday",
-            "hours": "10 am–9 pm"
-          },
-          {
-            "day": "Thursday",
-            "hours": "10 am–9 pm"
-          },
-          {
-            "day": "Friday",
-            "hours": "10 am–9 pm"
-          },
-          {
-            "day": "Saturday",
-            "hours": "10 am–9 pm"
-          },
-          {
-            "day": "Sunday",
-            "hours": "10 am–8 pm"
-          }
-        ]
-      },
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "Service options": [
-          {
-            "Kerbside pickup": true
-          },
-          {
-            "Delivery": true
-          },
-          {
-            "In-store pick-up": true
-          },
-          {
-            "In-store shopping": true
-          },
-          {
-            "On-site services": true
-          }
-        ],
-        "Accessibility": [
-          {
-            "Wheelchair-accessible car park": true
-          },
-          {
-            "Wheelchair-accessible entrance": true
-          }
-        ],
-        "Offerings": [
-          {
-            "Assembly service": true
-          },
-          {
-            "Repair services": true
-          }
-        ],
-        "Amenities": [
-          {
-            "Wi-Fi": true
-          }
-        ],
-        "Planning": [
-          {
-            "Quick visit": true
-          }
-        ],
-        "Recycling": [
-          {
-            "Batteries": true
-          },
-          {
-            "Electronics": true
-          }
-        ],
-        "Payments": [
-          {
-            "Cheques": true
-          },
-          {
-            "Credit cards": true
-          },
-          {
-            "Debit cards": true
-          },
-          {
-            "NFC mobile payments": true
-          },
-          {
-            "Credit cards": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=Best%20Buy&query_place_id=ChIJXbX-_gVgXIYR26Ctms5621A",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.5043891,-98.5512109,13.802317613625439z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 24,
-      "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nof8xTH24nsaTbQA83ZeZq36cpqIQTaVjJ3qzBv0y0kmQttb1VAZpQaV4uNJGpJ6Fg22zOanL6HNNiR1Fwx61uvFCuSQF2IrfTrWvYjZTyc_NbuDTOks5UtO77XoYRncs_drITx=w408-h306-k-no",
-      "kgmid": "/g/1td2hb3_"
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Os9ZBH8qDaLjqsTnqm0muw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=203.70192&pitch=0&thumbfov=100",
+      "kgmid": "/g/11hy9ns19k"
     }
   ]
 }
