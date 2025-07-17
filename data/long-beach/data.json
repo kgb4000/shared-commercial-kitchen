@@ -1,0 +1,497 @@
+{
+  "state": "CA",
+  "city": "Long Beach",
+  "kitchens": [
+    {
+      "title": "Feel Good Kitchen LB",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "714 Orange Ave, Long Beach, CA 90813",
+      "neighborhood": "Eastside",
+      "street": "714 Orange Ave",
+      "city": "Long Beach",
+      "postalCode": "90813",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://www.feelgoodkitchenlb.com/",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.7757114,
+        "lng": -118.1762067
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ6d_9Dtkx3YARgTxbBq9XJZE",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Food processing equipment"
+      ],
+      "fid": "0x80dd31d90efddfe9:0x912557af065b3c81",
+      "cid": "10458862118875380865",
+      "reviewsCount": 42,
+      "imagesCount": 24,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:38:27.565Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Feel%20Good%20Kitchen%20LB&query_place_id=ChIJ6d_9Dtkx3YARgTxbBq9XJZE",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@33.75412972183,-118.24938961672642,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOsqY-KGx3RC76V_JONg_ei2X-xopzpDIzjMhp-=w408-h306-k-no",
+      "kgmid": "/g/11h53ms0vc"
+    },
+    {
+      "title": "Partake Collective Food Hall and Commercial Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "456 Elm Ave k9, Long Beach, CA 90802",
+      "neighborhood": "Downtown",
+      "street": "456 Elm Ave k9",
+      "city": "Long Beach",
+      "postalCode": "90802",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://www.partakecollective.com/",
+      "phone": "(562) 317-1577",
+      "phoneUnformatted": "+15623171577",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.7727542,
+        "lng": -118.1872822
+      },
+      "totalScore": 4.5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJtWCdxVAx3YARwYDH1IEyQw8",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Food court",
+        "Restaurant"
+      ],
+      "fid": "0x80dd3150c59d60b5:0xf433281d4c780c1",
+      "cid": "1099778267210547393",
+      "reviewsCount": 38,
+      "imagesCount": 78,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:38:27.566Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "11 AM to 10 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11 AM to 10 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11 AM to 10 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11 AM to 10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11 AM to 10:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "12 to 10:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "12 to 10:30 PM"
+        }
+      ],
+      "additionalOpeningHours": {
+        "Delivery": [
+          {
+            "day": "Monday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "11 AM–10:30 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "12–10:30 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "12–10:30 PM"
+          }
+        ],
+        "Takeout": [
+          {
+            "day": "Monday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "11 AM–10:30 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "12–10:30 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "12–10:30 PM"
+          }
+        ],
+        "Pickup": [
+          {
+            "day": "Monday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "12–10:30 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "12–10:30 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "12–10:30 PM"
+          }
+        ],
+        "Kitchen": [
+          {
+            "day": "Monday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "11 AM–10:30 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "12–10:30 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "12–10:30 PM"
+          }
+        ],
+        "Lunch": [
+          {
+            "day": "Monday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "10 AM–10 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "10 AM–10 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "11 AM–10:30 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "12–10:30 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "12–10:30 PM"
+          }
+        ],
+        "Dinner": [
+          {
+            "day": "Monday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "11 AM–10 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "11 AM–10:30 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "12–10:30 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "12–10:30 PM"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Partake%20Collective%20Food%20Hall%20and%20Commercial%20Kitchens&query_place_id=ChIJtWCdxVAx3YARwYDH1IEyQw8",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@33.75412972183,-118.24938961672642,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOJtYn4IKDkamuT7XGimbOYbQPLGiXJ-Wc4MjM7=w408-h272-k-no",
+      "kgmid": "/g/11sh4ydkj1"
+    },
+    {
+      "title": "LBC Food Co",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1388 Daisy Ave, Long Beach, CA 90813",
+      "neighborhood": "Washington",
+      "street": "1388 Daisy Ave",
+      "city": "Long Beach",
+      "postalCode": "90813",
+      "state": "California",
+      "countryCode": "US",
+      "website": "http://daisydinerlongbeach.com/",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 33.7837592,
+        "lng": -118.1991964
+      },
+      "totalScore": 4.3,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ1wxHyZMx3YARUpgjHLyUGTA",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x80dd3193c9470cd7:0x301994bc1c239852",
+      "cid": "3465964923885164626",
+      "reviewsCount": 4,
+      "imagesCount": 49,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:38:33.084Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8 AM to 4:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM to 4:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM to 4:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM to 4:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM to 4:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=LBC%20Food%20Co&query_place_id=ChIJ1wxHyZMx3YARUpgjHLyUGTA",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@33.7757114,-118.1762067,14.73600577051181z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 17,
+      "isAdvertisement": false,
+      "imageUrl": "http://t1.gstatic.com/images?q=tbn:ANd9GcTD12djfrKnToSICE5RB70fatj7bmAMyKp7s8HwgWrkwktnlEdz",
+      "kgmid": "/g/11rcsm7tg7"
+    }
+  ]
+}

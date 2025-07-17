@@ -1,0 +1,5083 @@
+{
+  "state": "IL",
+  "city": "Chicago",
+  "kitchens": [
+    {
+      "title": "MyKitchens LLC",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "9416 W Irving Park Rd, Schiller Park, IL 60176, United States",
+      "neighborhood": null,
+      "street": "9416 W Irving Park Rd",
+      "city": "Schiller Park",
+      "postalCode": "60176",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "http://mykitchensllc.com/",
+      "phone": "+1 708-714-7151",
+      "phoneUnformatted": "+17087147151",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.954568,
+        "lng": -87.862074
+      },
+      "totalScore": 4.2,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJkbbEK4y1D4gRQtOC1BYNODc",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x880fb58c2bc4b691:0x37380d16d482d342",
+      "cid": "3978944662487618370",
+      "reviewsCount": 23,
+      "imagesCount": 49,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:32.184Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=MyKitchens%20LLC&query_place_id=ChIJkbbEK4y1D4gRQtOC1BYNODc",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.360803795483946,-90.28142009787805,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no6ir8-VJIcxuxP2PjEDL1C5eKUNOWshghxSLTKrZapV2Ya8uRZxSiXAbbZ4O1IgsJR8emqA3TULtEUqZRoYRYcRuuHoD-Tuqqq6r_7ndE2fEsEkCg9mF6UIQJNx3MBaHG6LWsycA=w408-h544-k-no",
+      "kgmid": "/g/11bwyt_9wj"
+    },
+    {
+      "title": "Kitchen Chicago",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "324 N Leavitt St Suite 100, Chicago, IL 60612, United States",
+      "neighborhood": "Near West Side",
+      "street": "324 N Leavitt St Suite 100",
+      "city": "Chicago",
+      "postalCode": "60612",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "http://kitchenchicago.com/",
+      "phone": "+1 312-455-0863",
+      "phoneUnformatted": "+13124550863",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.8877327,
+        "lng": -87.6822906
+      },
+      "totalScore": 4.5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJsWIrwUgtDogR1SQy0Zy0B08",
+      "categories": ["Shared-use commercial kitchen", "Event venue"],
+      "fid": "0x880e2d48c12b62b1:0x4f07b49cd13224d5",
+      "cid": "5694718839450903765",
+      "reviewsCount": 47,
+      "imagesCount": 32,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:32.185Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Kitchen%20Chicago&query_place_id=ChIJsWIrwUgtDogR1SQy0Zy0B08",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.360803795483946,-90.28142009787805,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq8yYL9g0OBnTwqAtbMpWm3uYLaa5DZGu5wkyA2L7X4UbyI-am7kvr1KNPKkQlWf7Kc5TbJgwqFrHKFlAuCULOcEsrJ9-NG84AAZnfivPAD-4n_F0HTsmciGUoDqq_gB8Zop1eN=w408-h306-k-no",
+      "kgmid": "/g/1v6p9fdr"
+    },
+    {
+      "title": "Nimbus River North",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "820 N Orleans St, Chicago, IL 60610, United States",
+      "neighborhood": "Near North Side",
+      "street": "820 N Orleans St",
+      "city": "Chicago",
+      "postalCode": "60610",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "https://nimbuskitchen.com/",
+      "phone": "+1 646-718-3475",
+      "phoneUnformatted": "+16467183475",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.8972264,
+        "lng": -87.6382978
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJJ3HI54DTD4gRRw5Oe_VI3yo",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x880fd380e7c87127:0x2adf48f57b4e0e47",
+      "cid": "3089268088572350023",
+      "reviewsCount": 14,
+      "imagesCount": 17,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:32.186Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "6 AM to 10 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free of charge street parking": true
+          },
+          {
+            "On-site parking": true
+          },
+          {
+            "Paid parking lot": true
+          },
+          {
+            "Paid street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Nimbus%20River%20North&query_place_id=ChIJJ3HI54DTD4gRRw5Oe_VI3yo",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.360803795483946,-90.28142009787805,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 3,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOsvLBQTy5lzKIkZ3e7r5tB0MhyQ6Dr6BHIekwP=w408-h271-k-no",
+      "kgmid": "/g/11y34cr4qf"
+    },
+    {
+      "title": "Scratch Incubator Kitchen- Rentable Commercial Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "101 N Johnson St, Woodstock, IL 60098, United States",
+      "neighborhood": null,
+      "street": "101 N Johnson St",
+      "city": "Woodstock",
+      "postalCode": "60098",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "https://www.eventsatethereal.com/scratch-kitchen",
+      "phone": "+1 815-414-9970",
+      "phoneUnformatted": "+18154149970",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 42.314911,
+        "lng": -88.4483756
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJC8jMIN9pD4gR_RWJKOGKhSg",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x880f69df20ccc80b:0x28858ae1288915fd",
+      "cid": "2919892633071982077",
+      "reviewsCount": 1,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:32.186Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Scratch%20Incubator%20Kitchen-%20Rentable%20Commercial%20Kitchen&query_place_id=ChIJC8jMIN9pD4gR_RWJKOGKhSg",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.360803795483946,-90.28142009787805,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 4,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_ZfokRHESGWV7QhbygbAHA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=15.684082&pitch=0&thumbfov=100",
+      "kgmid": "/g/11v0vxvg3g"
+    },
+    {
+      "title": "Amped Kitchens Chicago",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "5801 W Dickens Ave, Chicago, IL 60639, United States",
+      "neighborhood": "Belmont Central",
+      "street": "5801 W Dickens Ave",
+      "city": "Chicago",
+      "postalCode": "60639",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "https://www.ampedkitchens.com/chicago?utm_source=google&utm_medium=organic&utm_campaign=gmb_website",
+      "phone": "+1 872-240-8731",
+      "phoneUnformatted": "+18722408731",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.9178417,
+        "lng": -87.771298
+      },
+      "totalScore": 4.6,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJx241UNHND4gR5GidkJd5ui0",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Food manufacturing supply"
+      ],
+      "fid": "0x880fcdd150356ec7:0x2dba7997909d68e4",
+      "cid": "3295079769248196836",
+      "reviewsCount": 16,
+      "imagesCount": 5,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:32.186Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "On-site services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free of charge street parking": true
+          },
+          {
+            "Paid parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Amped%20Kitchens%20Chicago&query_place_id=ChIJx241UNHND4gR5GidkJd5ui0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.360803795483946,-90.28142009787805,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 5,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMCOA-TAJ4jYXmZtQevBuUDqeI3K5--KppeptiW=w408-h272-k-no",
+      "kgmid": "/g/11j3332h9t"
+    },
+    {
+      "title": "R City Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "841 W 103rd St, Chicago, IL 60643, United States",
+      "neighborhood": "South Side",
+      "street": "841 W 103rd St",
+      "city": "Chicago",
+      "postalCode": "60643",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "https://www.rcitykitchen.com/",
+      "phone": "+1 872-228-7373",
+      "phoneUnformatted": "+18722287373",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.7066883,
+        "lng": -87.6444222
+      },
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJATY5uf4lDogRJLdK6IQbGqk",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x880e25feb9393601:0xa91a1b84e84ab724",
+      "cid": "12185081999451141924",
+      "reviewsCount": 17,
+      "imagesCount": 35,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:32.186Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalOpeningHours": {
+        "Access": [
+          {
+            "day": "Monday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Thursday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Friday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Saturday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Open 24 hours"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as Black-owned": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=R%20City%20Kitchen&query_place_id=ChIJATY5uf4lDogRJLdK6IQbGqk",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.360803795483946,-90.28142009787805,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 7,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOEaK5C6r8peS_XbNq92jEZbhsIroB16WwG4gbn=w464-h240-k-no",
+      "kgmid": "/g/11tgdyn272"
+    },
+    {
+      "title": "My Shared Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1544 Fleetwood Dr, Elgin, IL 60123, United States",
+      "neighborhood": null,
+      "street": "1544 Fleetwood Dr",
+      "city": "Elgin",
+      "postalCode": "60123",
+      "state": "Illinois",
+      "countryCode": "US",
+      "phone": "+1 847-754-1090",
+      "phoneUnformatted": "+18477541090",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 42.0212467,
+        "lng": -88.3147627
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJNaD1aY4FD4gR5G_z0zkgNt4",
+      "categories": ["Shared-use commercial kitchen", "Caterer"],
+      "fid": "0x880f058e69f5a035:0xde362039d3f36fe4",
+      "cid": "16012020957903548388",
+      "reviewsCount": 2,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:32.186Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalOpeningHours": {
+        "Delivery": [
+          {
+            "day": "Monday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Thursday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Friday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Saturday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Open 24 hours"
+          }
+        ],
+        "Pickup": [
+          {
+            "day": "Monday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Thursday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Friday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Saturday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Open 24 hours"
+          }
+        ],
+        "Access": [
+          {
+            "day": "Monday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Thursday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Friday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Saturday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Open 24 hours"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=My%20Shared%20Kitchen&query_place_id=ChIJNaD1aY4FD4gR5G_z0zkgNt4",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.360803795483946,-90.28142009787805,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 8,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oWQXbRvCSGfhcftce9j7iQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=59.775616&pitch=0&thumbfov=100",
+      "kgmid": "/g/11kxc7drbq"
+    },
+    {
+      "title": "Cookin' Z Kitchen Rental & Commissary, LLC",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1026 Industry Rd, New Lenox, IL 60451, United States",
+      "neighborhood": null,
+      "street": "1026 Industry Rd",
+      "city": "New Lenox",
+      "postalCode": "60451",
+      "state": "Illinois",
+      "countryCode": "US",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.496172,
+        "lng": -87.9540944
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJJR4FiqxvDogR257p_2TTCd0",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x880e6fac8a051e25:0xdd09d364ffe99edb",
+      "cid": "15927493987916160731",
+      "reviewsCount": 3,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:32.186Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Cookin'%20Z%20Kitchen%20Rental%20%26%20Commissary%2C%20LLC&query_place_id=ChIJJR4FiqxvDogR257p_2TTCd0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.360803795483946,-90.28142009787805,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 9,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MOCZNkNoeEt7AnIA0FdfEA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=267.00165&pitch=0&thumbfov=100",
+      "kgmid": "/g/11m40yjdtv"
+    },
+    {
+      "title": "Artisans Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1480 Old Deerfield Rd Ste 16, Highland Park, IL 60035, United States",
+      "neighborhood": null,
+      "street": "1480 Old Deerfield Rd Ste 16",
+      "city": "Highland Park",
+      "postalCode": "60035",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "http://etaskitchenrental.com/",
+      "phone": "+1 847-525-8383",
+      "phoneUnformatted": "+18475258383",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 42.1722402,
+        "lng": -87.8165298
+      },
+      "totalScore": 4.3,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJH8IPwFXAD4gRFc-w2VMNPMA",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x880fc055c00fc21f:0xc03c0d53d9b0cf15",
+      "cid": "13851961207670492949",
+      "reviewsCount": 12,
+      "imagesCount": 11,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:32.186Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Artisans%20Kitchen&query_place_id=ChIJH8IPwFXAD4gRFc-w2VMNPMA",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.360803795483946,-90.28142009787805,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 10,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrfN6YKabCGyH1DbzW6AaMyiyc05SoDvxs1qXKmkkc7_RNh9e3Vlkixbkdz6RvITZl3MIpz9CUonLC1e03Xhhp5Kgsmq5_SQDEdZCxmUz_rdTDfWttSGaB5BgCunxC7gmJQfAFVvA=w408-h306-k-no",
+      "kgmid": "/g/1tdb08s1"
+    },
+    {
+      "title": "SAAGE Culinary Studio",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1904 Brookdale Rd Suite 128, Naperville, IL 60563, United States",
+      "neighborhood": "Naperville Park District",
+      "street": "1904 Brookdale Rd Suite 128",
+      "city": "Naperville",
+      "postalCode": "60563",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "http://www.saageculinary.com/",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.7917825,
+        "lng": -88.1995848
+      },
+      "totalScore": 4.4,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJReznLTf4DogR0CEDPp2lvvg",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x880ef8372de7ec45:0xf8bea59d3e0321d0",
+      "cid": "17923945661749993936",
+      "reviewsCount": 9,
+      "imagesCount": 17,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:32.186Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as Asian-owned": true
+          },
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "On-site services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Cheques": true
+          },
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=SAAGE%20Culinary%20Studio&query_place_id=ChIJReznLTf4DogR0CEDPp2lvvg",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.360803795483946,-90.28142009787805,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 11,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no4JeeXm03OcdmDYKuBq3AXlgIjMk8p08mRxN6ji3TgSWNqLzKVtsTUWN7KFeente6e9X0KPkmXmh_96xrk4IREPaqPpxQdBbqNbboc4MtW8aTSjSWdw7zipVBvPotJ3OwBuvzV=w408-h272-k-no",
+      "kgmid": "/g/11bymykzd3"
+    },
+    {
+      "title": "Atrevete Collaborative Kitchen Co.",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "111 S Lake St, Montgomery, IL 60538, United States",
+      "neighborhood": null,
+      "street": "111 S Lake St",
+      "city": "Montgomery",
+      "postalCode": "60538",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "http://atrevete-collaborative-kitchen.com/",
+      "phone": "+1 630-212-5305",
+      "phoneUnformatted": "+16302125305",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.729573,
+        "lng": -88.3455637
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJSceDgpPvDogRghKRsLCdhqQ",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x880eef938283c749:0xa4869db0b0911282",
+      "cid": "11855336451301511810",
+      "reviewsCount": 3,
+      "imagesCount": 4,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:32.187Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Atrevete%20Collaborative%20Kitchen%20Co.&query_place_id=ChIJSceDgpPvDogRghKRsLCdhqQ",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.360803795483946,-90.28142009787805,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 13,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNHr40jaayAJkcXhDmhNZc9ycdmr9LBrZ_AOB72=w408-h272-k-no",
+      "kgmid": "/g/11kk6353bm"
+    },
+    {
+      "title": "Hub Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "7225 W North Ave, River Forest, IL 60305, United States",
+      "neighborhood": null,
+      "street": "7225 W North Ave",
+      "city": "River Forest",
+      "postalCode": "60305",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "https://www.hubkitchen.com/",
+      "phone": "+1 773-818-1127",
+      "phoneUnformatted": "+17738181127",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.9086393,
+        "lng": -87.8068196
+      },
+      "totalScore": 3.7,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJFVaWfRHLD4gRpU96OTuB1H4",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x880fcb117d965615:0x7ed4813b397a4fa5",
+      "cid": "9139071635208949669",
+      "reviewsCount": 3,
+      "imagesCount": 3,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:32.187Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Hub%20Kitchen&query_place_id=ChIJFVaWfRHLD4gRpU96OTuB1H4",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.360803795483946,-90.28142009787805,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 14,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DTolmJorAGIV73RUSvpbzQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=195.77069&pitch=0&thumbfov=100",
+      "kgmid": "/g/11w3kl5yd3"
+    },
+    {
+      "title": "Cucina Fresca Kitchen, Inc.",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "16108 S, Division St ste 110, Plainfield, IL 60586, United States",
+      "neighborhood": null,
+      "street": "16108 S, Division St ste 110",
+      "city": "Plainfield",
+      "postalCode": "60586",
+      "state": "IL",
+      "countryCode": "US",
+      "website": "http://www.cucinafrescakitchen.com/",
+      "phone": "+1 847-544-6878",
+      "phoneUnformatted": "+18475446878",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.5901666,
+        "lng": -88.2035614
+      },
+      "totalScore": 4.5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJudkD0rf1DogRcy7TJ8MiM4c",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x880ef5b7d203d9b9:0x873322c327d32e73",
+      "cid": "9742168640514633331",
+      "reviewsCount": 2,
+      "imagesCount": 8,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:32.187Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "4 to 7 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11 AM to 6 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11 AM to 6 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11 AM to 6 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11 AM to 6 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 5 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "11 AM to 3 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Cucina%20Fresca%20Kitchen%2C%20Inc.&query_place_id=ChIJudkD0rf1DogRcy7TJ8MiM4c",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.360803795483946,-90.28142009787805,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 16,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNY0_N0mbfnf7o7s0m7Ohq2Dh0e59FB40zE-gJl=w426-h240-k-no",
+      "kgmid": "/g/11j8hk_pmf"
+    },
+    {
+      "title": "Westline Food Junction Commercial Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "850 W Superior St, Chicago, IL 60642, United States",
+      "neighborhood": "River West",
+      "street": "850 W Superior St",
+      "city": "Chicago",
+      "postalCode": "60642",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "https://bookaghostkitchentour.com/west-line-junction?utm_source=gmb",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 41.895721,
+        "lng": -87.64963
+      },
+      "totalScore": 1,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ2w0jfa3TD4gRDRWsHDhsPAA",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x880fd3ad7d230ddb:0x3c6c381cac150d",
+      "cid": "17007486857647373",
+      "reviewsCount": 2,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:32.187Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Westline%20Food%20Junction%20Commercial%20Kitchens&query_place_id=ChIJ2w0jfa3TD4gRDRWsHDhsPAA",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.360803795483946,-90.28142009787805,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 17,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nzs4dd6Id_EkVTXsGGiLsA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=3.2335029&pitch=0&thumbfov=100",
+      "kgmid": "/g/11syv071pp"
+    },
+    {
+      "title": "Becker & Becker",
+      "price": null,
+      "categoryName": "HVAC contractor",
+      "address": "111 Walnut Ln, Colona, IL 61241, United States",
+      "neighborhood": null,
+      "street": "111 Walnut Ln",
+      "city": "Colona",
+      "postalCode": "61241",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "https://www.beckersplumbinghvac.com/",
+      "phone": "+1 309-944-3592",
+      "phoneUnformatted": "+13099443592",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.4666689,
+        "lng": -90.3265338
+      },
+      "totalScore": 4.8,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ958ijOQP4ocRS8ljaUthmxo",
+      "categories": [
+        "HVAC contractor",
+        "Air conditioning contractor",
+        "Air conditioning repair service",
+        "Air conditioning system supplier",
+        "Plumber",
+        "Water softening equipment supplier",
+        "Water treatment supplier"
+      ],
+      "fid": "0x87e20fe48c229ff7:0x1a9b614b6963c94b",
+      "cid": "1917233042894866763",
+      "reviewsCount": 86,
+      "reviewsDistribution": {
+        "oneStar": 3,
+        "twoStar": 1,
+        "threeStar": 0,
+        "fourStar": 1,
+        "fiveStar": 81
+      },
+      "imagesCount": 53,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:33.296Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          },
+          {
+            "Small Business": true
+          }
+        ],
+        "Service options": [
+          {
+            "On-site services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Assistive hearing loop": false
+          }
+        ],
+        "Offerings": [
+          {
+            "Repair services": true
+          }
+        ],
+        "Parking": [
+          {
+            "On-site parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Becker%20%26%20Becker&query_place_id=ChIJ958ijOQP4ocRS8ljaUthmxo",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.360803795483946,-90.28142009787805,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 21,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN8nqf0HQ-7Hl_77Ih00zAKrqMub9gDsNBm2XYy=w408-h544-k-no",
+      "kgmid": "/g/1tg81_yl"
+    },
+    {
+      "title": "Neels Plumbing",
+      "price": null,
+      "categoryName": "Plumber",
+      "address": "1401 9th St, East Moline, IL 61244, United States",
+      "neighborhood": null,
+      "street": "1401 9th St",
+      "city": "East Moline",
+      "postalCode": "61244",
+      "state": "Illinois",
+      "countryCode": "US",
+      "phone": "+1 309-292-7817",
+      "phoneUnformatted": "+13092927817",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.516906,
+        "lng": -90.44174
+      },
+      "totalScore": 4.1,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJD55kV2c54ocRCgLtZkNosDQ",
+      "categories": ["Plumber", "Plumbing supply store"],
+      "fid": "0x87e2396757649e0f:0x34b0684366ed020a",
+      "cid": "3796649124572234250",
+      "reviewsCount": 78,
+      "reviewsDistribution": {
+        "oneStar": 16,
+        "twoStar": 0,
+        "threeStar": 0,
+        "fourStar": 5,
+        "fiveStar": 57
+      },
+      "imagesCount": 50,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:33.298Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Online estimates": true
+          },
+          {
+            "On-site services": true
+          },
+          {
+            "English": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Repair services": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Neels%20Plumbing&query_place_id=ChIJD55kV2c54ocRCgLtZkNosDQ",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.360803795483946,-90.28142009787805,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 23,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMbPe1y-kHj5ya5_embBtPf9V-4ZpdkGQ0GMTPK=w408-h725-k-no",
+      "kgmid": "/g/11hbmt6wnd"
+    },
+    {
+      "title": "Kamping Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "10982 US-20, Lena, IL 61048",
+      "neighborhood": null,
+      "street": "10982 US-20",
+      "city": "Lena",
+      "postalCode": "61048",
+      "state": "Illinois",
+      "countryCode": "US",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 42.3583641,
+        "lng": -89.8224673
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJxZ-QFwARCIgRWkVdoNKRqwM",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8808110017909fc5:0x3ab91d2a05d455a",
+      "cid": "264465336950932826",
+      "reviewsCount": 0,
+      "imagesCount": null,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:35.361Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Kamping%20Kitchen&query_place_id=ChIJxZ-QFwARCIgRWkVdoNKRqwM",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@42.171604118225915,-89.2664881,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 5,
+      "isAdvertisement": false,
+      "kgmid": "/g/11vyfl1sv4"
+    },
+    {
+      "title": "Share A Kitchen",
+      "price": null,
+      "address": "1020 W Devon Ave, Elk Grove Village, IL 60007",
+      "neighborhood": null,
+      "street": "1020 W Devon Ave",
+      "city": "Elk Grove Village",
+      "postalCode": "60007",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "http://www.shareakitchen.com/",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 41.9929798,
+        "lng": -88.0259334
+      },
+      "totalScore": 4.8,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJg8oL9BGuD4gRkR4jv2kbyKM",
+      "categories": [],
+      "fid": "0x880fae11f40bca83:0xa3c81b69bf231e91",
+      "cid": "11801712964516650641",
+      "reviewsCount": 4,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:35.362Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Share%20A%20Kitchen&query_place_id=ChIJg8oL9BGuD4gRkR4jv2kbyKM",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@42.171604118225915,-89.2664881,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 7,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eAbrD5gDbYWzazZ9cj9U_g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=15.885638&pitch=0&thumbfov=100",
+      "kgmid": "/g/11bw1q1v9y"
+    },
+    {
+      "title": "Lake Zurich Community Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "700 Telser Rd, Lake Zurich, IL 60047",
+      "neighborhood": null,
+      "street": "700 Telser Rd",
+      "city": "Lake Zurich",
+      "postalCode": "60047",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "http://lakezurichcommunitykitchen.com/",
+      "phone": "(773) 885-8811",
+      "phoneUnformatted": "+17738858811",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 42.21043,
+        "lng": -88.0672756
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJZRHVxjijD4gRRmPybOFoxpQ",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x880fa338c6d51165:0x94c668e16cf26346",
+      "cid": "10720371280406799174",
+      "reviewsCount": 0,
+      "imagesCount": 10,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:35.362Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Lake%20Zurich%20Community%20Kitchen&query_place_id=ChIJZRHVxjijD4gRRmPybOFoxpQ",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@42.171604118225915,-89.2664881,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 16,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOO-V3cupyL9HDcPaLcA48ZMImSRFysJCrsA_pB=w408-h272-k-no",
+      "kgmid": "/g/11ngg5nrrz"
+    },
+    {
+      "title": "Leave it to Chef Rotary Serves Food",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "216 N Washington St, Carbondale, IL 62901, United States",
+      "neighborhood": null,
+      "street": "216 N Washington St",
+      "city": "Carbondale",
+      "postalCode": "62901",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "http://leaveittochef.com/",
+      "phone": "+1 618-893-1717",
+      "phoneUnformatted": "+16188931717",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.7289636,
+        "lng": -89.2158793
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJAaA2U0gRd4gRdMaW2L_cpJA",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Food bank",
+        "Restaurant"
+      ],
+      "fid": "0x887711485336a001:0x90a4dcbfd896c674",
+      "cid": "10422698154172794484",
+      "reviewsCount": 1,
+      "imagesCount": 15,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:38.326Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": false
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          },
+          {
+            "Wheelchair-accessible seating": true
+          },
+          {
+            "Wheelchair-accessible toilet": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral toilets": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safe space": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free of charge street parking": true
+          },
+          {
+            "Free parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Leave%20it%20to%20Chef%20Rotary%20Serves%20Food&query_place_id=ChIJAaA2U0gRd4gRdMaW2L_cpJA",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@38.11760250451607,-89.2664881,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqwkeg3Zuzn2Xtj14-vyCY_2GZ5y3XXKa5xT-8JCTVtp9wINC4txuhmnMfr2wAuQDhM28F3Zes7-9p0Mjz4y6ZGUtk-hOJ6mU3tn0GQ-kmu8rcui37IRFpUoGBs0H3LAJRkqtAxjQ=w408-h544-k-no",
+      "kgmid": "/g/11s54gc2bc"
+    },
+    {
+      "title": "T & V Commercial Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "304 S Walnut St Suite D, Pinckneyville, IL 62274, United States",
+      "neighborhood": null,
+      "street": "304 S Walnut St Suite D",
+      "city": "Pinckneyville",
+      "postalCode": "62274",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "https://tapsnvine.com/commercial-kitchen",
+      "phone": "+1 832-367-7315",
+      "phoneUnformatted": "+18323677315",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 38.0775138,
+        "lng": -89.3828772
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJXW0agbj5dogRfJaVopx5j3k",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8876f9b8811a6d5d:0x798f799ca295967c",
+      "cid": "8759353513908475516",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:38.326Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=T%20%26%20V%20Commercial%20Kitchen&query_place_id=ChIJXW0agbj5dogRfJaVopx5j3k",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@38.11760250451607,-89.2664881,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=E3yMcwm97GJ65sWfluhjlA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=101.40398&pitch=0&thumbfov=100",
+      "kgmid": "/g/11lz290fjf"
+    },
+    {
+      "title": "Serv-U Restaurant Equipment & Supply",
+      "price": null,
+      "categoryName": "Kitchen supply store",
+      "address": "301 Mercury Dr #2, Champaign, IL 61822",
+      "neighborhood": null,
+      "street": "301 Mercury Dr #2",
+      "city": "Champaign",
+      "postalCode": "61822",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "http://www.servu-online.com/",
+      "phone": "(800) 797-3788",
+      "phoneUnformatted": "+18007973788",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.1485524,
+        "lng": -88.2349935
+      },
+      "totalScore": 4.3,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJmXgGvZTZDIgR2OB_9nAKmfI",
+      "categories": [
+        "Kitchen supply store",
+        "Bar stool supplier",
+        "Commercial refrigerator supplier",
+        "Furniture store",
+        "Furniture wholesaler",
+        "Restaurant supply store",
+        "Wholesaler"
+      ],
+      "fid": "0x880cd994bd067899:0xf2990a70f67fe0d8",
+      "cid": "17481014908903481560",
+      "reviewsCount": 29,
+      "imagesCount": 17,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:41.436Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 4 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 4 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 4 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 4 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 4 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pickup": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Serv-U%20Restaurant%20Equipment%20%26%20Supply&query_place_id=ChIJmXgGvZTZDIgR2OB_9nAKmfI",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.73920315000001,-88.25155610212195,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOFqll_3kGSiqL7Tad9S4ez8O4V8-ozib7A2OBU=w408-h306-k-no",
+      "kgmid": "/g/1vljgxv3"
+    },
+    {
+      "title": "The Hive Creative Kitchen",
+      "price": null,
+      "categoryName": "Coworking space",
+      "address": "25520 Pheasant Ln Unit J, Channahon, IL 60410",
+      "neighborhood": null,
+      "street": "25520 Pheasant Ln Unit J",
+      "city": "Channahon",
+      "postalCode": "60410",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "http://hivekitchen.com/",
+      "phone": "(815) 922-7540",
+      "phoneUnformatted": "+18159227540",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.4195862,
+        "lng": -88.2683973
+      },
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJE7Yuq7CFDogRGZdjCqwBZX4",
+      "categories": ["Coworking space"],
+      "fid": "0x880e85b0ab2eb613:0x7e6501ac0a639719",
+      "cid": "9107687659846997785",
+      "reviewsCount": 91,
+      "imagesCount": 43,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:49.293Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "12 to 6 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "12 to 9 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "12 to 9 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "12 to 9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8 AM to 12 PM, 4 to 9 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Hive%20Creative%20Kitchen&query_place_id=ChIJE7Yuq7CFDogRGZdjCqwBZX4",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.360803795483946,-89.2664881,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 12,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrNQjbXxpWU_FY6HTeBaCP-PKaqHRRG5sh-ziHtZs7uBARX2hIfAA-ob2PwMu8b5Wl_PbwPgCB499kfdt3I699EqbujostuMiWMZ8e9qPQgxPVHuUBGssAN7ZkCq-wEwt7eXwg=w408-h270-k-no",
+      "kgmid": "/g/11gmwv1mtv"
+    },
+    {
+      "title": "Spark Shared Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3333 W 47th St, Chicago, IL 60632",
+      "neighborhood": "South Side",
+      "street": "3333 W 47th St",
+      "city": "Chicago",
+      "postalCode": "60632",
+      "state": "Illinois",
+      "countryCode": "US",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 41.8078428,
+        "lng": -87.7078471
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJUbmFTQAxDogRBObpx3Qbw4U",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x880e31004d85b951:0x85c31b74c7e9e604",
+      "cid": "9638577815887144452",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:49.294Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Spark%20Shared%20Kitchen&query_place_id=ChIJUbmFTQAxDogRBObpx3Qbw4U",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.360803795483946,-89.2664881,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 19,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=er_8n8c-SG5T2AdcBCj-eA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=180.02422&pitch=0&thumbfov=100",
+      "kgmid": "/g/11vq480m8_"
+    },
+    {
+      "title": "Rockwell Food Pickup - Chicago CloudKitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "4131 N Rockwell St, Chicago, IL 60618",
+      "neighborhood": "North Center",
+      "street": "4131 N Rockwell St",
+      "city": "Chicago",
+      "postalCode": "60618",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "https://cloudkitchens.com/locations/chicago/north-center/?utm_source=gmb&utm_medium=organic&utm_content=RockwellFoodPick-Up",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.9567927,
+        "lng": -87.6929956
+      },
+      "totalScore": 3,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJTzjW69LTD4gRSDH0x4OMGOo",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Delivery service",
+        "Takeout Restaurant"
+      ],
+      "fid": "0x880fd3d2ebd6384f:0xea188c83c7f43148",
+      "cid": "16868386901939466568",
+      "reviewsCount": 2,
+      "imagesCount": 5,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:50.978Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Rockwell%20Food%20Pickup%20-%20Chicago%20CloudKitchens&query_place_id=ChIJTzjW69LTD4gRSDH0x4OMGOo",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@42.171604118225915,-87.2366241042439,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 9,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN8yNZYomje4ANzW89DlOxkE0TIM0tcDWiEgGcs=w426-h240-k-no",
+      "kgmid": "/g/11syfpn9bt"
+    },
+    {
+      "title": "2ndKitchen",
+      "price": null,
+      "categoryName": "Delivery service",
+      "address": "343 W Erie St, Chicago, IL 60654",
+      "neighborhood": "Near North Side",
+      "street": "343 W Erie St",
+      "city": "Chicago",
+      "postalCode": "60654",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "https://2ndkitchen.com/",
+      "phone": "(312) 313-5080",
+      "phoneUnformatted": "+13123135080",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.8936468,
+        "lng": -87.6375236
+      },
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJZxQ-pKctDogRC-jobhkLQKY",
+      "categories": [
+        "Delivery service",
+        "Food and beverage consultant",
+        "Hotel supply store"
+      ],
+      "fid": "0x880e2da7a43e1467:0xa6400b196ee8e80b",
+      "cid": "11979587212668364811",
+      "reviewsCount": 595,
+      "imagesCount": 8,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:50.978Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "6 AM to 2 AM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6 AM to 2 AM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6 AM to 2 AM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6 AM to 2 AM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6 AM to 2 AM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "6 AM to 2 AM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "6 AM to 2 AM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=2ndKitchen&query_place_id=ChIJZxQ-pKctDogRC-jobhkLQKY",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@42.171604118225915,-87.2366241042439,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 10,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no12ZgUVH90J-TuWXi_rz5l31RVoWx4-APb5k2bCHlIeDYRIcJpxRpq2weMPPxCxzW0X1vvTABwMD0AdkpCblRnX9zsYtSo6TVNh4JfVqd1HnMtDpS7-v90Y0YCUshr7oh8Bfk=w408-h612-k-no",
+      "kgmid": "/g/11fll5xwrm"
+    },
+    {
+      "title": "Daniel's Test Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "324 N Leavitt St, Chicago, IL 60612",
+      "neighborhood": "Near West Side",
+      "street": "324 N Leavitt St",
+      "city": "Chicago",
+      "postalCode": "60612",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "http://www.danielstestkitchen.com/",
+      "phone": "(415) 917-4152",
+      "phoneUnformatted": "+14159174152",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.8878253,
+        "lng": -87.6826325
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJMXCGb7MtDogRud9q6ZtMtaQ",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x880e2db36f867031:0xa4b54c9be96adfb9",
+      "cid": "11868476625524547513",
+      "reviewsCount": 32,
+      "imagesCount": 48,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:50.978Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9 AM to 5 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as Black-owned": true
+          },
+          {
+            "Identifies as LGBTQ+ owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Daniel's%20Test%20Kitchen&query_place_id=ChIJMXCGb7MtDogRud9q6ZtMtaQ",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@42.171604118225915,-87.2366241042439,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 12,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP1LS_XRh4WVd16IADXpdtQdwyoR2cf5XR34FjH=w408-h544-k-no",
+      "kgmid": "/g/11s9253lf0"
+    },
+    {
+      "title": "Temporary Kitchens 123",
+      "price": null,
+      "categoryName": "Trailer rental service",
+      "address": null,
+      "website": "https://bit.ly/2KQseue",
+      "phone": "(800) 205-6106",
+      "phoneUnformatted": "+18002056106",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.7393894,
+        "lng": -89.266507
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJV5sGQCQtDogREiFhyOqj0Ow",
+      "categories": [
+        "Trailer rental service",
+        "Equipment rental agency",
+        "Service establishment",
+        "Kitchen remodeler",
+        "Portable building manufacturer",
+        "Trailer dealer"
+      ],
+      "fid": "0x880e2d2440069b57:0xecd0a3eac8612112",
+      "cid": "17064319216886292754",
+      "reviewsCount": 2,
+      "imagesCount": 31,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:50.979Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "6 AM to 9 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6 AM to 9 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6 AM to 9 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6 AM to 9 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6 AM to 9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7 AM to 5 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7 AM to 5 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Temporary%20Kitchens%20123&query_place_id=ChIJV5sGQCQtDogREiFhyOqj0Ow",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@42.171604118225915,-87.2366241042439,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 14,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMYz9gnQNt8fYsRtfKLST_xokVfWjPm7ObaKl_T=w408-h306-k-no",
+      "kgmid": "/g/11fhqnnpd9"
+    },
+    {
+      "title": "The Hatchery Chicago",
+      "price": null,
+      "categoryName": "Business development service",
+      "address": "135 N Kedzie Ave, Chicago, IL 60612",
+      "neighborhood": "East Garfield Park",
+      "street": "135 N Kedzie Ave",
+      "city": "Chicago",
+      "postalCode": "60612",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "http://thehatcherychicago.org/",
+      "phone": "(312) 283-5723",
+      "phoneUnformatted": "+13122835723",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.8838119,
+        "lng": -87.7046737
+      },
+      "totalScore": 4.8,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJA_TN5zctDogRISZVv5omX4Q",
+      "categories": [
+        "Business development service",
+        "Food and beverage consultant",
+        "Non-profit organization"
+      ],
+      "fid": "0x880e2d37e7cdf403:0x845f269abf552621",
+      "cid": "9538384981870847521",
+      "reviewsCount": 108,
+      "imagesCount": 65,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:50.979Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8:30 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8:30 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8:30 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8:30 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8:30 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalOpeningHours": {
+        "Kitchen": [
+          {
+            "day": "Monday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Thursday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Friday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Saturday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Open 24 hours"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Hatchery%20Chicago&query_place_id=ChIJA_TN5zctDogRISZVv5omX4Q",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@42.171604118225915,-87.2366241042439,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 15,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npwIrkJp8gbsQR4Xx6wWqCcRmbIi_EkOYmKQUIgo90IcJiZup9J6QajaAfFSo37PrIOCPERZY9nWxH0dyECJjMHRkuQwWru2rVIL5DWzPfXmEBwDp8vwnFjKpvNEvr66BapAUmCvw=w408-h306-k-no",
+      "kgmid": "/g/11c7pb7yd6"
+    },
+    {
+      "title": "MICKY COMPANY USA",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "800 Enterprise Dr, Oak Brook, IL 60523",
+      "neighborhood": null,
+      "street": "800 Enterprise Dr",
+      "city": "Oak Brook",
+      "postalCode": "60523",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "http://mickycompanyusa.com/",
+      "phone": "(773) 682-5301",
+      "phoneUnformatted": "+17736825301",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.847725,
+        "lng": -87.939768
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJe3ncIFDND4gRLwnmfoHbtkU",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x880fcd5020dc797b:0x45b6db817ee6092f",
+      "cid": "5023443783604635951",
+      "reviewsCount": 0,
+      "imagesCount": 44,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:50.979Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 11 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 11 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 11 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 11 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 11 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=MICKY%20COMPANY%20USA&query_place_id=ChIJe3ncIFDND4gRLwnmfoHbtkU",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@42.171604118225915,-87.2366241042439,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 16,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOLLNOI0A16OL5NbjZWIMAYhbcz-lMjNeSrhZ8w=w408-h340-k-no",
+      "kgmid": "/g/11qbfpsvhj"
+    },
+    {
+      "title": "Nitro Family Foods (Nitro Salsa)",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "231 E State St, O'Fallon, IL 62269",
+      "neighborhood": null,
+      "street": "231 E State St",
+      "city": "O'Fallon",
+      "postalCode": "62269",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "https://www.nitrosalsa.com/",
+      "phone": "(270) 705-8483",
+      "phoneUnformatted": "+12707058483",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 38.5920722,
+        "lng": -89.9083659
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ7xP4xzMHdogRE3SHjs_DhTI",
+      "categories": ["Shared-use commercial kitchen", "Grocery store"],
+      "fid": "0x88760733c7f813ef:0x3285c3cf8e877413",
+      "cid": "3640531170015802387",
+      "reviewsCount": 5,
+      "imagesCount": 13,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:52.999Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "1 to 5:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "1 to 5:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Friday",
+          "hours": "11 AM to 4 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8 AM to 12 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Nitro%20Family%20Foods%20(Nitro%20Salsa)&query_place_id=ChIJ7xP4xzMHdogRE3SHjs_DhTI",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@38.92840282725804,-89.2664881,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOUSLyCnNW4HsBGxQjr13yXbF4ENFAnmpeQMR_E=w426-h240-k-no",
+      "kgmid": "/g/11p7970nwf"
+    },
+    {
+      "title": "Kroger",
+      "description": "Large supermarket chain with deli & bakery departments, plus health & beauty products.",
+      "price": "$$",
+      "categoryName": "Grocery store",
+      "address": "1405 W Garfield Ave, Bartonville, IL 61607",
+      "neighborhood": null,
+      "street": "1405 W Garfield Ave",
+      "city": "Bartonville",
+      "postalCode": "61607",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "https://www.kroger.com/stores/grocery/il/bartonville/bartonville-square/021/00531?cid=loc_02100531_gmb",
+      "phone": "(309) 697-8811",
+      "phoneUnformatted": "+13096978811",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.6462107,
+        "lng": -89.6750584
+      },
+      "locatedIn": "Kroger Bakery",
+      "totalScore": 3.8,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJvY-zzZFfCogRdxzI8smGLCo",
+      "categories": ["Grocery store", "Propane supplier"],
+      "fid": "0x880a5f91cdb38fbd:0x2a2c86c9f2c81c77",
+      "cid": "3038952050487991415",
+      "reviewsCount": 279,
+      "reviewsDistribution": {
+        "oneStar": 38,
+        "twoStar": 21,
+        "threeStar": 32,
+        "fourStar": 56,
+        "fiveStar": 132
+      },
+      "imagesCount": 59,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:56.234Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "6 AM to 10 PM"
+        }
+      ],
+      "additionalOpeningHours": {
+        "Kroger Floral": [
+          {
+            "day": "Monday",
+            "hours": "6 AM–12 AM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "6 AM–12 AM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "6 AM–12 AM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "6 AM–12 AM"
+          },
+          {
+            "day": "Friday",
+            "hours": "6 AM–12 AM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "6 AM–12 AM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "6 AM–12 AM"
+          }
+        ],
+        "Kroger Fuel Center": [
+          {
+            "day": "Monday",
+            "hours": "6 AM–10 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "6 AM–10 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "6 AM–10 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "6 AM–10 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "6 AM–10 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "6 AM–10 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "6 AM–10 PM"
+          }
+        ],
+        "Kroger Pharmacy": [
+          {
+            "day": "Monday",
+            "hours": "8 AM–1 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "8 AM–1 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "8 AM–1 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "8 AM–1 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "8 AM–1 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "9 AM–1 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "10 AM–1 PM"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Curbside pickup": true
+          },
+          {
+            "No-contact delivery": true
+          },
+          {
+            "Delivery": true
+          },
+          {
+            "In-store shopping": true
+          }
+        ],
+        "Highlights": [
+          {
+            "Great produce": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Bakery": true
+          },
+          {
+            "Food": true
+          },
+          {
+            "Organic products": true
+          },
+          {
+            "Pharmacy": true
+          },
+          {
+            "Prepared foods": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Recycling": [
+          {
+            "Plastic bags": true
+          }
+        ],
+        "Payments": [
+          {
+            "Checks": true
+          },
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "SNAP/EBT": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Kroger&query_place_id=ChIJvY-zzZFfCogRdxzI8smGLCo",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.55000347274198,-90.28142009787805,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 21,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOhv6JuV2Dhjo2GdnWI190olpL4Nf5M4kdRDAch=w408-h273-k-no",
+      "kgmid": "/g/1tdd5vfy"
+    },
+    {
+      "title": "NU Tub",
+      "price": null,
+      "categoryName": "Bathroom remodeler",
+      "address": null,
+      "website": "https://www.nu-tub.net/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "phone": "(217) 522-1850",
+      "phoneUnformatted": "+12175221850",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.248701,
+        "lng": -89.2876325
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJTZMq5so2dYgRLRss69Fo4pw",
+      "categories": [
+        "Bathroom remodeler",
+        "Contractor",
+        "Countertop contractor",
+        "Service establishment",
+        "Kitchen remodeler",
+        "Remodeler",
+        "Repair service",
+        "Safety equipment supplier"
+      ],
+      "fid": "0x887536cae62a934d:0x9ce268d1eb2c1b2d",
+      "cid": "11304713265456356141",
+      "reviewsCount": 3,
+      "reviewsDistribution": {
+        "oneStar": 0,
+        "twoStar": 0,
+        "threeStar": 0,
+        "fourStar": 0,
+        "fiveStar": 3
+      },
+      "imagesCount": 40,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:56.722Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Online estimates": true
+          },
+          {
+            "English": true
+          }
+        ],
+        "Payments": [
+          {
+            "Cash-only": true
+          },
+          {
+            "Checks": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=NU%20Tub&query_place_id=ChIJTZMq5so2dYgRLRss69Fo4pw",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.73920315000001,-90.28142009787805,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 21,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP3JfH8SNQW3HjtZEpowK0Gkd7-lKMAXOzHKJ9Y=w408-h306-k-no",
+      "kgmid": "/g/1td8zwj2"
+    },
+    {
+      "title": "Culinary Equipment Group",
+      "price": null,
+      "categoryName": "Corporate office",
+      "address": "1775 Cortland Ct Suite A, Addison, IL 60101",
+      "neighborhood": null,
+      "street": "1775 Cortland Ct Suite A",
+      "city": "Addison",
+      "postalCode": "60101",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "http://culinaryequipmentgroup.com/",
+      "phone": "(630) 422-7368",
+      "phoneUnformatted": "+16304227368",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.9099612,
+        "lng": -88.0293242
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ_____08yDogRi-tTIz7svOg",
+      "categories": ["Corporate office", "Shared-use commercial kitchen"],
+      "fid": "0x880e324fffffffff:0xe8bcec3e2353eb8b",
+      "cid": "16770538864045714315",
+      "reviewsCount": 3,
+      "imagesCount": 6,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:57.332Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "7 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Restroom": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Culinary%20Equipment%20Group&query_place_id=ChIJ_____08yDogRi-tTIz7svOg",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@42.171604118225915,-88.25155610212195,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 20,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMFrRdxxSRx_XwnIZuKtpicv2Yo3GpR98OVzl9t=w426-h240-k-no",
+      "kgmid": "/g/1vfp46zh"
+    },
+    {
+      "title": "CFC Kitchen Rental",
+      "price": null,
+      "categoryName": "Caterer",
+      "address": "7713 W Saint Francis Rd, Frankfort, IL 60423",
+      "neighborhood": null,
+      "street": "7713 W Saint Francis Rd",
+      "city": "Frankfort",
+      "postalCode": "60423",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "http://www.commercialkitchenforrent.com/crazy-fingers-kitchen-rental-924.html",
+      "phone": "(630) 388-9324",
+      "phoneUnformatted": "+16303889324",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.5204517,
+        "lng": -87.8027303
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJu4L5ckIUDogRNCojOxlWMAw",
+      "categories": ["Caterer"],
+      "fid": "0x880e144272f982bb:0xc3056193b232a34",
+      "cid": "878296593703578164",
+      "reviewsCount": 0,
+      "imagesCount": 5,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:10:59.693Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "12 AM to 12 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "12 AM to 12 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "12 AM to 12 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "12 AM to 12 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "12 AM to 12 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "12 AM to 12 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "12 AM to 12 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=CFC%20Kitchen%20Rental&query_place_id=ChIJu4L5ckIUDogRNCojOxlWMAw",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.360803795483946,-87.2366241042439,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 7,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMm_VQ8ETwgZktEzvP4KWC6yfFXkr2wL3DiGwFi=w408-h306-k-no",
+      "kgmid": "/g/12vrsyrkr"
+    },
+    {
+      "title": "Farm-Fresh Enterprise Development Cooperative",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "108 S Washington St, Mt Pulaski, IL 62548",
+      "neighborhood": null,
+      "street": "108 S Washington St",
+      "city": "Mt Pulaski",
+      "postalCode": "62548",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "https://www.farmfedcoop.com/",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 40.009229,
+        "lng": -89.285552
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJC4xlYwAtC4gRYPhTIGmTrOc",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x880b2d0063658c0b:0xe7ac93692053f860",
+      "cid": "16693879998478809184",
+      "reviewsCount": 1,
+      "imagesCount": 2,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:11:03.225Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Farm-Fresh%20Enterprise%20Development%20Cooperative&query_place_id=ChIJC4xlYwAtC4gRYPhTIGmTrOc",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.55000347274198,-89.2664881,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 18,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hMVOalkpGsKDMjGUklpW9w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=272.02444&pitch=0&thumbfov=100",
+      "kgmid": "/g/11x5nnxv05"
+    },
+    {
+      "title": "Mr. Appliance of Bloomington",
+      "description": "Independently owned & operated franchise specializing in service & repair of major home appliances.",
+      "price": "$$",
+      "categoryName": "Appliance repair service",
+      "address": "2206 E Oakland Ave, Bloomington, IL 61701",
+      "neighborhood": null,
+      "street": "2206 E Oakland Ave",
+      "city": "Bloomington",
+      "postalCode": "61701",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "https://www.mrappliance.com/bloomington/?cid=LSTL_MRA-US000194&utm_source=gmb&utm_campaign=local&utm_medium=organic",
+      "phone": "(309) 808-6526",
+      "phoneUnformatted": "+13098086526",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.4740319,
+        "lng": -88.9599432
+      },
+      "totalScore": 4.7,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJjwUrdsByC4gRxNGRtqJT4xU",
+      "categories": ["Appliance repair service"],
+      "fid": "0x880b72c0762b058f:0x15e353a2b691d1c4",
+      "cid": "1577196252822622660",
+      "reviewsCount": 658,
+      "reviewsDistribution": {
+        "oneStar": 31,
+        "twoStar": 6,
+        "threeStar": 4,
+        "fourStar": 28,
+        "fiveStar": 589
+      },
+      "imagesCount": 55,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:11:03.427Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "7:30 AM to 6 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7:30 AM to 6 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7:30 AM to 6 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7:30 AM to 6 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7:30 AM to 6 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM to 3 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9 AM to 3 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as veteran-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Onsite services": true
+          },
+          {
+            "Online estimates": false
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Repair services": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "On-site parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Mr.%20Appliance%20of%20Bloomington&query_place_id=ChIJjwUrdsByC4gRxNGRtqJT4xU",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.55000347274198,-88.25155610212195,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 21,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO8alY13MFgvxB02HO2dN_OCl2dScaGqcPXzOoo=w408-h308-k-no",
+      "kgmid": "/g/11f070hh27"
+    },
+    {
+      "title": "Sunkel Plumbing",
+      "price": null,
+      "categoryName": "Plumber",
+      "address": "1 Lafayette Ct #2, Bloomington, IL 61701",
+      "neighborhood": null,
+      "street": "1 Lafayette Ct #2",
+      "city": "Bloomington",
+      "postalCode": "61701",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "https://www.sunkelplumbing.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile",
+      "phone": "(309) 722-2203",
+      "phoneUnformatted": "+13097222203",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.4637655,
+        "lng": -88.9848312
+      },
+      "totalScore": 4.8,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJWQd9ZDVwC4gRkMHmibKrIdQ",
+      "categories": [
+        "Plumber",
+        "Drainage service",
+        "Gas installation service",
+        "Hot water system supplier",
+        "Water jet cutting service",
+        "Water purification company",
+        "Water treatment supplier"
+      ],
+      "fid": "0x880b7035647d0759:0xd421abb289e6c190",
+      "cid": "15285687393578303888",
+      "reviewsCount": 334,
+      "reviewsDistribution": {
+        "oneStar": 15,
+        "twoStar": 2,
+        "threeStar": 3,
+        "fourStar": 4,
+        "fiveStar": 310
+      },
+      "imagesCount": 128,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:11:03.428Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "7 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Onsite services": true
+          },
+          {
+            "Online estimates": false
+          }
+        ],
+        "Offerings": [
+          {
+            "Repair services": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Sunkel%20Plumbing&query_place_id=ChIJWQd9ZDVwC4gRkMHmibKrIdQ",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.55000347274198,-88.25155610212195,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 22,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOfqqrxOhfjSHznnQ24h008mY7luxxGLcbsQ2tO=w408-h544-k-no",
+      "kgmid": "/g/1td7trzh"
+    },
+    {
+      "title": "Firehouse Subs State Street",
+      "description": "Counter-serve sandwich chain offering made-to-order hot & cold subs, plus a variety of hot sauces.",
+      "price": "$",
+      "categoryName": "Sandwich shop",
+      "address": "6470 E State St, Rockford, IL 61108",
+      "neighborhood": null,
+      "street": "6470 E State St",
+      "city": "Rockford",
+      "postalCode": "61108",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "http://firehousesubs.com/menu?service-mode=TAKEOUT&store-number=1731",
+      "phone": "(779) 210-7372",
+      "phoneUnformatted": "+17792107372",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 42.268627,
+        "lng": -88.99041
+      },
+      "totalScore": 4.3,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJMytuoOC5CIgROwhzsSVTFww",
+      "categories": ["Sandwich shop", "Caterer"],
+      "fid": "0x8808b9e0a06e2b33:0xc175325b173083b",
+      "cid": "871256474275481659",
+      "reviewsCount": 354,
+      "reviewsDistribution": {
+        "oneStar": 28,
+        "twoStar": 11,
+        "threeStar": 15,
+        "fourStar": 59,
+        "fiveStar": 241
+      },
+      "imagesCount": 48,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:11:10.034Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10:30 AM to 9 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10:30 AM to 9 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10:30 AM to 9 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10:30 AM to 9 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10:30 AM to 9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10:30 AM to 9 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10:30 AM to 9 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "Takeout": true
+          },
+          {
+            "Dine-in": true
+          }
+        ],
+        "Popular for": [
+          {
+            "Lunch": true
+          },
+          {
+            "Dinner": true
+          },
+          {
+            "Solo dining": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Comfort food": true
+          },
+          {
+            "Quick bite": true
+          }
+        ],
+        "Dining options": [
+          {
+            "Lunch": true
+          },
+          {
+            "Dinner": true
+          },
+          {
+            "Dessert": true
+          },
+          {
+            "Seating": true
+          },
+          {
+            "Table service": false
+          }
+        ],
+        "Amenities": [
+          {
+            "Restroom": true
+          }
+        ],
+        "Atmosphere": [
+          {
+            "Casual": true
+          },
+          {
+            "Quiet": true
+          }
+        ],
+        "Crowd": [
+          {
+            "Tourists": true
+          }
+        ],
+        "Planning": [
+          {
+            "Accepts reservations": false
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ],
+        "Children": [
+          {
+            "Good for kids": true
+          },
+          {
+            "High chairs": true
+          },
+          {
+            "Kids' menu": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          },
+          {
+            "Usually plenty of parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Firehouse%20Subs%20State%20Street&query_place_id=ChIJMytuoOC5CIgROwhzsSVTFww",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@42.27889532065248,-89.03513224054512,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 21,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nriKXuNXdHjP9SuVk_0UF5B_O0VTlzIxTJYAjj6jAYycn2Ympi22hBdILrR2aWv1Jf_ufpnnXU_9MV6tVN0XNsUrgP53Vy2a6hQqlgpvI-WiGpytMv9luJqTx-4rwtyZ9VKiWr7gA=w408-h449-k-no",
+      "kgmid": "/g/11h7dbh8yd"
+    },
+    {
+      "title": "Sur La Table",
+      "description": "Chain retailer for a variety of upscale cooking & dining supplies, plus home decor.",
+      "price": null,
+      "categoryName": "Kitchen supply store",
+      "address": "55 S Main St #143, Naperville, IL 60540",
+      "neighborhood": "Downtown",
+      "street": "55 S Main St #143",
+      "city": "Naperville",
+      "postalCode": "60540",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "https://www.surlatable.com/locations/il/naperville/store-35.html",
+      "phone": "(630) 428-1110",
+      "phoneUnformatted": "+16304281110",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.7741949,
+        "lng": -88.1504734
+      },
+      "totalScore": 4.6,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ-U5juMdXDogR5ku2GDFTnkM",
+      "categories": [
+        "Kitchen supply store",
+        "Baking supply store",
+        "Cooking class",
+        "Culinary school",
+        "Cutlery store"
+      ],
+      "fid": "0x880e57c7b8634ef9:0x439e533118b64be6",
+      "cid": "4872423317194558438",
+      "reviewsCount": 295,
+      "reviewsDistribution": {
+        "oneStar": 21,
+        "twoStar": 2,
+        "threeStar": 2,
+        "fourStar": 17,
+        "fiveStar": 253
+      },
+      "imagesCount": 191,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:11:30.539Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM to 9 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 9 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 9 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 9 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 9 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "11 AM to 6 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pickup": true
+          },
+          {
+            "In-store shopping": true
+          },
+          {
+            "Onsite services": true
+          },
+          {
+            "Same-day delivery": false
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Sur%20La%20Table&query_place_id=ChIJ-U5juMdXDogR5ku2GDFTnkM",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.76970351732406,-88.09339480822928,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 21,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrgygF_0LIQXARVfpzvfu34U7Fm9KR4_562o44R8O_naLhc9AnMZJDFZQP8dQxynR3nhhPKcuv7-XcXz5d4wdZlrL0r38yZSsX9h-mEgprJCC515bkyJCrlG7AkuZLeMnFSfdrC=w426-h240-k-no",
+      "kgmid": "/g/1tddyc2s"
+    },
+    {
+      "title": "Dutchman Heating and Cooling Inc.",
+      "price": null,
+      "categoryName": "Heating contractor",
+      "address": "400 E Ogden Ave, Naperville, IL 60563",
+      "neighborhood": "Naperville Park District",
+      "street": "400 E Ogden Ave",
+      "city": "Naperville",
+      "postalCode": "60563",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "https://www.dutchmanheating.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "phone": "(630) 961-2220",
+      "phoneUnformatted": "+16309612220",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.7854265,
+        "lng": -88.1410796
+      },
+      "totalScore": 4.7,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ-_mydOBZDogR_2aSiY0mBs4",
+      "categories": [
+        "Heating contractor",
+        "Air conditioning contractor",
+        "Air conditioning store",
+        "Air conditioning system supplier",
+        "Air duct cleaning service",
+        "Furnace repair service",
+        "HVAC contractor"
+      ],
+      "fid": "0x880e59e074b2f9fb:0xce06268d899266ff",
+      "cid": "14845595611013736191",
+      "reviewsCount": 330,
+      "reviewsDistribution": {
+        "oneStar": 20,
+        "twoStar": 2,
+        "threeStar": 2,
+        "fourStar": 9,
+        "fiveStar": 297
+      },
+      "imagesCount": 215,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:11:30.539Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Onsite services": true
+          },
+          {
+            "Online estimates": false
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Repair services": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Dutchman%20Heating%20and%20Cooling%20Inc.&query_place_id=ChIJ-_mydOBZDogR_2aSiY0mBs4",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.76970351732406,-88.09339480822928,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 22,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNQK1nIBm62cbiSVvOR1TrY8jnlwO1ZL3RBmQxT=w408-h306-k-no",
+      "kgmid": "/g/1tfrmy7p"
+    },
+    {
+      "title": "Two Men and a Truck Moving",
+      "price": null,
+      "categoryName": "Moving company",
+      "address": "12002 S Spaulding School Dr, Plainfield, IL 60585, United States",
+      "neighborhood": null,
+      "street": "12002 S Spaulding School Dr",
+      "city": "Plainfield",
+      "postalCode": "60585",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "https://twomenandatruck.com/movers/il/chicago/plainfield?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "phone": "+1 815-446-0122",
+      "phoneUnformatted": "+18154460122",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.6645631,
+        "lng": -88.2008278
+      },
+      "totalScore": 4.7,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJa-Q5_dH1DogRgPlMVDLVsgI",
+      "categories": [
+        "Moving company",
+        "Debris removal service",
+        "Garbage collection service",
+        "Junk removal service",
+        "Moving and storage service",
+        "Moving supply store",
+        "Piano moving service",
+        "Waste management service"
+      ],
+      "fid": "0x880ef5d1fd39e46b:0x2b2d532544cf980",
+      "cid": "194452146069764480",
+      "reviewsCount": 211,
+      "reviewsDistribution": {
+        "oneStar": 10,
+        "twoStar": 2,
+        "threeStar": 3,
+        "fourStar": 2,
+        "fiveStar": 194
+      },
+      "imagesCount": 19,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:11:33.300Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8 AM to 12 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Online estimates": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Two%20Men%20and%20a%20Truck%20Moving&query_place_id=ChIJa-Q5_dH1DogRgPlMVDLVsgI",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.667248448027834,-88.1619698,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 21,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOTHGPmO0XqFyTqODxQzJe4ujv5GV6wsxi0tRhw=w408-h306-k-no",
+      "kgmid": "/g/1tdn02st"
+    },
+    {
+      "title": "SPARK Shared Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1200 W 35th St, Chicago, IL 60609",
+      "neighborhood": "South Side",
+      "street": "1200 W 35th St",
+      "city": "Chicago",
+      "postalCode": "60609",
+      "state": "Illinois",
+      "countryCode": "US",
+      "phone": "(312) 399-2084",
+      "phoneUnformatted": "+13123992084",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 41.8308937,
+        "lng": -87.6563405
+      },
+      "permanentlyClosed": true,
+      "temporarilyClosed": false,
+      "placeId": "ChIJtfMPdCEtDogRuCqTPM-WNN8",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x880e2d21740ff3b5:0xdf3496cf3c932ab8",
+      "cid": "16083645986065558200",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:11:35.926Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=SPARK%20Shared%20Kitchen&query_place_id=ChIJtfMPdCEtDogRuCqTPM-WNN8",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.884833271935875,-87.66403491526607,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 18,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Lrjdmbm_sM0tR-v3pKozdA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=352.47153&pitch=0&thumbfov=100",
+      "kgmid": "/g/11mr0htnlt"
+    },
+    {
+      "title": "Avondale's Commercial Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3517 N Spaulding Ave, Chicago, IL 60618, United States",
+      "neighborhood": "Avondale",
+      "street": "3517 N Spaulding Ave",
+      "city": "Chicago",
+      "postalCode": "60618",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "https://bookaghostkitchentour.com/avondales-food-pick-up",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 41.9455364,
+        "lng": -87.7095431
+      },
+      "permanentlyClosed": true,
+      "temporarilyClosed": false,
+      "placeId": "ChIJcVBD8R7ND4gRXdCw8d30m10",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x880fcd1ef1435071:0x5d9bf4ddf1b0d05d",
+      "cid": "6745254100997296221",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:11:36.237Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Avondale's%20Commercial%20Kitchens&query_place_id=ChIJcVBD8R7ND4gRXdCw8d30m10",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.98696601580762,-87.66403491526607,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 15,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c7yyLFYzaFXsNm6hHhs3cQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=161.30421&pitch=0&thumbfov=100",
+      "kgmid": "/g/11swxhtxld"
+    },
+    {
+      "title": "AWR Welding & Commercial Kitchen Hoods",
+      "price": null,
+      "categoryName": "Steel fabricator",
+      "address": "3827 N Kedzie Ave, Chicago, IL 60618, United States",
+      "neighborhood": "Irving Park East",
+      "street": "3827 N Kedzie Ave",
+      "city": "Chicago",
+      "postalCode": "60618",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "http://bumblebee-sailfish-dhgl.squarespace.com/",
+      "phone": "+1 773-559-7231",
+      "phoneUnformatted": "+17735597231",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.9511411,
+        "lng": -87.7077564
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJVfgyKGDND4gRFeG5zAhpTlU",
+      "categories": ["Steel fabricator", "Shared-use commercial kitchen"],
+      "fid": "0x880fcd602832f855:0x554e6908ccb9e115",
+      "cid": "6146966027922694421",
+      "reviewsCount": 42,
+      "reviewsDistribution": {
+        "oneStar": 0,
+        "twoStar": 0,
+        "threeStar": 0,
+        "fourStar": 0,
+        "fiveStar": 42
+      },
+      "imagesCount": 6,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:11:37.386Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8 AM to 7 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM to 7 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM to 7 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM to 7 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM to 7 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8 AM to 5 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=AWR%20Welding%20%26%20Commercial%20Kitchen%20Hoods&query_place_id=ChIJVfgyKGDND4gRFeG5zAhpTlU",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.98696601580762,-87.66403491526607,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 22,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nonRlUgt2QMIcUqYx8vd3Vtu8osa50DeMILm94WvHEejyx-jniKNRWxLYmsLjeKsZ0zlH609svNBC8_XHCJn71dbQSgC0Zqukg0hY44UuFl1XxckJglJTNBRfD71PM_FpzwTSJrSw=w408-h544-k-no",
+      "kgmid": "/g/11fghjcx4r"
+    },
+    {
+      "title": "Mediterranean Eats & Treats",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "5645 N Ashland Ave, Chicago, IL 60660, United States",
+      "neighborhood": "Edgewater",
+      "street": "5645 N Ashland Ave",
+      "city": "Chicago",
+      "postalCode": "60660",
+      "state": "Illinois",
+      "countryCode": "US",
+      "phone": "+1 773-888-1627",
+      "phoneUnformatted": "+17738881627",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.9848083,
+        "lng": -87.6695826
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ_0SsuPbRD4gRvm4Okz198rk",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x880fd1f6b8ac44ff:0xb9f27d3d930e6ebe",
+      "cid": "13398909544794320574",
+      "reviewsCount": 0,
+      "imagesCount": 5,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:11:37.386Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "4 to 10 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "4 to 10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "4 to 10 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "4 to 10 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "4 to 10 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Mediterranean%20Eats%20%26%20Treats&query_place_id=ChIJ_0SsuPbRD4gRvm4Okz198rk",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.98696601580762,-87.66403491526607,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 23,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPV4EOBnfKYdJk-yO1-gzTGCpRBYUhYOwTIsNpJ=w408-h273-k-no",
+      "kgmid": "/g/11tsmksztx"
+    },
+    {
+      "title": "Exquisite Catering & Events",
+      "price": "$$",
+      "categoryName": "Caterer",
+      "address": "7261 S Exchange Ave, Chicago, IL 60649",
+      "neighborhood": "South Shore",
+      "street": "7261 S Exchange Ave",
+      "city": "Chicago",
+      "postalCode": "60649",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "http://www.exquisitecateringevents.com/",
+      "phone": "(773) 234-2889",
+      "phoneUnformatted": "+17732342889",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.7630156,
+        "lng": -87.5634015
+      },
+      "totalScore": 4.6,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJwWUiXi4pDogRHSeC3xGnvnI",
+      "categories": [
+        "Caterer",
+        "Cooking class",
+        "Shared-use commercial kitchen"
+      ],
+      "fid": "0x880e292e5e2265c1:0x72bea711df82271d",
+      "cid": "8268229661104940829",
+      "reviewsCount": 76,
+      "imagesCount": 78,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:11:39.827Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 3 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as Black-owned": true
+          },
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "No-contact delivery": true
+          },
+          {
+            "Delivery": true
+          },
+          {
+            "Takeout": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": false
+          },
+          {
+            "Wheelchair accessible seating": false
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Exquisite%20Catering%20%26%20Events&query_place_id=ChIJwWUiXi4pDogRHSeC3xGnvnI",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.78270052806413,-87.5273623457982,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 12,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noNDR3rbQm-IGjchGjIUS4Z3UBTeePbjwxqDxLnuEEr9AZ0fMPysGEh-JLzDg9egipkwGqd84fCBVRmnpSmCqRPCM3uTraPaRBBYYk2U_SBlFbaFSugwsqVkZWQYr4ubZzS4TzscA=w408-h271-k-no",
+      "kgmid": "/g/11fy_dy28x"
+    },
+    {
+      "title": "Shared Comercial Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1943 W 51st St, Chicago, IL 60609",
+      "neighborhood": "New City",
+      "street": "1943 W 51st St",
+      "city": "Chicago",
+      "postalCode": "60609",
+      "state": "Illinois",
+      "countryCode": "US",
+      "phone": "(773) 647-0925",
+      "phoneUnformatted": "+17736470925",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.8010871,
+        "lng": -87.6737241
+      },
+      "permanentlyClosed": true,
+      "temporarilyClosed": false,
+      "placeId": "ChIJHXGCTxEvDogRUnLXfMLZxLo",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x880e2f114f82711d:0xbac4d9c27cd77252",
+      "cid": "13458121015831261778",
+      "reviewsCount": 0,
+      "imagesCount": 10,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:11:39.827Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Shared%20Comercial%20Kitchen&query_place_id=ChIJHXGCTxEvDogRUnLXfMLZxLo",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.78270052806413,-87.5273623457982,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 16,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN1yaJqNjqnxp5oqK8bHDEL-iWzKBADb_rMpSB-=w445-h240-k-no",
+      "kgmid": "/g/11spwfyk39"
+    },
+    {
+      "title": "Andersen Plumbing & Heating",
+      "price": null,
+      "categoryName": "Plumber",
+      "address": "700 Terry Ave, Aurora, IL 60506",
+      "neighborhood": null,
+      "street": "700 Terry Ave",
+      "city": "Aurora",
+      "postalCode": "60506",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "http://www.andersenph.com/?utm_source=google&utm_medium=gbp&utm_campaign=maps",
+      "phone": "(630) 557-8405",
+      "phoneUnformatted": "+16305578405",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.7468462,
+        "lng": -88.3432451
+      },
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJcVhjR_LkDogRqX0eZAnO2Tw",
+      "categories": [
+        "Plumber",
+        "Air conditioning contractor",
+        "Air conditioning repair service",
+        "Air conditioning system supplier",
+        "Bathroom remodeler",
+        "Furnace repair service",
+        "Heating contractor",
+        "HVAC contractor",
+        "Kitchen remodeler",
+        "Water softening equipment supplier"
+      ],
+      "fid": "0x880ee4f247635871:0x3cd9ce09641e7da9",
+      "cid": "4384762251951635881",
+      "reviewsCount": 1534,
+      "reviewsDistribution": {
+        "oneStar": 10,
+        "twoStar": 1,
+        "threeStar": 5,
+        "fourStar": 27,
+        "fiveStar": 1491
+      },
+      "imagesCount": 173,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:11:40.431Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Repair services": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Andersen%20Plumbing%20%26%20Heating&query_place_id=ChIJcVhjR_LkDogRqX0eZAnO2Tw",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.76567815,-88.37531772561798,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 21,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMK9nBnY-Sluxi94YwEvhEPo7nr1P8CaAGZ_jCN=w426-h240-k-no",
+      "kgmid": "/g/11bbx1jv66"
+    },
+    {
+      "title": "S2 Grill - Stony",
+      "price": "$$",
+      "categoryName": "Restaurant",
+      "address": "8734 S Stony Island Ave, Chicago, IL 60617",
+      "neighborhood": "South Side",
+      "street": "8734 S Stony Island Ave",
+      "city": "Chicago",
+      "postalCode": "60617",
+      "state": "Illinois",
+      "countryCode": "US",
+      "website": "https://s2expressgrill.com/locations-stony",
+      "phone": "(773) 359-2557",
+      "phoneUnformatted": "+17733592557",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.7354923,
+        "lng": -87.5859604
+      },
+      "totalScore": 4.6,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ82wcrjEpDogRKZv2OSGnHlE",
+      "categories": ["Restaurant"],
+      "fid": "0x880e2931ae1c6cf3:0x511ea72139f69b29",
+      "cid": "5845293127521704745",
+      "reviewsCount": 4089,
+      "reviewsDistribution": {
+        "oneStar": 184,
+        "twoStar": 85,
+        "threeStar": 142,
+        "fourStar": 356,
+        "fiveStar": 3322
+      },
+      "imagesCount": 6590,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:11:40.744Z",
+      "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/WRVg675f-j4?source=pa&opi=79508299&hl=en-US&gei=vD94aL7jCrSGptQP66jSoQY&sourceurl=https://www.google.com/search?authuser%3D0%26tbm%3Dmap%26q%3Dshared-use%2Bcommercial%2Bkitchen%26psi%3Duj94aPXIB9unptQPjsfNuAc.1752711099924.1%26hl%3Den%26pb%3D!4m12!1m3!1d47601.86573108976!2d-87.5273623457982!3d41.78270052806413!2m3!1f0!2f0!3f0!3m2!1i1920!2i1080!4f13.1!7i20!8i0!10b1!12m36!1m1!18b1!2m3!5m1!6e2!20e3!6m18!4b1!49b1!63m0!73m0!74i150000!75b1!85b1!89b1!91b1!101i97!110m0!114b1!149b1!171b1!176f8!179f90!182b1!183m0!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m42!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e9!2b1!3e2!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!2b1!4b1!9b0!22m6!1suj94aPXIB9unptQPjsfNuAc!2s1i:0,t:20588,p:uj94aPXIB9unptQPjsfNuAc:22!4m1!2i20588!7e81!12e3!24m92!1m26!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m15!3b1!4b1!5b1!6b1!13b1!14b1!15b1!17b1!21b1!22b0!25b1!27m1!1b0!28b0!31b0!2b1!5m5!2b1!5b1!6b1!7b1!10b1!10m1!8e3!11m1!3e1!14m1!3b1!17b1!20m2!1e3!1e6!24b1!25b1!26b1!29b1!30m1!2b1!36b1!39m3!2m2!2i1!3i1!43b1!52b1!55b1!56m2!1b1!3b1!65m5!3m4!1m3!1m2!1i224!2i298!71b1!72m17!1m5!1b1!2b1!3b1!5b1!7b1!4b1!8m8!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_reviews!9b1!89b1!103b1!113b1!117b1!122m1!1b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!1m6!1m2!1i0!2i0!2m2!1i0!2i0!31b1!34m19!2b1!3b1!4b1!6b1!7b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!37m1!1e81!42b1!46m1!1e10!47m0!49m7!3b1!6m2!1b1!2b1!7m2!1e3!2b1!50m25!1m21!2m7!1u3!4zT3RldsWZZW7DqQ!5e1!9s0ahUKEwjUyZnTzcKOAxXbk4kEHY5jE3cQ_KkBCAgoAw!10m2!3m1!1e1!2m7!1u2!4zTmVqbMOpcGUgaG9kbm9jZW7DqQ!5e1!9s0ahUKEwjUyZnTzcKOAxXbk4kEHY5jE3cQ_KkBCAcoAg!10m2!2m1!1e1!3m1!1u2!3m1!1u3!4BIAE!2e2!3m1!3b1!59BQ2dBd0Fn!61b1!67m3!7b1!10b1!14b0!69i675",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "12 to 10 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "12 to 10 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "12 to 10 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "12 to 10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "12 PM to 12 AM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 12 AM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM to 10 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as Black-owned": true
+          },
+          {
+            "Identifies as veteran-owned": true
+          },
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "No-contact delivery": true
+          },
+          {
+            "Delivery": true
+          },
+          {
+            "Takeout": true
+          },
+          {
+            "Dine-in": true
+          }
+        ],
+        "Highlights": [
+          {
+            "Fast service": true
+          },
+          {
+            "Great beer selection": true
+          },
+          {
+            "Great cocktails": true
+          },
+          {
+            "Serves local specialty": true
+          },
+          {
+            "Sports": true
+          }
+        ],
+        "Popular for": [
+          {
+            "Lunch": true
+          },
+          {
+            "Dinner": true
+          },
+          {
+            "Solo dining": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Alcohol": true
+          },
+          {
+            "Beer": true
+          },
+          {
+            "Cocktails": true
+          },
+          {
+            "Comfort food": true
+          },
+          {
+            "Happy hour drinks": true
+          },
+          {
+            "Hard liquor": true
+          },
+          {
+            "Late-night food": true
+          },
+          {
+            "Quick bite": true
+          },
+          {
+            "Small plates": true
+          },
+          {
+            "Vegetarian options": true
+          },
+          {
+            "Wine": true
+          }
+        ],
+        "Dining options": [
+          {
+            "Breakfast": true
+          },
+          {
+            "Brunch": true
+          },
+          {
+            "Lunch": true
+          },
+          {
+            "Dinner": true
+          },
+          {
+            "Catering": true
+          },
+          {
+            "Dessert": true
+          },
+          {
+            "Seating": true
+          },
+          {
+            "Table service": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Bar onsite": true
+          },
+          {
+            "Restroom": true
+          },
+          {
+            "Wi-Fi": true
+          },
+          {
+            "Free Wi-Fi": true
+          }
+        ],
+        "Atmosphere": [
+          {
+            "Casual": true
+          },
+          {
+            "Cozy": true
+          },
+          {
+            "Trendy": true
+          }
+        ],
+        "Crowd": [
+          {
+            "Family-friendly": true
+          },
+          {
+            "Groups": true
+          },
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Tourists": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ],
+        "Planning": [
+          {
+            "Accepts reservations": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Children": [
+          {
+            "Good for kids": true
+          },
+          {
+            "Has changing table(s)": true
+          },
+          {
+            "High chairs": true
+          },
+          {
+            "Kids' menu": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          },
+          {
+            "Usually plenty of parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=S2%20Grill%20-%20Stony&query_place_id=ChIJ82wcrjEpDogRKZv2OSGnHlE",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.78270052806413,-87.5273623457982,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 22,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqSM1mAwFB-8W_Ycl60-iQlel80oFyCRHnIk6c_dKCB258UiSjp5WZaJFWnNjRuKY8ysd9s220j4HnC-vaZWuonz_RKBtjC_KnAtkSsFelM2aVJxQLKt6EaqdE9fQUeS2OoJ6rW=w408-h270-k-no",
+      "kgmid": "/g/11j8z1lwvq"
+    }
+  ]
+}

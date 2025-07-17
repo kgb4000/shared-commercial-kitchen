@@ -11,5 +11,10 @@
   { "city": "dallas", "state": "tx" },
   { "city": "los-angeles", "state": "ca" },
   { "city": "new-york", "state": "ny" },
-  { "city": "phoenix", "state": "az" }
+  { "city": "phoenix", "state": "az" },
+  { "city": "long-beach", "state": "ca" },
+  { "city": "san-francisco", "state": "ca" },
+  { "city": "san-jose", "state": "ca" },
+  { "city": "chicago", "state": "il" },
+  { "city": "minneapolis", "state": "mn" }
 ]

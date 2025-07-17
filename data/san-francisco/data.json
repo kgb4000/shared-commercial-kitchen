@@ -1,0 +1,1067 @@
+{
+  "state": "CA",
+  "city": "San Francisco",
+  "kitchens": [
+    {
+      "title": "La Cocina on Hyde - A Commercial Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "101 Hyde St, San Francisco, CA 94102",
+      "neighborhood": "Tenderloin",
+      "street": "101 Hyde St",
+      "city": "San Francisco",
+      "postalCode": "94102",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://www.lacocinasf.org/",
+      "phone": "(415) 824-2729",
+      "phoneUnformatted": "+14158242729",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.7817069,
+        "lng": -122.4159567
+      },
+      "totalScore": 4.7,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJB7E4MbeBhYARZINK9YWSoiE",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Event venue",
+        "Non-profit organization"
+      ],
+      "fid": "0x808581b73138b107:0x21a29285f54a8364",
+      "cid": "2423660653522355044",
+      "reviewsCount": 205,
+      "imagesCount": 215,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:42:27.657Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ],
+        "Parking": [
+          {
+            "Paid parking garage": true
+          },
+          {
+            "Paid street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Cocina%20on%20Hyde%20-%20A%20Commercial%20Kitchen&query_place_id=ChIJB7E4MbeBhYARZINK9YWSoiE",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.70529482619865,-123.15770489850796,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 4,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrruDerzVu6w-KuIvvLYytaTpltIDVjwNWq74b9k8rynSuI7M_PCHArd_s-56TTxSAi_-xh2UkfSYomj6EAuL8jBz10qcsKLDMq3TqEd912oR0hSpptUUuaZcKr5sqjT59YRkWS=w408-h306-k-no",
+      "kgmid": "/g/11h9kr2jmm"
+    },
+    {
+      "title": "La Cocina on Folsom",
+      "price": null,
+      "categoryName": "Non-profit organization",
+      "address": "2948 Folsom St, San Francisco, CA 94110",
+      "neighborhood": "Mission District",
+      "street": "2948 Folsom St",
+      "city": "San Francisco",
+      "postalCode": "94110",
+      "state": "California",
+      "countryCode": "US",
+      "website": "http://www.lacocinasf.org/",
+      "phone": "(415) 824-2729",
+      "phoneUnformatted": "+14158242729",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.7501803,
+        "lng": -122.4140972
+      },
+      "totalScore": 4.7,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJhTCodEZ-j4ARNHaiPHM5V3s",
+      "categories": [
+        "Non-profit organization",
+        "Shared-use commercial kitchen"
+      ],
+      "fid": "0x808f7e4674a83085:0x7b5739733ca27634",
+      "cid": "8887635556740265524",
+      "reviewsCount": 42,
+      "imagesCount": 18,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:42:27.658Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "6 AM to 10 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Cocina%20on%20Folsom&query_place_id=ChIJhTCodEZ-j4ARNHaiPHM5V3s",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.70529482619865,-123.15770489850796,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 13,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np0jjyYM5Bc4c0CurfsBslPyxNj64WVJL9ASdEBdqrweG686N1QppE0kUtAKImKJhe_GsOr9wx7xn_Ozl38MqfqEgv32qLrLlpVJNhB5icPar8dnW6VYEdEYg-uMowQjHiHRM09NA=w408-h544-k-no",
+      "kgmid": "/g/1vgqd9wv"
+    },
+    {
+      "title": "City View Commissary",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "900 Avenue D, San Francisco, CA 94130",
+      "neighborhood": "Treasure Island",
+      "street": "900 Avenue D",
+      "city": "San Francisco",
+      "postalCode": "94130",
+      "state": "California",
+      "countryCode": "US",
+      "website": "http://www.cityviewcommissary.com/",
+      "phone": "(415) 542-6099",
+      "phoneUnformatted": "+14155426099",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.8267892,
+        "lng": -122.3745471
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJEROkem2BhYARX3CICM-PPy0",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8085816d7aa41311:0x2d3f8fcf0888705f",
+      "cid": "3260482774603690079",
+      "reviewsCount": 6,
+      "imagesCount": 8,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:42:28.008Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=City%20View%20Commissary&query_place_id=ChIJEROkem2BhYARX3CICM-PPy0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.818934,-122.4488322,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOE4F3GilEMfQMELVQzBpd2MsMc4fOBYFZfSyqg=w408-h272-k-no",
+      "kgmid": "/g/11rd8kvvpg"
+    },
+    {
+      "title": "SOMA Food Court Commercial Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "60 Morris St, San Francisco, CA 94107",
+      "neighborhood": "SoMa",
+      "street": "60 Morris St",
+      "city": "San Francisco",
+      "postalCode": "94107",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://cloudkitchens.com/locations/san-francisco-bay-area/soma/?utm_source=gmb&utm_medium=organic&utm_content=SoMaFoodCourt",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.7771887,
+        "lng": -122.4032001
+      },
+      "totalScore": 3.3,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJSSTzIY2BhYARRtQHg2fKn9g",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Delivery service",
+        "Takeout Restaurant"
+      ],
+      "fid": "0x8085818d21f32449:0xd89fca678307d446",
+      "cid": "15609417379418199110",
+      "reviewsCount": 3,
+      "imagesCount": 4,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:42:28.008Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=SOMA%20Food%20Court%20Commercial%20Kitchens&query_place_id=ChIJSSTzIY2BhYARRtQHg2fKn9g",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.818934,-122.4488322,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNIPv_CxQZl4-EwBnf30F79-6DpB0JXvXn1MWUL=w426-h240-k-no",
+      "kgmid": "/g/11sy26m2q_"
+    },
+    {
+      "title": "Eclectic Cookery Inc.",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "103 Horne Ave, San Francisco, CA 94124",
+      "neighborhood": "Hunters Point",
+      "street": "103 Horne Ave",
+      "city": "San Francisco",
+      "postalCode": "94124",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://www.eclecticcookery.com/",
+      "phone": "(415) 822-8788",
+      "phoneUnformatted": "+14158228788",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.7273199,
+        "lng": -122.3654875
+      },
+      "totalScore": 4.8,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJIdRXwAx_j4ARpfYHZof_ZTY",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Bakery",
+        "Food producer"
+      ],
+      "fid": "0x808f7f0cc057d421:0x3665ff876607f6a5",
+      "cid": "3919820007693350565",
+      "reviewsCount": 26,
+      "imagesCount": 29,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:42:28.009Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Delivery": false
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Eclectic%20Cookery%20Inc.&query_place_id=ChIJIdRXwAx_j4ARpfYHZof_ZTY",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.818934,-122.4488322,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 5,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOuGxNfGc0dEbg3DaB8Czb5B1Mr6Ky8PcA0An6M=w408-h305-k-no",
+      "kgmid": "/g/1v4k6rjm"
+    },
+    {
+      "title": "Joint Venture Kitchen",
+      "price": null,
+      "categoryName": "Restaurant",
+      "address": "167 11th St, San Francisco, CA 94103",
+      "neighborhood": "SoMa",
+      "street": "167 11th St",
+      "city": "San Francisco",
+      "postalCode": "94103",
+      "state": "California",
+      "countryCode": "US",
+      "phone": "(415) 571-4082",
+      "phoneUnformatted": "+14155714082",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.7736551,
+        "lng": -122.4160926
+      },
+      "totalScore": 4.2,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJh-YVm52AhYARFwqhrrGumN0",
+      "categories": ["Restaurant", "Shared-use commercial kitchen"],
+      "fid": "0x8085809d9b15e687:0xdd98aeb1aea10a17",
+      "cid": "15967704557004327447",
+      "reviewsCount": 13,
+      "imagesCount": 15,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:42:28.009Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "2 to 10 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "2 to 10 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "2 to 10 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "2 to 10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "2 to 10 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM to 10 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9 AM to 10 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Takeout": true
+          },
+          {
+            "Dine-in": true
+          }
+        ],
+        "Popular for": [
+          {
+            "Lunch": true
+          },
+          {
+            "Dinner": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Comfort food": true
+          }
+        ],
+        "Dining options": [
+          {
+            "Lunch": true
+          },
+          {
+            "Dinner": true
+          },
+          {
+            "Dessert": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Restroom": true
+          }
+        ],
+        "Atmosphere": [
+          {
+            "Casual": true
+          }
+        ],
+        "Planning": [
+          {
+            "Accepts reservations": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Joint%20Venture%20Kitchen&query_place_id=ChIJh-YVm52AhYARFwqhrrGumN0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.818934,-122.4488322,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 9,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNuJvixm9mASx650x8yhhivTUm7ZHZ47uXH_YbW=w408-h271-k-no",
+      "kgmid": "/g/11hbtc9ydl"
+    },
+    {
+      "title": "Bayview Makers Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "4100 3rd St, San Francisco, CA 94124",
+      "neighborhood": "Bayview",
+      "street": "4100 3rd St",
+      "city": "San Francisco",
+      "postalCode": "94124",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://www.bayviewmakers.com/kitchen",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 37.7401215,
+        "lng": -122.3886438
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJg8P1PlJ_j4ARqfkm8dCjTKY",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x808f7f523ef5c383:0xa64ca3d0f126f9a9",
+      "cid": "11983132826320435625",
+      "reviewsCount": 0,
+      "imagesCount": 15,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:42:28.009Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Bayview%20Makers%20Kitchen&query_place_id=ChIJg8P1PlJ_j4ARqfkm8dCjTKY",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.818934,-122.4488322,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 15,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noEgu-Wk9_FNllZQksUnD4njQWKz6GfL2eaVVFlkplzEYtaio1HHxa0jbidvW8Ba6SFis-QUTLovdS2MFQZzC4UTOiwH2kr1SinzLmk-33df11Hd7WE5WuvkOGAJzov-M5E16_u=w408-h306-k-no",
+      "kgmid": "/g/11pd2_x0tq"
+    },
+    {
+      "title": "Obour Foods Commercial Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1566 Carroll Ave, San Francisco, CA 94124",
+      "neighborhood": "Bayview",
+      "street": "1566 Carroll Ave",
+      "city": "San Francisco",
+      "postalCode": "94124",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://sfcommercial.kitchen/",
+      "phone": "(415) 993-0394",
+      "phoneUnformatted": "+14159930394",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.7247626,
+        "lng": -122.3925584
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJNf3weW9_j4ARpI4vFb5UQKY",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x808f7f6f79f0fd35:0xa64054be152f8ea4",
+      "cid": "11979668184181477028",
+      "reviewsCount": 0,
+      "imagesCount": 5,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:42:28.009Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Obour%20Foods%20Commercial%20Kitchen&query_place_id=ChIJNf3weW9_j4ARpI4vFb5UQKY",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.818934,-122.4488322,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 17,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNFK0QxtJWjtqv91Km0EzhWX9_yBkWCgnJr94PR=w408-h272-k-no",
+      "kgmid": "/g/11x5n5tc3n"
+    },
+    {
+      "title": "Goemon Izakaya Bar & Karaoke Lounge",
+      "price": null,
+      "categoryName": "Event venue",
+      "address": "3129 Clement St, San Francisco, CA 94121",
+      "neighborhood": "Richmond District",
+      "street": "3129 Clement St",
+      "city": "San Francisco",
+      "postalCode": "94121",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://goemonsushisf.com/",
+      "phone": "(415) 756-9986",
+      "phoneUnformatted": "+14157569986",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.7814398,
+        "lng": -122.4929594
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJLQcIVACHhYARoDnQ_GxoutI",
+      "categories": [
+        "Event venue",
+        "Caterer",
+        "Cocktail bar",
+        "Dessert shop",
+        "Japanese restaurant",
+        "Karaoke bar",
+        "Live music bar",
+        "Modern izakaya restaurant",
+        "Night club",
+        "Shared-use commercial kitchen"
+      ],
+      "fid": "0x808587005408072d:0xd2ba686cfcd039a0",
+      "cid": "15184563910940309920",
+      "reviewsCount": 12,
+      "reviewsDistribution": {
+        "oneStar": 0,
+        "twoStar": 0,
+        "threeStar": 0,
+        "fourStar": 0,
+        "fiveStar": 12
+      },
+      "imagesCount": 19,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:42:48.700Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "12 to 11 AM, 4:30 to 11 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "4:30 to 11 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "4:30 to 11 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "4:30 to 11:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "4:30 to 11:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "4:30 PM to 12 AM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as Asian-owned": true
+          },
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          },
+          {
+            "Assistive hearing loop": false
+          },
+          {
+            "Wheelchair accessible parking lot": false
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          },
+          {
+            "Restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free street parking": true
+          },
+          {
+            "Paid parking lot": true
+          },
+          {
+            "Paid street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Goemon%20Izakaya%20Bar%20%26%20Karaoke%20Lounge&query_place_id=ChIJLQcIVACHhYARoDnQ_GxoutI",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.818934,-122.5859031514964,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 21,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqDEhjWoDSpI8uCkXtEVToVvcZECLkuSUAVWYaUZZey8IGhHZwrmspF9UN5TV1H3oo2p-6n-3cRdM8yZZJXZbOVb8gvR23wrrsDatTO_yvtNG-_SbFEhYPmKZw3WcvqiX7ZBEtJ3KF3r9Kt=w408-h544-k-no",
+      "kgmid": "/g/11yd1fq37w"
+    },
+    {
+      "title": "Ladera Patisserie",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1661 Tennessee St #2k, San Francisco, CA 94107",
+      "neighborhood": "Central Waterfront",
+      "street": "1661 Tennessee St #2k",
+      "city": "San Francisco",
+      "postalCode": "94107",
+      "state": "California",
+      "countryCode": "US",
+      "website": "http://laderapatisserie.com/",
+      "phone": "(917) 293-5267",
+      "phoneUnformatted": "+19172935267",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.7508806,
+        "lng": -122.3881427
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJV1WFYUK7j4ARxzfj2xvMQ-4",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x808fbb4261855557:0xee43cc1bdbe337c7",
+      "cid": "17168790624491747271",
+      "reviewsCount": 4,
+      "imagesCount": 4,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:43:09.118Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "3 to 8:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "3 to 8:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "3 to 5:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM to 8:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "3:30 to 8:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Ladera%20Patisserie&query_place_id=ChIJV1WFYUK7j4ARxzfj2xvMQ-4",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.7754219,-122.40964635,13.663390567724734z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 18,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP77gLVPb-j3fvNhiRIQU1K9xjkMLhL_FkT2nAH=w408-h272-k-no",
+      "kgmid": "/g/11gy87shms"
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "state": "MN",
+  "city": "Minneapolis",
+  "kitchens": [
+    {
+      "title": "Dots Gray Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "208 N 29th Ave, Minneapolis, MN 55411",
+      "neighborhood": "Hawthorne",
+      "street": "208 N 29th Ave",
+      "city": "Minneapolis",
+      "postalCode": "55411",
+      "state": "Minnesota",
+      "countryCode": "US",
+      "website": "https://www.dotsgray.com/",
+      "phone": "(612) 345-7428",
+      "phoneUnformatted": "+16123457428",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 45.0097242,
+        "lng": -93.2808616
+      },
+      "totalScore": 4.8,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ7SzVuxQys1IRw-8ZJoNwXh4",
+      "categories": ["Shared-use commercial kitchen", "Caterer"],
+      "fid": "0x52b33214bbd52ced:0x1e5e70832619efc3",
+      "cid": "2188310177530900419",
+      "reviewsCount": 32,
+      "imagesCount": 15,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:27:04.960Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Friday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 1 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as LGBTQ+ owned": true
+          },
+          {
+            "Identifies as veteran-owned": true
+          },
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Dots%20Gray%20Kitchen&query_place_id=ChIJ7SzVuxQys1IRw-8ZJoNwXh4",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@45.04382944286148,-93.2272173769857,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nolOiKIQNAWt438BIlLqVDAUyGQAivREf8W6AlLGca0DO141PTcBjqyH8DDt0Igc1gFIQE_nX-SZFGksrRrBa3zsX9u-vL_L0jbhN6Zl1DpmU_kUeTgAEQL5xtp4z-PjDD76DvDqg=w426-h240-k-no",
+      "kgmid": "/g/11gfj4w6bx"
+    },
+    {
+      "title": "CityFoodStudio",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3722 Chicago Ave, Minneapolis, MN 55407",
+      "neighborhood": "Powderhorn",
+      "street": "3722 Chicago Ave",
+      "city": "Minneapolis",
+      "postalCode": "55407",
+      "state": "Minnesota",
+      "countryCode": "US",
+      "website": "http://cityfoodstudio.com/",
+      "phone": "(612) 299-1841",
+      "phoneUnformatted": "+16122991841",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 44.9350365,
+        "lng": -93.262677
+      },
+      "totalScore": 4.5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJMSRKpuAn9ocRcAREGfIuPdk",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x87f627e0a64a2431:0xd93d2ef219440470",
+      "cid": "15653719497150563440",
+      "reviewsCount": 11,
+      "imagesCount": 14,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:27:04.961Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=CityFoodStudio&query_place_id=ChIJMSRKpuAn9ocRcAREGfIuPdk",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@45.04382944286148,-93.2272173769857,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nraWQT_5Z9BQNGShgjBnJIzsreE4OUDkYgJASdbB8BG94vKvcTnYb-wzWF_j-ZOXYz2BOOi5S_eUP-16IR59aaEqUAXLzU4uem_fP3n6Tkd_4QQai9NnHLS31Z7Lzm549Jas5zf=w408-h306-k-no",
+      "kgmid": "/g/1pztc0fby"
+    },
+    {
+      "title": "LOL Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1032 3rd Ave NE, Minneapolis, MN 55413",
+      "neighborhood": "Marcy-Holmes",
+      "street": "1032 3rd Ave NE",
+      "city": "Minneapolis",
+      "postalCode": "55413",
+      "state": "Minnesota",
+      "countryCode": "US",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 44.9946711,
+        "lng": -93.248013
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJDUeY3oMts1IRNwgK70Di-r8",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x52b32d83de98470d:0xbffae240ef0a0837",
+      "cid": "13833617973938096183",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:27:04.962Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=LOL%20Kitchen&query_place_id=ChIJDUeY3oMts1IRNwgK70Di-r8",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@45.04382944286148,-93.2272173769857,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 6,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-HBSSl7guUTElu5MBu_2ZQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=153.45273&pitch=0&thumbfov=100",
+      "kgmid": "/g/11xfrvn7cv"
+    },
+    {
+      "title": "SHARED USE COMMERCIAL KITCHEN",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3722 Chicago Ave, Minneapolis, MN 55407",
+      "neighborhood": "Powderhorn",
+      "street": "3722 Chicago Ave",
+      "city": "Minneapolis",
+      "postalCode": "55407",
+      "state": "Minnesota",
+      "countryCode": "US",
+      "website": "https://www.mda.state.mn.us/shared-commercial-kitchen-directory#harmony",
+      "phone": "(612) 205-8086",
+      "phoneUnformatted": "+16122058086",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 44.9350517,
+        "lng": -93.2627317
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJXab21qkn9ocRd2PLK0vXBCI",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x87f627a9d6f6a65d:0x2204d74b2bcb6377",
+      "cid": "2451320815053661047",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:27:04.962Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=SHARED%20USE%20COMMERCIAL%20KITCHEN&query_place_id=ChIJXab21qkn9ocRd2PLK0vXBCI",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@45.04382944286148,-93.2272173769857,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 7,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ehj4H2ICmmm8rz6nYql7Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=256.99976&pitch=0&thumbfov=100",
+      "kgmid": "/g/11n0rqc6hw"
+    },
+    {
+      "title": "Kitchen Space",
+      "price": null,
+      "categoryName": "Event venue",
+      "address": "5750 Lyndale Ave S, Minneapolis, MN 55419",
+      "neighborhood": "Southwest Minneapolis",
+      "street": "5750 Lyndale Ave S",
+      "city": "Minneapolis",
+      "postalCode": "55419",
+      "state": "Minnesota",
+      "countryCode": "US",
+      "website": "https://kitchenspacemn.com/",
+      "phone": "(312) 339-3759",
+      "phoneUnformatted": "+13123393759",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 44.8981674,
+        "lng": -93.288704
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJi4KJtLon9ocRkNOBDyI_27s",
+      "categories": ["Event venue", "Makerspace"],
+      "fid": "0x87f627bab489828b:0xbbdb3f220f81d390",
+      "cid": "13536482520513762192",
+      "reviewsCount": 3,
+      "imagesCount": 7,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:27:04.962Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": false
+          }
+        ],
+        "Amenities": [
+          {
+            "Restroom": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Kitchen%20Space&query_place_id=ChIJi4KJtLon9ocRkNOBDyI_27s",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@45.04382944286148,-93.2272173769857,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 9,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP2tayYkjoM-a0EktDt7UK4NtwxzYNHgzWybMc8=w408-h272-k-no",
+      "kgmid": "/g/11fjjb8c9l"
+    }
+  ]
+}

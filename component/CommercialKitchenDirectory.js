@@ -306,7 +306,7 @@ const CommercialKitchenDirectory = ({
                 </button>
               </div> */}
 
-              {/* Related Cities Tabs */}
+              <p className="font-bold">Related Cities</p>
               {relatedCities && relatedCities.length > 0 && (
                 <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 mt-6">
                   <h3 className="text-lg font-bold text-gray-900 mb-4 flex items-center">
@@ -527,10 +527,10 @@ const CommercialKitchenDirectory = ({
                     </div>
 
                     <div className="flex items-center gap-4 mb-4 text-sm text-gray-600">
-                      <div className="flex items-center">
+                      {/* <div className="flex items-center">
                         <Users className="w-4 h-4 mr-1" />
                         {kitchen.capacity}
-                      </div>
+                      </div> */}
                       <div className="flex items-center">
                         <MapPin className="w-4 h-4 mr-1" />
                         {kitchen.address}, {kitchen.city}

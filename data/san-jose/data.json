@@ -1,0 +1,1097 @@
+{
+  "state": "CA",
+  "city": "San Jose",
+  "kitchens": [
+    {
+      "title": "Amanecer Kitchen Space",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1605 Almaden Rd, San Jose, CA 95125",
+      "neighborhood": "South San Jose",
+      "street": "1605 Almaden Rd",
+      "city": "San Jose",
+      "postalCode": "95125",
+      "state": "California",
+      "countryCode": "US",
+      "phone": "(408) 770-6404",
+      "phoneUnformatted": "+14087706404",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.3078308,
+        "lng": -121.8791195
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJZU_6TmozjoAR7bNBqv4nr8M",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x808e336a4efa4f65:0xc3af27feaa41b3ed",
+      "cid": "14100532933051921389",
+      "reviewsCount": 2,
+      "imagesCount": 4,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:59:16.825Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Amanecer%20Kitchen%20Space&query_place_id=ChIJZU_6TmozjoAR7bNBqv4nr8M",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.24151580868085,-122.0213137957798,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqilPD4agIM8_vNIs8mrvfQFTSBgL40QQpD_Q5aSjSGhTl_BFhk-6K8yjwAE6cIRKeNDSPybDSv7AfNjXwB8d8J2JIQTiEE2lKUEDwT_VUcJ90X9zyfycXxTmRnw4-pedqiNpvZ=w408-h725-k-no",
+      "kgmid": "/g/11l5hjtn99"
+    },
+    {
+      "title": "iKitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "326 Commercial St, San Jose, CA 95112",
+      "neighborhood": "Central San Jose",
+      "street": "326 Commercial St",
+      "city": "San Jose",
+      "postalCode": "95112",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://ikitchens.biz/",
+      "phone": "(408) 816-7854",
+      "phoneUnformatted": "+14088167854",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.3606854,
+        "lng": -121.899202
+      },
+      "totalScore": 4.2,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJkV6j0HjMj4ARMpeaB_OOpNA",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Food service",
+        "Office space rental agency"
+      ],
+      "fid": "0x808fcc78d0a35e91:0xd0a48ef3079a9732",
+      "cid": "15034298630525327154",
+      "reviewsCount": 41,
+      "imagesCount": 27,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:59:16.826Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM to 3 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=iKitchens&query_place_id=ChIJkV6j0HjMj4ARMpeaB_OOpNA",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.24151580868085,-122.0213137957798,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOnxrMg7s1e58_dFU4ymZtfbvp6mBH-MQVFAY0h=w408-h272-k-no",
+      "kgmid": "/g/1v_ncrg1"
+    },
+    {
+      "title": "Silicon Valley Kitchen Rental",
+      "price": null,
+      "categoryName": "Coworking space",
+      "address": "4580 Almaden Expy unit 103, San Jose, CA 95118",
+      "neighborhood": "South San Jose",
+      "street": "4580 Almaden Expy unit 103",
+      "city": "San Jose",
+      "postalCode": "95118",
+      "state": "California",
+      "countryCode": "US",
+      "website": "http://www.siliconvalleykitchenrental.com/",
+      "phone": "(408) 728-1358",
+      "phoneUnformatted": "+14087281358",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.2636971,
+        "lng": -121.8762736
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJxwd7MiczjoARJAk0dan_ds0",
+      "categories": ["Coworking space"],
+      "fid": "0x808e3327327b07c7:0xcd76ffa975340924",
+      "cid": "14805301928307984676",
+      "reviewsCount": 1,
+      "imagesCount": 2,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:59:16.827Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Silicon%20Valley%20Kitchen%20Rental&query_place_id=ChIJxwd7MiczjoARJAk0dan_ds0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.24151580868085,-122.0213137957798,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 4,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ffb4P0y_wW5Lm1wNon293g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=134.93733&pitch=0&thumbfov=100",
+      "kgmid": "/g/11hv90m3x8"
+    },
+    {
+      "title": "Culinary Block Rental Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1901 Las Plumas Ave STE 30, San Jose, CA 95133",
+      "neighborhood": "Las Plumas",
+      "street": "1901 Las Plumas Ave STE 30",
+      "city": "San Jose",
+      "postalCode": "95133",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://www.culinaryblock.com/",
+      "phone": "(408) 459-9459",
+      "phoneUnformatted": "+14084599459",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.3659413,
+        "lng": -121.8620015
+      },
+      "totalScore": 4.3,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJtbJ3ohHNj4ARWvqRp16OaBE",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x808fcd11a277b2b5:0x11688e5ea791fa5a",
+      "cid": "1254409033412115034",
+      "reviewsCount": 3,
+      "imagesCount": 10,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:59:16.827Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "11 AM to 8 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as Asian-owned": true
+          },
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Culinary%20Block%20Rental%20Kitchen&query_place_id=ChIJtbJ3ohHNj4ARWvqRp16OaBE",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.24151580868085,-122.0213137957798,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 5,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr0-rYv35pRc09SHNV3JVMSYtwcN7rku07lYI74DhCG1T3YSPhdCS4mQmA22bSB02Ji3xBYLHxDslqoov2aTPJrYjCBBxLYI_D8J0beHupuiDBUt3ohbWWlXJ5VpbBNcmReTrey=w426-h240-k-no",
+      "kgmid": "/g/11rrsfgzq9"
+    },
+    {
+      "title": "The Base",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "478 Stockton Ave, San Jose, CA 95126",
+      "neighborhood": "Central San Jose",
+      "street": "478 Stockton Ave",
+      "city": "San Jose",
+      "postalCode": "95126",
+      "state": "California",
+      "countryCode": "US",
+      "phone": "(408) 314-4823",
+      "phoneUnformatted": "+14083144823",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.3377065,
+        "lng": -121.9092197
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJI_cXei3Lj4ARjhEG3ctYNX8",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x808fcb2d7a17f723:0x7f3558cbdd06118e",
+      "cid": "9166330249192280462",
+      "reviewsCount": 1,
+      "imagesCount": 4,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:59:16.828Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Base&query_place_id=ChIJI_cXei3Lj4ARjhEG3ctYNX8",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.24151580868085,-122.0213137957798,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 10,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqYwN6-SOE1-PkFBUO9MJjmu5K5_SiAGii6PJbcHC4b8GsooF7SsX99QFuLccFSCMkp8EZBs0bE4W-sHKUJWkss2wPFB9LZxlFo315qlGMTG7mYSodzexG9RWO_kON7NuPLXQew=w408-h306-k-no",
+      "kgmid": "/g/11w_zmp69y"
+    },
+    {
+      "title": "ChefCentury",
+      "price": null,
+      "categoryName": "Caterer",
+      "address": "1505 S Winchester Blvd, San Jose, CA 95128",
+      "neighborhood": "Cadillac Winchester",
+      "street": "1505 S Winchester Blvd",
+      "city": "San Jose",
+      "postalCode": "95128",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://www.chefcentury.com/",
+      "phone": "(408) 709-5877",
+      "phoneUnformatted": "+14087095877",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.2965992,
+        "lng": -121.9504662
+      },
+      "totalScore": 4,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJFc7qZKc1joAR9FSozEtRUvg",
+      "categories": [
+        "Caterer",
+        "Catering food and drink supplier",
+        "Delivery Restaurant"
+      ],
+      "fid": "0x808e35a764eace15:0xf852514bcca854f4",
+      "cid": "17893453655494382836",
+      "reviewsCount": 1,
+      "imagesCount": 2,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:59:16.828Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM to 3 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 3 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 3 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 3 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 3 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "No-contact delivery": true
+          },
+          {
+            "Delivery": true
+          },
+          {
+            "Takeout": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=ChefCentury&query_place_id=ChIJFc7qZKc1joAR9FSozEtRUvg",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.24151580868085,-122.0213137957798,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 12,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npWXnTDDh4C7o1DIPmUI00rlmKH4lBzGwp2XEcO17KaefZ7o3ZSoyUNX7vS4UrEiEZLGWDw6UfdR59fkmk0PhCC--qthPrThfFHLjEPO3an6xK2-NAQageJCz3aGaGPyGKzzq9r=w408-h306-k-no",
+      "kgmid": "/g/11qn9h_48b"
+    },
+    {
+      "title": "Silk Road Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "82 E Santa Clara St, San Jose, CA 95113",
+      "neighborhood": "Central San Jose",
+      "street": "82 E Santa Clara St",
+      "city": "San Jose",
+      "postalCode": "95113",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://www.silkroad.kitchen/",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.3368979,
+        "lng": -121.8886885
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": true,
+      "placeId": "ChIJgff0YM_Nj4ARjmQuRrS3FYQ",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x808fcdcf60f4f781:0x8415b7b4462e648e",
+      "cid": "9517715372416853134",
+      "reviewsCount": 0,
+      "imagesCount": 4,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:59:29.774Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Silk%20Road%20Kitchen&query_place_id=ChIJgff0YM_Nj4ARjmQuRrS3FYQ",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.350633491319144,-121.8844615319266,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 8,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMEbnXDF_fYoU2mb6dmnuNcEIhkI_qpJQiIO0Od=w408-h255-k-no",
+      "kgmid": "/g/11vds1yfpk"
+    },
+    {
+      "title": "Rooter Hero Plumbing & Air of San Jose",
+      "price": null,
+      "categoryName": "Plumber",
+      "address": "2827 Aiello Dr, San Jose, CA 95111, United States",
+      "neighborhood": "South San Jose",
+      "street": "2827 Aiello Dr",
+      "city": "San Jose",
+      "postalCode": "95111",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://rooterhero.com/san-jose",
+      "phone": "+1 408-816-1005",
+      "phoneUnformatted": "+14088161005",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.2932592,
+        "lng": -121.8467872
+      },
+      "totalScore": 4.8,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ5awrBzujj4ARWQLUgOweNNM",
+      "categories": [
+        "Plumber",
+        "Air conditioning repair service",
+        "HVAC contractor"
+      ],
+      "fid": "0x808fa33b072bace5:0xd3341eec80d40259",
+      "cid": "15218823041914241625",
+      "reviewsCount": 3046,
+      "reviewsDistribution": {
+        "oneStar": 98,
+        "twoStar": 22,
+        "threeStar": 21,
+        "fourStar": 96,
+        "fiveStar": 2809
+      },
+      "imagesCount": 276,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:59:36.308Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Online estimates": true
+          },
+          {
+            "On-site services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Repair services": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Rooter%20Hero%20Plumbing%20%26%20Air%20of%20San%20Jose&query_place_id=ChIJ5awrBzujj4ARWQLUgOweNNM",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.24151580868085,-121.7476092680734,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 21,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNXIZD6y1UeO72dnxOAAak8O7kTTDVthQ-9Gl_N=w408-h320-k-no",
+      "kgmid": "/g/1ptyqzsg5"
+    },
+    {
+      "title": "Extended Stay America - San Jose - Edenvale - North",
+      "description": "Relaxed extended-stay hotel offering low-key suites with kitchenettes, plus free breakfast & a gym.",
+      "price": "€95",
+      "categoryName": "Extended stay hotel",
+      "address": "6199 San Ignacio Ave, San Jose, CA 95119, United States",
+      "neighborhood": "South San Jose",
+      "street": "6199 San Ignacio Ave",
+      "city": "San Jose",
+      "postalCode": "95119",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://www.extendedstayamerica.com/hotels/ca/san-jose/edenvale-north?channel=gmb-listing&utm_source=google&utm_medium=organic&utm_campaign=gmb_listing",
+      "phone": "+1 408-226-4499",
+      "phoneUnformatted": "+14082264499",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.2349194,
+        "lng": -121.7751861
+      },
+      "totalScore": 3.1,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJlYq_5q0vjoAR3XSii721sLo",
+      "categories": ["Extended stay hotel"],
+      "fid": "0x808e2fade6bf8a95:0xbab0b5bd8ba274dd",
+      "cid": "13452451912651797725",
+      "reviewsCount": 674,
+      "reviewsDistribution": {
+        "oneStar": 189,
+        "twoStar": 75,
+        "threeStar": 113,
+        "fourStar": 101,
+        "fiveStar": 196
+      },
+      "imagesCount": 548,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:59:36.308Z",
+      "googleFoodUrl": null,
+      "hotelStars": "2-star hotel",
+      "hotelDescription": "In a residential and commercial area a mile from Route 101, this modest extended-stay hotel is 5 miles from Hellyer County Park and 10 miles from Raging Waters amusement park.\n The casual studio suites feature kitchenettes with stovetops, microwaves, fridges and coffeemakers, in addition to free Wi-Fi and flat-screen TVs. Upgraded suites add pull-out sofas. Kids 17 and under stay at no cost with an adult.\n There's complimentary breakfast and parking. Other amenities include an exercise room and coin-operated laundry facilities.",
+      "checkInDate": "2025-08-24",
+      "checkOutDate": "2025-08-25",
+      "hotelAds": [
+        {
+          "title": "Booking.com",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OswCZtyruUBJh3kUyYZt4Oic0HpC4cXvysPdKcIFw8XvpMKP8ttuNifzWQdwhqGX0EmE4YU0wYFwWTbHcXetw0VW_KKyL-OQsF0xp2lAy5a-B96iNsOVSYcZuyH63F8HHEgGL_uqHJvhGj3OJV87VjL_SMTw3F1Z4twauR5wCm9t6oL-t5VQbGne&pcurl=https://www.booking.com/hotel/us/hotel-san-ignacio-ave-san-jose.html?checkin%3D2025-08-24%26checkout%3D2025-08-25%26group_adults%3D2%26req_adults%3D2%26show_room%3D51902709_91843352_2_1_0%26lang%3Den%26selected_currency%3DEUR%26exrt%3D0.86262667%26ext_price_total%3D95.07%26ext_price_tax%3D12.55%26xfc%3DUSD%26hca%3Dm%26group_children%3D0%26req_children%3D0%26%26ts%3D1752612933%26no_rooms%3D1%26edgtid%3D6xai3fV5TjOUXyG_2vbMSA%26efpc%3DlbZ6EQshog%26utm_source%3Dmetagha%26utm_medium%3Dmapresults%26utm_campaign%3DDE%26utm_term%3Dhotel-519027%26utm_content%3Ddev-desktop_los-1_bw-39_dow-Sunday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20250824_ppt-%26aid%3D2127502%26label%3Dmetagha-link-MRDE-hotel-519027_dev-desktop_los-1_bw-39_dow-Sunday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20250824_ppt-",
+          "isOfficialSite": false,
+          "price": "€95",
+          "url": "https://www.booking.com/hotel/us/hotel-san-ignacio-ave-san-jose.html?checkin=2025-08-24&checkout=2025-08-25&group_adults=2&req_adults=2&show_room=51902709_91843352_2_1_0&lang=en&selected_currency=EUR&exrt=0.86262667&ext_price_total=95.07&ext_price_tax=12.55&xfc=USD&hca=m&group_children=0&req_children=0&&ts=1752612933&no_rooms=1&edgtid=6xai3fV5TjOUXyG_2vbMSA&efpc=lbZ6EQshog&utm_source=metagha&utm_medium=mapresults&utm_campaign=DE&utm_term=hotel-519027&utm_content=dev-desktop_los-1_bw-39_dow-Sunday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20250824_ppt-&aid=2127502&label=metagha-link-MRDE-hotel-519027_dev-desktop_los-1_bw-39_dow-Sunday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-_mcid-10_ppa-0_clrid-0_ad-0_gstkid-0_checkin-20250824_ppt-"
+        },
+        {
+          "title": "Wego",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsxNKw7aRW26ZrzGzknIW2sKblS4ZMgdiAHaN4y_hg-mzVfgFlMJmFpDTdwcCf5i4BFyMjAs4NVvgkF_pO7wLi46a2d1XtstvfhHxz8vFxkpl9vEfxu70xFnYqMy4N5GHmd3nboLJtetFDqm2k_REmpGJGkNMrucJ1nd&pcurl=https://www.wego.com/hotels-handoff/searches/SJC/2025-08-24/2025-08-25?guests%3D2%26wego_hotel_id%3D258521%26bow_only%3Dtrue%26ts_code%3D2f2fc%26wg_source%3Dmeta_distribution%26wg_medium%3Dgha%26wg_campaign%3Dfbl%26wego_currency%3DEUR%26ulang%3Den%26wego_price%3DVVNEOjEwMC44MTo3ZDAyMWU1NjA1YzA3ZmVmZTI1NjZkOTBiZjhlZGRlNDZkYmMwMzNmZWMwMDM1ZmRlMzI1MGQ4MWMxOWExOGNjOmVwc2Jramg5cm86MTc1MjY1Mzc3MjpEOlNBOjhjNGJmNmZkZWRjYTI3N2Q6MjowOnRydWU%253D%26provider%3DaG90ZWxzLndlZ28uY29t%26no_app_links%3Dtrue",
+          "isOfficialSite": false,
+          "price": "€87",
+          "url": "https://www.wego.com/hotels-handoff/searches/SJC/2025-08-24/2025-08-25?guests=2&wego_hotel_id=258521&bow_only=true&ts_code=2f2fc&wg_source=meta_distribution&wg_medium=gha&wg_campaign=fbl&wego_currency=EUR&ulang=en&wego_price=VVNEOjEwMC44MTo3ZDAyMWU1NjA1YzA3ZmVmZTI1NjZkOTBiZjhlZGRlNDZkYmMwMzNmZWMwMDM1ZmRlMzI1MGQ4MWMxOWExOGNjOmVwc2Jramg5cm86MTc1MjY1Mzc3MjpEOlNBOjhjNGJmNmZkZWRjYTI3N2Q6MjowOnRydWU=&provider=aG90ZWxzLndlZ28uY29t&no_app_links=true"
+        },
+        {
+          "title": "Priceline",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OszCeS6nQIQhu00isSIob_W7hrKloK3yiSvyDW8LGxXoDal5xxhKEqw4IyRVmtT4DxgelBSwaDQP8tX4UrGYLh9GQEijewWoRKHB9ZOZN29sv7Vh4ZVkC-pMfnklNQQ7WNFDbFYTftU_VgrCeuNf21T8kuw3MytJlKKydg07C2Y7iqZO7x8v0Q&pcurl=https://www.priceline.com/r/?channel%3Dmeta%26product%3Dhotel%26theme%3Dghalistings%26refid%3DPLGOOGLEMSS%26refclickid%3DDE_HP%257C5715905_mapresults_1%257C20250824%257Cdesktop%257Cdefaultdate%7Cpublic%7C%7C%7C39%257C2%257C0%7C0%7CEN%26hotelid%3D5715905%26checkin%3D20250824%26checkout%3D20250825%26rooms%3D1%26currency%3DUSD%26displayedCurr%3DEUR%26POSCountryCode%3DDE%26taxDisplayMode%3DBP%26cityID%3D3000002250%26adults%3D2%26land%3DL%26metaid%3DAuD0IMMIpY9aBzXal_9GcGAHK5fhTf-dMWqrknT_tsx1hteIXMrIAGH0A3Vb5RqaMeSg3ZlhsDoc5olcBcouptGwy1S0W5swsYZthNGh2HkXJt-8aDHUj65p2gn6pu3MLBDLrfXyaXtmlXHdjS-B_HKe61Ud1cMnDSYzOCG3swMYj4Q6AilPyek_c90aiMfXdlTPB67jtLyNWYoD1JGxc6mFjOuSn-poLQSMVeUgV1DUQ1EhD1IwAbTrCbBa6MnDXTMXeHRf5MljP2jqDzVjzbbq9ljsg6Vdz52301dusl0drVAmq1ILavpswWA5mj43%26dblcnt%3Dtrue%26user_num_adults%3D2%26pdtax%3D12.54%26pdt%3D95.07%26locale%3Den-us%26ad-src%3D",
+          "isOfficialSite": false,
+          "price": "€95",
+          "url": "https://www.priceline.com/r/?channel=meta&product=hotel&theme=ghalistings&refid=PLGOOGLEMSS&refclickid=DE_HP|5715905_mapresults_1|20250824|desktop|defaultdate|public|||39|2|0|0|EN&hotelid=5715905&checkin=20250824&checkout=20250825&rooms=1&currency=USD&displayedCurr=EUR&POSCountryCode=DE&taxDisplayMode=BP&cityID=3000002250&adults=2&land=L&metaid=AuD0IMMIpY9aBzXal_9GcGAHK5fhTf-dMWqrknT_tsx1hteIXMrIAGH0A3Vb5RqaMeSg3ZlhsDoc5olcBcouptGwy1S0W5swsYZthNGh2HkXJt-8aDHUj65p2gn6pu3MLBDLrfXyaXtmlXHdjS-B_HKe61Ud1cMnDSYzOCG3swMYj4Q6AilPyek_c90aiMfXdlTPB67jtLyNWYoD1JGxc6mFjOuSn-poLQSMVeUgV1DUQ1EhD1IwAbTrCbBa6MnDXTMXeHRf5MljP2jqDzVjzbbq9ljsg6Vdz52301dusl0drVAmq1ILavpswWA5mj43&dblcnt=true&user_num_adults=2&pdtax=12.54&pdt=95.07&locale=en-us&ad-src="
+        },
+        {
+          "title": "goseek.com",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OszI4eRJBrSwtYujQq2QYy1a1K64juiwVnpHA5qAKPBwIkcsqnKAw4TqtxhP4PeYxmsBFCWkit7atcIud38_v-aymLz9zc2MvIBl7DgdMjgwMspYp4nig7kzBU-fGqXFon3pgxuINbUoq3446Sd75rrOK1zXK7S6S12KTTNmAjmnQtzHzMx7&pcurl=https://deals.goseek.com/?sig%3D34c47a49c3e8320dca5a5dda0da2a460c1bc23afde972e2894a4ff0b6052fb53383131303836353931%26turl%3Dhttps%253A%252F%252Fwww.goseek.com%252FHotel%252FSearch%253FcheckIn%253D2025-08-24%2526checkOut%253D2025-08-25%2526curr%253DEUR%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D1159502%2526userCountry%253DDE%2526profile%253Dr2d2m73kn8%2526preferredRate%253D95.07%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Ddefault%252526gsite%25253Dmapresults%252526vf%25253D0%252526ucountry%25253DDE%252526udevice%25253Ddesktop%252526hotel%25253D1159502%252526day%25253D24%252526month%25253D08%252526year%25253D2025%252526los%25253D1%252526price%25253D95.07%252526currency%25253DEUR%252526cid%25253D%252526listid%25253D%252526rateid%25253DDE%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253DMJpehELX_owCgtGNG9xeGxPNk9GNBiGst7DBiACONTpp7kOQhUIxIGSz7Cdy45TEN9KIK4LKgNVU0Q",
+          "isOfficialSite": false,
+          "price": "€95",
+          "url": "https://deals.goseek.com/?sig=34c47a49c3e8320dca5a5dda0da2a460c1bc23afde972e2894a4ff0b6052fb53383131303836353931&turl=https://www.goseek.com/Hotel/Search?checkIn=2025-08-24&checkOut=2025-08-25&curr=EUR&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=2:&utm_source=gha&utm_medium=cpc&hotelId=1159502&userCountry=DE&profile=r2d2m73kn8&preferredRate=95.07&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dmapresults%26vf%3D0%26ucountry%3DDE%26udevice%3Ddesktop%26hotel%3D1159502%26day%3D24%26month%3D08%26year%3D2025%26los%3D1%26price%3D95.07%26currency%3DEUR%26cid%3D%26listid%3D%26rateid%3DDE%26closerateid%3D%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0%26&cp=MJpehELX_owCgtGNG9xeGxPNk9GNBiGst7DBiACONTpp7kOQhUIxIGSz7Cdy45TEN9KIK4LKgNVU0Q"
+        },
+        {
+          "title": "Bluepillow.de",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsxImP9LbZi6vdQ2u0airkex5Xi0MbQXiAvIdX8Xl8ctymetaewADxjG2-75VB7B3YD7loSFyMXQBRcGWU1naYGXs5Wh9evC59PmLE80HGGQfhN-IQRgqMYSU4pYC2YxxITeNm5EfzMOxHWZFdf6lFkBCoFSLql_BerTaO4fKHAP&pcurl=https://www.bluepillow.de/search/5943967c7c00cb0e643bb7cf?begin%3D2025-08-24%26end%3D2025-08-25%26block_id%3D-b,09W6y2W-8EggnVfWTv_4TZuCpaDurX8MG6X6Hon7RLLcjzPgtQSLqaCsO2PDm4WT,-bkng-Hotel%26adults%3D2%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DDE%26currency%3DEUR%26language%3Den%26source%3Dmapresults%26utm_campaign%3Dhotel%26prid%3D",
+          "isOfficialSite": false,
+          "price": "€95",
+          "url": "https://www.bluepillow.de/search/5943967c7c00cb0e643bb7cf?begin=2025-08-24&end=2025-08-25&block_id=-b,09W6y2W-8EggnVfWTv_4TZuCpaDurX8MG6X6Hon7RLLcjzPgtQSLqaCsO2PDm4WT,-bkng-Hotel&adults=2&childs=0&infants=0&childrens=0&country=DE&currency=EUR&language=en&source=mapresults&utm_campaign=hotel&prid="
+        },
+        {
+          "title": "HomeToGo",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OswDIakyprLAJD-UG08hqd1vwB91mRUGggPoP0q0h9p71SxSfe4nmduLNjFz-5b26hqD919feueD1mFEn4pFhMIXMLhbubbMJV9IAaM0SR9DiTyVWLcqFZB-EhfXfBHUsp2eaOnnKLldpMm-SH4f2D1tPabEgwH5PRMvQKGIAA&pcurl=https://www.hometogo.de/search/5c17b14037a3d?arrival%3D2025-08-24%26duration%3D1%26id%3Dz7da0697569e630ff%2540f%2540s%26adults%3D2%26tpp%3Dqczrhfq.6877327f%26adword%3Dghf/de/z7da0697569e630ff/ct%3Dhs/n-a/n-a/5c17b14037a3d%26utm_source%3Dghf%26hl%3Den_DE%26ghf_acc%3Dhtg_ghf%26c%3DEUR%26type%5B%5D%3Dhotel%26gValidation%3Dfalse%26gSite%3Dmapresults",
+          "isOfficialSite": false,
+          "price": "€95",
+          "url": "https://www.hometogo.de/search/5c17b14037a3d?arrival=2025-08-24&duration=1&id=z7da0697569e630ff@f@s&adults=2&tpp=qczrhfq.6877327f&adword=ghf/de/z7da0697569e630ff/ct=hs/n-a/n-a/5c17b14037a3d&utm_source=ghf&hl=en_DE&ghf_acc=htg_ghf&c=EUR&type[]=hotel&gValidation=false&gSite=mapresults"
+        },
+        {
+          "title": "Closest Hotel",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsyAfxslyL2m8G_dhUsjg58d_VRyW7DV3-4giKITjDvNo3K2rlTB1SI6cuM5KUhThZ0BW6jAEfyP9lsYOWhPoXJeLWqs1z82B0PsxjLNG3bb8rF8C6a7SfKoKdFSuP6hvoAYEtG1sfZuTjyyydM3qpi-HLScsEuLWGcOMx9nW-rkdNtVDGT4KaWXVcNvyangO4lQ2Oo&pcurl=https://closesthotel.com/googleRedirMainSearch.php?checkInYear%3D2025%26checkInMonth%3D08%26checkInDay%3D24%26checkOutYear%3D2025%26checkOutMonth%3D08%26checkOutDay%3D25%26numberOfNights%3D1%26numberOfAdults%3D2%26numberOfChildren%3D0%26numberOfGuests%3D2%26hotelID%3D891733%26roomID%3D323883584%26currency%3DEUR%26deviceType%3Ddesktop",
+          "isOfficialSite": false,
+          "price": "€95",
+          "url": "https://closesthotel.com/googleRedirMainSearch.php?checkInYear=2025&checkInMonth=08&checkInDay=24&checkOutYear=2025&checkOutMonth=08&checkOutDay=25&numberOfNights=1&numberOfAdults=2&numberOfChildren=0&numberOfGuests=2&hotelID=891733&roomID=323883584&currency=EUR&deviceType=desktop"
+        },
+        {
+          "title": "BringFido",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80Osx1pqgetKRY3-mNK3jQT6_A5sfd5RX-eVCN2gyZ83JOECC4Y5OJj5rVlVkvrJj08zPOHVi3sNXre9Crk1CTQcjPNGaRvCNRwnlWk0JQw6F5BrkfZX7t-JCEdqwx8B2-98conv5M21-SJ39EPmvBfhvedDzsaaqbTJUcJyXQTpE&pcurl=https://www.bringfido.com/lodging/68290?arrival%3D2025-08-24%26departure%3D2025-08-25%26adults%3D2%26dogs%3D0%26source%3De%26aid%3Dgooglehotels-mapresults%26channel%3Ddesktop%26currency%3DEUR%26source%3De",
+          "isOfficialSite": false,
+          "price": "€95",
+          "url": "https://www.bringfido.com/lodging/68290?arrival=2025-08-24&departure=2025-08-25&adults=2&dogs=0&source=e&aid=googlehotels-mapresults&channel=desktop&currency=EUR&source=e"
+        },
+        {
+          "title": "dealbase.com",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsxJB7W3qVO7XJFKpwCNedkz7-98zps7-8mDa2uF40HfxnVjB3PENayvsz9oxn7g610mZbEzHsQfRsa9xyPEPzRaUyrO7HD5hlk1CcxX3PNzLeT9iLhY2pKgoUpYN0wQL5Hnj4y0_es5Kj9vllPbB2H92FZDPVXeoZCu_PEef00pP4BpEXwbJgpm&pcurl=https://deals.dealbase.com/?sig%3Dd24b78db5ff27b2a7633c125e8c1eb65fcdd29bfbe8d2468da3702f8e475011131373338383435313339%26turl%3Dhttps%253A%252F%252Fwww.dealbase.com%252FHotel%252FSearch%253FcheckIn%253D2025-08-24%2526checkOut%253D2025-08-25%2526curr%253DEUR%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D1159502%2526userCountry%253DDE%2526profile%253Dr2d2m73kn8%2526preferredRate%253D95.10%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Ddefault%252526gsite%25253Dmapresults%252526vf%25253D0%252526ucountry%25253DDE%252526udevice%25253Ddesktop%252526hotel%25253D1159502%252526day%25253D24%252526month%25253D08%252526year%25253D2025%252526los%25253D1%252526price%25253D95.10%252526currency%25253DEUR%252526cid%25253D%252526listid%25253D%252526rateid%25253DDE%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253Dryc8ovZbvPACgtpOWNtN0VzWlo3TRizy97DBiACOPrwsYYEQhUIxIGSz7Cdy45TEN9KILILKgNVU0Q",
+          "isOfficialSite": false,
+          "price": "€95",
+          "url": "https://deals.dealbase.com/?sig=d24b78db5ff27b2a7633c125e8c1eb65fcdd29bfbe8d2468da3702f8e475011131373338383435313339&turl=https://www.dealbase.com/Hotel/Search?checkIn=2025-08-24&checkOut=2025-08-25&curr=EUR&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=2:&utm_source=gha&utm_medium=cpc&hotelId=1159502&userCountry=DE&profile=r2d2m73kn8&preferredRate=95.10&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dmapresults%26vf%3D0%26ucountry%3DDE%26udevice%3Ddesktop%26hotel%3D1159502%26day%3D24%26month%3D08%26year%3D2025%26los%3D1%26price%3D95.10%26currency%3DEUR%26cid%3D%26listid%3D%26rateid%3DDE%26closerateid%3D%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0%26&cp=ryc8ovZbvPACgtpOWNtN0VzWlo3TRizy97DBiACOPrwsYYEQhUIxIGSz7Cdy45TEN9KILILKgNVU0Q"
+        },
+        {
+          "title": "Brek",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OszPva6cBCP7zYeChCLf6HjQhJmp3UUhFebRmDfm4qui58Ya2-WUbaMS2A2AKK795ZAnYjb9mHZe2T9cmbpKpEXZD2O8SwvTi0T7bCJNJWK2jiy57zPZPkDPeyePX29mGR2RbMtFUBacGkg6NGv0w8-JxpFOtw-FokKveAJ3XZax0Wgicvk&pcurl=https://www.brek.com/search?lat%3D37.234614%26lng%3D-121.775317%26checkin%3D2025-08-24%26checkout%3D2025-08-25%26pinned%3D64771562f7410e817f9ba5fd%26utm_source%3Dgha%26ep%3D7f51dcbc8ed03f8df50a8a49eb0402658ed44117238e6c91db17563336d7647769683b68a44e139da00d532c421c4f2ae6447d9afa684dd9aaf23720365ab52b%26user_currency%3DEUR%26user_country%3DDE%26user_language%3Den%26user_displayed_total%3D95.10%26user_displayed_tax%3D12.58",
+          "isOfficialSite": false,
+          "price": "€95",
+          "url": "https://www.brek.com/search?lat=37.234614&lng=-121.775317&checkin=2025-08-24&checkout=2025-08-25&pinned=64771562f7410e817f9ba5fd&utm_source=gha&ep=7f51dcbc8ed03f8df50a8a49eb0402658ed44117238e6c91db17563336d7647769683b68a44e139da00d532c421c4f2ae6447d9afa684dd9aaf23720365ab52b&user_currency=EUR&user_country=DE&user_language=en&user_displayed_total=95.10&user_displayed_tax=12.58"
+        },
+        {
+          "title": "BusinessHotels.com",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsymrkDxC9tq4Zxq4H178TTWi5FHxAoSsi4IPvzH_ocToHfKv8CphTwcBbMvIjWhERNDT_ncKt845ARaPio9NHYvxhz32ieC2i_UedVCMWzPX3gTm9DMGh7N_jClPCjZhg_0x_LuE3rBc5ilAEXGmMcO73jczupC1ogX4_Ci8bZMwLsDdu6iZfM&pcurl=https://www.businesshotels.com/reservation.php?hotel-id%3D700220081%26checkin-date%3D2025-08-24%26checkout-date%3D2025-08-25%26language%3Den%26USER-CURRENCY%3DEUR%26USER-COUNTRY%3DDE%26NUM-ADULTS%3D2%26NUM-CHILDREN%3D0%26prid%3D",
+          "isOfficialSite": false,
+          "price": "€98",
+          "url": "https://www.businesshotels.com/reservation.php?hotel-id=700220081&checkin-date=2025-08-24&checkout-date=2025-08-25&language=en&USER-CURRENCY=EUR&USER-COUNTRY=DE&NUM-ADULTS=2&NUM-CHILDREN=0&prid="
+        },
+        {
+          "title": "Hotels In America",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80Osz9JHUd_9gL9B2eG_fq8SfoYpJiu0BWCtOkwn5JOq8rDcr3n3j8IdntH4IVW6oTXVka9agOV3VhilWBJCj9NyjMD8uAP9iPNYroGGKDDHJsuyUMxflAVuxxIrq_qbuepWkc_kv5dIeWMfqlEHDJZ83AOdZJb4ddXBGbEoXlUcFfTxOxJT1tiTn2TR_NDkxwSQ&pcurl=https://www.hotelsinamerica.com/transition/?data%3Dprice%3D98.67%2526total_price%3D113.53%2526retail_price%3D98.67%2526retail_total_price%3D113.53%2526request_id%3D5d7f4872-9d8e-40db-9d55-df158823586c%2526ps%3D4562811839800325764%2526pp%3DZ-s7LlX1oDWpF-2eJTKEOw%2526pb%3DyF2hhcyERAsPRD7Vyeom7Kkx5-DHZzJhcuV3XdqBPmNcdrwpPDktg7UN5VMrTiBG8b8rX3uL9mx2-0nf9d6KChQYZ4gAigLovypVDPL_YRdl0emzLn8MfvLsng5qOwtCz3IAbIU2D0adCvWaiCKO-Q7xHjSkJA8RZrhTEmw-YjLgfl_hio1ebtuboNmzy-VQnBM_xWSsfbaq5UbGuMpAChL-p323tj1ROg4Hay_5Y4GRvdCdAGZC_53-F-OZ9Q4u%2526gha_hia_pull_request%3DTrue%2526rtp%3DSdTUqdR7wIew8aRS9esAtw%25253D%25253D%2526risk_lk_1%3Dfalse%2526alwd_risk%3Dfalse%2526alwd_rand%3Dfalse%2526gt%3D1752667764%2526sg%3DRmBZm%2526ttl_bkt%3Dnone%26utm_source%3Dgha_hia%26utm_content%3Dmapresults%26currency%3DUSD%26user_country%3DDE%26verification%3Dfalse%26rate_rule_ids%3D%26date_type%3Ddefault%26rate_rule_id%3Dsignedout_desktop%26display_currency%3DEUR%26display_all_inclusive_price%3D97.93%26checkin_at%3D2025-08-24%26checkout_at%3D2025-08-25%26provider_hotel_id%3D10004433032%26provider%3Dean%26num_adults%3D2%26children%3D%5B%5D%26utm_campaign%3D%26user_locale%3Den-DE%26user_list_id%3D%26utm_medium%3Dorganic%26utm_id%3Dgha_hia_organic",
+          "isOfficialSite": false,
+          "price": "€98",
+          "url": "https://www.hotelsinamerica.com/transition/?data=price=98.67&total_price=113.53&retail_price=98.67&retail_total_price=113.53&request_id=5d7f4872-9d8e-40db-9d55-df158823586c&ps=4562811839800325764&pp=Z-s7LlX1oDWpF-2eJTKEOw&pb=yF2hhcyERAsPRD7Vyeom7Kkx5-DHZzJhcuV3XdqBPmNcdrwpPDktg7UN5VMrTiBG8b8rX3uL9mx2-0nf9d6KChQYZ4gAigLovypVDPL_YRdl0emzLn8MfvLsng5qOwtCz3IAbIU2D0adCvWaiCKO-Q7xHjSkJA8RZrhTEmw-YjLgfl_hio1ebtuboNmzy-VQnBM_xWSsfbaq5UbGuMpAChL-p323tj1ROg4Hay_5Y4GRvdCdAGZC_53-F-OZ9Q4u&gha_hia_pull_request=True&rtp=SdTUqdR7wIew8aRS9esAtw%3D%3D&risk_lk_1=false&alwd_risk=false&alwd_rand=false&gt=1752667764&sg=RmBZm&ttl_bkt=none&utm_source=gha_hia&utm_content=mapresults&currency=USD&user_country=DE&verification=false&rate_rule_ids=&date_type=default&rate_rule_id=signedout_desktop&display_currency=EUR&display_all_inclusive_price=97.93&checkin_at=2025-08-24&checkout_at=2025-08-25&provider_hotel_id=10004433032&provider=ean&num_adults=2&children=[]&utm_campaign=&user_locale=en-DE&user_list_id=&utm_medium=organic&utm_id=gha_hia_organic"
+        },
+        {
+          "title": "Agoda",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80Osy0BOMuojz-bN8eVbyHYHZs_70UyFsOV5MK35J7Uo4NXcF2JN-KWj_UVj3BWjvUfZqvRhc891RDiwwSpt_ad4KXSbV9zANZc8VUm4pOFUaSrZcLGNZR_23iu_qA9uwnkHrl7-eJ2EGNTC0xeX4njsRCLYDOtvCiH7I25viomQsGMN9S&pcurl=https://www.agoda.com/partners/partnersearch.aspx?site_id%3D1917614%26CkInDay%3D24%26CkInMonth%3D08%26CkInYear%3D2025%26CkOutDay%3D25%26campaignid%3D%26CkOutMonth%3D08%26CkOutYear%3D2025%26SearchDateType%3Ddefault%26NumberOfAdults%3D2%26LT%3D39%26NumberOfChildren%3D0%26childages%3D%26NumberOfRooms%3D1%26gsite%3Dmapresults%26los%3D1%26PartnerCurrency%3DUSD%26hid%3D2462100%26RoomID%3D59447123%26masterRoomId%3D59447123%26PriceTax%3D12.79%26PriceTotal%3D98.01%26RatePlan%3D%26UserCountry%3DDE%26Currency%3DEUR%26UserDevice%3Ddesktop%26Verif%3Dfalse%26rr%3DEEA%26audience_list%3D%26mcid%3D44445%26booking_source%3Dcpc%26adType%3D0%26mpt%3DMUZJRS9WMy92UHMwc2FiajdYQUEzdmw1Q0lPMG5tSlN0R2dYeWdrTmwyNHgrTklBU1lOVGh3PT0%26original_rr%3DEEA",
+          "isOfficialSite": false,
+          "price": "€98",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?site_id=1917614&CkInDay=24&CkInMonth=08&CkInYear=2025&CkOutDay=25&campaignid=&CkOutMonth=08&CkOutYear=2025&SearchDateType=default&NumberOfAdults=2&LT=39&NumberOfChildren=0&childages=&NumberOfRooms=1&gsite=mapresults&los=1&PartnerCurrency=USD&hid=2462100&RoomID=59447123&masterRoomId=59447123&PriceTax=12.79&PriceTotal=98.01&RatePlan=&UserCountry=DE&Currency=EUR&UserDevice=desktop&Verif=false&rr=EEA&audience_list=&mcid=44445&booking_source=cpc&adType=0&mpt=MUZJRS9WMy92UHMwc2FiajdYQUEzdmw1Q0lPMG5tSlN0R2dYeWdrTmwyNHgrTklBU1lOVGh3PT0&original_rr=EEA"
+        },
+        {
+          "title": "Extended Stay America - San Jose - Edenvale - North",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OswpOjoullTUP56KE4QJGdWiXY4aluS_engJVwrwv0F5fdVfp_3T_mTW6gmC5Use4iMyAvCIcU46niowAI74eePy99wY0EXJGt4P75-Stf7gQSwjpyyXBhTna_QFdiacUmmXLQmJzX1lBBZRXMOJlgmzoGGJdS3fA9yFPh0gd57DlrE&pcurl=https://ad.doubleclick.net/ddm/trackclk/N7384.3068933GOOGLEHOTELADSMETA/B25004151.324800461;u%3Dsrch_HPA_2836_mapresults_1_DE_desktop_2025-08-24_default__;dc_trk_aid%3D516684266;dc_trk_cid%3D164242167;dc_lat%3D;dc_rdid%3D;tag_for_child_directed_treatment%3D;tfua%3D;ltd%3D?https://www.extendedstayamerica.com/hotels/?propertyCode%3DEA%253B2836%26checkIn%3D2025-08-24%26checkOut%3D2025-08-25%26rooms%3D1%26adults%3D2%26children%3D0%26rateType%3DESH%26code%3D%26rate%3DBest%2520Available%2520Rate%26accessible%3Doff%26mid%3Dnmeta-Google%26iata%3DHSD11500",
+          "isOfficialSite": true,
+          "price": "€98",
+          "url": "https://ad.doubleclick.net/ddm/trackclk/N7384.3068933GOOGLEHOTELADSMETA/B25004151.324800461;u=srch_HPA_2836_mapresults_1_DE_desktop_2025-08-24_default__;dc_trk_aid=516684266;dc_trk_cid=164242167;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=?https://www.extendedstayamerica.com/hotels/?propertyCode=EA;2836&checkIn=2025-08-24&checkOut=2025-08-25&rooms=1&adults=2&children=0&rateType=ESH&code=&rate=Best Available Rate&accessible=off&mid=nmeta-Google&iata=HSD11500"
+        },
+        {
+          "title": "Tripening Hotels",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OswHwJKpDpnGVk3Y7nn3K1AuurejgMqaqKCVwf_SoQ3xXGFbHpvQqqE3XTnwynLY0p7raiT9YpYFTXiqWebPf7ZByXExzN2DVAkLqFLULHa4Ohds-TPZHW2SwxMgo4kisr9bJwLV_1Gf7beyvMaptvdt9iDZB8j7NaVRuLYwTtndbVL8&pcurl=https://www.tripening.com/hotels/-/149785-extended-stay-america-san-jose-edenvale-north?checkin-date%3D2025-08-24%26checkout-date%3D2025-08-25%26adults%3D2%26currency%3DEUR%26lang%3Den%26google-package-id%3Dbb_package%26rate-rule-id%3D%26google-displayed-price%3D103.89%26children%3D0%26google-displayed-tax%3D0.00%26google-displayed-currency%3DEUR%26utm_source%3Dgoogle_hotel_ads%26utm_medium%3Dfree%26utm_campaign%3Dgha_property",
+          "isOfficialSite": false,
+          "price": "€104",
+          "url": "https://www.tripening.com/hotels/-/149785-extended-stay-america-san-jose-edenvale-north?checkin-date=2025-08-24&checkout-date=2025-08-25&adults=2&currency=EUR&lang=en&google-package-id=bb_package&rate-rule-id=&google-displayed-price=103.89&children=0&google-displayed-tax=0.00&google-displayed-currency=EUR&utm_source=google_hotel_ads&utm_medium=free&utm_campaign=gha_property"
+        }
+      ],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Amenities": [
+          {
+            "Free Wi-Fi": true
+          },
+          {
+            "Free breakfast": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Extended%20Stay%20America%20-%20San%20Jose%20-%20Edenvale%20-%20North&query_place_id=ChIJlYq_5q0vjoAR3XSii721sLo",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.24151580868085,-121.7476092680734,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 22,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOfrSXMiGVS8653NoQdt6ter71SUjl_N6RE6MBY=w408-h262-k-no",
+      "kgmid": "/g/1tdgq19y"
+    },
+    {
+      "title": "1505 Kitchen Space",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1505 S Winchester Blvd, San Jose, CA 95128, United States",
+      "neighborhood": "Cadillac Winchester",
+      "street": "1505 S Winchester Blvd",
+      "city": "San Jose",
+      "postalCode": "95128",
+      "state": "California",
+      "countryCode": "US",
+      "phone": "+1 408-799-8011",
+      "phoneUnformatted": "+14087998011",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.2966865,
+        "lng": -121.9504884
+      },
+      "totalScore": 4.9,
+      "permanentlyClosed": true,
+      "temporarilyClosed": false,
+      "placeId": "ChIJVVVReSk1joARljTfUUCQVZE",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Catering food and drink supplier",
+        "Caterer",
+        "Mobile caterer"
+      ],
+      "fid": "0x808e352979515555:0x9155904051df3496",
+      "cid": "10472435114445845654",
+      "reviewsCount": 9,
+      "imagesCount": 3,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:59:46.332Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=1505%20Kitchen%20Space&query_place_id=ChIJVVVReSk1joARljTfUUCQVZE",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.350633491319144,-122.0213137957798,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 17,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNNKJlgtxe7nqKo8l7855sKPqHT4p_k-IISIDaF=w408-h408-k-no",
+      "kgmid": "/g/11h4cgktny"
+    },
+    {
+      "title": "Las Minas Guatemalan Cuisine",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "326 Commercial St, San Jose, CA 95112",
+      "neighborhood": "Central San Jose",
+      "street": "326 Commercial St",
+      "city": "San Jose",
+      "postalCode": "95112",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://www.lasminasguatemalancuisine.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=2132602203804134276",
+      "phone": "(650) 720-8742",
+      "phoneUnformatted": "+16507208742",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.3607536,
+        "lng": -121.8991866
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": true,
+      "placeId": "ChIJxZMtpoXNj4ARvsCvz6o9I8c",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x808fcd85a62d93c5:0xc7233daacfafc0be",
+      "cid": "14349380641570668734",
+      "reviewsCount": 1,
+      "imagesCount": 9,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:59:47.333Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Las%20Minas%20Guatemalan%20Cuisine&query_place_id=ChIJxZMtpoXNj4ARvsCvz6o9I8c",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.3078308,-121.8791195,13.672438630988216z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 18,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP7CRDtXuuP19hvASJK18QOqHpw0xmMlqgPJ7rM=w408-h272-k-no",
+      "kgmid": "/g/11w428b60l"
+    },
+    {
+      "title": "Kitchen by the Hour",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "2365 Tripaldi Way, Hayward, CA 94545",
+      "neighborhood": null,
+      "street": "2365 Tripaldi Way",
+      "city": "Hayward",
+      "postalCode": "94545",
+      "state": "California",
+      "countryCode": "US",
+      "website": "http://www.kitchenbythehour.com/",
+      "phone": "(408) 673-8227",
+      "phoneUnformatted": "+14086738227",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.6147636,
+        "lng": -122.0834294
+      },
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJL5gvLyiUj4ARXqM9z2iKlXs",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Coworking space",
+        "Self-catering accommodation"
+      ],
+      "fid": "0x808f94282f2f982f:0x7b958a68cf3da35e",
+      "cid": "8905176020953178974",
+      "reviewsCount": 21,
+      "imagesCount": 15,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T14:05:01.129Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Kitchen%20by%20the%20Hour&query_place_id=ChIJL5gvLyiUj4ARXqM9z2iKlXs",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.56428410129386,-122.06905444999998,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr5iP4B-pQj-k5ckU7pi_GwxN8_SiW1qFWwKnbR_0RO3DKHhh-5zGhLeHsyDGJm6S-l074Cs6Pggu6RrUyuaNiwqtoWdCx-K8Q__iee7269WtylvGj57XUXVl2WTyymyuNPWPTgTw=w408-h544-k-no",
+      "kgmid": "/g/1v_s6350"
+    },
+    {
+      "title": "A Street Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "974 A St, Hayward, CA 94541",
+      "neighborhood": null,
+      "street": "974 A St",
+      "city": "Hayward",
+      "postalCode": "94541",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://astreetkitchen.com/",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.6740224,
+        "lng": -122.0842633
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJv8WmJgCRj4ARedSs4rTX-Zs",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x808f910026a6c5bf:0x9bf9d7b4e2acd479",
+      "cid": "11239251516976845945",
+      "reviewsCount": 6,
+      "imagesCount": 8,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T14:05:01.130Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=A%20Street%20Kitchen&query_place_id=ChIJv8WmJgCRj4ARedSs4rTX-Zs",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.56428410129386,-122.06905444999998,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 3,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMLUu_J-w4QD8FWyaekl8-tDTs8xEzxpf93DL08=w408-h544-k-no",
+      "kgmid": "/g/11vrvhqlsb"
+    }
+  ]
+}
