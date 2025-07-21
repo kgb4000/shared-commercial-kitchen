@@ -1,0 +1,434 @@
+{
+  "state": "PA",
+  "city": "Pittsburg",
+  "kitchens": [
+    {
+      "title": "Oasis Community Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "Lower level, 717 N Homewood Ave, Pittsburgh, PA 15208",
+      "neighborhood": "Homewood South",
+      "street": "Lower level, 717 N Homewood Ave",
+      "city": "Pittsburgh",
+      "postalCode": "15208",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "http://www.oasiscommunitykitchen.org/",
+      "phone": "(412) 242-4920",
+      "phoneUnformatted": "+14122424920",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.4561534,
+        "lng": -79.8970984
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ37SUQ2PtNIgRPMrLo7vbUNs",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8834ed634394b4df:0xdb50dbbba3cbca3c",
+      "cid": "15803372691396479548",
+      "reviewsCount": 4,
+      "imagesCount": 24,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:09.403Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as Black-owned": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Oasis%20Community%20Kitchen&query_place_id=ChIJ37SUQ2PtNIgRPMrLo7vbUNs",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.90265018547565,-79.18698366559104,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOZIlo_vJYYDvGVgCz27VG12Km8d_S0RZGKhpoD=w408-h272-k-no",
+      "kgmid": "/g/11lktfp56_"
+    },
+    {
+      "title": "Hilltop Shared Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "735 Brownsville Rd, Pittsburgh, PA 15210",
+      "neighborhood": null,
+      "street": "735 Brownsville Rd",
+      "city": "Pittsburgh",
+      "postalCode": "15210",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.4088462,
+        "lng": -79.9907374
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ_dBbVQ3xNIgRpRyJBT8smdQ",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8834f10d555bd0fd:0xd4992c3f05891ca5",
+      "cid": "15319324256664886437",
+      "reviewsCount": 1,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:09.403Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": false
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Hilltop%20Shared%20Kitchen&query_place_id=ChIJ_dBbVQ3xNIgRpRyJBT8smdQ",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.90265018547565,-79.18698366559104,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=g5WAE1VmO2ThjOHunMp6PA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=122.91131&pitch=0&thumbfov=100",
+      "kgmid": "/g/11wp85g47l"
+    },
+    {
+      "title": "Batches Bakehouse",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "2332 Arlington Ave Floor 1, Pittsburgh, PA 15210",
+      "neighborhood": "Arlington",
+      "street": "2332 Arlington Ave Floor 1",
+      "city": "Pittsburgh",
+      "postalCode": "15210",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "https://www.bakehousepgh.com/",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.4173036,
+        "lng": -79.9732465
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJSYU0MG_xNIgRoB_Jr3uobGs",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8834f16f30348549:0x6b6ca87bafc91fa0",
+      "cid": "7740747108726677408",
+      "reviewsCount": 2,
+      "imagesCount": 6,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:21.929Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Batches%20Bakehouse&query_place_id=ChIJSYU0MG_xNIgRoB_Jr3uobGs",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.71334426182522,-80.24116524265173,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 7,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOYKFgaAy_9dVE5lxM0_RCS5QmAq9CSEUMsqovL=w408-h544-k-no",
+      "kgmid": "/g/11y69rs0kt"
+    },
+    {
+      "title": "Community Kitchen Pittsburgh",
+      "price": null,
+      "categoryName": "Non-profit organization",
+      "address": "107 Flowers Ave, Pittsburgh, PA 15207",
+      "neighborhood": "Hazelwood",
+      "street": "107 Flowers Ave",
+      "city": "Pittsburgh",
+      "postalCode": "15207",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "http://ckpgh.org/",
+      "phone": "(412) 246-4736",
+      "phoneUnformatted": "+14122464736",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.4101583,
+        "lng": -79.9438344
+      },
+      "totalScore": 4.7,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJezZV4F3xNIgRjcKJoNMh2Lw",
+      "categories": [
+        "Non-profit organization",
+        "Association / Organization",
+        "Caterer",
+        "Food producer"
+      ],
+      "fid": "0x8834f15de055367b:0xbcd821d3a089c28d",
+      "cid": "13607663466915152525",
+      "reviewsCount": 127,
+      "imagesCount": 54,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:37.179Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8 AM to 4 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM to 4 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM to 4 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM to 4 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM to 4 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free street parking": true
+          },
+          {
+            "On-site parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Community%20Kitchen%20Pittsburgh&query_place_id=ChIJezZV4F3xNIgRjcKJoNMh2Lw",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.71334426182522,-79.18698366559104,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 4,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqjKNbNwysRdx7RIK7-o7zp-YxtdjpoHzNg3Ojv3NyWBA0Qx_28tu-H_Qi-6tfrnykbXdm32aKOaOyaHB2ZDmKtGNhBYcX2Jlmfn8inMGUCdZG2kVUeYmi3jf5Qxm-4B6d3nPIj=w408-h544-k-no",
+      "kgmid": "/g/11c1vjtrl1"
+    },
+    {
+      "title": "EIC Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1435 Bedford Ave, Pittsburgh, PA 15219, United States",
+      "neighborhood": "Hill District",
+      "street": "1435 Bedford Ave",
+      "city": "Pittsburgh",
+      "postalCode": "15219",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 40.4441706,
+        "lng": -79.9888102
+      },
+      "permanentlyClosed": true,
+      "temporarilyClosed": false,
+      "placeId": "ChIJW5jEAHLzNIgRZ1qdZP_2ZfE",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8834f37200c4985b:0xf165f6ff649d5a67",
+      "cid": "17394580712553536103",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:15:12.623Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=EIC%20Kitchen&query_place_id=ChIJW5jEAHLzNIgRZ1qdZP_2ZfE",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.483631465783134,-80.01492187938636,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 4,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=20xPB-65Z6FsuUH2jWxdgQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=328.2762&pitch=0&thumbfov=100",
+      "kgmid": "/g/11kk0scjdw"
+    },
+    {
+      "title": "Fulton Commons",
+      "price": null,
+      "categoryName": "Coworking space",
+      "address": "1546 Fulton St, Pittsburgh, PA 15233",
+      "neighborhood": "Manchester",
+      "street": "1546 Fulton St",
+      "city": "Pittsburgh",
+      "postalCode": "15233",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "https://fultonpgh.com/",
+      "phone": "(412) 368-2707",
+      "phoneUnformatted": "+14123682707",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.4559504,
+        "lng": -80.0250037
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ671Fn3n1NIgRXLXvmtxBj-I",
+      "categories": ["Coworking space", "Shared-use commercial kitchen"],
+      "fid": "0x8834f5799f45bdeb:0xe28f41dc9aefb55c",
+      "cid": "16325339589989348700",
+      "reviewsCount": 32,
+      "imagesCount": 38,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:21.929Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Fulton%20Commons&query_place_id=ChIJ671Fn3n1NIgRXLXvmtxBj-I",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.71334426182522,-80.24116524265173,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 5,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP-Kn4rnEIx7uWQW6K6GnpiYvzzO_ZODnI6j8Z2=w408-h283-k-no",
+      "kgmid": "/g/11fm4qb5bm"
+    }
+  ]
+}

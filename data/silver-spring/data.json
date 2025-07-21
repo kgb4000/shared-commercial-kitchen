@@ -1,0 +1,120 @@
+{
+  "state": "MD",
+  "city": "Silver Spring",
+  "kitchens": [
+    {
+      "title": "Rita's Shared Commercial Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "2341 Distribution Cir, Silver Spring, MD 20910",
+      "neighborhood": null,
+      "street": "2341 Distribution Cir",
+      "city": "Silver Spring",
+      "postalCode": "20910",
+      "state": "Maryland",
+      "countryCode": "US",
+      "phone": "(703) 598-1489",
+      "phoneUnformatted": "+17035981489",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.0071196,
+        "lng": -77.0496442
+      },
+      "totalScore": 4,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ3xFdXz3Jt4kR7Gb7vnSuFF0",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89b7c93d5f5d11df:0x5d14ae74befb66ec",
+      "cid": "6707177561505097452",
+      "reviewsCount": 4,
+      "imagesCount": 4,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:33:11.091Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as Black-owned": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Rita's%20Shared%20Commercial%20Kitchen&query_place_id=ChIJ3xFdXz3Jt4kR7Gb7vnSuFF0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.650325761082875,-77.2362552,11z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 3,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPW5s3iuQqkR-aVSh66CIm16hqNtGUHIFEXJXRk=w408-h306-k-no",
+      "kgmid": "/g/11mvmfckwy"
+    },
+    {
+      "title": "TPSS Community Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "310 Tulip Ave, Takoma Park, MD 20912",
+      "neighborhood": null,
+      "street": "310 Tulip Ave",
+      "city": "Takoma Park",
+      "postalCode": "20912",
+      "state": "Maryland",
+      "countryCode": "US",
+      "website": "https://www.crossroadscommunityfoodnetwork.org/tpssck/",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 38.9768296,
+        "lng": -77.0125895
+      },
+      "totalScore": 3,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ__8PGJ3It4kRWJwtPr9vyCM",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89b7c89d180fffff:0x23c86fbf3e2d9c58",
+      "cid": "2578433653842222168",
+      "reviewsCount": 1,
+      "imagesCount": 12,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:33:11.093Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=TPSS%20Community%20Kitchen&query_place_id=ChIJ__8PGJ3It4kRWJwtPr9vyCM",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.650325761082875,-77.2362552,11z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 14,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPsfB1iTfWk7YaLGbvfqCiFh569iiQ1b1tVfJGX=w408-h406-k-no",
+      "kgmid": "/g/11h7v7n8hw"
+    }
+  ]
+}

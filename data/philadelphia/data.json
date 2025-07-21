@@ -1,0 +1,2127 @@
+{
+  "state": "PA",
+  "city": "Philadelphia",
+  "kitchens": [
+    {
+      "query": "shared-use commercial kitchen, 20740, College Park, MD, US",
+      "name": "Alt Kitchen",
+      "name_for_emails": "Alt Kitchen",
+      "site": "http://www.altkitchen.co/",
+      "subtypes": "Shared-use commercial kitchen",
+      "category": "Shared-use commercial kitchen",
+      "type": "Shared-use commercial kitchen",
+      "phone": null,
+      "full_address": "3401 I St Suite 200, Philadelphia, PA 19134",
+      "borough": "Harrowgate",
+      "street": "3401 I St Suite 200",
+      "city": "Philadelphia",
+      "postal_code": 19134,
+      "state": "Pennsylvania",
+      "us_state": "Pennsylvania",
+      "country": "United States of America",
+      "country_code": "US",
+      "latitude": 39.9993933,
+      "longitude": -75.110158,
+      "h3": "892a134a93bffff",
+      "time_zone": "America/New_York",
+      "plus_code": null,
+      "area_service": false,
+      "rating": 5,
+      "reviews": 9,
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJDy6imdq3xokRzrM2mj5kIVs&q=shared-use+commercial+kitchen,+20740,+College+Park,+MD,+US&authuser=0&hl=en&gl=US",
+      "reviews_tags": null,
+      "reviews_per_score": null,
+      "reviews_per_score_1": 0,
+      "reviews_per_score_2": 0,
+      "reviews_per_score_3": 0,
+      "reviews_per_score_4": 0,
+      "reviews_per_score_5": 9,
+      "photos_count": 15,
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrNGsLDdpKRDFj_o7hY2H6APFOzyvI-PxHq5NsD42YO6wfALlq96mSSbNdvuft8wdhpwTEiE939a0c7N0rpMNA6EP0KEQTC1r1zKskfe5QppaLyTF1u0kvCir-Wf1fUuUgX4b8w1A=w800-h500-k-no",
+      "street_view": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrNGsLDdpKRDFj_o7hY2H6APFOzyvI-PxHq5NsD42YO6wfALlq96mSSbNdvuft8wdhpwTEiE939a0c7N0rpMNA6EP0KEQTC1r1zKskfe5QppaLyTF1u0kvCir-Wf1fUuUgX4b8w1A=w1600-h1000-k-no",
+      "located_in": null,
+      "working_hours": {
+        "Sunday": "Open 24 hours",
+        "Monday": "Open 24 hours",
+        "Tuesday": "Open 24 hours",
+        "Wednesday": "Open 24 hours",
+        "Thursday": "Open 24 hours",
+        "Friday": "Open 24 hours",
+        "Saturday": "Open 24 hours"
+      },
+      "working_hours_csv_compatible": "Sunday,Open 24 hours|Monday,Open 24 hours|Tuesday,Open 24 hours|Wednesday,Open 24 hours|Thursday,Open 24 hours|Friday,Open 24 hours|Saturday,Open 24 hours",
+      "working_hours_old_format": "Sunday:Open 24 hours|Monday:Open 24 hours|Tuesday:Open 24 hours|Wednesday:Open 24 hours|Thursday:Open 24 hours|Friday:Open 24 hours|Saturday:Open 24 hours",
+      "other_hours": null,
+      "popular_times": null,
+      "business_status": "OPERATIONAL",
+      "about": {},
+      "range": null,
+      "prices": null,
+      "posts": null,
+      "logo": "https://lh6.googleusercontent.com/-XFa_7kHBDfI/AAAAAAAAAAI/AAAAAAAAAAA/m8Uv31EWgu0/s44-p-k-no-ns-nd/photo.jpg",
+      "description": null,
+      "typical_time_spent": null,
+      "verified": true,
+      "owner_id": 1.0622941912303683e20,
+      "owner_title": "Alt Kitchen",
+      "owner_link": "https://www.google.com/maps/contrib/106229419123036832811",
+      "reservation_links": null,
+      "booking_appointment_link": null,
+      "menu_link": null,
+      "order_links": null,
+      "location_link": "https://www.google.com/maps/place/Alt+Kitchen/@39.9993933,-75.110158,14z/data=!4m8!1m2!2m1!1sAlt+Kitchen!3m4!1s0x89c6b7da99a22e0f:0x5b21643e9a36b3ce!8m2!3d39.9993933!4d-75.110158",
+      "location_reviews_link": "https://www.google.com/maps/place/Alt+Kitchen/@39.9993933,-75.110158,13.99z/data=!4m16!1m7!3m6!1s0x89c6b7da99a22e0f:0x5b21643e9a36b3ce!2sAlt+Kitchen!8m2!3d39.9993933!4d-75.110158!16s%2Fg%2F11ckvg1dmb!3m7!1s0x89c6b7da99a22e0f:0x5b21643e9a36b3ce!8m2!3d39.9993933!4d-75.110158!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "place_id": "ChIJDy6imdq3xokRzrM2mj5kIVs",
+      "google_id": "0x89c6b7da99a22e0f:0x5b21643e9a36b3ce",
+      "cid": 6.56663995172092e18,
+      "kgmid": "/g/11s2kd65fq",
+      "reviews_id": 6.56663995172092e18,
+      "located_google_id": null
+    },
+    {
+      "title": "Culinary Collective at the Arsenal",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "5401 Tacony St Bldg 38, Philadelphia, PA 19137",
+      "neighborhood": "North Philadelphia",
+      "street": "5401 Tacony St Bldg 38",
+      "city": "Philadelphia",
+      "postalCode": "19137",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "https://www.culinarycollective.co/",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.0087537,
+        "lng": -75.0647534
+      },
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJy2I-EBG2xokR6onISa1pfws",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c6b611103e62cb:0xb7f69ad49c889ea",
+      "cid": "828497049447598570",
+      "reviewsCount": 21,
+      "imagesCount": 146,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:07.325Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": false
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Culinary%20Collective%20at%20the%20Arsenal&query_place_id=ChIJy2I-EBG2xokR6onISa1pfws",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.90265018547565,-78.13280208853035,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 8,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPCzbfm4Fxxxjnx-vAzEypuxgSV9zXnbXXvJZS1=w408-h306-k-no",
+      "kgmid": "/g/11b77jlnhl"
+    },
+    {
+      "title": "Kitchen Korners",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "2000 McKinley St, Philadelphia, PA 19149",
+      "neighborhood": "Northeast Philadelphia",
+      "street": "2000 McKinley St",
+      "city": "Philadelphia",
+      "postalCode": "19149",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "http://kitchenkorners.com/",
+      "phone": "(215) 667-5306",
+      "phoneUnformatted": "+12156675306",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 40.0332389,
+        "lng": -75.0717136
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJU9VQ74W2xokRDEg5BsGP2R4",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c6b685ef50d553:0x1ed98fc10639480c",
+      "cid": "2222965950279927820",
+      "reviewsCount": 5,
+      "imagesCount": 2,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:07.326Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "4 AM to 10 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "4 AM to 10 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "4 AM to 10 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "4 AM to 10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "4 AM to 10 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "4 AM to 10 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "4 AM to 10 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Kitchen%20Korners&query_place_id=ChIJU9VQ74W2xokRDEg5BsGP2R4",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.90265018547565,-78.13280208853035,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 20,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xgKbukdbbpf0YUe24PY9pQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=59.73843&pitch=0&thumbfov=100",
+      "kgmid": "/g/11gnrlfmsm"
+    },
+    {
+      "title": "Frontier Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "2310 Main St, Sharpsburg, PA 15215",
+      "neighborhood": null,
+      "street": "2310 Main St",
+      "city": "Sharpsburg",
+      "postalCode": "15215",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "https://frontier-kitchen.com/",
+      "phone": "(866) 354-8246",
+      "phoneUnformatted": "+18663548246",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.4936248,
+        "lng": -79.9137134
+      },
+      "totalScore": 4.2,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJOS9KmFTtNIgR7Wy5o8NiPpE",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8834ed54984a2f39:0x913e62c3a3b96ced",
+      "cid": "10465911176460594413",
+      "reviewsCount": 5,
+      "imagesCount": 12,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:09.403Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          },
+          {
+            "On-site parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Frontier%20Kitchen&query_place_id=ChIJOS9KmFTtNIgR7Wy5o8NiPpE",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.90265018547565,-79.18698366559104,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 3,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMbtim5NqKrO-hTu6tkkXfIakYx14xQTSr8gKQI=w408-h306-k-no",
+      "kgmid": "/g/11vz13lgxy"
+    },
+    {
+      "title": "Alt Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3401 I St Suite 200, Philadelphia, PA 19134",
+      "neighborhood": "Harrowgate",
+      "street": "3401 I St Suite 200",
+      "city": "Philadelphia",
+      "postalCode": "19134",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "http://www.altkitchen.co/",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.9993933,
+        "lng": -75.110158
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJDy6imdq3xokRzrM2mj5kIVs",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c6b7da99a22e0f:0x5b21643e9a36b3ce",
+      "cid": "6566639951720920014",
+      "reviewsCount": 9,
+      "imagesCount": 15,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:09.404Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Alt%20Kitchen&query_place_id=ChIJDy6imdq3xokRzrM2mj5kIVs",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.90265018547565,-79.18698366559104,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 15,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPC8SMwXI7PiBuXO4YmOKg0W9AsA6PtVwk3a4ca=w408-h272-k-no",
+      "kgmid": "/g/11s2kd65fq"
+    },
+    {
+      "title": "Shared Spice",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "77 New St, Hudson, PA 18705, United States",
+      "neighborhood": null,
+      "street": "77 New St",
+      "city": "Hudson",
+      "postalCode": "18705",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "phone": "+1 570-362-6161",
+      "phoneUnformatted": "+15703626161",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.2780091,
+        "lng": -75.8359502
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ437Yw44bxYkRClE9B5RcaYw",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c51b8ec3d87ee3:0x8c695c94073d510a",
+      "cid": "10117719828710904074",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:09.847Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Shared%20Spice&query_place_id=ChIJ437Yw44bxYkRClE9B5RcaYw",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.52403833817479,-76.02443893440898,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eh4tIACo0ORSzYdGiYZRqQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=206.80804&pitch=0&thumbfov=100",
+      "kgmid": "/g/11vy5x1n31"
+    },
+    {
+      "title": "Iron Works Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "525 Church St Suite 1, Honesdale, PA 18431, United States",
+      "neighborhood": null,
+      "street": "525 Church St Suite 1",
+      "city": "Honesdale",
+      "postalCode": "18431",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "https://ironworkskitchen.com/",
+      "phone": "+1 570-616-7134",
+      "phoneUnformatted": "+15706167134",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.5705791,
+        "lng": -75.2528131
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJTXcURtS1xIkRueQL2tSdiQA",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c4b5d44614774d:0x899dd4da0be4b9",
+      "cid": "38735609326199993",
+      "reviewsCount": 8,
+      "imagesCount": 22,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:09.847Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": false
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Iron%20Works%20Kitchen&query_place_id=ChIJTXcURtS1xIkRueQL2tSdiQA",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.52403833817479,-76.02443893440898,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 5,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMRWWbBEjtoOZmr1fDJej_OyDRWANqZV2sdnARP=w408-h306-k-no",
+      "kgmid": "/g/11h6q7twtp"
+    },
+    {
+      "title": "Delco Kitchen Share",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "4002 W 9th St, Marcus Hook, PA 19061, United States",
+      "neighborhood": null,
+      "street": "4002 W 9th St",
+      "city": "Marcus Hook",
+      "postalCode": "19061",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "phone": "+1 267-825-1679",
+      "phoneUnformatted": "+12678251679",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.8310594,
+        "lng": -75.4063109
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ__8TOV_mxokRWJFskS7Bpz4",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c6e65f3913ffff:0x3ea7c12e916c9158",
+      "cid": "4514789557214679384",
+      "reviewsCount": 1,
+      "imagesCount": 8,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:09.847Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Delco%20Kitchen%20Share&query_place_id=ChIJ__8TOV_mxokRWJFskS7Bpz4",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.52403833817479,-76.02443893440898,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 17,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrlzmbTwhUJHnU7ejGh9DTOUzgMC5UXfWb1N30_u3K7Omg6-9fx84nM2okYRjuwbxpV1-QfWEUvBQdmGJFaRh7vgC0VYCEkGB1rb61Z-dBuikXgIEHh8cHF5jifvZ8_IrzZHNg-=w408-h306-k-no",
+      "kgmid": "/g/11p0vxlqnl"
+    },
+    {
+      "title": "Phoenixville Commissary",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "400 Franklin Ave #236, Phoenixville, PA 19460, United States",
+      "neighborhood": null,
+      "street": "400 Franklin Ave #236",
+      "city": "Phoenixville",
+      "postalCode": "19460",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "https://www.phoenixvillecommissary.com/",
+      "phone": "+1 484-924-8111",
+      "phoneUnformatted": "+14849248111",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.1411698,
+        "lng": -75.5212227
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJz3z_rvORxokRXWYT4n11V9A",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c691f3aeff7ccf:0xd057757de213665d",
+      "cid": "15012597066387121757",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:12.105Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": false
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Phoenixville%20Commissary&query_place_id=ChIJz3z_rvORxokRXWYT4n11V9A",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.90265018547565,-76.02443893440898,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 3,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uxG8q7kXn0wTB9w7A9zAmg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=246.55113&pitch=0&thumbfov=100",
+      "kgmid": "/g/11vxsshjcz"
+    },
+    {
+      "title": "Commercial Kitchen Ventilation Inc.",
+      "price": null,
+      "categoryName": "Air conditioning repair service",
+      "address": "315 W Germantown Pike, Norristown, PA 19403, United States",
+      "neighborhood": null,
+      "street": "315 W Germantown Pike",
+      "city": "Norristown",
+      "postalCode": "19403",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "http://www.ckvinc.com/",
+      "phone": "+1 484-823-5039",
+      "phoneUnformatted": "+14848235039",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.1485382,
+        "lng": -75.3302485
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJG6s3fae9xokRUwEZ9F3D7jE",
+      "categories": [
+        "Air conditioning repair service",
+        "Air conditioning system supplier",
+        "Heating contractor",
+        "Heating equipment supplier",
+        "HVAC contractor",
+        "Mechanical contractor",
+        "Repair service",
+        "Restaurant supply store",
+        "Shared-use commercial kitchen",
+        "Ventilating equipment manufacturer"
+      ],
+      "fid": "0x89c6bda77d37ab1b:0x31eec35df4190153",
+      "cid": "3598027960610259283",
+      "reviewsCount": 33,
+      "imagesCount": 103,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:12.105Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "7 AM to 8 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7 AM to 8 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7 AM to 8 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7 AM to 8 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7 AM to 8 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Online estimates": true
+          },
+          {
+            "On-site services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Repair services": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Commercial%20Kitchen%20Ventilation%20Inc.&query_place_id=ChIJG6s3fae9xokRUwEZ9F3D7jE",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.90265018547565,-76.02443893440898,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 11,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrFVOm7OfF6RhtnCLqFy7W2qwt_Z3h7nAhqrTM_bQ5AYDnr0dUj1PJKEgmN4RvWcNTaZ3ySR-Nq4CMU7WJvUCmIdiUzXwB4BWOVXjhaKCzfrgCeoi9B2RVKU_39nJJW7-E8_wZmmg=w408-h544-k-no",
+      "kgmid": "/g/11scmzdrfc"
+    },
+
+    {
+      "title": "The Dorrance Hamilton Center for Culinary Enterprises",
+      "price": null,
+      "categoryName": "Non-profit organization",
+      "address": "310 S 48th St, Philadelphia, PA 19143, United States",
+      "neighborhood": "West Philadelphia",
+      "street": "310 S 48th St",
+      "city": "Philadelphia",
+      "postalCode": "19143",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "http://www.theenterprisecenter.com/business/cce",
+      "phone": "+1 215-895-4050",
+      "phoneUnformatted": "+12158954050",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.9531324,
+        "lng": -75.218819
+      },
+      "totalScore": 4.6,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJTfTqze7GxokRBxV3humk6C4",
+      "categories": ["Non-profit organization"],
+      "fid": "0x89c6c6eecdeaf44d:0x2ee8a4e986771507",
+      "cid": "3380132843231843591",
+      "reviewsCount": 41,
+      "reviewsDistribution": {
+        "oneStar": 0,
+        "twoStar": 1,
+        "threeStar": 4,
+        "fourStar": 5,
+        "fiveStar": 31
+      },
+      "imagesCount": 32,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:13.461Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "7 AM to 3 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7 AM to 3 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Dorrance%20Hamilton%20Center%20for%20Culinary%20Enterprises&query_place_id=ChIJTfTqze7GxokRBxV3humk6C4",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.90265018547565,-76.02443893440898,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 23,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNG-6so9u2FJq36BO92zFj-GoM_qB16xOhZX2dB=w493-h240-k-no",
+      "kgmid": "/g/11f1wjgtsb"
+    },
+    {
+      "title": "carolcussine",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "Alfred Ave, Yeadon, PA 19050, United States",
+      "neighborhood": null,
+      "street": "Alfred Ave",
+      "city": "Yeadon",
+      "postalCode": "19050",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 39.9225591,
+        "lng": -75.2528671
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJXVx4b3TDxokRGtsNK2WKLSY",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c6c3746f785c5d:0x262d8a652b0ddb1a",
+      "cid": "2751007114511899418",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:13.461Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=carolcussine&query_place_id=ChIJXVx4b3TDxokRGtsNK2WKLSY",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.90265018547565,-76.02443893440898,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 28,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=54GTVnnpiXumHX3mCMLThA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=120.45612&pitch=0&thumbfov=100",
+      "kgmid": "/g/11shs3k23l"
+    },
+    {
+      "title": "foodie",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1773 Brill St, Philadelphia, PA 19124",
+      "neighborhood": "Frankford",
+      "street": "1773 Brill St",
+      "city": "Philadelphia",
+      "postalCode": "19124",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.020709,
+        "lng": -75.0724547
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJnwMzB2C3xokRlCEDnKsTgDQ",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c6b7600733039f:0x348013ab9c032194",
+      "cid": "3783045314769002900",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:17.312Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=foodie&query_place_id=ChIJnwMzB2C3xokRlCEDnKsTgDQ",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.90265018547565,-74.97025735734829,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 10,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mV5mlV6LmZgPnOLTPYEImQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=62.943363&pitch=0&thumbfov=100",
+      "kgmid": "/g/11mc_sv89b"
+    },
+    {
+      "title": "Simone’s Back Ave",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1818 5th Ave, Arnold, PA 15068",
+      "neighborhood": null,
+      "street": "1818 5th Ave",
+      "city": "Arnold",
+      "postalCode": "15068",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "phone": "(724) 707-5706",
+      "phoneUnformatted": "+17247075706",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.5794675,
+        "lng": -79.7677631
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJh0bjWo-VNIgRN12H8nXd3ps",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8834958f5ae34687:0x9bdedd75f2875d37",
+      "cid": "11231658019358465335",
+      "reviewsCount": 2,
+      "imagesCount": 38,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:21.929Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "5:30 PM to 1:30 AM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "5:30 PM to 1:30 AM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "5:30 PM to 1:30 AM"
+        },
+        {
+          "day": "Friday",
+          "hours": "5:30 PM to 1:30 AM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "5:30 PM to 1:30 AM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "5:30 PM to 1:30 AM"
+        }
+      ],
+      "additionalOpeningHours": {
+        "Delivery": [
+          {
+            "day": "Monday",
+            "hours": "9 PM–1 AM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "9 PM–1 AM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "9 PM–1 AM"
+          },
+          {
+            "day": "Friday",
+            "hours": "9 PM–1 AM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "9 PM–1 AM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "9 PM–1 AM"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Simone%E2%80%99s%20Back%20Ave&query_place_id=ChIJh0bjWo-VNIgRN12H8nXd3ps",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.71334426182522,-80.24116524265173,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 8,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM7UPL7QmWhs4QtX4y4WirE606KuUoC2D50-IU9=w426-h240-k-no",
+      "kgmid": "/g/11w9b94wtv"
+    },
+    {
+      "title": "HRI Commercial Food Service",
+      "price": null,
+      "categoryName": "Restaurant supply store",
+      "address": "2630 Cherry St, Erie, PA 16508",
+      "neighborhood": null,
+      "street": "2630 Cherry St",
+      "city": "Erie",
+      "postalCode": "16508",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "https://hriusa.com/",
+      "phone": "(814) 453-4747",
+      "phoneUnformatted": "+18144534747",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 42.1060622,
+        "lng": -80.0864242
+      },
+      "totalScore": 4.2,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ00pSDBKAMogRck8yvz71CPw",
+      "categories": [
+        "Restaurant supply store",
+        "Material handling equipment supplier"
+      ],
+      "fid": "0x883280120c524ad3:0xfc08f53ebf324f72",
+      "cid": "18161035147216047986",
+      "reviewsCount": 29,
+      "imagesCount": 7,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:26.852Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pickup": true
+          },
+          {
+            "In-store shopping": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=HRI%20Commercial%20Food%20Service&query_place_id=ChIJ00pSDBKAMogRck8yvz71CPw",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@42.33473241452436,-80.24116524265173,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqir5ONXSmr-lz2QoDm00pQuYJR8gnS7jcl8cEZnqWQEcu-mIJQHbNYuWNUjz9ys72tVUnRUv3VBuR7LuS2MbM-qFQ3139oPS9jpAHZO5dK7R-7yPg-YHFdUWfHENHXPjfkeVDZZQ=w408-h408-k-no",
+      "kgmid": "/g/1tdy0jsn"
+    },
+    {
+      "title": "Lucky Louie's Beer & Wieners",
+      "description": "Casual joint offering creative hot dogs & a vast selection of beers, including six-packs to go.",
+      "price": "$",
+      "categoryName": "Restaurant",
+      "address": "8238 Perry Hwy, Erie, PA 16509",
+      "neighborhood": null,
+      "street": "8238 Perry Hwy",
+      "city": "Erie",
+      "postalCode": "16509",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "http://www.luckylouiesbeerandwieners.com/",
+      "phone": "(814) 314-9481",
+      "phoneUnformatted": "+18143149481",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 42.0638955,
+        "lng": -80.0347122
+      },
+      "totalScore": 4.8,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJTUEohROBMogRIDf1vi8rMQQ",
+      "categories": [
+        "Restaurant",
+        "Beer store",
+        "Hot dog restaurant",
+        "Hot dog stand"
+      ],
+      "fid": "0x883281138528414d:0x4312b2fbef53720",
+      "cid": "302070134077732640",
+      "reviewsCount": 1684,
+      "reviewsDistribution": {
+        "oneStar": 21,
+        "twoStar": 16,
+        "threeStar": 31,
+        "fourStar": 177,
+        "fiveStar": 1439
+      },
+      "imagesCount": 1019,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:27.501Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11 AM to 9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "11 AM to 9 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "11 AM to 8 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as LGBTQ+ owned": true
+          },
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Outdoor seating": true
+          },
+          {
+            "Curbside pickup": true
+          },
+          {
+            "No-contact delivery": true
+          },
+          {
+            "Delivery": true
+          },
+          {
+            "Onsite services": true
+          },
+          {
+            "Takeout": true
+          },
+          {
+            "Dine-in": true
+          }
+        ],
+        "Highlights": [
+          {
+            "Fast service": true
+          },
+          {
+            "Fireplace": true
+          },
+          {
+            "Great beer selection": true
+          },
+          {
+            "Live music": true
+          },
+          {
+            "Serves local specialty": true
+          }
+        ],
+        "Popular for": [
+          {
+            "Lunch": true
+          },
+          {
+            "Dinner": true
+          },
+          {
+            "Solo dining": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Alcohol": true
+          },
+          {
+            "Beer": true
+          },
+          {
+            "Comfort food": true
+          },
+          {
+            "Happy hour drinks": true
+          },
+          {
+            "Happy hour food": true
+          },
+          {
+            "Quick bite": true
+          },
+          {
+            "Small plates": true
+          },
+          {
+            "Vegan options": true
+          }
+        ],
+        "Dining options": [
+          {
+            "Lunch": true
+          },
+          {
+            "Dinner": true
+          },
+          {
+            "Counter service": true
+          },
+          {
+            "Dessert": true
+          },
+          {
+            "Seating": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Bar onsite": true
+          },
+          {
+            "Restroom": true
+          },
+          {
+            "Wi-Fi": true
+          },
+          {
+            "Free Wi-Fi": true
+          }
+        ],
+        "Atmosphere": [
+          {
+            "Casual": true
+          },
+          {
+            "Cozy": true
+          },
+          {
+            "Trendy": true
+          }
+        ],
+        "Crowd": [
+          {
+            "College students": true
+          },
+          {
+            "Family-friendly": true
+          },
+          {
+            "Groups": true
+          },
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Tourists": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ],
+        "Planning": [
+          {
+            "Accepts reservations": false
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Children": [
+          {
+            "Good for kids": true
+          },
+          {
+            "High chairs": true
+          },
+          {
+            "Kids' menu": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          },
+          {
+            "Usually plenty of parking": true
+          }
+        ],
+        "Pets": [
+          {
+            "Dogs allowed": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Lucky%20Louie's%20Beer%20%26%20Wieners&query_place_id=ChIJTUEohROBMogRIDf1vi8rMQQ",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@42.33473241452436,-80.24116524265173,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 23,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrAt96g80JM1-yZV9L4v4fG9ckuEEgeCdg3r1xcdi1jXfPj0KOhZ3cP0YPHA1aE0VUixPKzc1OSssjzp23L31aoEZBmncrto-fF6vct2BSXpfu7LJcWoBF8WPnSB2wl0VC5KdY=w426-h240-k-no",
+      "kgmid": "/g/12lkq00pd"
+    },
+    {
+      "title": "Anna's Commercial Kitchen",
+      "price": null,
+      "categoryName": "Coworking space",
+      "address": "931 Hamilton St, Allentown, PA 18101",
+      "neighborhood": "Hamilton District",
+      "street": "931 Hamilton St",
+      "city": "Allentown",
+      "postalCode": "18101",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "https://www.thecaringplace.org/annascommercialkitchen.html",
+      "phone": "(610) 730-5345",
+      "phoneUnformatted": "+16107305345",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.6011053,
+        "lng": -75.4768726
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ4YB3oC45xIkR3TkzhPV1Vt0",
+      "categories": ["Coworking space"],
+      "fid": "0x89c4392ea07780e1:0xdd5675f5843339dd",
+      "cid": "15949064827724577245",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:29.415Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Anna's%20Commercial%20Kitchen&query_place_id=ChIJ4YB3oC45xIkR3TkzhPV1Vt0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.71334426182522,-77.07862051146967,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 18,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d9qoWOyRlM9RH8XuofrT-A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=334.82278&pitch=0&thumbfov=100",
+      "kgmid": "/g/11fr0_nbrf"
+    },
+
+    {
+      "title": "Hazleton Kitchen Incubator",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "31 W Broad St, Hazleton, PA 18202",
+      "neighborhood": null,
+      "street": "31 W Broad St",
+      "city": "Hazleton",
+      "postalCode": "18202",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "https://hazletonkitchen.org/",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.954426,
+        "lng": -75.974873
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJfZIVfBmlxYkRqYPbDhuWkcg",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c5a5197c15927d:0xc891961b0edb83a9",
+      "cid": "14452497722166182825",
+      "reviewsCount": 0,
+      "imagesCount": 6,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:37.313Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "1 to 4 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "1 to 4 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM to 5 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Hazleton%20Kitchen%20Incubator&query_place_id=ChIJfZIVfBmlxYkRqYPbDhuWkcg",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.71334426182522,-76.02443893440898,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 3,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOENy182LZ2c54sBV0tIw6aR3m5cUzg0b7s5oJY=w408-h306-k-no",
+      "kgmid": "/g/11y71t97yb"
+    },
+    {
+      "title": "Dragonfly Hill Farm and Kitchen",
+      "price": null,
+      "categoryName": "Farm",
+      "address": "3021 Richlandtown Pike, Coopersburg, PA 18036",
+      "neighborhood": null,
+      "street": "3021 Richlandtown Pike",
+      "city": "Coopersburg",
+      "postalCode": "18036",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "https://dragonflyhillfarmandkitchen.com/",
+      "phone": "(610) 248-7097",
+      "phoneUnformatted": "+16102487097",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.5363505,
+        "lng": -75.3312177
+      },
+      "totalScore": 4.8,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJh0hrz9IXxIkR71CJwQ_0s3M",
+      "categories": ["Farm", "Shared-use commercial kitchen"],
+      "fid": "0x89c417d2cf6b4887:0x73b3f40fc18950ef",
+      "cid": "8337275683701608687",
+      "reviewsCount": 12,
+      "imagesCount": 27,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:37.314Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Dragonfly%20Hill%20Farm%20and%20Kitchen&query_place_id=ChIJh0hrz9IXxIkR71CJwQ_0s3M",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.71334426182522,-76.02443893440898,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 20,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMk-0-XXcnpn58WbKsCGEADIQfWZYXXcT27oCDa=w426-h240-k-no",
+      "kgmid": "/g/11qnvn2sfr"
+    },
+
+    {
+      "title": "Bond Collective - Center City",
+      "price": null,
+      "categoryName": "Coworking space",
+      "address": "1617 John F Kennedy Blvd 20th floor, Philadelphia, PA 19103",
+      "neighborhood": "Center City",
+      "street": "1617 John F Kennedy Blvd 20th floor",
+      "city": "Philadelphia",
+      "postalCode": "19103",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "https://www.bondcollective.com/locations/center-city",
+      "phone": "(215) 709-6003",
+      "phoneUnformatted": "+12157096003",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.9542677,
+        "lng": -75.1678993
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJPV72-cbHxokRAyQCM8cn8Io",
+      "categories": [
+        "Coworking space",
+        "Commercial real estate agency",
+        "Executive suite rental agency",
+        "Office space rental agency"
+      ],
+      "fid": "0x89c6c7c6f9f65e3d:0x8af027c733022403",
+      "cid": "10011545708152366083",
+      "reviewsCount": 79,
+      "imagesCount": 34,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:42.313Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 3 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Bond%20Collective%20-%20Center%20City&query_place_id=ChIJPV72-cbHxokRAyQCM8cn8Io",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.00248215,-75.11922515,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 14,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPwO6L4QWvqmzIdefNNVcB2E2eD_CIMnqYgXLqF=w408-h255-k-no",
+      "kgmid": "/g/11fj88_m7k"
+    },
+    {
+      "title": "Little Miss Moffitt",
+      "price": null,
+      "categoryName": "Bakery",
+      "address": "1210 Stanbridge St Suite 100-B, Norristown, PA 19401",
+      "neighborhood": null,
+      "street": "1210 Stanbridge St Suite 100-B",
+      "city": "Norristown",
+      "postalCode": "19401",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "http://littlemissmoffittbaker.com/",
+      "phone": "(484) 202-3184",
+      "phoneUnformatted": "+14842023184",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.1297306,
+        "lng": -75.3450653
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJY6TyDaXxxokRHwjIszrHVB8",
+      "categories": ["Bakery", "Corporate gift supplier", "Wholesale bakery"],
+      "fid": "0x89c6f1a50df2a463:0x1f54c73ab3c8081f",
+      "cid": "2257648368157722655",
+      "reviewsCount": 93,
+      "reviewsDistribution": {
+        "oneStar": 0,
+        "twoStar": 0,
+        "threeStar": 0,
+        "fourStar": 0,
+        "fiveStar": 93
+      },
+      "imagesCount": 53,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:45.467Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Curbside pickup": true
+          },
+          {
+            "In-store pickup": true
+          },
+          {
+            "Takeout": true
+          },
+          {
+            "Delivery": false
+          },
+          {
+            "Dine-in": false
+          }
+        ],
+        "Offerings": [
+          {
+            "Coffee": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Little%20Miss%20Moffitt&query_place_id=ChIJY6TyDaXxxokRHwjIszrHVB8",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.107586956718535,-75.25616345695391,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 22,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOHnzKNNHbAwSYJz2DIz5X7Mv_07etX3UHg1afL=w408-h275-k-no",
+      "kgmid": "/g/11h3l28dwv"
+    },
+    {
+      "title": "Crowded Cookhouse",
+      "price": null,
+      "categoryName": "Food manufacturer",
+      "address": "347 N Plum St, Lancaster, PA 17602",
+      "neighborhood": null,
+      "street": "347 N Plum St",
+      "city": "Lancaster",
+      "postalCode": "17602",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "http://crowdedcookhouse.com/",
+      "phone": "(717) 874-5998",
+      "phoneUnformatted": "+17178745998",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.0449996,
+        "lng": -76.2979786
+      },
+      "totalScore": 3.3,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJQ5QYN0klxokRSZukmk53iI4",
+      "categories": ["Food manufacturer"],
+      "fid": "0x89c6254937189443:0x8e88774e9aa49b49",
+      "cid": "10270590129704049481",
+      "reviewsCount": 3,
+      "imagesCount": 10,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:51.149Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Crowded%20Cookhouse&query_place_id=ChIJQ5QYN0klxokRSZukmk53iI4",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.066062625678185,-76.3343827013916,15z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNoeeodRick9oMBWeYJ2xLze-uF_tIxvzgJsEHc=w408-h306-k-no",
+      "kgmid": "/g/11h3nnh_8_"
+    },
+    {
+      "title": "Commissary Lancaster",
+      "price": null,
+      "categoryName": "Bakery",
+      "address": "315 E Marion St, Lancaster, PA 17602",
+      "neighborhood": null,
+      "street": "315 E Marion St",
+      "city": "Lancaster",
+      "postalCode": "17602",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "https://commonscompany.com/pages/commissary-lancaster",
+      "phone": "(717) 455-3638",
+      "phoneUnformatted": "+17174553638",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 40.0413085,
+        "lng": -76.2990079
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJAQCQs5QkxokR-LkzX4gOhVY",
+      "categories": ["Bakery"],
+      "fid": "0x89c62494b3900001:0x56850e885f33b9f8",
+      "cid": "6234405238039886328",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:51.150Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Takeout": true
+          },
+          {
+            "Delivery": false
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Commissary%20Lancaster&query_place_id=ChIJAQCQs5QkxokR-LkzX4gOhVY",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.066062625678185,-76.3343827013916,15z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 12,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YhhrbE9W4WyrvVRsWQi13g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=318.97137&pitch=0&thumbfov=100",
+      "kgmid": "/g/11fct79l98"
+    },
+    {
+      "title": "Frey's Commissary",
+      "price": null,
+      "categoryName": "Soup kitchen",
+      "address": "29 Howard St, Montoursville, PA 17754",
+      "neighborhood": null,
+      "street": "29 Howard St",
+      "city": "Montoursville",
+      "postalCode": "17754",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "phone": "(570) 368-2377",
+      "phoneUnformatted": "+15703682377",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 41.2464923,
+        "lng": -76.9106799
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJkUhQ6lahz4kRcgH5pZ6_jLw",
+      "categories": ["Soup kitchen", "Food service"],
+      "fid": "0x89cfa156ea504891:0xbc8cbf9ea5f90172",
+      "cid": "13586444863980241266",
+      "reviewsCount": 6,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:53.730Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": false
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Frey's%20Commissary&query_place_id=ChIJkUhQ6lahz4kRcgH5pZ6_jLw",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@41.52403833817479,-77.07862051146967,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DnIBA8E9sJBh3tKHlKuU1A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=79.30439&pitch=0&thumbfov=100",
+      "kgmid": "/g/1tgdjzs8"
+    }
+  ]
+}

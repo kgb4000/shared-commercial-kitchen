@@ -1,0 +1,144 @@
+{
+  "state": "MN",
+  "city": "Plymouth",
+  "kitchens": [
+    {
+      "title": "MSP Kitchenery",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3425 Highway 169N Unit 2, Plymouth, MN 55441, United States",
+      "neighborhood": null,
+      "street": "3425 Highway 169N Unit 2",
+      "city": "Plymouth",
+      "postalCode": "55441",
+      "state": "Minnesota",
+      "countryCode": "US",
+      "website": "http://www.mspkitchenery.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13485767492739592036",
+      "phone": "+1 651-334-8821",
+      "phoneUnformatted": "+16513348821",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 45.0196064,
+        "lng": -93.4016022
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJp7cv8CA1s1IRyhAaIJuYFqE",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x52b33520f02fb7a7:0xa116989b201a10ca",
+      "cid": "11607632881619964106",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:58:09.177Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          },
+          {
+            "Wheelchair-accessible seating": true
+          },
+          {
+            "Wheelchair-accessible toilet": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=MSP%20Kitchenery&query_place_id=ChIJp7cv8CA1s1IRyhAaIJuYFqE",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@45.04640884599392,-93.49583052549285,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NgoO4VMwYBfPHLr1sDGvTg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=326.61307&pitch=0&thumbfov=100",
+      "kgmid": "/g/11hy9z8_l9"
+    },
+    {
+      "title": "SHARED USE COMMERCIAL KITCHEN",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3425 US-169, Plymouth, MN 55441",
+      "neighborhood": null,
+      "street": "3425 US-169",
+      "city": "Plymouth",
+      "postalCode": "55441",
+      "state": "Minnesota",
+      "countryCode": "US",
+      "website": "https://www.mda.state.mn.us/shared-commercial-kitchen-directory#harmony",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 45.0196148,
+        "lng": -93.4015313
+      },
+      "permanentlyClosed": true,
+      "temporarilyClosed": false,
+      "placeId": "ChIJCaGnnUc1s1IRv7i13fAcoWY",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x52b335479da7a109:0x66a11cf0ddb5b8bf",
+      "cid": "7395223883956467903",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:58:12.547Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=SHARED%20USE%20COMMERCIAL%20KITCHEN&query_place_id=ChIJCaGnnUc1s1IRv7i13fAcoWY",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@44.997857154006084,-93.42719377450715,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 11,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NgoO4VMwYBfPHLr1sDGvTg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=344.65958&pitch=0&thumbfov=100",
+      "kgmid": "/g/11n0rq05s8"
+    }
+  ]
+}

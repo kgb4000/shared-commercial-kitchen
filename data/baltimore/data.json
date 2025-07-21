@@ -1,0 +1,2495 @@
+{
+  "state": "MD",
+  "city": "Baltimore",
+  "kitchens": [
+    {
+      "query": "shared-use commercial kitchen, 20731, Capitol Heights, MD, US",
+      "name": "La Chow",
+      "name_for_emails": "La Chow",
+      "site": "https://www.thelachow.com/",
+      "subtypes": "Shared-use commercial kitchen",
+      "category": "Shared-use commercial kitchen",
+      "type": "Shared-use commercial kitchen",
+      "phone": "+1 443-332-3392",
+      "full_address": "210 S Central Ave, Baltimore, MD 21202",
+      "borough": "Little Italy",
+      "street": "210 S Central Ave",
+      "city": "Baltimore",
+      "postal_code": 21202,
+      "state": "Maryland",
+      "us_state": "Maryland",
+      "country": "United States of America",
+      "country_code": "US",
+      "latitude": 39.2879997,
+      "longitude": -76.5999762,
+      "h3": "892aa8c7683ffff",
+      "time_zone": "America/New_York",
+      "plus_code": null,
+      "area_service": false,
+      "rating": 4.1,
+      "reviews": 17,
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJxQVd_O4FyIkRk_huWx6_YWU&q=shared-use+commercial+kitchen,+20731,+Capitol+Heights,+MD,+US&authuser=0&hl=en&gl=US",
+      "reviews_tags": null,
+      "reviews_per_score": null,
+      "reviews_per_score_1": 4,
+      "reviews_per_score_2": 0,
+      "reviews_per_score_3": 0,
+      "reviews_per_score_4": 0,
+      "reviews_per_score_5": 13,
+      "photos_count": 11,
+      "photo": "https://lh3.googleusercontent.com/p/AF1QipMrl5_7AofJYuN_U7ncaQj1ZQGmtyv02-YYZIiX=w800-h500-k-no",
+      "street_view": "https://lh3.googleusercontent.com/p/AF1QipMrl5_7AofJYuN_U7ncaQj1ZQGmtyv02-YYZIiX=w1600-h1000-k-no",
+      "located_in": null,
+      "working_hours": {
+        "Sunday": "9AM-10PM",
+        "Monday": "9AM-10PM",
+        "Tuesday": "9AM-10PM",
+        "Wednesday": "9AM-10PM",
+        "Thursday": "9AM-10PM",
+        "Friday": "9AM-10PM",
+        "Saturday": "9AM-10PM"
+      },
+      "working_hours_csv_compatible": "Sunday,9AM,10PM|Monday,9AM,10PM|Tuesday,9AM,10PM|Wednesday,9AM,10PM|Thursday,9AM,10PM|Friday,9AM,10PM|Saturday,9AM,10PM",
+      "working_hours_old_format": "Sunday:9AM-10PM|Monday:9AM-10PM|Tuesday:9AM-10PM|Wednesday:9AM-10PM|Thursday:9AM-10PM|Friday:9AM-10PM|Saturday:9AM-10PM",
+      "other_hours": null,
+      "popular_times": null,
+      "business_status": "OPERATIONAL",
+      "about": {
+        "Payments": {
+          "Credit cards": true
+        }
+      },
+      "range": null,
+      "prices": null,
+      "posts": null,
+      "logo": "https://lh5.googleusercontent.com/-1wFwpEE9KTM/AAAAAAAAAAI/AAAAAAAAAAA/769jrh4XmaQ/s44-p-k-no-ns-nd/photo.jpg",
+      "description": null,
+      "typical_time_spent": null,
+      "verified": true,
+      "owner_id": 1.1437088973055672e20,
+      "owner_title": "La Chow",
+      "owner_link": "https://www.google.com/maps/contrib/114370889730556725409",
+      "reservation_links": null,
+      "booking_appointment_link": null,
+      "menu_link": null,
+      "order_links": null,
+      "location_link": "https://www.google.com/maps/place/La+Chow/@39.2879997,-76.5999762,14z/data=!4m8!1m2!2m1!1sLa+Chow!3m4!1s0x89c805eefc5d05c5:0x6561bf1e5b6ef893!8m2!3d39.2879997!4d-76.5999762",
+      "location_reviews_link": "https://www.google.com/maps/place/La+Chow/@39.2879997,-76.5999762,13.99z/data=!4m16!1m7!3m6!1s0x89c805eefc5d05c5:0x6561bf1e5b6ef893!2sLa+Chow!8m2!3d39.2879997!4d-76.5999762!16s%2Fg%2F11ckvg1dmb!3m7!1s0x89c805eefc5d05c5:0x6561bf1e5b6ef893!8m2!3d39.2879997!4d-76.5999762!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "place_id": "ChIJxQVd_O4FyIkRk_huWx6_YWU",
+      "google_id": "0x89c805eefc5d05c5:0x6561bf1e5b6ef893",
+      "cid": 7.305330207675578e18,
+      "kgmid": "/g/11w3k_dpcz",
+      "reviews_id": 7.305330207675578e18,
+      "located_google_id": null
+    },
+    {
+      "title": "B'More Made with Pride Commercial Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "6615 Harford Rd, Baltimore, MD 21214",
+      "neighborhood": "Westfield",
+      "street": "6615 Harford Rd",
+      "city": "Baltimore",
+      "postalCode": "21214",
+      "state": "Maryland",
+      "countryCode": "US",
+      "website": "http://www.cafeatbmore.com/pages/commercial-kitchen",
+      "phone": "(410) 982-9995",
+      "phoneUnformatted": "+14109829995",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.36278,
+        "lng": -76.5520067
+      },
+      "totalScore": 4.4,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJq6pOg1UPyIkRAeS10mfmLw8",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c80f55834eaaab:0xf2fe667d2b5e401",
+      "cid": "1094346568065475585",
+      "reviewsCount": 19,
+      "imagesCount": 11,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:33:11.090Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "additionalOpeningHours": {
+        "Kitchen": [
+          {
+            "day": "Monday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Thursday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Friday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Saturday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Open 24 hours"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=B'More%20Made%20with%20Pride%20Commercial%20Kitchen&query_place_id=ChIJq6pOg1UPyIkRAeS10mfmLw8",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.650325761082875,-77.2362552,11z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOBWjXiiuziNT4YYQ03n8KroxQNV7mQ13Rrh2hv=w408-h544-k-no",
+      "kgmid": "/g/11j03brzcc"
+    },
+    {
+      "title": "B-More Kitchen",
+      "price": null,
+      "categoryName": "Business development service",
+      "address": "5609 Hess Ave, Baltimore, MD 21212",
+      "neighborhood": "Homeland",
+      "street": "5609 Hess Ave",
+      "city": "Baltimore",
+      "postalCode": "21212",
+      "state": "Maryland",
+      "countryCode": "US",
+      "website": "http://www.bmorekitchen.com/",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.3581041,
+        "lng": -76.6108255
+      },
+      "totalScore": 4.5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJYdgqQG8FyIkRBXHtW_3yZrg",
+      "categories": ["Business development service"],
+      "fid": "0x89c8056f402ad861:0xb866f2fd5bed7105",
+      "cid": "13287574920586162437",
+      "reviewsCount": 30,
+      "imagesCount": 14,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:33:11.091Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=B-More%20Kitchen&query_place_id=ChIJYdgqQG8FyIkRBXHtW_3yZrg",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.650325761082875,-77.2362552,11z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 6,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN1PYyxHNSkaiQs2iQ_xOVi_RayWE-nZ4BVabk2=w408-h306-k-no",
+      "kgmid": "/g/11cr_s1q5h"
+    },
+    {
+      "title": "La Chow",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "210 S Central Ave, Baltimore, MD 21202",
+      "neighborhood": "Little Italy",
+      "street": "210 S Central Ave",
+      "city": "Baltimore",
+      "postalCode": "21202",
+      "state": "Maryland",
+      "countryCode": "US",
+      "website": "https://www.thelachow.com/",
+      "phone": "(443) 332-3392",
+      "phoneUnformatted": "+14433323392",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.2879997,
+        "lng": -76.5999762
+      },
+      "totalScore": 4.1,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJxQVd_O4FyIkRk_huWx6_YWU",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c805eefc5d05c5:0x6561bf1e5b6ef893",
+      "cid": "7305330207675578515",
+      "reviewsCount": 17,
+      "imagesCount": 11,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:33:11.091Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 10 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 10 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 10 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 10 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM to 10 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9 AM to 10 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=La%20Chow&query_place_id=ChIJxQVd_O4FyIkRk_huWx6_YWU",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.650325761082875,-77.2362552,11z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 8,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMrl5_7AofJYuN_U7ncaQj1ZQGmtyv02-YYZIiX=w408-h306-k-no",
+      "kgmid": "/g/11w3k_dpcz"
+    },
+    {
+      "title": "Mobile Kitchen Solutions",
+      "price": null,
+      "categoryName": "Trailer rental service",
+      "address": "1830 Liberty Rd, Sykesville, MD 21784",
+      "neighborhood": null,
+      "street": "1830 Liberty Rd",
+      "city": "Sykesville",
+      "postalCode": "21784",
+      "state": "Maryland",
+      "countryCode": "US",
+      "website": "http://www.mobilekitchensolutions.com/",
+      "phone": "(877) 217-3681",
+      "phoneUnformatted": "+18772173681",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.3986817,
+        "lng": -76.9302268
+      },
+      "totalScore": 4,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJGdLk2rEkyIkR56rakRd6bjA",
+      "categories": [
+        "Trailer rental service",
+        "Appliance rental service",
+        "Equipment rental agency",
+        "Equipment supplier",
+        "Food and beverage consultant",
+        "Food machinery supplier",
+        "Food processing equipment",
+        "Kitchen supply store"
+      ],
+      "fid": "0x89c824b1dae4d219:0x306e7a1791daaae7",
+      "cid": "3489861002908576487",
+      "reviewsCount": 4,
+      "imagesCount": 500,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:33:11.093Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "On-site parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Mobile%20Kitchen%20Solutions&query_place_id=ChIJGdLk2rEkyIkR56rakRd6bjA",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.650325761082875,-77.2362552,11z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 15,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMNEQdQYzMu-MwIJczBAEdAMpGdPqtY9wbHe-zM=w424-h240-k-no",
+      "kgmid": "/g/1vysxhdq"
+    },
+    {
+      "title": "Baltimore Food & Beverage Maker’s Space",
+      "price": null,
+      "categoryName": "Makerspace",
+      "address": "3326 Greenmount Ave, Baltimore, MD 21218",
+      "neighborhood": "Oakenshawe",
+      "street": "3326 Greenmount Ave",
+      "city": "Baltimore",
+      "postalCode": "21218",
+      "state": "Maryland",
+      "countryCode": "US",
+      "website": "https://www.thekitchendoor.com/kitchen-rental/fells-point-culinary",
+      "phone": "(667) 231-1143",
+      "phoneUnformatted": "+16672311143",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.3293774,
+        "lng": -76.6096884
+      },
+      "totalScore": 4.7,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJLfc4OgIDyIkRieNIxXsVvYQ",
+      "categories": ["Makerspace"],
+      "fid": "0x89c803023a38f72d:0x84bd157bc548e389",
+      "cid": "9564824804939850633",
+      "reviewsCount": 3,
+      "imagesCount": 337,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:33:11.093Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as Black-owned": true
+          },
+          {
+            "Identifies as Latino-owned": true
+          },
+          {
+            "Identifies as LGBTQ+ owned": true
+          },
+          {
+            "Identifies as veteran-owned": true
+          },
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          }
+        ],
+        "Parking": [
+          {
+            "On-site parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Baltimore%20Food%20%26%20Beverage%20Maker%E2%80%99s%20Space&query_place_id=ChIJLfc4OgIDyIkRieNIxXsVvYQ",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.650325761082875,-77.2362552,11z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 16,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOT7Rv3yrz_flSZXP7mgM5Ca_Owk9Blxe_esTla=w408-h306-k-no",
+      "kgmid": "/g/11h1yw0jy8"
+    },
+    {
+      "title": "Culinary Incubator at Hagerstown Community College",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "20106 Shea Dr, Hagerstown, MD 21742",
+      "neighborhood": null,
+      "street": "20106 Shea Dr",
+      "city": "Hagerstown",
+      "postalCode": "21742",
+      "state": "Maryland",
+      "countryCode": "US",
+      "website": "https://incubatorhcc.com/",
+      "phone": "(240) 500-2728",
+      "phoneUnformatted": "+12405002728",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.6315704,
+        "lng": -77.665984
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJp_eJXCftyYkR_NAG1h64u4c",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Business center",
+        "Coworking space"
+      ],
+      "fid": "0x89c9ed275c89f7a7:0x87bbb81ed606d0fc",
+      "cid": "9780613458344464636",
+      "reviewsCount": 0,
+      "imagesCount": 15,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:33:11.093Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 4 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 4 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 4 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 4 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 4 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as Asian-owned": true
+          },
+          {
+            "Identifies as Black-owned": true
+          },
+          {
+            "Identifies as Latino-owned": true
+          },
+          {
+            "Identifies as LGBTQ+ owned": true
+          },
+          {
+            "Identifies as veteran-owned": true
+          },
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Delivery": false
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Culinary%20Incubator%20at%20Hagerstown%20Community%20College&query_place_id=ChIJp_eJXCftyYkR_NAG1h64u4c",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.650325761082875,-77.2362552,11z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 19,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMvr_WByIVOq3jMC66mHSbDGNrCX2XL3dlxABjx=w408-h306-k-no",
+      "kgmid": "/g/11st8lf0y2"
+    },
+    {
+      "title": "Four Eleven Kitchen Inc",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "411 Dorchester Ave, Cambridge, MD 21613, United States",
+      "neighborhood": null,
+      "street": "411 Dorchester Ave",
+      "city": "Cambridge",
+      "postalCode": "21613",
+      "state": "Maryland",
+      "countryCode": "US",
+      "website": "https://411.kitchen/",
+      "phone": "+1 443-351-7870",
+      "phoneUnformatted": "+14433517870",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 38.5620832,
+        "lng": -76.0679271
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJOWPxTfZLuIkRmlwpEU_AHx0",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89b84bf64df16339:0x1d1fc04f11295c9a",
+      "cid": "2098607397200813210",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:33:12.243Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "additionalOpeningHours": {
+        "Online service hours": [
+          {
+            "day": "Monday",
+            "hours": "9 am–5 pm"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "9 am–5 pm"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "9 am–5 pm"
+          },
+          {
+            "day": "Thursday",
+            "hours": "9 am–5 pm"
+          },
+          {
+            "day": "Friday",
+            "hours": "9 am–5 pm"
+          },
+          {
+            "day": "Saturday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Closed"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Four%20Eleven%20Kitchen%20Inc&query_place_id=ChIJOWPxTfZLuIkRmlwpEU_AHx0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@38.38138416945856,-76.16426758127012,11z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HLeaYZdGJ13TArDtEg1qRQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=211.53351&pitch=0&thumbfov=100",
+      "kgmid": "/g/11vm1kb8gz"
+    },
+    {
+      "title": "STC Soul Joint-Commissary Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "15638 Livingston Rd Unit 16, Accokeek, MD 20607, United States",
+      "neighborhood": null,
+      "street": "15638 Livingston Rd Unit 16",
+      "city": "Accokeek",
+      "postalCode": "20607",
+      "state": "Maryland",
+      "countryCode": "US",
+      "website": "http://www.stccateringdmv.com/",
+      "phone": "+1 202-743-6075",
+      "phoneUnformatted": "+12027436075",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 38.6692855,
+        "lng": -76.9965721
+      },
+      "totalScore": 4.7,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJodpM-cOnt4kRqOKb9sBxL6A",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89b7a7c3f94cdaa1:0xa02f71c0f69be2a8",
+      "cid": "11542569443558941352",
+      "reviewsCount": 30,
+      "imagesCount": 25,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:33:12.244Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "6 AM to 8 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6 AM to 8 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6 AM to 8 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6 AM to 8 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6 AM to 8 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "6 AM to 8 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "6 AM to 8 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "On-site services": false
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=STC%20Soul%20Joint-Commissary%20Kitchen&query_place_id=ChIJodpM-cOnt4kRqOKb9sBxL6A",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@38.38138416945856,-76.16426758127012,11z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 13,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqgIwCt_aCFEKz_jE_ST5r2q0UzIg9-jnF41rAOYFTDqikaFg8xHktMKlt9DtaRmUKO8g53WaUyowIymwTdktq9Xwn3vitYkVC6NPxxYHUXUPf4ILVY0giBgsttu2fBG0xWdxE=w408-h544-k-no",
+      "kgmid": "/g/11ls_zr3st"
+    },
+    {
+      "title": "The Hive at Rumsey Creative Kitchen and Events",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "626 Towne Center Dr Suite 100, Joppatowne, MD 21085",
+      "neighborhood": null,
+      "street": "626 Towne Center Dr Suite 100",
+      "city": "Joppatowne",
+      "postalCode": "21085",
+      "state": "Maryland",
+      "countryCode": "US",
+      "website": "http://www.thehiveatrumsey.com/",
+      "phone": "(443) 307-3038",
+      "phoneUnformatted": "+14433073038",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.4109883,
+        "lng": -76.3578207
+      },
+      "totalScore": 4,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJncVKCCvlx4kR_8Z1kygdclw",
+      "categories": ["Shared-use commercial kitchen", "Event venue"],
+      "fid": "0x89c7e52b084ac59d:0x5c721d289375c6ff",
+      "cid": "6661418858944251647",
+      "reviewsCount": 5,
+      "imagesCount": 2,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:33:15.940Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": false
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Hive%20at%20Rumsey%20Creative%20Kitchen%20and%20Events&query_place_id=ChIJncVKCCvlx4kR_8Z1kygdclw",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.650325761082875,-76.16426758127012,11z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 7,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kJ0VLEqmG3SVztJbXsnzkw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=293.43637&pitch=0&thumbfov=100",
+      "kgmid": "/g/11v5xtxhgt"
+    },
+    {
+      "title": "Great Wolf Lodge Water Park | Perryville",
+      "price": "$161",
+      "categoryName": "Resort hotel",
+      "address": "1240 Chesapeake Overlook Pkwy, Perryville, MD 21903",
+      "neighborhood": null,
+      "street": "1240 Chesapeake Overlook Pkwy",
+      "city": "Perryville",
+      "postalCode": "21903",
+      "state": "Maryland",
+      "countryCode": "US",
+      "website": "https://www.greatwolf.com/maryland?utm_source=google&utm_medium=organic&utm_campaign=gmb-maryland",
+      "phone": "(888) 983-9653",
+      "phoneUnformatted": "+18889839653",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.5922861,
+        "lng": -76.0727352
+      },
+      "totalScore": 3.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJvdrX1uK5x4kRx7dZUQmjeyY",
+      "categories": [
+        "Resort hotel",
+        "Bowling alley",
+        "Family restaurant",
+        "Hotel",
+        "Indoor swimming pool",
+        "Miniature golf course",
+        "Swimming pool",
+        "Theme park",
+        "Video arcade",
+        "Water park"
+      ],
+      "fid": "0x89c7b9e2d6d7dabd:0x267ba3095159b7c7",
+      "cid": "2772989255991539655",
+      "reviewsCount": 3441,
+      "reviewsDistribution": {
+        "oneStar": 378,
+        "twoStar": 242,
+        "threeStar": 379,
+        "fourStar": 703,
+        "fiveStar": 1739
+      },
+      "imagesCount": 4654,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:33:16.575Z",
+      "googleFoodUrl": null,
+      "hotelStars": null,
+      "checkInDate": "2025-07-22",
+      "checkOutDate": "2025-07-23",
+      "hotelAds": [
+        {
+          "title": "Skyscanner",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OswOYc-epSTOU0iSYoNqJukcrvLM3rH1XDsOqdMlXuBOTUqGUCx0IRkVTnwFUMEmR7UrDJitpS6TSvtAMqhyRJtNOeAeHAMg2yXFkmSQknMwtyhR7SgpJNvS4JCj4Iidw4zkQqUw-VsK0C2ToiVxsSG9PA5gVoSeQMT2OlB5FQlCOTGMNe9pSVc&pcurl=https://www.skyscanner.net/hotels/search?entity_id%3D221976176%26upsort_hotels%3D221976176%26adults%3D2%26checkin%3D2025-07-22%26checkout%3D2025-07-23%26currency%3DUSD%26market%3DUS%26device%3Ddesktop%26utm_medium%3Dhpa%26utm_source%3Dgoogle_free%26utm_campaign%3Dgoogle_free_click%26associateID%3DHPA_HTL_01975_00000%26source%3DGoogleHpa%26hpa_verification%3Dfalse%26trace_info%3Dr1JaE9BlW9tD0dwKNmuk4PYXcEfg1cINvYAGUsA8M648LLaSRxl3Q21UP24y73Qfd6Ie7f2S0nMAcUCokldCH4jqdieHaFcmUlk4vNaMIi1Aagab7KCl4Flg_URQWSIQnRoZsBGu6ETI776Gn9Anju8-gB5LcF_zrau6aZU3yS8q%26user_country%3DUS%26extra_trace_info%3D%26hotel_campaign%3D%26gclid%3D%7Bgclid%7D%26date_type%3Ddefault",
+          "isOfficialSite": false,
+          "price": "$179",
+          "url": "https://www.skyscanner.net/hotels/search?entity_id=221976176&upsort_hotels=221976176&adults=2&checkin=2025-07-22&checkout=2025-07-23&currency=USD&market=US&device=desktop&utm_medium=hpa&utm_source=google_free&utm_campaign=google_free_click&associateID=HPA_HTL_01975_00000&source=GoogleHpa&hpa_verification=false&trace_info=r1JaE9BlW9tD0dwKNmuk4PYXcEfg1cINvYAGUsA8M648LLaSRxl3Q21UP24y73Qfd6Ie7f2S0nMAcUCokldCH4jqdieHaFcmUlk4vNaMIi1Aagab7KCl4Flg_URQWSIQnRoZsBGu6ETI776Gn9Anju8-gB5LcF_zrau6aZU3yS8q&user_country=US&extra_trace_info=&hotel_campaign=&gclid={gclid}&date_type=default"
+        },
+        {
+          "title": "Tripadvisor.com",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80Osw06BGzsLR91BrDSXJ_mp7y8UJt9GH_VnJidS4tV6pGT-BqQKs3jZVC6yXJGdyi-eyeD43ds3EkBDsYoZKafyBGoXWauOm9ebK497pvmljvvGBPKqf2POrby3mfXFP10eqWr2XMcmtGWFE3aEkq_Cy7EScXU59guOmzASe48gFttA&pcurl=https://www.tripadvisor.com/HotelHighlight?detail%3D26347568%26m%3D66081%26staydates%3D2025_07_22_2025_07_23%26uguests%3D1_2%26supdv%3Ddesktop%26supbl%3Dmapresults%26supkl%3Ddefault%26supuc%3DUS%26supul%3Den%26supia%3D0%26supip%3D0%26supmb%3DBchdfOTOthcyHN61-KTYDA7h_vUDneF7mLA51uBdC2PnoSVbFYb03_aHGdIWwN56dFhisLN7opve9jHpeSLsoZgKoeI1JN56__-xSMrduRGE41p9TQfWI2oytAYPl7zIGyhjv7WdFewFqfJBNCnAuUV1ElR9at_gnbqp8iAffqo6LwptTUGjo90by_u0Lt%26supmc%3DHrnjLCdnpHxAtH9ay1qikwyyZMGKg6H6QrQYP_FoudNbHTXRhLw06s8Olsp1sQ_y2yw%26supts%3D%26supey%3Dm%7C115992%7CPL_GC_query%26supcd%3D%26suptp%3DbwLaIqvnPmvZJcy9ABEBIznuo2xyToGgGWYdsvwlhE2v5kNBs4JPSBau6tw5RtpfnaIm1IhGfS5deT7CUDdfGAd-k6rX816KtWi8_WC4E4LM_Yd8bCqIlhZ_ouHGuo4HfXNWQVXA6EdE8hiaHGjIsWZas_sEv0oWOKIMWG9AOADzPy2FqPbJ-WHVCqIoWm%26supas%3D",
+          "isOfficialSite": false,
+          "price": "$179",
+          "url": "https://www.tripadvisor.com/HotelHighlight?detail=26347568&m=66081&staydates=2025_07_22_2025_07_23&uguests=1_2&supdv=desktop&supbl=mapresults&supkl=default&supuc=US&supul=en&supia=0&supip=0&supmb=BchdfOTOthcyHN61-KTYDA7h_vUDneF7mLA51uBdC2PnoSVbFYb03_aHGdIWwN56dFhisLN7opve9jHpeSLsoZgKoeI1JN56__-xSMrduRGE41p9TQfWI2oytAYPl7zIGyhjv7WdFewFqfJBNCnAuUV1ElR9at_gnbqp8iAffqo6LwptTUGjo90by_u0Lt&supmc=HrnjLCdnpHxAtH9ay1qikwyyZMGKg6H6QrQYP_FoudNbHTXRhLw06s8Olsp1sQ_y2yw&supts=&supey=m|115992|PL_GC_query&supcd=&suptp=bwLaIqvnPmvZJcy9ABEBIznuo2xyToGgGWYdsvwlhE2v5kNBs4JPSBau6tw5RtpfnaIm1IhGfS5deT7CUDdfGAd-k6rX816KtWi8_WC4E4LM_Yd8bCqIlhZ_ouHGuo4HfXNWQVXA6EdE8hiaHGjIsWZas_sEv0oWOKIMWG9AOADzPy2FqPbJ-WHVCqIoWm&supas="
+        },
+        {
+          "title": "Expedia.com",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OswQV1LTf-tKwMr9T_eT-JkjtVqr7tsmdrTcvRL5SXmiDvQPptI4aiIuZevO-hhOYkatSVkjzgW0IyWfTSIxnEnISc1Ry0EPaH79mvBOZy3DIyCCf4-EmUafA6N8eptWRHq1IhWVjFFijk57YXw-Mslu4bto2xXlJM-ZgMg_KoRHJ-uxaY8&pcurl=https://www.expedia.com/Hotel-Search?selected%3D103097849%26startDate%3D2025-07-22%26endDate%3D2025-07-23%26MDPCID%3DUS.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.103097849.20250722.20250723.DDT.5.CID..AUDID..RRID.bex_us_desktop%26mctc%3D10%26ct%3Dhotel%26mpg%3DUSD%26mpf%3D256.48%26mpj%3D27.48%26mpl%3DUSD%26exp_pg%3Dgoogle%26langid%3Den%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D103097849%26utm_content%3Dmapresults%26utm_campaign%3DHotelAds%26langid%3D1033%26adults%3D2%26children%3D%26rateplanid%3D394376014%26mpm%3D24%26mpn%3D324381956%26mpo%3DEC%26mpp%3D1",
+          "isOfficialSite": false,
+          "price": "$256",
+          "url": "https://www.expedia.com/Hotel-Search?selected=103097849&startDate=2025-07-22&endDate=2025-07-23&MDPCID=US.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&MDPDTL=HTL.103097849.20250722.20250723.DDT.5.CID..AUDID..RRID.bex_us_desktop&mctc=10&ct=hotel&mpg=USD&mpf=256.48&mpj=27.48&mpl=USD&exp_pg=google&langid=en&ad=2&tp=&utm_source=google&utm_medium=cpc&utm_term=103097849&utm_content=mapresults&utm_campaign=HotelAds&langid=1033&adults=2&children=&rateplanid=394376014&mpm=24&mpn=324381956&mpo=EC&mpp=1"
+        },
+        {
+          "title": "Orbitz.com",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsyozLZg2A1QWEKYpwZT8a_f520YVM3tFIgqnSAZWqJ8m4bdqImwn7mO8Elf0-PxQnYGfxSzIUyofc32P6qhc2cieQuPvwax42lJhFR-XmwyxHwILXmMP0QufTGGuy3DsEbyB7hOaRRMeu6zG7Nvp_h-opVzW53d2Gj1xgA4jAtiiAOXEQ&pcurl=https://www.orbitz.com/Hotel-Search?selected%3D103097849%26startDate%3D2025-07-22%26endDate%3D2025-07-23%26adults%3D2%26children%3D%26MDPCID%3DORBITZ-US.META.HPA.ORGANIC-desktop.HOTEL%26MDPDTL%3Dhtl.103097849.20250722.20250723.DDT.5.CID..AUDID..mapresults%26exp_curr%3DUSD%26exp_dp%3D256.48%26exp_tx%3D27.48%26mctc%3D10%26rateplanid%3D394376014%26mpm%3D24%26mpn%3D324381956%26mpo%3DEC%26mpp%3D1",
+          "isOfficialSite": false,
+          "price": "$256",
+          "url": "https://www.orbitz.com/Hotel-Search?selected=103097849&startDate=2025-07-22&endDate=2025-07-23&adults=2&children=&MDPCID=ORBITZ-US.META.HPA.ORGANIC-desktop.HOTEL&MDPDTL=htl.103097849.20250722.20250723.DDT.5.CID..AUDID..mapresults&exp_curr=USD&exp_dp=256.48&exp_tx=27.48&mctc=10&rateplanid=394376014&mpm=24&mpn=324381956&mpo=EC&mpp=1"
+        },
+        {
+          "title": "Travelocity.com",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsxZu6DBAN727Y89Hk_GaN7HMSHMyCI7EbveA3DUp-HRkczFKdKKV4C1Omy7bpvbTq44NBnkMZGUn50cwVhusnuV5JvQzDo0AOlsXqzv9wSsiG0EvX2wmXReOkgGtrrleGLPxyq4O-wwt0_R-SOQFqktaBYkO4EtMR6BkqVxvrpSw1TJ_fs&pcurl=https://www.travelocity.com/Hotel-Search?selected%3D103097849%26startDate%3D2025-07-22%26endDate%3D2025-07-23%26adults%3D2%26children%3D%26MDPCID%3Dtravelocity-US.META.HPA.ORGANIC.HOTEL%26MDPDTL%3DHTL.103097849.20250722.20250723.DDT.5.CID..AUDID..mapresults%26exp_curr%3DUSD%26exp_dp%3D256.48%26exp_tx%3D27.48%26mctc%3D10%26rateplanid%3D394376014%26mpm%3D24%26mpn%3D324381956%26mpo%3DEC%26mpp%3D1",
+          "isOfficialSite": false,
+          "price": "$256",
+          "url": "https://www.travelocity.com/Hotel-Search?selected=103097849&startDate=2025-07-22&endDate=2025-07-23&adults=2&children=&MDPCID=travelocity-US.META.HPA.ORGANIC.HOTEL&MDPDTL=HTL.103097849.20250722.20250723.DDT.5.CID..AUDID..mapresults&exp_curr=USD&exp_dp=256.48&exp_tx=27.48&mctc=10&rateplanid=394376014&mpm=24&mpn=324381956&mpo=EC&mpp=1"
+        },
+        {
+          "title": "CheapTickets.com",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsziErdTASoZeRWW4dXcoeUqC7Dfhbp1JDOelOseCISrLFgG1WIQKDY1sDOiPW8V8WGlRk06xTvR3k0UxFR01JYjiVu1zSboOzTET4bhDuLKnwbJMVpBKFftT9JOCx2CRX3rjgJ2gXs02vdkm73hUrZ4mlJQIzSACYkm3DXQhlseII817LgZ9cYi0A&pcurl=https://www.cheaptickets.com/Hotel-Search?selected%3D103097849%26startDate%3D2025-07-22%26endDate%3D2025-07-23%26MDPCID%3DCHEAPTICKETS-US.META.HPA.ORGANIC-desktop.HOTEL%26langid%3D1033%26adults%3D2%26children%3D%26MDPDTL%3Dhtl.103097849.20250722.20250723.DDT.5.CID..AUDID..mapresults%26exp_curr%3DUSD%26exp_dp%3D256.48%26exp_tx%3D27.48%26mctc%3D10%26rateplanid%3D394376014%26rateplanid%3D394376014%26mpm%3D24%26mpn%3D324381956%26mpo%3DEC%26mpp%3D1",
+          "isOfficialSite": false,
+          "price": "$256",
+          "url": "https://www.cheaptickets.com/Hotel-Search?selected=103097849&startDate=2025-07-22&endDate=2025-07-23&MDPCID=CHEAPTICKETS-US.META.HPA.ORGANIC-desktop.HOTEL&langid=1033&adults=2&children=&MDPDTL=htl.103097849.20250722.20250723.DDT.5.CID..AUDID..mapresults&exp_curr=USD&exp_dp=256.48&exp_tx=27.48&mctc=10&rateplanid=394376014&rateplanid=394376014&mpm=24&mpn=324381956&mpo=EC&mpp=1"
+        },
+        {
+          "title": "ZenHotels.com",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsyK_FvQ2dFAkuPezmuOlR8JsdJhUJ8qYxRI7i7avXHt4lCh7YMaf5PCMVfmxvnQ2DY_qnU1HQY5IzPMX4WUEhhFxlxZYZznYup_rxQK04qTc4q0Ly3u0mZTrjS2HZ6-lVTkLZ5p_qBGWGGCtnQWov1hPZog82vW-HMjLHiHNcM&pcurl=https://www.zenhotels.com/go/rooms/13089145/?dates%3D22.07.2025-23.07.2025%26cur%3DUSD%26lang%3Den%26utm_source%3Dgoogle_hotelads%26utm_medium%3Dcpc-metasearch%26partner_slug%3Dgoogle%26guests%3D2%26from%3Dgreat_wolf_lodge_perryville.256.USD.sr-0198185a-a86c-7b9a-95fc-50e478c70321%26utm_campaign%3Den-US%26price%3Done%26scroll%3Dprices%26partner_data%3D-yK6RqSTMPWJxCbtyp3xospzk7mpCb9l-WC4QSQMTn2O73JddVxjoTeJNdnzUqnkHwksdJIWsQK4jIzrUcc2AzBzG4d3UXx5RKQjEKOOAZgjZB_G2cwbOKkhGAgOug1lRigDfv1NPgGhsR1J5-mQ_5cJ5TCTr4La9ztctVgHoBVZI8x6%26utm_content%3DGoogleCPC%26utm_term%3Dgacid_.bw_5.los_1.dow_Tuesday.dtype_default.hid_13089145.rid_176.aud_.d_desktop.ad_0.ctype_hotel.promo_0.apireqtype_deals%3Ddisabled%26showed_price%3D256.48%26showed_taxes%3D0.00%26deals%3Ddisabled",
+          "isOfficialSite": false,
+          "price": "$256",
+          "url": "https://www.zenhotels.com/go/rooms/13089145/?dates=22.07.2025-23.07.2025&cur=USD&lang=en&utm_source=google_hotelads&utm_medium=cpc-metasearch&partner_slug=google&guests=2&from=great_wolf_lodge_perryville.256.USD.sr-0198185a-a86c-7b9a-95fc-50e478c70321&utm_campaign=en-US&price=one&scroll=prices&partner_data=-yK6RqSTMPWJxCbtyp3xospzk7mpCb9l-WC4QSQMTn2O73JddVxjoTeJNdnzUqnkHwksdJIWsQK4jIzrUcc2AzBzG4d3UXx5RKQjEKOOAZgjZB_G2cwbOKkhGAgOug1lRigDfv1NPgGhsR1J5-mQ_5cJ5TCTr4La9ztctVgHoBVZI8x6&utm_content=GoogleCPC&utm_term=gacid_.bw_5.los_1.dow_Tuesday.dtype_default.hid_13089145.rid_176.aud_.d_desktop.ad_0.ctype_hotel.promo_0.apireqtype_deals=disabled&showed_price=256.48&showed_taxes=0.00&deals=disabled"
+        },
+        {
+          "title": "Great Wolf Lodge Water Park | Perryville",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OszsCBrs1CyLz2R2mRAMe0_5KLvGBUBr_mePsu3esR5lbGYeZZsUKhorse-WCdw4krZsW4T5AgxzhNAVdqVVDq8LVq--83IHUKw6vp4jyyw-9fD_6OjiASi6Vc6W37_tZ7ak4aIIuZxv1h2-Xq3t9BHyWq-BR2v1unhuYy6QbkJp7qTf-z-N6vwVCwmaQ9f4bSI&pcurl=https://www.greatwolf.com/maryland/plan?numberOfAdults%3D2%26arrival%3D2025-07-22%26departure%3D2025-07-23%26numberOfChildren%3D0%26kidAges%3D",
+          "isOfficialSite": true,
+          "price": "$256",
+          "url": "https://www.greatwolf.com/maryland/plan?numberOfAdults=2&arrival=2025-07-22&departure=2025-07-23&numberOfChildren=0&kidAges="
+        },
+        {
+          "title": "Hotels.com",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsyDOBOg748hqE4UF3mxObmuFqF5jnejmlJyv37ayfx7mVJkh7m9yzCvJaOFxjnP16h5WOvtoP6O-Z56MqQDEeboEGtPdZWS9SrunVSR0qVlc683lprsLcLVWPZ4SoOUMPxeCT9fouUjPkKT8Dn7rF-4oE8FKzyImxSsDFRvM0LfkiF7Ew&pcurl=https://www.hotels.com/Hotel-Search?selected%3D103097849%26startDate%3D2025-07-22%26endDate%3D2025-07-23%26mdpcid%3DHCOM-US.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.103097849.20250722.20250723.DDT.5.CID..AUDID.%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D256.48%26mpg%3DUSD%26mpl%3DUSD%26mpj%3D27.48%26rffrid%3Dsem.hcom.US.156.024.mapresults.02.desktop-1.kwrd%3DGGMETA.103097849USen-20250722-D-ABW%3D5-camp%3D-aud%3D-N%26rateplanid%3D394376014%26mpm%3D24%26mpn%3D324381956%26mpo%3DEC%26mpp%3D1%26locale%3Den_US%26siteid%3D300000001",
+          "isOfficialSite": false,
+          "price": "$256",
+          "url": "https://www.hotels.com/Hotel-Search?selected=103097849&startDate=2025-07-22&endDate=2025-07-23&mdpcid=HCOM-US.META.HPA.HOTEL-ORGANIC-desktop.HOTEL&MDPDTL=HTL.103097849.20250722.20250723.DDT.5.CID..AUDID.&adults=2&children=&mctc=10&mpf=256.48&mpg=USD&mpl=USD&mpj=27.48&rffrid=sem.hcom.US.156.024.mapresults.02.desktop-1.kwrd=GGMETA.103097849USen-20250722-D-ABW=5-camp=-aud=-N&rateplanid=394376014&mpm=24&mpn=324381956&mpo=EC&mpp=1&locale=en_US&siteid=300000001"
+        },
+        {
+          "title": "Vio.com",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80Osy3EKMFRPbZCFFPlXM9p3EVvaU5OoBetSL_0BbIR5VNBm872q70I58yTPVsn8Hrruos_2yHIJrc8TQdyIRyMmJzCITQRsgu5FAHyOzOaHIMJC3VJTAHrzSyCJ4ytXZfre4xN3Ib3KfwJ7SIf3u9Z03CHIViOzRbRNMVBpSJsiM&pcurl=https://deals.vio.com/?sig%3D73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233%26turl%3Dhttps%253A%252F%252Fwww.vio.com%252FHotel%252FSearch%253FcheckIn%253D2025-07-22%2526checkOut%253D2025-07-23%2526curr%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D121022912%2526userCountry%253DUS%2526profile%253Dr2d2m73kn8%2526preferredRate%253D256.48%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Ddefault%252526gsite%25253Dmapresults%252526vf%25253D0%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D121022912%252526day%25253D22%252526month%25253D07%252526year%25253D2025%252526los%25253D1%252526price%25253D256.48%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253DOPjPLp6llhkCgt3OWZKRWhHTGVHNBi-7OPDBiACONHd_Y4IQhYInpDQ8IG77vtUEPSyASC8FSoDVVNE",
+          "isOfficialSite": false,
+          "price": "$256",
+          "url": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https://www.vio.com/Hotel/Search?checkIn=2025-07-22&checkOut=2025-07-23&curr=USD&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=2:&utm_source=gha&utm_medium=cpc&hotelId=121022912&userCountry=US&profile=r2d2m73kn8&preferredRate=256.48&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dmapresults%26vf%3D0%26ucountry%3DUS%26udevice%3Ddesktop%26hotel%3D121022912%26day%3D22%26month%3D07%26year%3D2025%26los%3D1%26price%3D256.48%26currency%3DUSD%26cid%3D%26listid%3D%26rateid%3DUS%26closerateid%3D%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0%26&cp=OPjPLp6llhkCgt3OWZKRWhHTGVHNBi-7OPDBiACONHd_Y4IQhYInpDQ8IG77vtUEPSyASC8FSoDVVNE"
+        },
+        {
+          "title": "eDreams",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80Osz59KhUGl1nuhZx1e-vatRvvrszKP1wUUg7eCsq3b3YNfTJ2eIGOCghQ2tkxpkS0b5NQMffD4GIzNfadNnj88iZZny_z94pUddf-GRNaSi1z7J5uhWzIKKesVgfzhznPOcAzyPd4P1ddX-8wDiCFSxT8ElX_CLSndjqrLI&pcurl=https://accommodation.edreams.net/Hotel-Search?selected%3D103097849%26startDate%3D2025-07-22%26endDate%3D2025-07-23%26adults%3D2%26children%3D%26mpf%3D256.48%26cur%3DUSD%26mpj%3D27.48%26wapb3%3D%7Cc.506950%7Cl.en_US%7Ct.meta%7Cs.ghs%26MDPCID%3DeDreams-US.DPS.Edreams.MetaSearch-GHA.HOTEL%26mpl%3DUSD%26numberOfRooms%3D1%26locale%3Den_US%26rffrid%3Dh4p.hcom.US.ghaodigeo.000.000.kwrd%3D%26pos%3DEDREAMS_US%26rateplanid%3D394376014%26mctc%3D10%26utm_medium%3Dmetasearch%26utm_campaign%3D3300131168%26utm_term%3Dhotel%26utm_source%3DFREEBOOKING",
+          "isOfficialSite": false,
+          "price": "$256",
+          "url": "https://accommodation.edreams.net/Hotel-Search?selected=103097849&startDate=2025-07-22&endDate=2025-07-23&adults=2&children=&mpf=256.48&cur=USD&mpj=27.48&wapb3=|c.506950|l.en_US|t.meta|s.ghs&MDPCID=eDreams-US.DPS.Edreams.MetaSearch-GHA.HOTEL&mpl=USD&numberOfRooms=1&locale=en_US&rffrid=h4p.hcom.US.ghaodigeo.000.000.kwrd=&pos=EDREAMS_US&rateplanid=394376014&mctc=10&utm_medium=metasearch&utm_campaign=3300131168&utm_term=hotel&utm_source=FREEBOOKING"
+        },
+        {
+          "title": "Bluepillow.com",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsxOG2OhK_A5duugpomcvpKL7RBF20Y9UbUlc7KzRMBYC4sb4um48XI9niE3fs61GfTY10LtkQsG7kFcfEYXFXiW5Z9ixmAdFq0jGsQw2DMlT7U9YfZuHB9lznIL6OZyYH-Qu__x260WwgP34DuuGBL0XxBx4253HwEYlD8U897J&pcurl=https://www.bluepillow.com/search/67a162200d6af09252ae71c0?begin%3D2025-07-22%26end%3D2025-07-23%26block_id%3D-b,2AxjjPXgQBWnbVguFdBkXKGlJWkHD7s9SHd2VVKCkAtXy0fLVUBzMvlwJuzZN3e5,-bpho-Hotel%26adults%3D2%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DUS%26currency%3DUSD%26language%3Den%26source%3Dmapresults%26utm_campaign%3Dhotel%26prid%3D",
+          "isOfficialSite": false,
+          "price": "$256",
+          "url": "https://www.bluepillow.com/search/67a162200d6af09252ae71c0?begin=2025-07-22&end=2025-07-23&block_id=-b,2AxjjPXgQBWnbVguFdBkXKGlJWkHD7s9SHd2VVKCkAtXy0fLVUBzMvlwJuzZN3e5,-bpho-Hotel&adults=2&childs=0&infants=0&childrens=0&country=US&currency=USD&language=en&source=mapresults&utm_campaign=hotel&prid="
+        },
+        {
+          "title": "goseek.com",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OsyoxjPk36wgrXCZeJafQJCsKk5qAR_Rvhh9ei340GvYtXxiRzVLFsipXtxEbDYt6nV7lOraDi3RO7aMF6HpPW7Nsze1nCzXHpO0-46D349aeQljrik2MPtm8HaNZzOc8fmnphpHmsIzzvPzjb-j7hUtuIKxgvH1OHrLuFF4PNn4d-a4U5Re&pcurl=https://deals.goseek.com/?sig%3D34c47a49c3e8320dca5a5dda0da2a460c1bc23afde972e2894a4ff0b6052fb53383131303836353931%26turl%3Dhttps%253A%252F%252Fwww.goseek.com%252FHotel%252FSearch%253FcheckIn%253D2025-07-22%2526checkOut%253D2025-07-23%2526curr%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D121022912%2526userCountry%253DUS%2526profile%253Dr2d2m73kn8%2526preferredRate%253D256.48%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Ddefault%252526gsite%25253Dmapresults%252526vf%25253D0%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D121022912%252526day%25253D22%252526month%25253D07%252526year%25253D2025%252526los%25253D1%252526price%25253D256.48%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253DdVgm23qiy48CgtJOHZpZHJTcEYxSRiPyePDBiAEOLHlpcAKQhYInpDQ8IG77vtUEPSyASC8FSoDVVNE",
+          "isOfficialSite": false,
+          "price": "$256",
+          "url": "https://deals.goseek.com/?sig=34c47a49c3e8320dca5a5dda0da2a460c1bc23afde972e2894a4ff0b6052fb53383131303836353931&turl=https://www.goseek.com/Hotel/Search?checkIn=2025-07-22&checkOut=2025-07-23&curr=USD&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=2:&utm_source=gha&utm_medium=cpc&hotelId=121022912&userCountry=US&profile=r2d2m73kn8&preferredRate=256.48&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dmapresults%26vf%3D0%26ucountry%3DUS%26udevice%3Ddesktop%26hotel%3D121022912%26day%3D22%26month%3D07%26year%3D2025%26los%3D1%26price%3D256.48%26currency%3DUSD%26cid%3D%26listid%3D%26rateid%3DUS%26closerateid%3D%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0%26&cp=dVgm23qiy48CgtJOHZpZHJTcEYxSRiPyePDBiAEOLHlpcAKQhYInpDQ8IG77vtUEPSyASC8FSoDVVNE"
+        },
+        {
+          "title": "dealbase.com",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OswMxrWKShAdv-G_ZBNPdUZWctQMo7PdwMJFtwDH1JFvtyCfpoYi0fZ1Fwj1ULuvPMhFeAuQegg_cyMM7l4CB44mHPXLX2bCW5qt_FlncEmWpU8GNpK7yDjrsIz90O5RcoYt7KtDl6fjTC8TO994-V1NdR4dcEWTT2E3h_O_AzLl43V7BrhRpMrc&pcurl=https://deals.dealbase.com/?sig%3Dd24b78db5ff27b2a7633c125e8c1eb65fcdd29bfbe8d2468da3702f8e475011131373338383435313339%26turl%3Dhttps%253A%252F%252Fwww.dealbase.com%252FHotel%252FSearch%253FcheckIn%253D2025-07-22%2526checkOut%253D2025-07-23%2526curr%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D121022912%2526userCountry%253DUS%2526profile%253Dr2d2m73kn8%2526preferredRate%253D256.48%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Ddefault%252526gsite%25253Dmapresults%252526vf%25253D0%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D121022912%252526day%25253D22%252526month%25253D07%252526year%25253D2025%252526los%25253D1%252526price%25253D256.48%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253DT_sGw54mkZACgt3OWZKRWhHTGVHNBjp3uPDBiACONHd_Y4IQhYInpDQ8IG77vtUEPSyASC8FSoDVVNE",
+          "isOfficialSite": false,
+          "price": "$256",
+          "url": "https://deals.dealbase.com/?sig=d24b78db5ff27b2a7633c125e8c1eb65fcdd29bfbe8d2468da3702f8e475011131373338383435313339&turl=https://www.dealbase.com/Hotel/Search?checkIn=2025-07-22&checkOut=2025-07-23&curr=USD&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=2:&utm_source=gha&utm_medium=cpc&hotelId=121022912&userCountry=US&profile=r2d2m73kn8&preferredRate=256.48&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dmapresults%26vf%3D0%26ucountry%3DUS%26udevice%3Ddesktop%26hotel%3D121022912%26day%3D22%26month%3D07%26year%3D2025%26los%3D1%26price%3D256.48%26currency%3DUSD%26cid%3D%26listid%3D%26rateid%3DUS%26closerateid%3D%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0%26&cp=T_sGw54mkZACgt3OWZKRWhHTGVHNBjp3uPDBiACONHd_Y4IQhYInpDQ8IG77vtUEPSyASC8FSoDVVNE"
+        },
+        {
+          "title": "Etrip.net",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80Osw2MIKVHchUXp1NZ0yvJqk0JxiQlG-I-0gy60NOmL3svuwVPRIj8YduSQ6cel0Nil7bvazAAcGXReGgwQiIGytShMvuIvO-Ysrfc2tF0yTI7VX4MThETlWCRcghNEq9xfCM_aRy9RBzppRP5s8PuE1QssucUf3N8BS-QA&pcurl=https://deals.etrip.net/?sig%3De9cc68956712e1e5d60f579a67e54afadd83f5d631dc9782cc50d47864de2f2c2d32303330363031313335%26turl%3Dhttps%253A%252F%252Fsearch.etrip.net%252FHotel%252FSearch%253FcheckIn%253D2025-07-22%2526checkOut%253D2025-07-23%2526curr%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D121022912%2526userCountry%253DUS%2526profile%253Dr2d2m73kn8%2526preferredRate%253D256.48%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Ddefault%252526gsite%25253Dmapresults%252526vf%25253D0%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D121022912%252526day%25253D22%252526month%25253D07%252526year%25253D2025%252526los%25253D1%252526price%25253D256.48%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253DOPjPLp6llhkCgt3OWZKRWhHTGVHNBi-7OPDBiACONHd_Y4IQhYInpDQ8IG77vtUEPSyASC8FSoDVVNE",
+          "isOfficialSite": false,
+          "price": "$256",
+          "url": "https://deals.etrip.net/?sig=e9cc68956712e1e5d60f579a67e54afadd83f5d631dc9782cc50d47864de2f2c2d32303330363031313335&turl=https://search.etrip.net/Hotel/Search?checkIn=2025-07-22&checkOut=2025-07-23&curr=USD&forceCurrencyChange=1&lang=en&forceLanguageChange=1&rooms=2:&utm_source=gha&utm_medium=cpc&hotelId=121022912&userCountry=US&profile=r2d2m73kn8&preferredRate=256.48&label=src%3Dgha%26cltype%3Dhotel%26datype%3Ddefault%26gsite%3Dmapresults%26vf%3D0%26ucountry%3DUS%26udevice%3Ddesktop%26hotel%3D121022912%26day%3D22%26month%3D07%26year%3D2025%26los%3D1%26price%3D256.48%26currency%3DUSD%26cid%3D%26listid%3D%26rateid%3DUS%26closerateid%3D%26promo%3D0%26isPrivateRate%3D0%26isAudienceUser%3D0%26isPaidClick%3D0%26&cp=OPjPLp6llhkCgt3OWZKRWhHTGVHNBi-7OPDBiACONHd_Y4IQhYInpDQ8IG77vtUEPSyASC8FSoDVVNE"
+        },
+        {
+          "title": "Brek",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80Osy1rk32eUKEma2g1Zf2a9lfPjR0ZZ1gn1Y4V6kJN86Gzl_eCpi6Rbk3kL1WImCw7ft7D7gePuGgSCpG8dmK71JDZIq-nEo2SBiL428mEBTQNQBn1-X76A1uCyZ0v3EdVV72Dy4RrhMLB_nQNDrY25fa6YcOYYexirH2_GqcpoR_EzxMjEk&pcurl=https://www.brek.com/search?lat%3D39.592206%26lng%3D-76.073148%26checkin%3D2025-07-22%26checkout%3D2025-07-23%26pinned%3D66bff2ba5f4552602fa57726%26utm_source%3Dgha%26ep%3D7f51dcbc8ed03f8df50a8a49eb040265ded03ccef42ad87c38c0aa39513b3eed9c79f6cd5c1872c2e566717460f38687116c76d36ea7c585de1ce43bc13609fa%26user_currency%3DUSD%26user_country%3DUS%26user_language%3Den%26user_displayed_total%3D256.48%26user_displayed_tax%3D27.48",
+          "isOfficialSite": false,
+          "price": "$256",
+          "url": "https://www.brek.com/search?lat=39.592206&lng=-76.073148&checkin=2025-07-22&checkout=2025-07-23&pinned=66bff2ba5f4552602fa57726&utm_source=gha&ep=7f51dcbc8ed03f8df50a8a49eb040265ded03ccef42ad87c38c0aa39513b3eed9c79f6cd5c1872c2e566717460f38687116c76d36ea7c585de1ce43bc13609fa&user_currency=USD&user_country=US&user_language=en&user_displayed_total=256.48&user_displayed_tax=27.48"
+        },
+        {
+          "title": "Despegar",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OszzrZxfu8y9kMw_p6Cbhgzold4tYDv-sVnP91ijL89mIYVttEk9SXo8i9ZA-EEwacvAcbbDGCpS_5imCHFGe33V23C3SoBiWIETFiWNznbSZ7aPu1e8KA-fVlUMr41fNNifiyr8-sDOQog3m7C_Tjj-UEl2xIhMSVw0si8qZ7haHkA&pcurl=https://www.trackeame.com/sem-tracker-web/track?kw%3D6363852_324381956_mapresults_US_en_USD_1.00000000_2025_07_22_1_256.50_false%26clt_c%3DHPA-US%26clt_n%3Dgh%26d%3Dc%26cm%3DHPA_US%26pr%3DH%26campaignid%3D%26targetid%3Daud-%26hpa_dd%3Ddefault%26hpa_ppa%3D0%26u%3Dhttps%253A%252F%252Fwww.us.despegar.com%252Faccommodations%252Fresults%252FCIT_178534%252F2025-07-22%252F2025-07-23%252F2%253Fchosen_accommodation%253D6363852%26google_site%3Dmapresults%26displayed_price%3D256.50%26country%3DUS%26lang%3Den%26crawler%3Dfalse%26partner%3D4%26hotprv%3DcHc6RVhQ%26utm_source%3DHPA%26utm_medium%3Dreferral%26utm_term%3D6363852_324381956_mapresults_US_en_USD_1.00000000_2025_07_22_1_256.50_27.50_false%26utm_content%3DUS%26utm_campaign%3D%26cc%3DUS%26key%3DUT81AK9JAFEGJ4D69OVO6J673E",
+          "isOfficialSite": false,
+          "price": "$257",
+          "url": "https://www.trackeame.com/sem-tracker-web/track?kw=6363852_324381956_mapresults_US_en_USD_1.00000000_2025_07_22_1_256.50_false&clt_c=HPA-US&clt_n=gh&d=c&cm=HPA_US&pr=H&campaignid=&targetid=aud-&hpa_dd=default&hpa_ppa=0&u=https://www.us.despegar.com/accommodations/results/CIT_178534/2025-07-22/2025-07-23/2?chosen_accommodation=6363852&google_site=mapresults&displayed_price=256.50&country=US&lang=en&crawler=false&partner=4&hotprv=cHc6RVhQ&utm_source=HPA&utm_medium=referral&utm_term=6363852_324381956_mapresults_US_en_USD_1.00000000_2025_07_22_1_256.50_27.50_false&utm_content=US&utm_campaign=&cc=US&key=UT81AK9JAFEGJ4D69OVO6J673E"
+        },
+        {
+          "title": "Trip.com",
+          "googleUrl": "https://www.google.com/travel/clk?pc=AA80OszgnH2hTCqLhWmZb0DHZx5POLmO868BaSr6Cc5R5dXrElnICbBG27WanqFKYW3tn2-VlIbwSmDYZz8LvZCpcIYZntlAwD8mFaygifl26LZ0DHLFNOKAp6-YjPQxX1tTCoYNYSyHBQc7J2QS7O3BS4T16qrPJRXQa3IKMQ&pcurl=https://us.trip.com/hotels/redirect?hotelid%3D122230185%26city%3D84239%26shoppingid%3DMgBLFNT85hsg%26adult%3D2%26children%3D0%26ages%3D%26checkin%3D2025-07-22%26checkout%3D2025-07-23%26curr%3DUSD%26Allianceid%3D15214%26Sid%3D1209572%26prid%3DLANG_US%26trip_sub1%3D22_07_2025_1_mapresults_122230185_US_desktop_default___0_0-LANG_US-landing%26hpaopts%3Dstand%5BH4sIAAAAAAAA_-Py4GKSYBFi4mCUsuPYfPfUG1YhdgsTAyAwMbjPaLFVPoBjBuPK1UusdjCyXGRkAIEFOQ4PISyOAocXjDdv9r1lXMDCKMXjm-7k4-YXYmGaUZyuwKhx-e7jw2wejEFsliZOLmamUTJczKHBLoIzd0-bwL9LxkEKxFOE8ZJYU_N0Q4Mzbgl1MTJ5MK5iZOdiNjAxFGD5xMiPbG68oSUACIooB7MAAAA%5Dfgt%5B1%5D%26br%3D256.50%26tf%3D27.50%26display%3Dexavg%26locale%3Den_us%26crn%3D1%26roomid%3D1569894067%26allianceid%3D15214%26sid%3D1209572",
+          "isOfficialSite": false,
+          "price": "$257",
+          "url": "https://us.trip.com/hotels/redirect?hotelid=122230185&city=84239&shoppingid=MgBLFNT85hsg&adult=2&children=0&ages=&checkin=2025-07-22&checkout=2025-07-23&curr=USD&Allianceid=15214&Sid=1209572&prid=LANG_US&trip_sub1=22_07_2025_1_mapresults_122230185_US_desktop_default___0_0-LANG_US-landing&hpaopts=stand[H4sIAAAAAAAA_-Py4GKSYBFi4mCUsuPYfPfUG1YhdgsTAyAwMbjPaLFVPoBjBuPK1UusdjCyXGRkAIEFOQ4PISyOAocXjDdv9r1lXMDCKMXjm-7k4-YXYmGaUZyuwKhx-e7jw2wejEFsliZOLmamUTJczKHBLoIzd0-bwL9LxkEKxFOE8ZJYU_N0Q4Mzbgl1MTJ5MK5iZOdiNjAxFGD5xMiPbG68oSUACIooB7MAAAA]fgt[1]&br=256.50&tf=27.50&display=exavg&locale=en_us&crn=1&roomid=1569894067&allianceid=15214&sid=1209572"
+        }
+      ],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Amenities": [
+          {
+            "Free Wi-Fi": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Great%20Wolf%20Lodge%20Water%20Park%20%7C%20Perryville&query_place_id=ChIJvdrX1uK5x4kRx7dZUQmjeyY",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.650325761082875,-76.16426758127012,11z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 23,
+      "isAdvertisement": false,
+      "imageUrl": "https://images.trvl-media.com/lodging/104000000/103100000/103097900/103097849/75e26219_z.jpg",
+      "kgmid": "/g/11stxcdnf_"
+    },
+    {
+      "title": "Box Hill Pizzeria and Crab Cakes",
+      "description": "Pizza & crab cakes share the spotlight in a casual mall space that also offers subs, salads & pasta.",
+      "price": "$$",
+      "categoryName": "Restaurant",
+      "address": "2915 Emmorton Rd, Abingdon, MD 21009",
+      "neighborhood": null,
+      "street": "2915 Emmorton Rd",
+      "city": "Abingdon",
+      "postalCode": "21009",
+      "state": "Maryland",
+      "countryCode": "US",
+      "website": "https://www.boxhillpizzarestaurant.com/",
+      "phone": "(410) 515-3662",
+      "phoneUnformatted": "+14105153662",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.479285,
+        "lng": -76.3094577
+      },
+      "totalScore": 4.6,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ3wCiR5nnx4kRfomJXlco9Ls",
+      "categories": [
+        "Restaurant",
+        "Family restaurant",
+        "Italian restaurant",
+        "Pizza restaurant",
+        "Seafood restaurant"
+      ],
+      "fid": "0x89c7e79947a200df:0xbbf428575e89897e",
+      "cid": "13543494335123261822",
+      "reviewsCount": 3877,
+      "reviewsDistribution": {
+        "oneStar": 77,
+        "twoStar": 69,
+        "threeStar": 209,
+        "fourStar": 675,
+        "fiveStar": 2847
+      },
+      "imagesCount": 1246,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:33:16.576Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM to 10 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 10 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 10 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 11 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 11 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM to 10 PM"
+        }
+      ],
+      "additionalOpeningHours": {
+        "Takeout": [
+          {
+            "day": "Monday",
+            "hours": "10 AM–10 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "10 AM–10 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "10 AM–10 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "10 AM–10 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "10 AM–11 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "10 AM–11 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "10 AM–10 PM"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Outdoor seating": true
+          },
+          {
+            "Curbside pickup": true
+          },
+          {
+            "Takeout": true
+          },
+          {
+            "Dine-in": true
+          }
+        ],
+        "Highlights": [
+          {
+            "Fast service": true
+          },
+          {
+            "Great dessert": true
+          },
+          {
+            "Serves local specialty": true
+          }
+        ],
+        "Popular for": [
+          {
+            "Lunch": true
+          },
+          {
+            "Dinner": true
+          },
+          {
+            "Solo dining": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Alcohol": true
+          },
+          {
+            "Beer": true
+          },
+          {
+            "Coffee": true
+          },
+          {
+            "Comfort food": true
+          },
+          {
+            "Late-night food": true
+          },
+          {
+            "Quick bite": true
+          },
+          {
+            "Small plates": true
+          },
+          {
+            "Wine": true
+          }
+        ],
+        "Dining options": [
+          {
+            "Lunch": true
+          },
+          {
+            "Dinner": true
+          },
+          {
+            "Catering": true
+          },
+          {
+            "Dessert": true
+          },
+          {
+            "Seating": true
+          },
+          {
+            "Table service": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Restroom": true
+          },
+          {
+            "Wi-Fi": true
+          },
+          {
+            "Free Wi-Fi": true
+          }
+        ],
+        "Atmosphere": [
+          {
+            "Casual": true
+          },
+          {
+            "Cozy": true
+          },
+          {
+            "Trendy": true
+          }
+        ],
+        "Crowd": [
+          {
+            "Family-friendly": true
+          },
+          {
+            "Groups": true
+          },
+          {
+            "Tourists": true
+          }
+        ],
+        "Planning": [
+          {
+            "Accepts reservations": false
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Children": [
+          {
+            "Good for kids": true
+          },
+          {
+            "High chairs": true
+          },
+          {
+            "Kids' menu": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          },
+          {
+            "Usually plenty of parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Box%20Hill%20Pizzeria%20and%20Crab%20Cakes&query_place_id=ChIJ3wCiR5nnx4kRfomJXlco9Ls",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.650325761082875,-76.16426758127012,11z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 24,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqTRHW-J6MJOp3i8umQUtt1Bk2PYonHe3b4-U8QXYXMHHxLiZGSwo6UhEgR2WcDQj81GN3g26lQtc0VsEKYvwLrogw9oF3Z1bMfjl_FHetRlvdY5IM4EEy0AJuEOzt_iJ40K9vOtg=w408-h306-k-no",
+      "kgmid": "/g/1hc3d85nz"
+    },
+    {
+      "title": "Bel Air Window and Door - Your Local Window Depot",
+      "price": null,
+      "categoryName": "Window installation service",
+      "address": "1609 Belair Rd # 2, Fallston, MD 21047",
+      "neighborhood": null,
+      "street": "1609 Belair Rd # 2",
+      "city": "Fallston",
+      "postalCode": "21047",
+      "state": "Maryland",
+      "countryCode": "US",
+      "website": "http://www.windowdepotbaltimore.com/",
+      "phone": "(410) 941-3499",
+      "phoneUnformatted": "+14109413499",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.5025106,
+        "lng": -76.3831182
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ83K-9cDnx4kR4DuvgUR3zY4",
+      "categories": [
+        "Window installation service",
+        "Door manufacturer",
+        "Door shop",
+        "Door supplier",
+        "PVC windows supplier",
+        "Window supplier"
+      ],
+      "fid": "0x89c7e7c0f5be72f3:0x8ecd774481af3be0",
+      "cid": "10290011859728677856",
+      "reviewsCount": 143,
+      "reviewsDistribution": {
+        "oneStar": 0,
+        "twoStar": 0,
+        "threeStar": 0,
+        "fourStar": 0,
+        "fiveStar": 143
+      },
+      "imagesCount": 317,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:33:16.576Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "7 AM to 7 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7 AM to 7 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7 AM to 7 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7 AM to 7 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7 AM to 7 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8 AM to 3 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Online estimates": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "On-site parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Bel%20Air%20Window%20and%20Door%20-%20Your%20Local%20Window%20Depot&query_place_id=ChIJ83K-9cDnx4kR4DuvgUR3zY4",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.650325761082875,-76.16426758127012,11z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 25,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNGiLjU-B2th16H1smGxrkkHqUxqZHHxEfuULwl=w408-h306-k-no",
+      "kgmid": "/g/11mxmpw605"
+    },
+    {
+      "title": "Breath Taking Soul",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "11 N Eutaw St, Baltimore, MD 21201",
+      "neighborhood": "Westside Baltimore",
+      "street": "11 N Eutaw St",
+      "city": "Baltimore",
+      "postalCode": "21201",
+      "state": "Maryland",
+      "countryCode": "US",
+      "phone": "(443) 240-0106",
+      "phoneUnformatted": "+14432400106",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.2898666,
+        "lng": -76.6208037
+      },
+      "totalScore": 1,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJqyccw3IFyIkRIexaplPzaes",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c80572c31c27ab:0xeb69f353a65aec21",
+      "cid": "16963357012066495521",
+      "reviewsCount": 2,
+      "imagesCount": 23,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:33:36.511Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Friday",
+          "hours": "5:30 to 9:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "5:30 to 9:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Breath%20Taking%20Soul&query_place_id=ChIJqyccw3IFyIkRIexaplPzaes",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.22734523054144,-76.70026139063506,11z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 10,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMOAmG7XiOSOoNosq-zLDT6L_G2DXf9L1X5J3v9=w408-h544-k-no",
+      "kgmid": "/g/11sdsqm5cf"
+    },
+    {
+      "title": "Butch's Bistro",
+      "price": "$$",
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "156 N East Ave, Baltimore, MD 21224",
+      "neighborhood": "Patterson Park Neighborhood",
+      "street": "156 N East Ave",
+      "city": "Baltimore",
+      "postalCode": "21224",
+      "state": "Maryland",
+      "countryCode": "US",
+      "website": "http://www.butchs-bistro.com/",
+      "phone": "(667) 354-2328",
+      "phoneUnformatted": "+16673542328",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.2946521,
+        "lng": -76.5727596
+      },
+      "totalScore": 4.3,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJGSZjSGMFyIkRZVJMxYAlXTk",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c8056348632619:0x395d2580c54c5265",
+      "cid": "4133501267992138341",
+      "reviewsCount": 33,
+      "imagesCount": 16,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:33:36.511Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 3 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 3 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 9 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM to 9 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalOpeningHours": {
+        "Online service hours": [
+          {
+            "day": "Monday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "9 AM–8 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "9 AM–8 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "9 AM–8 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "9 AM–9 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "9 AM–9 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Closed"
+          }
+        ],
+        "Breakfast": [
+          {
+            "day": "Monday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "9 AM–8 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "9 AM–8 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "9 AM–9 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "9 AM–9 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Closed"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          },
+          {
+            "Transgender safespace": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Butch's%20Bistro&query_place_id=ChIJGSZjSGMFyIkRZVJMxYAlXTk",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.22734523054144,-76.70026139063506,11z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 17,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPEutm5m_FtpXaF5kY4OCU_1Z0E67JfaedDujXD=w408-h549-k-no",
+      "kgmid": "/g/11t1tgjrj6"
+    },
+    {
+      "title": "Mimosa Kitchen And Bath",
+      "price": null,
+      "categoryName": "General contractor",
+      "address": "3570 St Johns Ln # 110, Ellicott City, MD 21042",
+      "neighborhood": null,
+      "street": "3570 St Johns Ln # 110",
+      "city": "Ellicott City",
+      "postalCode": "21042",
+      "state": "Maryland",
+      "countryCode": "US",
+      "website": "https://mimosakitchenandbath.com/",
+      "phone": "(410) 480-4100",
+      "phoneUnformatted": "+14104804100",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.27236,
+        "lng": -76.827002
+      },
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ76r6RdUhyIkRUFcrUOUNKHU",
+      "categories": [
+        "General contractor",
+        "Bathroom remodeler",
+        "Contractor",
+        "Countertop store",
+        "Kitchen remodeler",
+        "Marble contractor"
+      ],
+      "fid": "0x89c821d545faaaef:0x75280de5502b5750",
+      "cid": "8442012780049684304",
+      "reviewsCount": 96,
+      "imagesCount": 305,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:33:36.511Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 4 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Online estimates": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Mimosa%20Kitchen%20And%20Bath&query_place_id=ChIJ76r6RdUhyIkRUFcrUOUNKHU",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.22734523054144,-76.70026139063506,11z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 19,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPWi4iWUufFTd_-eMfJJKSFxOr7pxV7ZPfaRIKg=w408-h272-k-no",
+      "kgmid": "/g/11ggrmm9tx"
+    },
+    {
+      "title": "Co-Balt Workspace",
+      "price": null,
+      "categoryName": "Coworking space",
+      "address": "1014 W 36th St, Baltimore, MD 21211",
+      "neighborhood": "Hampden",
+      "street": "1014 W 36th St",
+      "city": "Baltimore",
+      "postalCode": "21211",
+      "state": "Maryland",
+      "countryCode": "US",
+      "website": "https://www.cobaltworkspace.com/",
+      "phone": "(443) 775-3064",
+      "phoneUnformatted": "+14437753064",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.3312418,
+        "lng": -76.6335865
+      },
+      "totalScore": 4.8,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJD8xEk4UFyIkRkYjmK03D6xQ",
+      "categories": ["Coworking space", "Conference center", "Event venue"],
+      "fid": "0x89c805859344cc0f:0x14ebc34d2be68891",
+      "cid": "1507513236501989521",
+      "reviewsCount": 84,
+      "imagesCount": 157,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:33:36.511Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as veteran-owned": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Co-Balt%20Workspace&query_place_id=ChIJD8xEk4UFyIkRkYjmK03D6xQ",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.22734523054144,-76.70026139063506,11z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 20,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipORR94nUMv0nqDLsIW7TqTg5jfGHkvm6V-KKia7=w408-h272-k-no",
+      "kgmid": "/g/11h3ngl648"
+    },
+    {
+      "title": "The Commissary at CVille Junction",
+      "price": null,
+      "categoryName": "Recreation center",
+      "address": "1715 Edmondson Ave, Catonsville, MD 21228",
+      "neighborhood": null,
+      "street": "1715 Edmondson Ave",
+      "city": "Catonsville",
+      "postalCode": "21228",
+      "state": "Maryland",
+      "countryCode": "US",
+      "website": "https://m.facebook.com/thecommissarycvillejunction/",
+      "phone": "(443) 840-9110",
+      "phoneUnformatted": "+14438409110",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 39.2731744,
+        "lng": -76.7541166
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJQ2csS00fyIkR1hSzk6zfdUQ",
+      "categories": ["Recreation center"],
+      "fid": "0x89c81f4d4b2c6743:0x4475dfac93b314d6",
+      "cid": "4933094899159602390",
+      "reviewsCount": 4,
+      "imagesCount": 19,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:34:10.740Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Commissary%20at%20CVille%20Junction&query_place_id=ChIJQ2csS00fyIkR1hSzk6zfdUQ",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.26732839999999,-76.7983067,15z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 5,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npwC8BsY7aA3-0gR01Xu9nMdVP-LH8t_MFE-Moc2YIdpENwIsk6-mH77TC0ahZ48dmfc9Se4s0ZWJFwd-CZzjrB3uLsCc4jc2-gyUOVy1ktgCmOeZCaoanoaEXnWcSuueo0DB1cCA=w408-h306-k-no",
+      "kgmid": "/g/11qnj2gqwf"
+    },
+    {
+      "query": "shared-use commercial kitchen, 20736, Owings, MD, US",
+      "name": "STC Soul Joint-Commissary Kitchen",
+      "name_for_emails": "Stc Soul Joint Commissary Kitchen",
+      "site": "http://www.stccateringdmv.com/",
+      "subtypes": "Shared-use commercial kitchen",
+      "category": "Shared-use commercial kitchen",
+      "type": "Shared-use commercial kitchen",
+      "phone": "+1 202-743-6075",
+      "full_address": "15638 Livingston Rd Unit 16, Accokeek, MD 20607",
+      "borough": "None",
+      "street": "15638 Livingston Rd Unit 16",
+      "city": "Accokeek",
+      "postal_code": 20607,
+      "state": "Maryland",
+      "us_state": "Maryland",
+      "country": "United States of America",
+      "country_code": "US",
+      "latitude": 38.6692855,
+      "longitude": -76.9965721,
+      "h3": "892aa861ec7ffff",
+      "time_zone": "America/New_York",
+      "plus_code": null,
+      "area_service": false,
+      "rating": 4.7,
+      "reviews": 30,
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJodpM-cOnt4kRqOKb9sBxL6A&q=shared-use+commercial+kitchen,+20736,+Owings,+MD,+US&authuser=0&hl=en&gl=US",
+      "reviews_tags": null,
+      "reviews_per_score": null,
+      "reviews_per_score_1": 0,
+      "reviews_per_score_2": 0,
+      "reviews_per_score_3": 3,
+      "reviews_per_score_4": 3,
+      "reviews_per_score_5": 24,
+      "photos_count": 25,
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrAD1maQJUmPOtW_dDjE4eCsrUWM6XWB_-qNynCxb2E84oc64sdOBlLjkWd7XilqAZx3SnVkxr7Qf9Rbu0sI4B9e3_KfBDFXUoxhcJpfhpoOdoafkO8ZN8zGHW33sL9hS4mIeY=w800-h500-k-no",
+      "street_view": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrAD1maQJUmPOtW_dDjE4eCsrUWM6XWB_-qNynCxb2E84oc64sdOBlLjkWd7XilqAZx3SnVkxr7Qf9Rbu0sI4B9e3_KfBDFXUoxhcJpfhpoOdoafkO8ZN8zGHW33sL9hS4mIeY=w1600-h1000-k-no",
+      "located_in": null,
+      "working_hours": {
+        "Sunday": "6AM-8PM",
+        "Monday": "6AM-8PM",
+        "Tuesday": "6AM-8PM",
+        "Wednesday": "6AM-8PM",
+        "Thursday": "6AM-8PM",
+        "Friday": "6AM-8PM",
+        "Saturday": "6AM-8PM"
+      },
+      "working_hours_csv_compatible": "Sunday,6AM,8PM|Monday,6AM,8PM|Tuesday,6AM,8PM|Wednesday,6AM,8PM|Thursday,6AM,8PM|Friday,6AM,8PM|Saturday,6AM,8PM",
+      "working_hours_old_format": "Sunday:6AM-8PM|Monday:6AM-8PM|Tuesday:6AM-8PM|Wednesday:6AM-8PM|Thursday:6AM-8PM|Friday:6AM-8PM|Saturday:6AM-8PM",
+      "other_hours": null,
+      "popular_times": null,
+      "business_status": "OPERATIONAL",
+      "about": {
+        "Service options": {
+          "Delivery": true,
+          "Onsite services": false
+        },
+        "Accessibility": {
+          "Wheelchair accessible entrance": true,
+          "Wheelchair accessible parking lot": true
+        },
+        "Payments": {
+          "Credit cards": true,
+          "Debit cards": true,
+          "NFC mobile payments": true
+        }
+      },
+      "range": null,
+      "prices": null,
+      "posts": null,
+      "logo": "https://lh6.googleusercontent.com/-zB_Pw5IUVvs/AAAAAAAAAAI/AAAAAAAAAAA/dlrpfKgVdag/s44-p-k-no-ns-nd/photo.jpg",
+      "description": null,
+      "typical_time_spent": null,
+      "verified": true,
+      "owner_id": 1.1311671674424056e20,
+      "owner_title": "STC Soul Joint-Commissary Kitchen",
+      "owner_link": "https://www.google.com/maps/contrib/113116716744240563832",
+      "reservation_links": null,
+      "booking_appointment_link": null,
+      "menu_link": null,
+      "order_links": null,
+      "location_link": "https://www.google.com/maps/place/STC+Soul+Joint-Commissary+Kitchen/@38.6692855,-76.9965721,14z/data=!4m8!1m2!2m1!1sSTC+Soul+Joint-Commissary+Kitchen!3m4!1s0x89b7a7c3f94cdaa1:0xa02f71c0f69be2a8!8m2!3d38.6692855!4d-76.9965721",
+      "location_reviews_link": "https://www.google.com/maps/place/STC+Soul+Joint-Commissary+Kitchen/@38.6692855,-76.9965721,13.99z/data=!4m16!1m7!3m6!1s0x89b7a7c3f94cdaa1:0xa02f71c0f69be2a8!2sSTC+Soul+Joint-Commissary+Kitchen!8m2!3d38.6692855!4d-76.9965721!16s%2Fg%2F11ckvg1dmb!3m7!1s0x89b7a7c3f94cdaa1:0xa02f71c0f69be2a8!8m2!3d38.6692855!4d-76.9965721!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "place_id": "ChIJodpM-cOnt4kRqOKb9sBxL6A",
+      "google_id": "0x89b7a7c3f94cdaa1:0xa02f71c0f69be2a8",
+      "cid": 1.154256944355894e19,
+      "kgmid": "/g/11ls_zr3st",
+      "reviews_id": -6.90417463015061e18,
+      "located_google_id": null
+    },
+    {
+      "query": "shared-use commercial kitchen, 21117, Owings Mills, MD, US",
+      "name": "Baltimore Food & Beverage Maker’s Space",
+      "name_for_emails": "Baltimore Food And Beverage Maker’S Space",
+      "site": "https://www.thekitchendoor.com/kitchen-rental/fells-point-culinary",
+      "subtypes": "Makerspace",
+      "category": "Makerspace",
+      "type": "Makerspace",
+      "phone": "+1 667-231-1143",
+      "full_address": "3326 Greenmount Ave, Baltimore, MD 21218",
+      "borough": "Oakenshawe",
+      "street": "3326 Greenmount Ave",
+      "city": "Baltimore",
+      "postal_code": 21218,
+      "state": "Maryland",
+      "us_state": "Maryland",
+      "country": "United States of America",
+      "country_code": "US",
+      "latitude": 39.3293774,
+      "longitude": -76.6096884,
+      "h3": "892aa8c2c6fffff",
+      "time_zone": "America/New_York",
+      "plus_code": null,
+      "area_service": false,
+      "rating": 4.7,
+      "reviews": 3,
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJLfc4OgIDyIkRieNIxXsVvYQ&q=shared-use+commercial+kitchen,+21117,+Owings+Mills,+MD,+US&authuser=0&hl=en&gl=US",
+      "reviews_tags": null,
+      "reviews_per_score": null,
+      "reviews_per_score_1": 0,
+      "reviews_per_score_2": 0,
+      "reviews_per_score_3": 0,
+      "reviews_per_score_4": 1,
+      "reviews_per_score_5": 2,
+      "photos_count": 337,
+      "photo": "https://lh3.googleusercontent.com/p/AF1QipPFMbioA9WM6EnxlWFg83wwaBzv_Ua-oq9h86Ld=w800-h500-k-no",
+      "street_view": "https://lh3.googleusercontent.com/p/AF1QipPFMbioA9WM6EnxlWFg83wwaBzv_Ua-oq9h86Ld=w1600-h1000-k-no",
+      "located_in": null,
+      "working_hours": {
+        "Sunday": "Open 24 hours",
+        "Monday": "Open 24 hours",
+        "Tuesday": "Open 24 hours",
+        "Wednesday": "Open 24 hours",
+        "Thursday": "Open 24 hours",
+        "Friday": "Open 24 hours",
+        "Saturday": "Open 24 hours"
+      },
+      "working_hours_csv_compatible": "Sunday,Open 24 hours|Monday,Open 24 hours|Tuesday,Open 24 hours|Wednesday,Open 24 hours|Thursday,Open 24 hours|Friday,Open 24 hours|Saturday,Open 24 hours",
+      "working_hours_old_format": "Sunday:Open 24 hours|Monday:Open 24 hours|Tuesday:Open 24 hours|Wednesday:Open 24 hours|Thursday:Open 24 hours|Friday:Open 24 hours|Saturday:Open 24 hours",
+      "other_hours": null,
+      "popular_times": null,
+      "business_status": "OPERATIONAL",
+      "about": {
+        "From the business": {
+          "Identifies as Black-owned": true,
+          "Identifies as Latino-owned": true,
+          "Identifies as LGBTQ+ owned": true,
+          "Identifies as veteran-owned": true,
+          "Identifies as women-owned": true
+        },
+        "Service options": {
+          "Onsite services": true
+        },
+        "Accessibility": {
+          "Wheelchair accessible entrance": true,
+          "Wheelchair accessible parking lot": true
+        },
+        "Amenities": {
+          "Gender-neutral restroom": true
+        },
+        "Crowd": {
+          "LGBTQ+ friendly": true
+        },
+        "Parking": {
+          "On-site parking": true
+        },
+        "Other": {
+          "Identifies as Black-owned": true,
+          "LGBTQ+ friendly": true,
+          "Identifies as veteran-owned": true,
+          "Identifies as women-owned": true,
+          "Identifies as Latino-owned": true,
+          "Identifies as LGBTQ+ owned": true
+        }
+      },
+      "range": null,
+      "prices": null,
+      "posts": null,
+      "logo": "https://lh6.googleusercontent.com/-6g8WksiZVyQ/AAAAAAAAAAI/AAAAAAAAAAA/D5O-1uIAixU/s44-p-k-no-ns-nd/photo.jpg",
+      "description": null,
+      "typical_time_spent": null,
+      "verified": true,
+      "owner_id": 1.0302367867387195e20,
+      "owner_title": "Baltimore Food & Beverage Maker’s Space",
+      "owner_link": "https://www.google.com/maps/contrib/103023678673871947103",
+      "reservation_links": null,
+      "booking_appointment_link": "https://www.thekitchendoor.com/kitchen-rental/fells-point-culinary",
+      "menu_link": null,
+      "order_links": "https://www.thekitchendoor.com/kitchen-rental/fells-point-culinary",
+      "location_link": "https://www.google.com/maps/place/Baltimore+Food+%26+Beverage+Maker%E2%80%99s+Space/@39.3293774,-76.6096884,14z/data=!4m8!1m2!2m1!1sBaltimore+Food+%26+Beverage+Maker%E2%80%99s+Space!3m4!1s0x89c803023a38f72d:0x84bd157bc548e389!8m2!3d39.3293774!4d-76.6096884",
+      "location_reviews_link": "https://www.google.com/maps/place/Baltimore+Food+%26+Beverage+Maker%E2%80%99s+Space/@39.3293774,-76.6096884,13.99z/data=!4m16!1m7!3m6!1s0x89c803023a38f72d:0x84bd157bc548e389!2sBaltimore+Food+%26+Beverage+Maker%E2%80%99s+Space!8m2!3d39.3293774!4d-76.6096884!16s%2Fg%2F11ckvg1dmb!3m7!1s0x89c803023a38f72d:0x84bd157bc548e389!8m2!3d39.3293774!4d-76.6096884!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "place_id": "ChIJLfc4OgIDyIkRieNIxXsVvYQ",
+      "google_id": "0x89c803023a38f72d:0x84bd157bc548e389",
+      "cid": 9.56482480493985e18,
+      "kgmid": "/g/11h1yw0jy8",
+      "reviews_id": -8.881919268769701e18,
+      "located_google_id": null
+    },
+    {
+      "query": "shared-use commercial kitchen, 21201, Baltimore, MD, US",
+      "name": "B'More Made with Pride Commercial Kitchen",
+      "name_for_emails": "Bmore Made With Pride Commercial Kitchen",
+      "site": "http://www.cafeatbmore.com/pages/commercial-kitchen",
+      "subtypes": "Shared-use commercial kitchen",
+      "category": "Shared-use commercial kitchen",
+      "type": "Shared-use commercial kitchen",
+      "phone": "+1 410-982-9995",
+      "full_address": "6615 Harford Rd, Baltimore, MD 21214",
+      "borough": "Westfield",
+      "street": "6615 Harford Rd",
+      "city": "Baltimore",
+      "postal_code": 21214,
+      "state": "Maryland",
+      "us_state": "Maryland",
+      "country": "United States of America",
+      "country_code": "US",
+      "latitude": 39.36278,
+      "longitude": -76.5520067,
+      "h3": "892aa8d508bffff",
+      "time_zone": "America/New_York",
+      "plus_code": null,
+      "area_service": false,
+      "rating": 4.4,
+      "reviews": 19,
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJq6pOg1UPyIkRAeS10mfmLw8&q=shared-use+commercial+kitchen,+21201,+Baltimore,+MD,+US&authuser=0&hl=en&gl=US",
+      "reviews_tags": null,
+      "reviews_per_score": null,
+      "reviews_per_score_1": 2,
+      "reviews_per_score_2": 0,
+      "reviews_per_score_3": 1,
+      "reviews_per_score_4": 2,
+      "reviews_per_score_5": 14,
+      "photos_count": 11,
+      "photo": "https://lh3.googleusercontent.com/p/AF1QipOBWjXiiuziNT4YYQ03n8KroxQNV7mQ13Rrh2hv=w800-h500-k-no",
+      "street_view": "https://lh3.googleusercontent.com/p/AF1QipOBWjXiiuziNT4YYQ03n8KroxQNV7mQ13Rrh2hv=w1600-h1000-k-no",
+      "located_in": null,
+      "working_hours": null,
+      "working_hours_csv_compatible": null,
+      "working_hours_old_format": null,
+      "other_hours": [
+        {
+          "kitchen": {
+            "Sunday": "Open 24 hours",
+            "Monday": "Open 24 hours",
+            "Tuesday": "Open 24 hours",
+            "Wednesday": "Open 24 hours",
+            "Thursday": "Open 24 hours",
+            "Friday": "Open 24 hours",
+            "Saturday": "Open 24 hours"
+          }
+        }
+      ],
+      "popular_times": null,
+      "business_status": "OPERATIONAL",
+      "about": {
+        "From the business": {
+          "Identifies as women-owned": true
+        },
+        "Service options": {
+          "Delivery": true
+        },
+        "Payments": {
+          "Debit cards": true,
+          "Credit cards": true
+        },
+        "Other": {
+          "Identifies as women-owned": true
+        }
+      },
+      "range": null,
+      "prices": null,
+      "posts": null,
+      "logo": "https://lh6.googleusercontent.com/-31vgrU2OjCg/AAAAAAAAAAI/AAAAAAAAAAA/de2AxTShrOI/s44-p-k-no-ns-nd/photo.jpg",
+      "description": null,
+      "typical_time_spent": null,
+      "verified": true,
+      "owner_id": 1.0599104698268426e20,
+      "owner_title": "B'More Made with Pride Commercial Kitchen",
+      "owner_link": "https://www.google.com/maps/contrib/105991046982684265335",
+      "reservation_links": null,
+      "booking_appointment_link": null,
+      "menu_link": null,
+      "order_links": null,
+      "location_link": "https://www.google.com/maps/place/B%27More+Made+with+Pride+Commercial+Kitchen/@39.36278,-76.55200669999999,14z/data=!4m8!1m2!2m1!1sB%27More+Made+with+Pride+Commercial+Kitchen!3m4!1s0x89c80f55834eaaab:0xf2fe667d2b5e401!8m2!3d39.36278!4d-76.55200669999999",
+      "location_reviews_link": "https://www.google.com/maps/place/B%27More+Made+with+Pride+Commercial+Kitchen/@39.36278,-76.55200669999999,13.99z/data=!4m16!1m7!3m6!1s0x89c80f55834eaaab:0xf2fe667d2b5e401!2sB%27More+Made+with+Pride+Commercial+Kitchen!8m2!3d39.36278!4d-76.55200669999999!16s%2Fg%2F11ckvg1dmb!3m7!1s0x89c80f55834eaaab:0xf2fe667d2b5e401!8m2!3d39.36278!4d-76.55200669999999!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "place_id": "ChIJq6pOg1UPyIkRAeS10mfmLw8",
+      "google_id": "0x89c80f55834eaaab:0xf2fe667d2b5e401",
+      "cid": 1.0943465680654756e18,
+      "kgmid": "/g/11j03brzcc",
+      "reviews_id": 1.0943465680654756e18,
+      "located_google_id": null
+    },
+    {
+      "query": "shared-use commercial kitchen, 21201, Baltimore, MD, US",
+      "name": "Breath Taking Soul",
+      "name_for_emails": "Breath Taking Soul",
+      "site": null,
+      "subtypes": "Shared-use commercial kitchen",
+      "category": "Shared-use commercial kitchen",
+      "type": "Shared-use commercial kitchen",
+      "phone": "+1 443-240-0106",
+      "full_address": "11 N Eutaw St, Baltimore, MD 21201",
+      "borough": "Westside Baltimore",
+      "street": "11 N Eutaw St",
+      "city": "Baltimore",
+      "postal_code": 21201,
+      "state": "Maryland",
+      "us_state": "Maryland",
+      "country": "United States of America",
+      "country_code": "US",
+      "latitude": 39.2898666,
+      "longitude": -76.6208037,
+      "h3": "892aa8c2b2fffff",
+      "time_zone": "America/New_York",
+      "plus_code": null,
+      "area_service": false,
+      "rating": 1,
+      "reviews": 2,
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJqyccw3IFyIkRIexaplPzaes&q=shared-use+commercial+kitchen,+21201,+Baltimore,+MD,+US&authuser=0&hl=en&gl=US",
+      "reviews_tags": null,
+      "reviews_per_score": null,
+      "reviews_per_score_1": 2,
+      "reviews_per_score_2": 0,
+      "reviews_per_score_3": 0,
+      "reviews_per_score_4": 0,
+      "reviews_per_score_5": 0,
+      "photos_count": 23,
+      "photo": "https://lh3.googleusercontent.com/p/AF1QipMOAmG7XiOSOoNosq-zLDT6L_G2DXf9L1X5J3v9=w800-h500-k-no",
+      "street_view": "https://lh3.googleusercontent.com/p/AF1QipMOAmG7XiOSOoNosq-zLDT6L_G2DXf9L1X5J3v9=w1600-h1000-k-no",
+      "located_in": null,
+      "working_hours": {
+        "Sunday": "Closed",
+        "Monday": "Closed",
+        "Tuesday": "Closed",
+        "Wednesday": "Closed",
+        "Thursday": "Closed",
+        "Friday": "5:30-9:30PM",
+        "Saturday": "5:30-9:30PM"
+      },
+      "working_hours_csv_compatible": "Sunday,|Monday,|Tuesday,|Wednesday,|Thursday,|Friday,5:30,9:30PM|Saturday,5:30,9:30PM",
+      "working_hours_old_format": "Sunday:Closed|Monday:Closed|Tuesday:Closed|Wednesday:Closed|Thursday:Closed|Friday:5:30-9:30PM|Saturday:5:30-9:30PM",
+      "other_hours": null,
+      "popular_times": null,
+      "business_status": "OPERATIONAL",
+      "about": {
+        "Payments": {
+          "Debit cards": true,
+          "Credit cards": true
+        }
+      },
+      "range": null,
+      "prices": null,
+      "posts": null,
+      "logo": "https://lh6.googleusercontent.com/-Vb2Hkn80m2I/AAAAAAAAAAI/AAAAAAAAAAA/Re6iJfs5GKE/s44-p-k-no-ns-nd/photo.jpg",
+      "description": null,
+      "typical_time_spent": null,
+      "verified": true,
+      "owner_id": 1.116774988705023e20,
+      "owner_title": "Breath Taking Soul",
+      "owner_link": "https://www.google.com/maps/contrib/111677498870502291468",
+      "reservation_links": null,
+      "booking_appointment_link": null,
+      "menu_link": null,
+      "order_links": null,
+      "location_link": "https://www.google.com/maps/place/Breath+Taking+Soul/@39.289866599999996,-76.6208037,14z/data=!4m8!1m2!2m1!1sBreath+Taking+Soul!3m4!1s0x89c80572c31c27ab:0xeb69f353a65aec21!8m2!3d39.289866599999996!4d-76.6208037",
+      "location_reviews_link": "https://www.google.com/maps/place/Breath+Taking+Soul/@39.289866599999996,-76.6208037,13.99z/data=!4m16!1m7!3m6!1s0x89c80572c31c27ab:0xeb69f353a65aec21!2sBreath+Taking+Soul!8m2!3d39.289866599999996!4d-76.6208037!16s%2Fg%2F11ckvg1dmb!3m7!1s0x89c80572c31c27ab:0xeb69f353a65aec21!8m2!3d39.289866599999996!4d-76.6208037!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "place_id": "ChIJqyccw3IFyIkRIexaplPzaes",
+      "google_id": "0x89c80572c31c27ab:0xeb69f353a65aec21",
+      "cid": 1.6963357012066497e19,
+      "kgmid": "/g/11sdsqm5cf",
+      "reviews_id": -1.483387061643056e18,
+      "located_google_id": null
+    }
+  ]
+}

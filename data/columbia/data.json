@@ -1,0 +1,95 @@
+{
+  "state": "MD",
+  "city": "Columbia",
+  "kitchens": [
+    {
+      "query": "shared-use commercial kitchen, 20073, Washington, DC, US",
+      "name": "Catered To You Kitchen",
+      "name_for_emails": "Catered To You Kitchen",
+      "site": "https://ctykitchen.com/",
+      "subtypes": "Shared-use commercial kitchen",
+      "category": "Shared-use commercial kitchen",
+      "type": "Shared-use commercial kitchen",
+      "phone": "+1 240-770-1876",
+      "full_address": "9693 Gerwig Ln F, Columbia, MD 21046",
+      "borough": "None",
+      "street": "9693 Gerwig Ln F",
+      "city": "Columbia",
+      "postal_code": 21046,
+      "state": "Maryland",
+      "us_state": "Maryland",
+      "country": "United States of America",
+      "country_code": "US",
+      "latitude": 39.1767746,
+      "longitude": -76.8478615,
+      "h3": "892aa8cde0fffff",
+      "time_zone": "America/New_York",
+      "plus_code": null,
+      "area_service": false,
+      "rating": 5,
+      "reviews": 1,
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1faYewvft4kRG4Houv7qhqM&q=shared-use+commercial+kitchen,+20073,+Washington,+DC,+US&authuser=0&hl=en&gl=US",
+      "reviews_tags": null,
+      "reviews_per_score": null,
+      "reviews_per_score_1": 0,
+      "reviews_per_score_2": 0,
+      "reviews_per_score_3": 0,
+      "reviews_per_score_4": 0,
+      "reviews_per_score_5": 1,
+      "photos_count": 9,
+      "photo": "https://lh3.googleusercontent.com/p/AF1QipMEsidM4y3GFHG5BvkKNAf8oXZZGGeneTtnD_lG=w800-h500-k-no",
+      "street_view": "https://lh3.googleusercontent.com/p/AF1QipMEsidM4y3GFHG5BvkKNAf8oXZZGGeneTtnD_lG=w1600-h1000-k-no",
+      "located_in": null,
+      "working_hours": {
+        "Sunday": "8AM-10PM",
+        "Monday": "8AM-10PM",
+        "Tuesday": "8AM-10PM",
+        "Wednesday": "8AM-10PM",
+        "Thursday": "8AM-10PM",
+        "Friday": "8AM-10PM",
+        "Saturday": "8AM-10PM"
+      },
+      "working_hours_csv_compatible": "Sunday,8AM,10PM|Monday,8AM,10PM|Tuesday,8AM,10PM|Wednesday,8AM,10PM|Thursday,8AM,10PM|Friday,8AM,10PM|Saturday,8AM,10PM",
+      "working_hours_old_format": "Sunday:8AM-10PM|Monday:8AM-10PM|Tuesday:8AM-10PM|Wednesday:8AM-10PM|Thursday:8AM-10PM|Friday:8AM-10PM|Saturday:8AM-10PM",
+      "other_hours": null,
+      "popular_times": null,
+      "business_status": "OPERATIONAL",
+      "about": {
+        "From the business": {
+          "Identifies as Black-owned": true
+        },
+        "Accessibility": {
+          "Wheelchair accessible parking lot": true
+        },
+        "Payments": {
+          "Credit cards": true
+        },
+        "Other": {
+          "Identifies as Black-owned": true
+        }
+      },
+      "range": null,
+      "prices": null,
+      "posts": null,
+      "logo": "https://lh6.googleusercontent.com/-8wvbVGdq_nQ/AAAAAAAAAAI/AAAAAAAAAAA/EH8IVtsU-kY/s44-p-k-no-ns-nd/photo.jpg",
+      "description": null,
+      "typical_time_spent": null,
+      "verified": true,
+      "owner_id": 1.0916050107101689e20,
+      "owner_title": "Catered To You Kitchen",
+      "owner_link": "https://www.google.com/maps/contrib/109160501071016893833",
+      "reservation_links": null,
+      "booking_appointment_link": null,
+      "menu_link": null,
+      "order_links": null,
+      "location_link": "https://www.google.com/maps/place/Catered+To+You+Kitchen/@39.1767746,-76.8478615,14z/data=!4m8!1m2!2m1!1sCatered+To+You+Kitchen!3m4!1s0x89b7df0b7b98f6d5:0xa386eafebae8811b!8m2!3d39.1767746!4d-76.8478615",
+      "location_reviews_link": "https://www.google.com/maps/place/Catered+To+You+Kitchen/@39.1767746,-76.8478615,13.99z/data=!4m16!1m7!3m6!1s0x89b7df0b7b98f6d5:0xa386eafebae8811b!2sCatered+To+You+Kitchen!8m2!3d39.1767746!4d-76.8478615!16s%2Fg%2F11ckvg1dmb!3m7!1s0x89b7df0b7b98f6d5:0xa386eafebae8811b!8m2!3d39.1767746!4d-76.8478615!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "place_id": "ChIJ1faYewvft4kRG4Houv7qhqM",
+      "google_id": "0x89b7df0b7b98f6d5:0xa386eafebae8811b",
+      "cid": 1.1783363854839874e19,
+      "kgmid": "/g/11s9xq8fxn",
+      "reviews_id": -6.663380218869678e18,
+      "located_google_id": null
+    }
+  ]
+}

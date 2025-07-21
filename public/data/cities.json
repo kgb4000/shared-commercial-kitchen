@@ -16,5 +16,18 @@
   { "city": "san-francisco", "state": "ca" },
   { "city": "san-jose", "state": "ca" },
   { "city": "chicago", "state": "il" },
-  { "city": "minneapolis", "state": "mn" }
+  { "city": "minneapolis", "state": "mn" },
+  { "city": "st-paul", "state": "mn" },
+  { "city": "plymouth", "state": "mn" },
+  { "city": "madison", "state": "wi" },
+  { "city": "philadelphia", "state": "pa" },
+  { "city": "pittsburg", "state": "pa" },
+  { "city": "lancaster", "state": "pa" },
+  { "city": "washington", "state": "dc" },
+  { "city": "baltimore", "state": "md" },
+  { "city": "rockville", "state": "md" },
+  { "city": "silver-spring", "state": "md" },
+  { "city": "hyattsville", "state": "md" },
+  { "city": "lorton", "state": "va" },
+  { "city": "milwaukee", "state": "wi" }
 ]

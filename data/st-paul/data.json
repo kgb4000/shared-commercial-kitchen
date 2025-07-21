@@ -1,0 +1,397 @@
+{
+  "state": "MN",
+  "city": "St Paul",
+  "kitchens": [
+    {
+      "title": "Kitchen On The Bluff",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "705 3rd St E, St Paul, MN 55106",
+      "neighborhood": "Dayton's Bluff",
+      "street": "705 3rd St E",
+      "city": "St Paul",
+      "postalCode": "55106",
+      "state": "Minnesota",
+      "countryCode": "US",
+      "phone": "(651) 300-9454",
+      "phoneUnformatted": "+16513009454",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 44.9559162,
+        "lng": -93.0692066
+      },
+      "totalScore": 3.6,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJRb4kF2PV94cRhg8UjYkwFOo",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x87f7d5631724be45:0xea1430898d140f86",
+      "cid": "16867159871744905094",
+      "reviewsCount": 9,
+      "imagesCount": 5,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:34:06.802Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Kitchen%20On%20The%20Bluff&query_place_id=ChIJRb4kF2PV94cRhg8UjYkwFOo",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@44.8911966152418,-93.03744619423817,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nonCunrUHRLX3GahDw0QYmNIS4MTIQi8h160A1hXV9fXhOTU7RwuinQN02JFRly4CKqK0FCuDfxdigo3mvE2BY-Gp7K86E12PLzBQdrCaIc33Kxt_N9kY8cbrgYvqy_zYpqLDo=w426-h240-k-no",
+      "kgmid": "/g/11cm_pn522"
+    },
+    {
+      "title": "MidCity Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "693 Raymond Ave, St Paul, MN 55114",
+      "neighborhood": "Saint Anthony Park",
+      "street": "693 Raymond Ave",
+      "city": "St Paul",
+      "postalCode": "55114",
+      "state": "Minnesota",
+      "countryCode": "US",
+      "website": "https://midcitykitchen.com/",
+      "phone": "(651) 261-0719",
+      "phoneUnformatted": "+16512610719",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 44.9620198,
+        "lng": -93.1979712
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ8yw4DE0ts1IRu56mt77fhH4",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x52b32d4d0c382cf3:0x7e84dfbeb7a69ebb",
+      "cid": "9116657555922656955",
+      "reviewsCount": 6,
+      "imagesCount": 9,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:34:06.803Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 8 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=MidCity%20Kitchen&query_place_id=ChIJ8yw4DE0ts1IRu56mt77fhH4",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@44.8911966152418,-93.03744619423817,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 6,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPJjE8jjfCxcHk0ugSEm31zapzvubiHEqhAhEdE=w408-h272-k-no",
+      "kgmid": "/g/11vy4kng7x"
+    },
+    {
+      "title": "MSP Kitchenery",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "919 Dale St N Unit 2, St Paul, MN 55103",
+      "neighborhood": "Como Park",
+      "street": "919 Dale St N Unit 2",
+      "city": "St Paul",
+      "postalCode": "55103",
+      "state": "Minnesota",
+      "countryCode": "US",
+      "website": "https://www.mspkitchenery.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=4215679498259833228",
+      "phone": "(651) 334-8821",
+      "phoneUnformatted": "+16513348821",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 44.9688898,
+        "lng": -93.1266746
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJudkOz2ors1IRLSMRY7l855c",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x52b32b6acf0ed9b9:0x97e77cb96311232d",
+      "cid": "10945854555020141357",
+      "reviewsCount": 0,
+      "imagesCount": 2,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:34:06.803Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": false
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=MSP%20Kitchenery&query_place_id=ChIJudkOz2ors1IRLSMRY7l855c",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@44.8911966152418,-93.03744619423817,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 9,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yaJpLpYPMh0i6UE3Lfegbw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=285.11624&pitch=0&thumbfov=100",
+      "kgmid": "/g/11sn3y8svk"
+    },
+    {
+      "title": "COMMERCIAL KITCHEN SERVICES",
+      "price": null,
+      "categoryName": "Kitchen supply store",
+      "address": "764 Vandalia St, St Paul, MN 55114",
+      "neighborhood": "Saint Anthony Park",
+      "street": "764 Vandalia St",
+      "city": "St Paul",
+      "postalCode": "55114",
+      "state": "Minnesota",
+      "countryCode": "US",
+      "phone": "(651) 641-0164",
+      "phoneUnformatted": "+16516410164",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 44.9645377,
+        "lng": -93.1886884
+      },
+      "totalScore": 4.2,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJe7-64q8ss1IRhm2Oo8ZKdu8",
+      "categories": [
+        "Kitchen supply store",
+        "Insulation contractor",
+        "Refrigerator repair service"
+      ],
+      "fid": "0x52b32cafe2babf7b:0xef764ac6a38e6d86",
+      "cid": "17255061239324634502",
+      "reviewsCount": 15,
+      "imagesCount": 2,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:34:09.427Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "7 AM to 3 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7 AM to 3 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7 AM to 3 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7 AM to 3 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7 AM to 3 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "In-store pickup": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Repair services": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=COMMERCIAL%20KITCHEN%20SERVICES&query_place_id=ChIJe7-64q8ss1IRhm2Oo8ZKdu8",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@44.9398109,-93.17467930576184,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 11,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrQHSM2gcpS4QDD-TGDF8l5IoqsW4gItRbFr81dIPL5EBBEGsJMZeOpxvrWpcH2OWP0KIC6WsPEbUsyZeddWPG08pVtN4ZMcO5kBHem5f14fnMf4D3PBzXSRD_jZwQEXlWF4mEI=w532-h240-k-no",
+      "kgmid": "/g/1260j6wkw"
+    },
+    {
+      "title": "GIA Kitchen",
+      "price": "€",
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "955 Mackubin St, St Paul, MN 55117, United States",
+      "neighborhood": "North End",
+      "street": "955 Mackubin St",
+      "city": "St Paul",
+      "postalCode": "55117",
+      "state": "Minnesota",
+      "countryCode": "US",
+      "website": "http://www.giakitchen.com/",
+      "phone": "+1 651-493-9580",
+      "phoneUnformatted": "+16514939580",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 44.9699492,
+        "lng": -93.121644
+      },
+      "totalScore": 5,
+      "permanentlyClosed": true,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ02a_Hccqs1IR04T4MatSBJY",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x52b32ac71dbf66d3:0x960452ab31f884d3",
+      "cid": "10809855900827288787",
+      "reviewsCount": 6,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T00:34:15.323Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=GIA%20Kitchen&query_place_id=ChIJ02a_Hccqs1IR04T4MatSBJY",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@44.9398109,-93.10606275,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 12,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Sxzqn0pCH9VowP8jxwA_tQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=195.89273&pitch=0&thumbfov=100",
+      "kgmid": "/g/12ll3vtdq"
+    }
+  ]
+}

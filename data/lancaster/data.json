@@ -1,0 +1,197 @@
+{
+  "state": "PA",
+  "city": "Lancaster",
+  "kitchens": [
+    {
+      "title": "Full Service Concessions",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1469 Lancaster Rd, Manheim, PA 17545, United States",
+      "neighborhood": null,
+      "street": "1469 Lancaster Rd",
+      "city": "Manheim",
+      "postalCode": "17545",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "phone": "+1 717-743-8701",
+      "phoneUnformatted": "+17177438701",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.1333342,
+        "lng": -76.3806953
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ-4_DB7chxokR22Uf32yAP2s",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c621b707c38ffb:0x6b3f806cdf1f65db",
+      "cid": "7728036690679260635",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:12.105Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Full%20Service%20Concessions&query_place_id=ChIJ-4_DB7chxokR22Uf32yAP2s",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.90265018547565,-76.02443893440898,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 13,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=V2XRJ6KUMLEoA2b_cQSYkw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=93.1126&pitch=0&thumbfov=100",
+      "kgmid": "/g/11thcrn09c"
+    },
+    {
+      "title": "Goodie Shoppe",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "302 W Chestnut St, Lancaster, PA 17603, United States",
+      "neighborhood": null,
+      "street": "302 W Chestnut St",
+      "city": "Lancaster",
+      "postalCode": "17603",
+      "state": "Pennsylvania",
+      "countryCode": "US",
+      "website": "https://m.facebook.com/The-Goodie-Shoppe-275889301500/",
+      "phone": "+1 717-393-3923",
+      "phoneUnformatted": "+17173933923",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 40.0405155,
+        "lng": -76.3112427
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJYy6De_MkxokRw1E8Gp5WCCo",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c624f37b832e63:0x2a08569e1a3c51c3",
+      "cid": "3028765986451640771",
+      "reviewsCount": 4,
+      "reviewsDistribution": {
+        "oneStar": 0,
+        "twoStar": 0,
+        "threeStar": 0,
+        "fourStar": 0,
+        "fiveStar": 4
+      },
+      "imagesCount": 2,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T13:14:38.869Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM to 5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 5 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": false
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Goodie%20Shoppe&query_place_id=ChIJYy6De_MkxokRw1E8Gp5WCCo",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@39.90265018547565,-77.07862051146967,10z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 23,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=g9Irbh-a9viExGnwM4AszQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=180.27777&pitch=0&thumbfov=100",
+      "kgmid": "/g/1wfvnlsb"
+    }
+  ]
+}

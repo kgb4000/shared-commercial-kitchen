@@ -1,0 +1,459 @@
+{
+  "state": "WI",
+  "city": "Madison",
+  "kitchens": [
+    {
+      "title": "FEED Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1219 N Sherman Ave, Madison, WI 53704",
+      "neighborhood": "Sherman",
+      "street": "1219 N Sherman Ave",
+      "city": "Madison",
+      "postalCode": "53704",
+      "state": "Wisconsin",
+      "countryCode": "US",
+      "website": "http://feedkitchens.org/",
+      "phone": "(608) 204-7015",
+      "phoneUnformatted": "+16082047015",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 43.1131662,
+        "lng": -89.3629625
+      },
+      "totalScore": 4.8,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJrwG7EYtUBogR5KXlrRY9MSs",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x8806548b11bb01af:0x2b313d16ade5a5e4",
+      "cid": "3112335985105806820",
+      "reviewsCount": 26,
+      "imagesCount": 59,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T01:04:14.321Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8 AM to 4:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM to 4:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM to 4:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM to 4:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM to 4:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=FEED%20Kitchens&query_place_id=ChIJrwG7EYtUBogR5KXlrRY9MSs",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@43.00983265132997,-89.5389663197238,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqIJfLnwpxffYxzbDAJqhVS-2a-UVlF2KamKmt-Zknp5pURtqeCzxrypOEXitvVuL30ZNpI3KrCcHozHh-PXx9eH8vZsVUzbE_dCGcEF7Ouyv-qmViLWYrzrKU87M9zsB_N_xx8Og=w408-h306-k-no",
+      "kgmid": "/g/11b7l2p1xp"
+    },
+    {
+      "title": "Roo's Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1026 N Sherman Ave, Madison, WI 53704",
+      "neighborhood": null,
+      "street": "1026 N Sherman Ave",
+      "city": "Madison",
+      "postalCode": "53704",
+      "state": "Wisconsin",
+      "countryCode": "US",
+      "website": "https://roos-kitchen.com/",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 43.1113183,
+        "lng": -89.364073
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ0aSSdGNVBogRcwwWJElCbr0",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x880655637492a4d1:0xbd6e424924160c73",
+      "cid": "13649920402512022643",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T01:04:14.322Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Roo's%20Kitchen&query_place_id=ChIJ0aSSdGNVBogRcwwWJElCbr0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@43.00983265132997,-89.5389663197238,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 6,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2vd4ezCc6vGIQP3J81jWSA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=250.2249&pitch=0&thumbfov=100",
+      "kgmid": "/g/11xgp4fp7f"
+    },
+    {
+      "title": "Kessenich's Foodservice Design, Equipment & Supplies",
+      "price": null,
+      "categoryName": "Restaurant supply store",
+      "address": "3226 Progress Rd, Madison, WI 53716",
+      "neighborhood": null,
+      "street": "3226 Progress Rd",
+      "city": "Madison",
+      "postalCode": "53716",
+      "state": "Wisconsin",
+      "countryCode": "US",
+      "website": "https://www.kessenichs.com/",
+      "phone": "(800) 248-0555",
+      "phoneUnformatted": "+18002480555",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 43.0517318,
+        "lng": -89.3050689
+      },
+      "totalScore": 4.6,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJr40dDApUBogRsjp1y-LkW9E",
+      "categories": ["Restaurant supply store", "Appliance store"],
+      "fid": "0x8806540a0c1d8daf:0xd15be4e2cb753ab2",
+      "cid": "15085903039534807730",
+      "reviewsCount": 51,
+      "imagesCount": 12,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T01:04:15.660Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8 AM to 4:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM to 4:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM to 4:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM to 4:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM to 4:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          },
+          {
+            "In-store pickup": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Kessenich's%20Foodservice%20Design%2C%20Equipment%20%26%20Supplies&query_place_id=ChIJr40dDApUBogRsjp1y-LkW9E",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@43.00983265132997,-89.26477948027618,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 6,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noUlGvVk0qXiN4HL6Ut1dEOqvlztoZnTlj0nFRSCCBVaPkg8Lu2Q4H2or333vdcELc7EURHXb6oESbMOQsc5nEaj0qxrQbFFXKutrUkZYqQhVXeJl6JwSdah58RxxfU0kKwNl03DHkGbYPl=w408-h544-k-no",
+      "kgmid": "/g/1tnl1zry"
+    },
+    {
+      "title": "Sur La Table",
+      "description": "Chain retailer for a variety of upscale cooking & dining supplies, plus home decor.",
+      "price": null,
+      "categoryName": "Kitchen supply store",
+      "address": "712 N Midvale Blvd, Madison, WI 53705, United States",
+      "neighborhood": null,
+      "street": "712 N Midvale Blvd",
+      "city": "Madison",
+      "postalCode": "53705",
+      "state": "Wisconsin",
+      "countryCode": "US",
+      "website": "https://www.surlatable.com/locations/wi/madison/store-139.html",
+      "phone": "+1 608-236-4849",
+      "phoneUnformatted": "+16082364849",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 43.0733317,
+        "lng": -89.4525984
+      },
+      "totalScore": 3.8,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJPenB4kCsB4gR8KRe97N2YS0",
+      "categories": [
+        "Kitchen supply store",
+        "Baking supply store",
+        "Cooking class",
+        "Culinary school",
+        "Cutlery store"
+      ],
+      "fid": "0x8807ac40e2c1e93d:0x2d6176b3f75ea4f0",
+      "cid": "3270025319769089264",
+      "reviewsCount": 195,
+      "imagesCount": 94,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-17T01:04:22.198Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "11 AM to 6 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "In-store pick-up": true
+          },
+          {
+            "In-store shopping": true
+          },
+          {
+            "On-site services": true
+          },
+          {
+            "Delivery": false
+          },
+          {
+            "Same-day delivery": false
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Planning": [
+          {
+            "Quick visit": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Sur%20La%20Table&query_place_id=ChIJPenB4kCsB4gR8KRe97N2YS0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@43.05996601710999,-89.47041960986189,14z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 8,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrq3s-23VVd6uK3MG7eXXauEbkzUM0xt55aD2xnnlBboGQz15K9R31iyKGB4jQA6YBo9nRB3HY8BNIVamH3JjbDILZhrRrKx6vlbrc__r1ChY9xm6a98-dY3cigPFkXOfB7nCo=w408-h306-k-no",
+      "kgmid": "/g/11btt73mrc"
+    },
+    {
+      "query": "shared-use commercial kitchen, 53716, Madison, WI, US",
+      "name": "FEED Kitchens",
+      "name_for_emails": "Feed Kitchens",
+      "site": "http://feedkitchens.org/",
+      "subtypes": "Shared-use commercial kitchen",
+      "category": "Shared-use commercial kitchen",
+      "type": "Shared-use commercial kitchen",
+      "phone": "+1 608-204-7015",
+      "full_address": "1219 N Sherman Ave, Madison, WI 53704",
+      "borough": "Sherman",
+      "street": "1219 N Sherman Ave",
+      "city": "Madison",
+      "postal_code": 53704,
+      "state": "Wisconsin",
+      "us_state": "Wisconsin",
+      "country": "United States of America",
+      "country_code": "US",
+      "latitude": 43.1131662,
+      "longitude": -89.3629625,
+      "h3": "89275802a8fffff",
+      "time_zone": "America/Chicago",
+      "plus_code": "86MG4J7P+7R",
+      "area_service": false,
+      "rating": 4.8,
+      "reviews": 26,
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJrwG7EYtUBogR5KXlrRY9MSs&q=shared-use+commercial+kitchen,+53716,+Madison,+WI,+US&authuser=0&hl=en&gl=US",
+      "reviews_tags": "cookies, bakery, sell, people",
+      "reviews_per_score": null,
+      "reviews_per_score_1": 1,
+      "reviews_per_score_2": 0,
+      "reviews_per_score_3": 0,
+      "reviews_per_score_4": 1,
+      "reviews_per_score_5": 24,
+      "photos_count": 59,
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr3pTnEDEI7-nEYrM6ukyyt7Q4GdcnfRSqr2fUvczrhFibOCZ5olqorXiQiivJIm6PL0p599ByNCFqLkNAOMaEzH4Z2zAkW47qpsXlMHBZQ3Al4Nvfn3l82M5Z8lj2UDiLxeOvm=w800-h500-k-no",
+      "street_view": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noQzAgo0-QqPchm0b3eU3UKNLZnGfJoMk7QeNZgvyioP5AYV4l9EqMGpgSd_eVrXEIEg0n4oVCfsBttXX3Ul2SFhu--VQDtn94zSQrFtR32Pidg3M70NwiZ0nFpvwChbbrdRLA=w1600-h1000-k-no",
+      "located_in": null,
+      "working_hours": {
+        "Sunday": "Closed",
+        "Monday": "8AM-4:30PM",
+        "Tuesday": "8AM-4:30PM",
+        "Wednesday": "8AM-4:30PM",
+        "Thursday": "8AM-4:30PM",
+        "Friday": "8AM-4:30PM",
+        "Saturday": "Closed"
+      },
+      "working_hours_csv_compatible": "Sunday,|Monday,8AM,4:30PM|Tuesday,8AM,4:30PM|Wednesday,8AM,4:30PM|Thursday,8AM,4:30PM|Friday,8AM,4:30PM|Saturday,",
+      "working_hours_old_format": "Sunday:Closed|Monday:8AM-4:30PM|Tuesday:8AM-4:30PM|Wednesday:8AM-4:30PM|Thursday:8AM-4:30PM|Friday:8AM-4:30PM|Saturday:Closed",
+      "other_hours": null,
+      "popular_times": null,
+      "business_status": "OPERATIONAL",
+      "about": {
+        "Accessibility": {
+          "Wheelchair accessible entrance": true,
+          "Wheelchair accessible parking lot": true
+        },
+        "Payments": {
+          "Debit cards": true,
+          "NFC mobile payments": true,
+          "Credit cards": true
+        }
+      },
+      "range": null,
+      "prices": null,
+      "posts": null,
+      "logo": "https://lh6.googleusercontent.com/-5Ebzj0p-moU/AAAAAAAAAAI/AAAAAAAAAAA/Yh6OV2-vKBw/s44-p-k-no-ns-nd/photo.jpg",
+      "description": "FEED Kitchens is a shared use, commercial kitchen, food business incubator. Besides kitchen space, we support entrepreneurs in all facets of their business development. Operating at FEED requires a membership to the facility. Contact us for more information.",
+      "typical_time_spent": "People typically spend up to 2.5 hours here",
+      "verified": true,
+      "owner_id": 1.1200927784905017e20,
+      "owner_title": "FEED Kitchens",
+      "owner_link": "https://www.google.com/maps/contrib/112009277849050163307",
+      "reservation_links": null,
+      "booking_appointment_link": null,
+      "menu_link": null,
+      "order_links": null,
+      "location_link": "https://www.google.com/maps/place/FEED+Kitchens/@43.113166199999995,-89.3629625,14z/data=!4m8!1m2!2m1!1sFEED+Kitchens!3m4!1s0x8806548b11bb01af:0x2b313d16ade5a5e4!8m2!3d43.113166199999995!4d-89.3629625",
+      "location_reviews_link": "https://www.google.com/maps/place/FEED+Kitchens/@43.113166199999995,-89.3629625,13.99z/data=!4m16!1m7!3m6!1s0x8806548b11bb01af:0x2b313d16ade5a5e4!2sFEED+Kitchens!8m2!3d43.113166199999995!4d-89.3629625!16s%2Fg%2F11ckvg1dmb!3m7!1s0x8806548b11bb01af:0x2b313d16ade5a5e4!8m2!3d43.113166199999995!4d-89.3629625!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "place_id": "ChIJrwG7EYtUBogR5KXlrRY9MSs",
+      "google_id": "0x8806548b11bb01af:0x2b313d16ade5a5e4",
+      "cid": 3.112335985105807e18,
+      "kgmid": "/g/11b7l2p1xp",
+      "reviews_id": 3.112335985105807e18,
+      "located_google_id": null
+    }
+  ]
+}

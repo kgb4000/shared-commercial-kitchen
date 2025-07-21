@@ -1,6 +1,6 @@
 const coloradoGuide = {
   title: 'Step-by-Step Guide: Licensing a Food Business in Colorado',
-  subtitle: 'Shared-Use Commercial Kitchens',
+  subtitle: 'Commercial Kitchen Spaces for Rent',
   intro:
     'This guide outlines the typical process for obtaining the necessary licenses and permits for a food business operating from a shared-use commercial kitchen in Colorado. Always confirm the latest requirements with your local county health department and other relevant authorities.',
 

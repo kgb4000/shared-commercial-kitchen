@@ -1,0 +1,122 @@
+{
+  "state": "MD",
+  "city": "Hyattsville",
+  "kitchens": [
+    {
+      "query": "shared-use commercial kitchen, 20740, College Park, MD, US",
+      "name": "Flavors",
+      "name_for_emails": "Flavors",
+      "site": "https://flavorsculinaryhub.com/",
+      "subtypes": "Shared-use commercial kitchen, Business center, Business to business service, Commercial real estate agency, Consultant, Virtual office rental",
+      "category": "Shared-use commercial kitchen",
+      "type": "Shared-use commercial kitchen",
+      "phone": "+1 301-806-9869",
+      "full_address": "6504 America Blvd #105A, Hyattsville, MD 20782",
+      "borough": "None",
+      "street": "6504 America Blvd #105A",
+      "city": "Hyattsville",
+      "postal_code": 20782,
+      "state": "Maryland",
+      "us_state": "Maryland",
+      "country": "United States of America",
+      "country_code": "US",
+      "latitude": 38.968706,
+      "longitude": -76.9524127,
+      "h3": "892aa84713bffff",
+      "time_zone": "America/New_York",
+      "plus_code": null,
+      "area_service": false,
+      "rating": 4.8,
+      "reviews": 5,
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJT7cpHw27t4kRDF9bwTzncsY&q=shared-use+commercial+kitchen,+20740,+College+Park,+MD,+US&authuser=0&hl=en&gl=US",
+      "reviews_tags": null,
+      "reviews_per_score": null,
+      "reviews_per_score_1": 0,
+      "reviews_per_score_2": 0,
+      "reviews_per_score_3": 0,
+      "reviews_per_score_4": 1,
+      "reviews_per_score_5": 4,
+      "photos_count": 53,
+      "photo": "https://lh3.googleusercontent.com/p/AF1QipMiQ4BNVUQzYS_RtbysfQb-3YMA7dIrzfFf5DiI=w800-h500-k-no",
+      "street_view": "https://lh3.googleusercontent.com/p/AF1QipMiQ4BNVUQzYS_RtbysfQb-3YMA7dIrzfFf5DiI=w1600-h1000-k-no",
+      "located_in": null,
+      "working_hours": {
+        "Sunday": "8AM-5PM",
+        "Monday": "8AM-5PM",
+        "Tuesday": "8AM-5PM",
+        "Wednesday": "8AM-8PM",
+        "Thursday": "8AM-5PM",
+        "Friday": "8AM-5PM",
+        "Saturday": "8AM-5PM"
+      },
+      "working_hours_csv_compatible": "Sunday,8AM,5PM|Monday,8AM,5PM|Tuesday,8AM,5PM|Wednesday,8AM,8PM|Thursday,8AM,5PM|Friday,8AM,5PM|Saturday,8AM,5PM",
+      "working_hours_old_format": "Sunday:8AM-5PM|Monday:8AM-5PM|Tuesday:8AM-5PM|Wednesday:8AM-8PM|Thursday:8AM-5PM|Friday:8AM-5PM|Saturday:8AM-5PM",
+      "other_hours": [
+        {
+          "kitchen": {
+            "Sunday": "Open 24 hours",
+            "Monday": "Open 24 hours",
+            "Tuesday": "Open 24 hours",
+            "Wednesday": "Open 24 hours",
+            "Thursday": "Open 24 hours",
+            "Friday": "Open 24 hours",
+            "Saturday": "Open 24 hours"
+          }
+        }
+      ],
+      "popular_times": null,
+      "business_status": "OPERATIONAL",
+      "about": {
+        "From the business": {
+          "Identifies as Black-owned": true,
+          "Identifies as women-owned": true
+        },
+        "Service options": {
+          "Delivery": true,
+          "Onsite services": false
+        },
+        "Accessibility": {
+          "Wheelchair accessible entrance": true,
+          "Wheelchair accessible parking lot": true,
+          "Wheelchair accessible restroom": true,
+          "Wheelchair accessible seating": true
+        },
+        "Crowd": {
+          "LGBTQ+ friendly": true,
+          "Transgender safespace": true
+        },
+        "Payments": {
+          "Credit cards": true,
+          "Debit cards": true
+        },
+        "Other": {
+          "Identifies as Black-owned": true,
+          "LGBTQ+ friendly": true,
+          "Identifies as women-owned": true
+        }
+      },
+      "range": null,
+      "prices": null,
+      "posts": null,
+      "logo": "https://lh4.googleusercontent.com/-tmQzCob2pCo/AAAAAAAAAAI/AAAAAAAAAAA/wIFVc2-bhCI/s44-p-k-no-ns-nd/photo.jpg",
+      "description": null,
+      "typical_time_spent": null,
+      "verified": true,
+      "owner_id": 1.0655725778550451e20,
+      "owner_title": "Flavors",
+      "owner_link": "https://www.google.com/maps/contrib/106557257785504510487",
+      "reservation_links": null,
+      "booking_appointment_link": "https://hello.dubsado.com/public/appointment-scheduler/5f36a7daf2c941703d8e209f/schedule",
+      "menu_link": null,
+      "order_links": "https://hello.dubsado.com/public/appointment-scheduler/5f36a7daf2c941703d8e209f/schedule, https://www.peerspace.com/pages/listings/65a98f3ea26e0c000ee0d499?rwg_token=ACgRB3dvS6nVTq2BSAwna3KW5TpB8rLB0hM-5tT0SOc660HYuIvBiL89F7d_e89WHb0T_9a0sgKbckpiTK1nM_yOjRYNGmWW8dicJd9Va7qKFiy4d1ENjx4%3D",
+      "location_link": "https://www.google.com/maps/place/Flavors/@38.968706,-76.9524127,14z/data=!4m8!1m2!2m1!1sFlavors!3m4!1s0x89b7bb0d1f29b74f:0xc672e73cc15b5f0c!8m2!3d38.968706!4d-76.9524127",
+      "location_reviews_link": "https://www.google.com/maps/place/Flavors/@38.968706,-76.9524127,13.99z/data=!4m16!1m7!3m6!1s0x89b7bb0d1f29b74f:0xc672e73cc15b5f0c!2sFlavors!8m2!3d38.968706!4d-76.9524127!16s%2Fg%2F11ckvg1dmb!3m7!1s0x89b7bb0d1f29b74f:0xc672e73cc15b5f0c!8m2!3d38.968706!4d-76.9524127!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "place_id": "ChIJT7cpHw27t4kRDF9bwTzncsY",
+      "google_id": "0x89b7bb0d1f29b74f:0xc672e73cc15b5f0c",
+      "cid": 1.4299746014982791e19,
+      "kgmid": "/g/11j0s0wqhr",
+      "reviews_id": -4.1469980587267604e18,
+      "located_google_id": null
+    }
+  ]
+}
