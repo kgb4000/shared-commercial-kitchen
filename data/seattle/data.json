@@ -1,0 +1,903 @@
+{
+  "state": "WA",
+  "city": "Seattle",
+  "kitchens": [
+    {
+      "title": "Seattle Commissary Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "4634 E Marginal Wy S Suite E-120, Seattle, WA 98134, United States",
+      "neighborhood": "Industrial District",
+      "street": "4634 E Marginal Wy S Suite E-120",
+      "city": "Seattle",
+      "postalCode": "98134",
+      "state": "Washington",
+      "countryCode": "US",
+      "website": "http://www.seattlecommissarykitchen.com/",
+      "phone": "+1 206-451-7323",
+      "phoneUnformatted": "+12064517323",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 47.5621073,
+        "lng": -122.3390896
+      },
+      "totalScore": 4.5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJdeS_jMlBkFQRv1hZBYlDZoA",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Business to business service"
+      ],
+      "fid": "0x549041c98cbfe475:0x80664389055958bf",
+      "cid": "9252156740258584767",
+      "reviewsCount": 10,
+      "imagesCount": 22,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-22T11:34:03.608Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Seattle%20Commissary%20Kitchen&query_place_id=ChIJdeS_jMlBkFQRv1hZBYlDZoA",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@47.60756325,-122.4104740371967,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPQM4A9O8z2LCP0Pdfb4fBwkuTrRtPx2wG7VL-h=w408-h306-k-no",
+      "kgmid": "/g/11fzbj46q1"
+    },
+    {
+      "title": "Seattle Commissary Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1740 1st Ave S, Seattle, WA 98134, United States",
+      "neighborhood": "SODO",
+      "street": "1740 1st Ave S",
+      "city": "Seattle",
+      "postalCode": "98134",
+      "state": "Washington",
+      "countryCode": "US",
+      "website": "https://www.seattlecommissary.com/",
+      "phone": "+1 206-451-7323",
+      "phoneUnformatted": "+12064517323",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 47.5870434,
+        "lng": -122.3337957
+      },
+      "totalScore": 4.2,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJHcQlCMBrkFQRo0qTAFkFbQY",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Business to business service"
+      ],
+      "fid": "0x54906bc00825c41d:0x66d055900934aa3",
+      "cid": "463032216508910243",
+      "reviewsCount": 5,
+      "imagesCount": 13,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-22T11:34:03.609Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Seattle%20Commissary%20Kitchen&query_place_id=ChIJHcQlCMBrkFQRo0qTAFkFbQY",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@47.60756325,-122.4104740371967,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipONY2Oj7XJRSF9-ikofzbr2v9wMFBQtgbeveb4i=w408-h305-k-no",
+      "kgmid": "/g/11f712c58j"
+    },
+    {
+      "title": "Seattle Commissary Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3201 4th Ave S Suite B, Seattle, WA 98134, United States",
+      "neighborhood": "SODO",
+      "street": "3201 4th Ave S Suite B",
+      "city": "Seattle",
+      "postalCode": "98134",
+      "state": "Washington",
+      "countryCode": "US",
+      "website": "https://www.seattlecommissary.com/",
+      "phone": "+1 206-451-7323",
+      "phoneUnformatted": "+12064517323",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 47.5751475,
+        "lng": -122.3295277
+      },
+      "totalScore": 4,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJIehiZ-ZBkFQRwFd_WUArTWI",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Business to business service"
+      ],
+      "fid": "0x549041e66762e821:0x624d2b40597f57c0",
+      "cid": "7083365344303077312",
+      "reviewsCount": 6,
+      "imagesCount": 189,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-22T11:34:03.609Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Seattle%20Commissary%20Kitchen&query_place_id=ChIJIehiZ-ZBkFQRwFd_WUArTWI",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@47.60756325,-122.4104740371967,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 3,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrdkchZUN6OskmMHhD9pUjPGvju9tVhFvL0lGDKuvjxPbMjghXDdjUO8Za4_C-UXp15bZx-jl1jEiYs2bH8s9A1EgOse4XCfNRCGp5KpnjIFNA0dw7b-MklVrkNhtFD_LCq8DY=w408-h725-k-no",
+      "kgmid": "/g/11qfzp70wj"
+    },
+    {
+      "title": "Distinguished Foods Kitchen Rental Commercial Commissary Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "4611 36th Ave SW, Seattle, WA 98126, United States",
+      "neighborhood": "Fairmount Park",
+      "street": "4611 36th Ave SW",
+      "city": "Seattle",
+      "postalCode": "98126",
+      "state": "Washington",
+      "countryCode": "US",
+      "website": "https://www.distinguishedfoodskitchenrental.com/",
+      "phone": "+1 206-935-0432",
+      "phoneUnformatted": "+12069350432",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 47.5617161,
+        "lng": -122.3779386
+      },
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJi-AqI9tBkFQR7tfmFxDpmZs",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Catering food and drink supplier",
+        "Food processing company",
+        "Food producer",
+        "Wholesale bakery"
+      ],
+      "fid": "0x549041db232ae08b:0x9b99e91017e6d7ee",
+      "cid": "11212249002645313518",
+      "reviewsCount": 14,
+      "imagesCount": 29,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-22T11:34:03.610Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "11 AM to 6 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11 AM to 6 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11 AM to 6 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11 AM to 6 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11 AM to 6 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Distinguished%20Foods%20Kitchen%20Rental%20Commercial%20Commissary%20Kitchen&query_place_id=ChIJi-AqI9tBkFQR7tfmFxDpmZs",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@47.60756325,-122.4104740371967,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 4,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOsDr9-iIYca0kUEIES34LtfpS8o6B5h59EDTSt=w408-h341-k-no",
+      "kgmid": "/g/11fph8stth"
+    },
+    {
+      "title": "Seattle Commissary Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1222 S Weller St Suites A and C, Seattle, WA 98144, United States",
+      "neighborhood": "Seattle Chinatown-International District",
+      "street": "1222 S Weller St Suites A and C",
+      "city": "Seattle",
+      "postalCode": "98144",
+      "state": "Washington",
+      "countryCode": "US",
+      "website": "https://www.seattlecommissary.com/",
+      "phone": "+1 206-451-7323",
+      "phoneUnformatted": "+12064517323",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 47.597815,
+        "lng": -122.3160924
+      },
+      "totalScore": 3,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJZTGPXlZrkFQRN08h_gfPD7c",
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Business to business service"
+      ],
+      "fid": "0x54906b565e8f3165:0xb70fcf07fe214f37",
+      "cid": "13190989466826788663",
+      "reviewsCount": 2,
+      "imagesCount": 6,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-22T11:34:03.610Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Seattle%20Commissary%20Kitchen&query_place_id=ChIJZTGPXlZrkFQRN08h_gfPD7c",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@47.60756325,-122.4104740371967,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 5,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMs_2tI1Jcmb1pN9AmuMa9keHlUbDajqytyR2-X=w460-h240-k-no",
+      "kgmid": "/g/11h84_nfsc"
+    },
+    {
+      "title": "KBM Seattle Commissary Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "5600 Delridge Wy SW, Seattle, WA 98106, United States",
+      "neighborhood": "Delridge",
+      "street": "5600 Delridge Wy SW",
+      "city": "Seattle",
+      "postalCode": "98106",
+      "state": "Washington",
+      "countryCode": "US",
+      "website": "https://www.kbmseattle.com/",
+      "phone": "+1 206-669-2087",
+      "phoneUnformatted": "+12066692087",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 47.5517754,
+        "lng": -122.3627205
+      },
+      "totalScore": 4,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ1VYuTqhBkFQRFGcSDB6NX0I",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x549041a84e2e56d5:0x425f8d1e0c126714",
+      "cid": "4782696489481824020",
+      "reviewsCount": 13,
+      "imagesCount": 138,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-22T11:34:03.610Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "12 AM to 9 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=KBM%20Seattle%20Commissary%20Kitchen&query_place_id=ChIJ1VYuTqhBkFQRFGcSDB6NX0I",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@47.60756325,-122.4104740371967,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 6,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMDydqHzu6f2wlEJD63-_VsSRIhxcS64lpolDMh=w408-h612-k-no",
+      "kgmid": "/g/11gc9glhv6"
+    },
+    {
+      "title": "Kitchen Sisters",
+      "price": null,
+      "categoryName": "Coworking space",
+      "address": "501 2nd Ave W #100, Seattle, WA 98119, United States",
+      "neighborhood": "Queen Anne",
+      "street": "501 2nd Ave W #100",
+      "city": "Seattle",
+      "postalCode": "98119",
+      "state": "Washington",
+      "countryCode": "US",
+      "website": "http://www.kitchensistersseattle.com/",
+      "phone": "+1 206-283-0619",
+      "phoneUnformatted": "+12062830619",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 47.6234545,
+        "lng": -122.3596977
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJAQCwFkMVkFQRGjLcyQf2OIM",
+      "categories": ["Coworking space"],
+      "fid": "0x5490154316b00001:0x8338f607c9dc321a",
+      "cid": "9455577930976211482",
+      "reviewsCount": 1,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-22T11:34:03.610Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 10 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 10 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 10 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 10 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM to 10 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9 AM to 10 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Kitchen%20Sisters&query_place_id=ChIJAQCwFkMVkFQRGjLcyQf2OIM",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@47.60756325,-122.4104740371967,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 7,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=A5b3Oqw3NdpDBlFEFA80Kg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=128.49635&pitch=0&thumbfov=100",
+      "kgmid": "/g/11gfgwddfx"
+    },
+    {
+      "title": "Seattle Commissary Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1914 Occidental Ave S, Seattle, WA 98134, United States",
+      "neighborhood": "SODO",
+      "street": "1914 Occidental Ave S",
+      "city": "Seattle",
+      "postalCode": "98134",
+      "state": "Washington",
+      "countryCode": "US",
+      "website": "https://www.seattlecommissary.com/",
+      "phone": "+1 206-451-7323",
+      "phoneUnformatted": "+12064517323",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 47.5850234,
+        "lng": -122.3328608
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ0Z2BgDJBkFQRpZL1i3OkE9c",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x5490413280819dd1:0xd713a4738bf592a5",
+      "cid": "15497911558888329893",
+      "reviewsCount": 0,
+      "imagesCount": 2,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-22T11:34:03.610Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Seattle%20Commissary%20Kitchen&query_place_id=ChIJ0Z2BgDJBkFQRpZL1i3OkE9c",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@47.60756325,-122.4104740371967,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 8,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IEhsZtVy0VGNoF7iLzAZhA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=31.77672&pitch=0&thumbfov=100",
+      "kgmid": "/g/11vlp_bmc5"
+    },
+    {
+      "title": "Sweller Kitchen",
+      "price": null,
+      "categoryName": "Caterer",
+      "address": "1222 S Weller St, Seattle, WA 98144, United States",
+      "neighborhood": "Seattle Chinatown-International District",
+      "street": "1222 S Weller St",
+      "city": "Seattle",
+      "postalCode": "98144",
+      "state": "Washington",
+      "countryCode": "US",
+      "phone": "+1 206-265-1798",
+      "phoneUnformatted": "+12062651798",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 47.597769,
+        "lng": -122.3160949
+      },
+      "totalScore": 2.7,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJX7OMLb5qkFQR9C0GmQcbM6w",
+      "categories": ["Caterer"],
+      "fid": "0x54906abe2d8cb35f:0xac331b0799062df4",
+      "cid": "12408291117781888500",
+      "reviewsCount": 3,
+      "imagesCount": 2,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-22T11:34:03.610Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Dine-in": false
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Sweller%20Kitchen&query_place_id=ChIJX7OMLb5qkFQR9C0GmQcbM6w",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@47.60756325,-122.4104740371967,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 11,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN4Py2ntletRblgpKIgwHOT_-FqgnTex5x7mxAe=w426-h240-k-no",
+      "kgmid": "/g/11ckcnlz8q"
+    },
+    {
+      "title": "Kay-Town Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "4116 Rainier Ave S, Seattle, WA 98118, United States",
+      "neighborhood": "Rainier Valley",
+      "street": "4116 Rainier Ave S",
+      "city": "Seattle",
+      "postalCode": "98118",
+      "state": "Washington",
+      "countryCode": "US",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 47.5655956,
+        "lng": -122.2883317
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ3yNiTURrkFQRShnBH4b1qiM",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x54906b444d6223df:0x23aaf5861fc1194a",
+      "cid": "2570136493775460682",
+      "reviewsCount": 0,
+      "imagesCount": 3,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-22T11:34:03.611Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "additionalOpeningHours": {
+        "Access": [
+          {
+            "day": "Monday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Thursday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Friday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Saturday",
+            "hours": "Open 24 hours"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Open 24 hours"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair-accessible car park": true
+          },
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Kay-Town%20Kitchen&query_place_id=ChIJ3yNiTURrkFQRShnBH4b1qiM",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@47.60756325,-122.4104740371967,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 17,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMS493QI4ZDE8bKfTI8veq2QdWYHp9F1ZHplenc=w408-h306-k-no",
+      "kgmid": "/g/11sbldh8vf"
+    }
+  ]
+}

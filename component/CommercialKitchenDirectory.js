@@ -300,7 +300,7 @@ const CommercialKitchenDirectory = ({
             <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-6">
               <div>
                 <h1 className="text-3xl font-bold text-gray-900 mb-2 max-w-sm">
-                  Commercial Kitchen Space in {city}
+                  Commercial Kitchen for Rent in {city}
                 </h1>
                 <p className="text-gray-600">
                   Showing {displayKitchens.length} verified kitchens

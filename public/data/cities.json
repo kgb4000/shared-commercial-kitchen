@@ -29,5 +29,8 @@
   { "city": "silver-spring", "state": "md" },
   { "city": "hyattsville", "state": "md" },
   { "city": "lorton", "state": "va" },
-  { "city": "milwaukee", "state": "wi" }
+  { "city": "milwaukee", "state": "wi" },
+  { "city": "seattle", "state": "wa" },
+  { "city": "atlanta", "state": "ga" },
+  { "city": "miami", "state": "fl" }
 ]

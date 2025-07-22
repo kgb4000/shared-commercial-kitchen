@@ -17,7 +17,7 @@ export async function generateMetadata({ params }) {
   const canonicalUrl = `https://sharedkitchenlocator.com/commercial-kitchen-for-rent/${params.city}/${params.state}`
 
   return {
-    title: `Shared-Use commercial kitchen space for rent in ${formattedCity}, ${formattedState} | Rent a Kitchen Today!`,
+    title: `Commercial kitchen space for rent in ${formattedCity}, ${formattedState} | Rent a Kitchen Today!`,
     description: `Find shared-use, commissary, and ghost kitchens in ${formattedCity}, ${formattedState}. Verified listings, flexible pricing.`,
     alternates: {
       canonical: canonicalUrl,

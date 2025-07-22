@@ -3,7 +3,7 @@
   "city": "Kearny",
   "kitchens": [
     {
-      "query": "shared-use commercial kitchen, 20055, Washington, DC, US",
+      "query": "shared-use commercial kitchen, 7058, Pine Brook, NJ, US",
       "name": "Hudson Kitchen",
       "name_for_emails": "Hudson Kitchen",
       "site": "http://www.thehudsonkitchen.com/",
@@ -28,7 +28,7 @@
       "area_service": false,
       "rating": 4,
       "reviews": 4,
-      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJhdjITGZRwokRtlUeSB9dY_4&q=shared-use+commercial+kitchen,+20055,+Washington,+DC,+US&authuser=0&hl=en&gl=US",
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJhdjITGZRwokRtlUeSB9dY_4&q=shared-use+commercial+kitchen,+7058,+Pine+Brook,+NJ,+US&authuser=0&hl=en&gl=US",
       "reviews_tags": null,
       "reviews_per_score": null,
       "reviews_per_score_1": 1,
@@ -41,16 +41,16 @@
       "street_view": "https://lh3.googleusercontent.com/p/AF1QipOtBMk31PDD7XepwG1zi-c1jISjd0hDDiV4ORgj=w1600-h1000-k-no",
       "located_in": null,
       "working_hours": {
-        "Sunday": "Open 24 hours",
         "Monday": "Open 24 hours",
         "Tuesday": "Open 24 hours",
         "Wednesday": "Open 24 hours",
         "Thursday": "Open 24 hours",
         "Friday": "Open 24 hours",
-        "Saturday": "Open 24 hours"
+        "Saturday": "Open 24 hours",
+        "Sunday": "Open 24 hours"
       },
       "working_hours_csv_compatible": "Sunday,Open 24 hours|Monday,Open 24 hours|Tuesday,Open 24 hours|Wednesday,Open 24 hours|Thursday,Open 24 hours|Friday,Open 24 hours|Saturday,Open 24 hours",
-      "working_hours_old_format": "Sunday:Open 24 hours|Monday:Open 24 hours|Tuesday:Open 24 hours|Wednesday:Open 24 hours|Thursday:Open 24 hours|Friday:Open 24 hours|Saturday:Open 24 hours",
+      "working_hours_old_format": "Monday:Open 24 hours|Tuesday:Open 24 hours|Wednesday:Open 24 hours|Thursday:Open 24 hours|Friday:Open 24 hours|Saturday:Open 24 hours|Sunday:Open 24 hours",
       "other_hours": null,
       "popular_times": null,
       "business_status": "OPERATIONAL",

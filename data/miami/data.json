@@ -1,0 +1,1987 @@
+{
+  "state": "FL",
+  "city": "Miami",
+  "kitchens": [
+    {
+      "query": "shared-use commercial kitchen, 33176, Miami, FL, US",
+      "name": "Commercial Kitchen 305",
+      "name_for_emails": "Commercial Kitchen 305",
+      "site": null,
+      "subtypes": "Shared-use commercial kitchen, Bakery, Caterer, Food manufacturer",
+      "category": "Shared-use commercial kitchen",
+      "type": "Shared-use commercial kitchen",
+      "phone": "+1 305-381-5460",
+      "full_address": "860 NE 79th St B, Miami, FL 33138",
+      "borough": "Upper East Side",
+      "street": "860 NE 79th St B",
+      "city": "Miami",
+      "postal_code": 33138,
+      "state": "Florida",
+      "us_state": "Florida",
+      "country": "United States of America",
+      "country_code": "US",
+      "latitude": 25.8477427,
+      "longitude": -80.1788279,
+      "h3": "8944a115633ffff",
+      "time_zone": "America/New_York",
+      "plus_code": "76QXRRXC+3F",
+      "area_service": false,
+      "rating": 4.3,
+      "reviews": 30,
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJVTAvz3au2YgRX97IVWNTuN0&q=shared-use+commercial+kitchen,+33176,+Miami,+FL,+US&authuser=0&hl=en&gl=US",
+      "reviews_tags": "space, clean, food truck",
+      "reviews_per_score": null,
+      "reviews_per_score_1": 4,
+      "reviews_per_score_2": 1,
+      "reviews_per_score_3": 0,
+      "reviews_per_score_4": 1,
+      "reviews_per_score_5": 24,
+      "photos_count": 29,
+      "photo": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqLgBSRawTONrsY2HJIj5kYBcKKURYCRxCBkB_jLRXX90MDYuqTIJqlZt6iMN0IdyorABGSh95c7Za5mWElNA8VInwsOJhwAHuKuAH037wr0I3gqDNQkmQXYhwDA0nYjeAXgMUx8uf6VfA=w800-h500-k-no",
+      "street_view": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqLgBSRawTONrsY2HJIj5kYBcKKURYCRxCBkB_jLRXX90MDYuqTIJqlZt6iMN0IdyorABGSh95c7Za5mWElNA8VInwsOJhwAHuKuAH037wr0I3gqDNQkmQXYhwDA0nYjeAXgMUx8uf6VfA=w1600-h1000-k-no",
+      "located_in": null,
+      "working_hours": {
+        "Monday": "Open 24 hours",
+        "Tuesday": "Open 24 hours",
+        "Wednesday": "Open 24 hours",
+        "Thursday": "Open 24 hours",
+        "Friday": "Open 24 hours",
+        "Saturday": "Open 24 hours",
+        "Sunday": "Open 24 hours"
+      },
+      "working_hours_csv_compatible": "Sunday,Open 24 hours|Monday,Open 24 hours|Tuesday,Open 24 hours|Wednesday,Open 24 hours|Thursday,Open 24 hours|Friday,Open 24 hours|Saturday,Open 24 hours",
+      "working_hours_old_format": "Monday:Open 24 hours|Tuesday:Open 24 hours|Wednesday:Open 24 hours|Thursday:Open 24 hours|Friday:Open 24 hours|Saturday:Open 24 hours|Sunday:Open 24 hours",
+      "other_hours": null,
+      "popular_times": [
+        {
+          "day": 7,
+          "day_text": "Sunday",
+          "popular_times": [
+            {
+              "hour": 4,
+              "percentage": 11,
+              "title": "Usually not busy",
+              "time": "3a"
+            },
+            {
+              "hour": 5,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "3a"
+            },
+            {
+              "hour": 6,
+              "percentage": 38,
+              "title": "Usually not too busy",
+              "time": "6a"
+            },
+            {
+              "hour": 7,
+              "percentage": 38,
+              "title": "Usually not too busy",
+              "time": "6a"
+            },
+            {
+              "hour": 8,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "6a"
+            },
+            {
+              "hour": 9,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "9a"
+            },
+            {
+              "hour": 10,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "9a"
+            },
+            {
+              "hour": 11,
+              "percentage": 66,
+              "title": "Usually a little busy",
+              "time": "9a"
+            },
+            {
+              "hour": 12,
+              "percentage": 55,
+              "title": "Usually a little busy",
+              "time": "12p"
+            },
+            {
+              "hour": 13,
+              "percentage": 55,
+              "title": "Usually a little busy",
+              "time": "12p"
+            },
+            {
+              "hour": 14,
+              "percentage": 44,
+              "title": "Usually not too busy",
+              "time": "12p"
+            },
+            {
+              "hour": 15,
+              "percentage": 50,
+              "title": "Usually not too busy",
+              "time": "3p"
+            },
+            {
+              "hour": 16,
+              "percentage": 55,
+              "title": "Usually a little busy",
+              "time": "3p"
+            },
+            {
+              "hour": 17,
+              "percentage": 77,
+              "title": "Usually a little busy",
+              "time": "3p"
+            },
+            {
+              "hour": 18,
+              "percentage": 72,
+              "title": "Usually a little busy",
+              "time": "6p"
+            },
+            {
+              "hour": 19,
+              "percentage": 50,
+              "title": "Usually not too busy",
+              "time": "6p"
+            },
+            {
+              "hour": 20,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "6p"
+            },
+            {
+              "hour": 21,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "9p"
+            },
+            {
+              "hour": 22,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "9p"
+            },
+            {
+              "hour": 23,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "9p"
+            },
+            {
+              "hour": 0,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "12a"
+            },
+            {
+              "hour": 1,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "12a"
+            },
+            {
+              "hour": 2,
+              "percentage": 11,
+              "title": "Usually not busy",
+              "time": "12a"
+            },
+            {
+              "hour": 3,
+              "percentage": 5,
+              "title": "Usually not busy",
+              "time": "3a"
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "day_text": "Monday",
+          "popular_times": [
+            {
+              "hour": 4,
+              "percentage": 16,
+              "title": "Usually not busy",
+              "time": "3a"
+            },
+            {
+              "hour": 5,
+              "percentage": 16,
+              "title": "Usually not busy",
+              "time": "3a"
+            },
+            {
+              "hour": 6,
+              "percentage": 11,
+              "title": "Usually not busy",
+              "time": "6a"
+            },
+            {
+              "hour": 7,
+              "percentage": 16,
+              "title": "Usually not busy",
+              "time": "6a"
+            },
+            {
+              "hour": 8,
+              "percentage": 16,
+              "title": "Usually not busy",
+              "time": "6a"
+            },
+            {
+              "hour": 9,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "9a"
+            },
+            {
+              "hour": 10,
+              "percentage": 16,
+              "title": "Usually not busy",
+              "time": "9a"
+            },
+            {
+              "hour": 11,
+              "percentage": 33,
+              "title": "Usually not too busy",
+              "time": "9a"
+            },
+            {
+              "hour": 12,
+              "percentage": 38,
+              "title": "Usually not too busy",
+              "time": "12p"
+            },
+            {
+              "hour": 13,
+              "percentage": 44,
+              "title": "Usually not too busy",
+              "time": "12p"
+            },
+            {
+              "hour": 14,
+              "percentage": 55,
+              "title": "Usually a little busy",
+              "time": "12p"
+            },
+            {
+              "hour": 15,
+              "percentage": 61,
+              "title": "Usually a little busy",
+              "time": "3p"
+            },
+            {
+              "hour": 16,
+              "percentage": 61,
+              "title": "Usually a little busy",
+              "time": "3p"
+            },
+            {
+              "hour": 17,
+              "percentage": 38,
+              "title": "Usually not too busy",
+              "time": "3p"
+            },
+            {
+              "hour": 18,
+              "percentage": 33,
+              "title": "Usually not too busy",
+              "time": "6p"
+            },
+            {
+              "hour": 19,
+              "percentage": 33,
+              "title": "Usually not too busy",
+              "time": "6p"
+            },
+            {
+              "hour": 20,
+              "percentage": 33,
+              "title": "Usually not too busy",
+              "time": "6p"
+            },
+            {
+              "hour": 21,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "9p"
+            },
+            {
+              "hour": 22,
+              "percentage": 33,
+              "title": "Usually not too busy",
+              "time": "9p"
+            },
+            {
+              "hour": 23,
+              "percentage": 33,
+              "title": "Usually not too busy",
+              "time": "9p"
+            },
+            {
+              "hour": 0,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "12a"
+            },
+            {
+              "hour": 1,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "12a"
+            },
+            {
+              "hour": 2,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "12a"
+            },
+            {
+              "hour": 3,
+              "percentage": 16,
+              "title": "Usually not busy",
+              "time": "3a"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_text": "Tuesday",
+          "popular_times": [
+            {
+              "hour": 4,
+              "percentage": 16,
+              "title": "Usually not busy",
+              "time": "3a"
+            },
+            {
+              "hour": 5,
+              "percentage": 16,
+              "title": "Usually not busy",
+              "time": "3a"
+            },
+            {
+              "hour": 6,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "6a"
+            },
+            {
+              "hour": 7,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "6a"
+            },
+            {
+              "hour": 8,
+              "percentage": 33,
+              "title": "Usually not too busy",
+              "time": "6a"
+            },
+            {
+              "hour": 9,
+              "percentage": 44,
+              "title": "Usually not too busy",
+              "time": "9a"
+            },
+            {
+              "hour": 10,
+              "percentage": 38,
+              "title": "Usually not too busy",
+              "time": "9a"
+            },
+            {
+              "hour": 11,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "9a"
+            },
+            {
+              "hour": 12,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "12p"
+            },
+            {
+              "hour": 13,
+              "percentage": 16,
+              "title": "Usually not busy",
+              "time": "12p"
+            },
+            {
+              "hour": 14,
+              "percentage": 38,
+              "title": "Usually not too busy",
+              "time": "12p"
+            },
+            {
+              "hour": 15,
+              "percentage": 44,
+              "title": "Usually not too busy",
+              "time": "3p"
+            },
+            {
+              "hour": 16,
+              "percentage": 44,
+              "title": "Usually not too busy",
+              "time": "3p"
+            },
+            {
+              "hour": 17,
+              "percentage": 33,
+              "title": "Usually not too busy",
+              "time": "3p"
+            },
+            {
+              "hour": 18,
+              "percentage": 33,
+              "title": "Usually not too busy",
+              "time": "6p"
+            },
+            {
+              "hour": 19,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "6p"
+            },
+            {
+              "hour": 20,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "6p"
+            },
+            {
+              "hour": 21,
+              "percentage": 16,
+              "title": "Usually not busy",
+              "time": "9p"
+            },
+            {
+              "hour": 22,
+              "percentage": 16,
+              "title": "Usually not busy",
+              "time": "9p"
+            },
+            {
+              "hour": 23,
+              "percentage": 11,
+              "title": "Usually not busy",
+              "time": "9p"
+            },
+            {
+              "hour": 0,
+              "percentage": 16,
+              "title": "Usually not busy",
+              "time": "12a"
+            },
+            {
+              "hour": 1,
+              "percentage": 38,
+              "title": "Usually not too busy",
+              "time": "12a"
+            },
+            {
+              "hour": 2,
+              "percentage": 33,
+              "title": "Usually not too busy",
+              "time": "12a"
+            },
+            {
+              "hour": 3,
+              "percentage": 16,
+              "title": "Usually not busy",
+              "time": "3a"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_text": "Wednesday",
+          "popular_times": [
+            {
+              "hour": 4,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "3a"
+            },
+            {
+              "hour": 5,
+              "percentage": 38,
+              "title": "Usually not too busy",
+              "time": "3a"
+            },
+            {
+              "hour": 6,
+              "percentage": 38,
+              "title": "Usually not too busy",
+              "time": "6a"
+            },
+            {
+              "hour": 7,
+              "percentage": 38,
+              "title": "Usually not too busy",
+              "time": "6a"
+            },
+            {
+              "hour": 8,
+              "percentage": 55,
+              "title": "Usually a little busy",
+              "time": "6a"
+            },
+            {
+              "hour": 9,
+              "percentage": 33,
+              "title": "Usually not too busy",
+              "time": "9a"
+            },
+            {
+              "hour": 10,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "9a"
+            },
+            {
+              "hour": 11,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "9a"
+            },
+            {
+              "hour": 12,
+              "percentage": 44,
+              "title": "Usually not too busy",
+              "time": "12p"
+            },
+            {
+              "hour": 13,
+              "percentage": 44,
+              "title": "Usually not too busy",
+              "time": "12p"
+            },
+            {
+              "hour": 14,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "12p"
+            },
+            {
+              "hour": 15,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "3p"
+            },
+            {
+              "hour": 16,
+              "percentage": 33,
+              "title": "Usually not too busy",
+              "time": "3p"
+            },
+            {
+              "hour": 17,
+              "percentage": 44,
+              "title": "Usually not too busy",
+              "time": "3p"
+            },
+            {
+              "hour": 18,
+              "percentage": 38,
+              "title": "Usually not too busy",
+              "time": "6p"
+            },
+            {
+              "hour": 19,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "6p"
+            },
+            {
+              "hour": 20,
+              "percentage": 16,
+              "title": "Usually not busy",
+              "time": "6p"
+            },
+            {
+              "hour": 21,
+              "percentage": 11,
+              "title": "Usually not busy",
+              "time": "9p"
+            },
+            {
+              "hour": 22,
+              "percentage": 11,
+              "title": "Usually not busy",
+              "time": "9p"
+            },
+            {
+              "hour": 23,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "9p"
+            },
+            {
+              "hour": 0,
+              "percentage": 33,
+              "title": "Usually not too busy",
+              "time": "12a"
+            },
+            {
+              "hour": 1,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "12a"
+            },
+            {
+              "hour": 2,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "12a"
+            },
+            {
+              "hour": 3,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "3a"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_text": "Thursday",
+          "popular_times": [
+            {
+              "hour": 4,
+              "percentage": 38,
+              "title": "Usually not too busy",
+              "time": "3a"
+            },
+            {
+              "hour": 5,
+              "percentage": 33,
+              "title": "Usually not too busy",
+              "time": "3a"
+            },
+            {
+              "hour": 6,
+              "percentage": 33,
+              "title": "Usually not too busy",
+              "time": "6a"
+            },
+            {
+              "hour": 7,
+              "percentage": 55,
+              "title": "Usually a little busy",
+              "time": "6a"
+            },
+            {
+              "hour": 8,
+              "percentage": 77,
+              "title": "Usually a little busy",
+              "time": "6a"
+            },
+            {
+              "hour": 9,
+              "percentage": 100,
+              "title": "Usually as busy as it gets",
+              "time": "9a"
+            },
+            {
+              "hour": 10,
+              "percentage": 61,
+              "title": "Usually a little busy",
+              "time": "9a"
+            },
+            {
+              "hour": 11,
+              "percentage": 50,
+              "title": "Usually not too busy",
+              "time": "9a"
+            },
+            {
+              "hour": 12,
+              "percentage": 50,
+              "title": "Usually not too busy",
+              "time": "12p"
+            },
+            {
+              "hour": 13,
+              "percentage": 44,
+              "title": "Usually not too busy",
+              "time": "12p"
+            },
+            {
+              "hour": 14,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "12p"
+            },
+            {
+              "hour": 15,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "3p"
+            },
+            {
+              "hour": 16,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "3p"
+            },
+            {
+              "hour": 17,
+              "percentage": 50,
+              "title": "Usually not too busy",
+              "time": "3p"
+            },
+            {
+              "hour": 18,
+              "percentage": 55,
+              "title": "Usually a little busy",
+              "time": "6p"
+            },
+            {
+              "hour": 19,
+              "percentage": 50,
+              "title": "Usually not too busy",
+              "time": "6p"
+            },
+            {
+              "hour": 20,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "6p"
+            },
+            {
+              "hour": 21,
+              "percentage": 11,
+              "title": "Usually not busy",
+              "time": "9p"
+            },
+            {
+              "hour": 22,
+              "percentage": 11,
+              "title": "Usually not busy",
+              "time": "9p"
+            },
+            {
+              "hour": 23,
+              "percentage": 16,
+              "title": "Usually not busy",
+              "time": "9p"
+            },
+            {
+              "hour": 0,
+              "percentage": 38,
+              "title": "Usually not too busy",
+              "time": "12a"
+            },
+            {
+              "hour": 1,
+              "percentage": 55,
+              "title": "Usually a little busy",
+              "time": "12a"
+            },
+            {
+              "hour": 2,
+              "percentage": 55,
+              "title": "Usually a little busy",
+              "time": "12a"
+            },
+            {
+              "hour": 3,
+              "percentage": 44,
+              "title": "Usually not too busy",
+              "time": "3a"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_text": "Friday",
+          "popular_times": [
+            {
+              "hour": 4,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "3a"
+            },
+            {
+              "hour": 5,
+              "percentage": 33,
+              "title": "Usually not too busy",
+              "time": "3a"
+            },
+            {
+              "hour": 6,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "6a"
+            },
+            {
+              "hour": 7,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "6a"
+            },
+            {
+              "hour": 8,
+              "percentage": 38,
+              "title": "Usually not too busy",
+              "time": "6a"
+            },
+            {
+              "hour": 9,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "9a"
+            },
+            {
+              "hour": 10,
+              "percentage": 44,
+              "title": "Usually not too busy",
+              "time": "9a"
+            },
+            {
+              "hour": 11,
+              "percentage": 33,
+              "title": "Usually not too busy",
+              "time": "9a"
+            },
+            {
+              "hour": 12,
+              "percentage": 44,
+              "title": "Usually not too busy",
+              "time": "12p"
+            },
+            {
+              "hour": 13,
+              "percentage": 44,
+              "title": "Usually not too busy",
+              "time": "12p"
+            },
+            {
+              "hour": 14,
+              "percentage": 44,
+              "title": "Usually not too busy",
+              "time": "12p"
+            },
+            {
+              "hour": 15,
+              "percentage": 44,
+              "title": "Usually not too busy",
+              "time": "3p"
+            },
+            {
+              "hour": 16,
+              "percentage": 44,
+              "title": "Usually not too busy",
+              "time": "3p"
+            },
+            {
+              "hour": 17,
+              "percentage": 44,
+              "title": "Usually not too busy",
+              "time": "3p"
+            },
+            {
+              "hour": 18,
+              "percentage": 44,
+              "title": "Usually not too busy",
+              "time": "6p"
+            },
+            {
+              "hour": 19,
+              "percentage": 66,
+              "title": "Usually a little busy",
+              "time": "6p"
+            },
+            {
+              "hour": 20,
+              "percentage": 61,
+              "title": "Usually a little busy",
+              "time": "6p"
+            },
+            {
+              "hour": 21,
+              "percentage": 61,
+              "title": "Usually a little busy",
+              "time": "9p"
+            },
+            {
+              "hour": 22,
+              "percentage": 44,
+              "title": "Usually not too busy",
+              "time": "9p"
+            },
+            {
+              "hour": 23,
+              "percentage": 38,
+              "title": "Usually not too busy",
+              "time": "9p"
+            },
+            {
+              "hour": 0,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "12a"
+            },
+            {
+              "hour": 1,
+              "percentage": 16,
+              "title": "Usually not busy",
+              "time": "12a"
+            },
+            {
+              "hour": 2,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "12a"
+            },
+            {
+              "hour": 3,
+              "percentage": 33,
+              "title": "Usually not too busy",
+              "time": "3a"
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "day_text": "Saturday",
+          "popular_times": [
+            {
+              "hour": 4,
+              "percentage": 44,
+              "title": "Usually not too busy",
+              "time": "3a"
+            },
+            {
+              "hour": 5,
+              "percentage": 50,
+              "title": "Usually not too busy",
+              "time": "3a"
+            },
+            {
+              "hour": 6,
+              "percentage": 50,
+              "title": "Usually not too busy",
+              "time": "6a"
+            },
+            {
+              "hour": 7,
+              "percentage": 33,
+              "title": "Usually not too busy",
+              "time": "6a"
+            },
+            {
+              "hour": 8,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "6a"
+            },
+            {
+              "hour": 9,
+              "percentage": 11,
+              "title": "Usually not busy",
+              "time": "9a"
+            },
+            {
+              "hour": 10,
+              "percentage": 11,
+              "title": "Usually not busy",
+              "time": "9a"
+            },
+            {
+              "hour": 11,
+              "percentage": 11,
+              "title": "Usually not busy",
+              "time": "9a"
+            },
+            {
+              "hour": 12,
+              "percentage": 5,
+              "title": "Usually not busy",
+              "time": "12p"
+            },
+            {
+              "hour": 13,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "12p"
+            },
+            {
+              "hour": 14,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "12p"
+            },
+            {
+              "hour": 15,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "3p"
+            },
+            {
+              "hour": 16,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "3p"
+            },
+            {
+              "hour": 17,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "3p"
+            },
+            {
+              "hour": 18,
+              "percentage": 33,
+              "title": "Usually not too busy",
+              "time": "6p"
+            },
+            {
+              "hour": 19,
+              "percentage": 50,
+              "title": "Usually not too busy",
+              "time": "6p"
+            },
+            {
+              "hour": 20,
+              "percentage": 77,
+              "title": "Usually a little busy",
+              "time": "6p"
+            },
+            {
+              "hour": 21,
+              "percentage": 83,
+              "title": "Usually as busy as it gets",
+              "time": "9p"
+            },
+            {
+              "hour": 22,
+              "percentage": 72,
+              "title": "Usually a little busy",
+              "time": "9p"
+            },
+            {
+              "hour": 23,
+              "percentage": 66,
+              "title": "Usually a little busy",
+              "time": "9p"
+            },
+            {
+              "hour": 0,
+              "percentage": 38,
+              "title": "Usually not too busy",
+              "time": "12a"
+            },
+            {
+              "hour": 1,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "12a"
+            },
+            {
+              "hour": 2,
+              "percentage": 22,
+              "title": "Usually not too busy",
+              "time": "12a"
+            },
+            {
+              "hour": 3,
+              "percentage": 27,
+              "title": "Usually not too busy",
+              "time": "3a"
+            }
+          ]
+        }
+      ],
+      "business_status": "OPERATIONAL",
+      "about": {
+        "Accessibility": {
+          "Wheelchair accessible entrance": true,
+          "Wheelchair accessible parking lot": true
+        },
+        "Payments": {
+          "Credit cards": true
+        }
+      },
+      "range": null,
+      "prices": null,
+      "posts": null,
+      "logo": "https://lh3.googleusercontent.com/-J-buea1Hjw0/AAAAAAAAAAI/AAAAAAAAAAA/IfgjgDZTYeY/s44-p-k-no-ns-nd/photo.jpg",
+      "description": null,
+      "typical_time_spent": null,
+      "verified": true,
+      "owner_id": 1.0911280453244989e20,
+      "owner_title": "Commercial Kitchen 305",
+      "owner_link": "https://www.google.com/maps/contrib/109112804532449879015",
+      "reservation_links": null,
+      "booking_appointment_link": "https://www.google.com/viewer/chooseprovider?mid=/g/1ptz2cv03&g2lbs=AO8LyOJT9hHeBJDxuRPbhbKodz8qn00c6iVZNlD22BUz83F9YZFDZ86uYfGEiH8QR1J2JBMFTuiWGnR7jqVPDDMBNoQdsUgQvg%3D%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=D31_aJnKA6ah0PEP7aHy6A0&ei=D31_aJnKA6ah0PEP7aHy6A0&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
+      "menu_link": null,
+      "order_links": null,
+      "location_link": "https://www.google.com/maps/place/Commercial+Kitchen+305/@25.847742699999998,-80.1788279,14z/data=!4m8!1m2!2m1!1sCommercial+Kitchen+305!3m4!1s0x88d9ae76cf2f3055:0xddb8536355c8de5f!8m2!3d25.847742699999998!4d-80.1788279",
+      "location_reviews_link": "https://www.google.com/maps/place/Commercial+Kitchen+305/@25.847742699999998,-80.1788279,13.99z/data=!4m16!1m7!3m6!1s0x88d9ae76cf2f3055:0xddb8536355c8de5f!2sCommercial+Kitchen+305!8m2!3d25.847742699999998!4d-80.1788279!16s%2Fg%2F11ckvg1dmb!3m7!1s0x88d9ae76cf2f3055:0xddb8536355c8de5f!8m2!3d25.847742699999998!4d-80.1788279!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "place_id": "ChIJVTAvz3au2YgRX97IVWNTuN0",
+      "google_id": "0x88d9ae76cf2f3055:0xddb8536355c8de5f",
+      "cid": 1.597661136420293e19,
+      "kgmid": "/g/1ptz2cv03",
+      "reviews_id": -2.470132709506622e18,
+      "located_google_id": null
+    },
+    {
+      "query": "shared-use commercial kitchen, 33177, Miami, FL, US",
+      "name": "Commercial Kitchen for Rent - Flavor Connection",
+      "name_for_emails": "Commercial Kitchen For Rent Flavor Connection",
+      "site": "https://flavor-connection.com/",
+      "subtypes": "Shared-use commercial kitchen, Caterer, Food manufacturer",
+      "category": "Shared-use commercial kitchen",
+      "type": "Shared-use commercial kitchen",
+      "phone": "+1 305-766-5637",
+      "full_address": "7143 N Waterway Dr, Miami, FL 33155",
+      "borough": "None",
+      "street": "7143 N Waterway Dr",
+      "city": "Miami",
+      "postal_code": 33155,
+      "state": "Florida",
+      "us_state": "Florida",
+      "country": "United States of America",
+      "country_code": "US",
+      "latitude": 25.742193,
+      "longitude": -80.310356,
+      "h3": "8944a18cc5bffff",
+      "time_zone": "America/New_York",
+      "plus_code": null,
+      "area_service": false,
+      "rating": 5,
+      "reviews": 55,
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ3ZW0SPS52YgRp8IHCOv0KxY&q=shared-use+commercial+kitchen,+33177,+Miami,+FL,+US&authuser=0&hl=en&gl=US",
+      "reviews_tags": null,
+      "reviews_per_score": null,
+      "reviews_per_score_1": 0,
+      "reviews_per_score_2": 0,
+      "reviews_per_score_3": 0,
+      "reviews_per_score_4": 0,
+      "reviews_per_score_5": 55,
+      "photos_count": 39,
+      "photo": "https://lh3.googleusercontent.com/p/AF1QipNXrao1cO3UtevW8XRqcBW9l7MzHIQWBKmbW3wb=w800-h500-k-no",
+      "street_view": "https://lh3.googleusercontent.com/p/AF1QipNXrao1cO3UtevW8XRqcBW9l7MzHIQWBKmbW3wb=w1600-h1000-k-no",
+      "located_in": null,
+      "working_hours": {
+        "Monday": "Open 24 hours",
+        "Tuesday": "Open 24 hours",
+        "Wednesday": "Open 24 hours",
+        "Thursday": "Open 24 hours",
+        "Friday": "Open 24 hours",
+        "Saturday": "Open 24 hours",
+        "Sunday": "Open 24 hours"
+      },
+      "working_hours_csv_compatible": "Sunday,Open 24 hours|Monday,Open 24 hours|Tuesday,Open 24 hours|Wednesday,Open 24 hours|Thursday,Open 24 hours|Friday,Open 24 hours|Saturday,Open 24 hours",
+      "working_hours_old_format": "Monday:Open 24 hours|Tuesday:Open 24 hours|Wednesday:Open 24 hours|Thursday:Open 24 hours|Friday:Open 24 hours|Saturday:Open 24 hours|Sunday:Open 24 hours",
+      "other_hours": null,
+      "popular_times": null,
+      "business_status": "OPERATIONAL",
+      "about": {
+        "Accessibility": {
+          "Wheelchair accessible entrance": true,
+          "Wheelchair accessible parking lot": true
+        },
+        "Payments": {
+          "Credit cards": true
+        }
+      },
+      "range": null,
+      "prices": null,
+      "posts": null,
+      "logo": "https://lh3.googleusercontent.com/-sRM5ZKyeJKw/AAAAAAAAAAI/AAAAAAAAAAA/qONNcvnBHmA/s44-p-k-no-ns-nd/photo.jpg",
+      "description": null,
+      "typical_time_spent": null,
+      "verified": true,
+      "owner_id": 1.0330263043423783e20,
+      "owner_title": "Commercial Kitchen for Rent - Flavor Connection",
+      "owner_link": "https://www.google.com/maps/contrib/103302630434237825937",
+      "reservation_links": null,
+      "booking_appointment_link": null,
+      "menu_link": null,
+      "order_links": null,
+      "location_link": "https://www.google.com/maps/place/Commercial+Kitchen+for+Rent+-+Flavor+Connection/@25.742193,-80.310356,14z/data=!4m8!1m2!2m1!1sCommercial+Kitchen+for+Rent+-+Flavor+Connection!3m4!1s0x88d9b9f448b495dd:0x162bf4eb0807c2a7!8m2!3d25.742193!4d-80.310356",
+      "location_reviews_link": "https://www.google.com/maps/place/Commercial+Kitchen+for+Rent+-+Flavor+Connection/@25.742193,-80.310356,13.99z/data=!4m16!1m7!3m6!1s0x88d9b9f448b495dd:0x162bf4eb0807c2a7!2sCommercial+Kitchen+for+Rent+-+Flavor+Connection!8m2!3d25.742193!4d-80.310356!16s%2Fg%2F11ckvg1dmb!3m7!1s0x88d9b9f448b495dd:0x162bf4eb0807c2a7!8m2!3d25.742193!4d-80.310356!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "place_id": "ChIJ3ZW0SPS52YgRp8IHCOv0KxY",
+      "google_id": "0x88d9b9f448b495dd:0x162bf4eb0807c2a7",
+      "cid": 1.597639783122191e18,
+      "kgmid": "/g/11qs8y0v4s",
+      "reviews_id": 1.597639783122191e18,
+      "located_google_id": null
+    },
+    {
+      "query": "shared-use commercial kitchen, 33177, Miami, FL, US",
+      "name": "THE FOOD FACTORY - Commercial Kitchens & Culinary Incubator",
+      "name_for_emails": "The Food Factory Commercial Kitchens And Culinary Incubator",
+      "site": "http://www.thefoodfactory.us/?utm_source=google",
+      "subtypes": "Shared-use commercial kitchen, Food producer",
+      "category": "Shared-use commercial kitchen",
+      "type": "Shared-use commercial kitchen",
+      "phone": "+1 305-677-3770",
+      "full_address": "13920 SW 139th Ct, Miami, FL 33186",
+      "borough": "West End",
+      "street": "13920 SW 139th Ct",
+      "city": "Miami",
+      "postal_code": 33186,
+      "state": "Florida",
+      "us_state": "Florida",
+      "country": "United States of America",
+      "country_code": "US",
+      "latitude": 25.638135,
+      "longitude": -80.4200681,
+      "h3": "8944a187143ffff",
+      "time_zone": "America/New_York",
+      "plus_code": null,
+      "area_service": false,
+      "rating": 4.4,
+      "reviews": 14,
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJd9vZ4YXB2YgRtngT1FdMers&q=shared-use+commercial+kitchen,+33177,+Miami,+FL,+US&authuser=0&hl=en&gl=US",
+      "reviews_tags": null,
+      "reviews_per_score": null,
+      "reviews_per_score_1": 2,
+      "reviews_per_score_2": 0,
+      "reviews_per_score_3": 0,
+      "reviews_per_score_4": 0,
+      "reviews_per_score_5": 12,
+      "photos_count": 5,
+      "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3WqMzIupczmoKXWRf__-gQ&cb_client=search.gws-prod.gps&w=800&h=500&yaw=298.30624&pitch=0&thumbfov=100",
+      "street_view": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr4GPp5mxJaeWhO7qipG-pNABkReiBW5GUP6gDGS8BiaakvNw7MJBzP_ylCfz_5FaJG5AiFj0V5l2e5XwhYQ4rUkNTWi2HLllVgM2ItKHqvIu62E0kptCQU0oZe0C2scfYfAVdo=w1600-h1000-k-no",
+      "located_in": null,
+      "working_hours": {
+        "Monday": "Open 24 hours",
+        "Tuesday": "Open 24 hours",
+        "Wednesday": "Open 24 hours",
+        "Thursday": "Open 24 hours",
+        "Friday": "Open 24 hours",
+        "Saturday": "Open 24 hours",
+        "Sunday": "Open 24 hours"
+      },
+      "working_hours_csv_compatible": "Sunday,Open 24 hours|Monday,Open 24 hours|Tuesday,Open 24 hours|Wednesday,Open 24 hours|Thursday,Open 24 hours|Friday,Open 24 hours|Saturday,Open 24 hours",
+      "working_hours_old_format": "Monday:Open 24 hours|Tuesday:Open 24 hours|Wednesday:Open 24 hours|Thursday:Open 24 hours|Friday:Open 24 hours|Saturday:Open 24 hours|Sunday:Open 24 hours",
+      "other_hours": null,
+      "popular_times": null,
+      "business_status": "OPERATIONAL",
+      "about": {
+        "Accessibility": {
+          "Wheelchair accessible entrance": true,
+          "Wheelchair accessible parking lot": true
+        },
+        "Payments": {
+          "Debit cards": true,
+          "Credit cards": true
+        }
+      },
+      "range": null,
+      "prices": null,
+      "posts": null,
+      "logo": "https://lh3.googleusercontent.com/-qgzU7ZOX5Pc/AAAAAAAAAAI/AAAAAAAAAAA/S5SUIXJpG6g/s44-p-k-no-ns-nd/photo.jpg",
+      "description": null,
+      "typical_time_spent": null,
+      "verified": true,
+      "owner_id": 1.148924014406387e20,
+      "owner_title": "THE FOOD FACTORY - Commercial Kitchens & Culinary Incubator",
+      "owner_link": "https://www.google.com/maps/contrib/114892401440638702054",
+      "reservation_links": null,
+      "booking_appointment_link": null,
+      "menu_link": null,
+      "order_links": null,
+      "location_link": "https://www.google.com/maps/place/THE+FOOD+FACTORY+-+Commercial+Kitchens+%26+Culinary+Incubator/@25.638135,-80.4200681,14z/data=!4m8!1m2!2m1!1sTHE+FOOD+FACTORY+-+Commercial+Kitchens+%26+Culinary+Incubator!3m4!1s0x88d9c185e1d9db77:0xbb7a4c57d41378b6!8m2!3d25.638135!4d-80.4200681",
+      "location_reviews_link": "https://www.google.com/maps/place/THE+FOOD+FACTORY+-+Commercial+Kitchens+%26+Culinary+Incubator/@25.638135,-80.4200681,13.99z/data=!4m16!1m7!3m6!1s0x88d9c185e1d9db77:0xbb7a4c57d41378b6!2sTHE+FOOD+FACTORY+-+Commercial+Kitchens+%26+Culinary+Incubator!8m2!3d25.638135!4d-80.4200681!16s%2Fg%2F11ckvg1dmb!3m7!1s0x88d9c185e1d9db77:0xbb7a4c57d41378b6!8m2!3d25.638135!4d-80.4200681!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "place_id": "ChIJd9vZ4YXB2YgRtngT1FdMers",
+      "google_id": "0x88d9c185e1d9db77:0xbb7a4c57d41378b6",
+      "cid": 1.3509193972355135e19,
+      "kgmid": "/g/11hd1s591h",
+      "reviews_id": -4.937550101354416e18,
+      "located_google_id": null
+    },
+    {
+      "query": "shared-use commercial kitchen, 33192, Miami, FL, US",
+      "name": "Commercial Kitchen | Kitchen For Rent Miami | Get your Food License",
+      "name_for_emails": "Commercial Kitchen | Kitchen For Rent Miami | Get Your Food License",
+      "site": "https://kitchenforrentmiami.com/",
+      "subtypes": "Shared-use commercial kitchen, Coworking space",
+      "category": "Cocina comercial de uso compartido",
+      "type": "Shared-use commercial kitchen",
+      "phone": "+1 786-941-3182",
+      "full_address": "1047 E 28th St, Hialeah, FL 33013",
+      "borough": "None",
+      "street": "1047 E 28th St",
+      "city": "Hialeah",
+      "postal_code": 33013,
+      "state": "Florida",
+      "us_state": "Florida",
+      "country": "United States of America",
+      "country_code": "US",
+      "latitude": 25.8484682,
+      "longitude": -80.2612512,
+      "h3": "8944a114437ffff",
+      "time_zone": "America/New_York",
+      "plus_code": null,
+      "area_service": false,
+      "rating": 4.9,
+      "reviews": 10,
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJF7G6p_ux2YgRSR2GMEsfS4c&q=shared-use+commercial+kitchen,+33192,+Miami,+FL,+US&authuser=0&hl=en&gl=US",
+      "reviews_tags": null,
+      "reviews_per_score": null,
+      "reviews_per_score_1": 0,
+      "reviews_per_score_2": 0,
+      "reviews_per_score_3": 0,
+      "reviews_per_score_4": 1,
+      "reviews_per_score_5": 9,
+      "photos_count": 5,
+      "photo": "https://lh3.googleusercontent.com/p/AF1QipM81J2As5cAlc_aO6mjN2LVshdUV0psSVUDEqRn=w800-h500-k-no",
+      "street_view": "https://lh3.googleusercontent.com/p/AF1QipM81J2As5cAlc_aO6mjN2LVshdUV0psSVUDEqRn=w1600-h1000-k-no",
+      "located_in": null,
+      "working_hours": {
+        "Monday": "Open 24 hours",
+        "Tuesday": "Open 24 hours",
+        "Wednesday": "Open 24 hours",
+        "Thursday": "Open 24 hours",
+        "Friday": "Open 24 hours",
+        "Saturday": "Open 24 hours",
+        "Sunday": "Open 24 hours"
+      },
+      "working_hours_csv_compatible": "Sunday,Open 24 hours|Monday,Open 24 hours|Tuesday,Open 24 hours|Wednesday,Open 24 hours|Thursday,Open 24 hours|Friday,Open 24 hours|Saturday,Open 24 hours",
+      "working_hours_old_format": "Monday:Open 24 hours|Tuesday:Open 24 hours|Wednesday:Open 24 hours|Thursday:Open 24 hours|Friday:Open 24 hours|Saturday:Open 24 hours|Sunday:Open 24 hours",
+      "other_hours": null,
+      "popular_times": null,
+      "business_status": "OPERATIONAL",
+      "about": {
+        "Accessibility": {
+          "Wheelchair accessible entrance": true,
+          "Wheelchair accessible parking lot": true
+        },
+        "Amenities": {
+          "Gender-neutral restroom": true
+        },
+        "Crowd": {
+          "LGBTQ+ friendly": true
+        },
+        "Other": {
+          "LGBTQ+ friendly": true
+        }
+      },
+      "range": null,
+      "prices": null,
+      "posts": null,
+      "logo": "https://lh5.googleusercontent.com/-PFa3M0oa-Xc/AAAAAAAAAAI/AAAAAAAAAAA/qDWqhdSk8uA/s44-p-k-no-ns-nd/photo.jpg",
+      "description": null,
+      "typical_time_spent": null,
+      "verified": true,
+      "owner_id": 1.0373803490016792e20,
+      "owner_title": "Commercial Kitchen | Kitchen For Rent Miami | Get your Food License",
+      "owner_link": "https://www.google.com/maps/contrib/103738034900167925118",
+      "reservation_links": null,
+      "booking_appointment_link": null,
+      "menu_link": null,
+      "order_links": null,
+      "location_link": "https://www.google.com/maps/place/Commercial+Kitchen+%7C+Kitchen+For+Rent+Miami+%7C+Get+your+Food+License/@25.8484682,-80.26125119999999,14z/data=!4m8!1m2!2m1!1sCommercial+Kitchen+%7C+Kitchen+For+Rent+Miami+%7C+Get+your+Food+License!3m4!1s0x88d9b1fba7bab117:0x874b1f4b30861d49!8m2!3d25.8484682!4d-80.26125119999999",
+      "location_reviews_link": "https://www.google.com/maps/place/Commercial+Kitchen+%7C+Kitchen+For+Rent+Miami+%7C+Get+your+Food+License/@25.8484682,-80.26125119999999,13.99z/data=!4m16!1m7!3m6!1s0x88d9b1fba7bab117:0x874b1f4b30861d49!2sCommercial+Kitchen+%7C+Kitchen+For+Rent+Miami+%7C+Get+your+Food+License!8m2!3d25.8484682!4d-80.26125119999999!16s%2Fg%2F11ckvg1dmb!3m7!1s0x88d9b1fba7bab117:0x874b1f4b30861d49!8m2!3d25.8484682!4d-80.26125119999999!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "place_id": "ChIJF7G6p_ux2YgRSR2GMEsfS4c",
+      "google_id": "0x88d9b1fba7bab117:0x874b1f4b30861d49",
+      "cid": 9.748920226170675e18,
+      "kgmid": "/g/11td20cd70",
+      "reviews_id": -8.697823847538877e18,
+      "located_google_id": null
+    },
+    {
+      "query": "shared-use commercial kitchen, 33192, Miami, FL, US",
+      "name": "Miami Kitchen Incubator",
+      "name_for_emails": "Miami Kitchen Incubator",
+      "site": "http://www.miamikitchenincubator.com/",
+      "subtypes": "Food producer, Food manufacturer",
+      "category": "Food producer",
+      "type": "Food producer",
+      "phone": "+1 786-677-9762",
+      "full_address": "7415 NW 54th St, Miami, FL 33166",
+      "borough": "None",
+      "street": "7415 NW 54th St",
+      "city": "Miami",
+      "postal_code": 33166,
+      "state": "Florida",
+      "us_state": "Florida",
+      "country": "United States of America",
+      "country_code": "US",
+      "latitude": 25.8228411,
+      "longitude": -80.3185753,
+      "h3": "8944a1b9213ffff",
+      "time_zone": "America/New_York",
+      "plus_code": null,
+      "area_service": false,
+      "rating": 4.8,
+      "reviews": 17,
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ4RQN3Z-72YgRz5PJbJdzRxk&q=shared-use+commercial+kitchen,+33192,+Miami,+FL,+US&authuser=0&hl=en&gl=US",
+      "reviews_tags": null,
+      "reviews_per_score": null,
+      "reviews_per_score_1": 1,
+      "reviews_per_score_2": 0,
+      "reviews_per_score_3": 0,
+      "reviews_per_score_4": 0,
+      "reviews_per_score_5": 16,
+      "photos_count": 17,
+      "photo": "https://lh3.googleusercontent.com/p/AF1QipPVV9n9I9oV1wAyetrEwIKNd42ad_XgRlOsOrOi=w800-h500-k-no",
+      "street_view": "https://lh3.googleusercontent.com/p/AF1QipPVV9n9I9oV1wAyetrEwIKNd42ad_XgRlOsOrOi=w1600-h1000-k-no",
+      "located_in": null,
+      "working_hours": {
+        "Monday": "7AM-11PM",
+        "Tuesday": "7AM-11PM",
+        "Wednesday": "7AM-11PM",
+        "Thursday": "7AM-11PM",
+        "Friday": "7AM-11PM",
+        "Saturday": "7AM-11PM",
+        "Sunday": "7AM-11PM"
+      },
+      "working_hours_csv_compatible": "Sunday,7AM,11PM|Monday,7AM,11PM|Tuesday,7AM,11PM|Wednesday,7AM,11PM|Thursday,7AM,11PM|Friday,7AM,11PM|Saturday,7AM,11PM",
+      "working_hours_old_format": "Monday:7AM-11PM|Tuesday:7AM-11PM|Wednesday:7AM-11PM|Thursday:7AM-11PM|Friday:7AM-11PM|Saturday:7AM-11PM|Sunday:7AM-11PM",
+      "other_hours": null,
+      "popular_times": null,
+      "business_status": "OPERATIONAL",
+      "about": {
+        "Accessibility": {
+          "Wheelchair accessible entrance": true,
+          "Wheelchair accessible parking lot": true
+        },
+        "Payments": {
+          "Credit cards": true,
+          "Debit cards": true
+        }
+      },
+      "range": null,
+      "prices": null,
+      "posts": null,
+      "logo": "https://lh6.googleusercontent.com/-fFdU8CXwmcc/AAAAAAAAAAI/AAAAAAAAAAA/o_Ce71PhV6Y/s44-p-k-no-ns-nd/photo.jpg",
+      "description": null,
+      "typical_time_spent": null,
+      "verified": true,
+      "owner_id": 1.1687125781497305e20,
+      "owner_title": "Miami Kitchen Incubator",
+      "owner_link": "https://www.google.com/maps/contrib/116871257814973050636",
+      "reservation_links": null,
+      "booking_appointment_link": null,
+      "menu_link": null,
+      "order_links": null,
+      "location_link": "https://www.google.com/maps/place/Miami+Kitchen+Incubator/@25.822841099999998,-80.31857529999999,14z/data=!4m8!1m2!2m1!1sMiami+Kitchen+Incubator!3m4!1s0x88d9bb9fdd0d14e1:0x194773976cc993cf!8m2!3d25.822841099999998!4d-80.31857529999999",
+      "location_reviews_link": "https://www.google.com/maps/place/Miami+Kitchen+Incubator/@25.822841099999998,-80.31857529999999,13.99z/data=!4m16!1m7!3m6!1s0x88d9bb9fdd0d14e1:0x194773976cc993cf!2sMiami+Kitchen+Incubator!8m2!3d25.822841099999998!4d-80.31857529999999!16s%2Fg%2F11ckvg1dmb!3m7!1s0x88d9bb9fdd0d14e1:0x194773976cc993cf!8m2!3d25.822841099999998!4d-80.31857529999999!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "place_id": "ChIJ4RQN3Z-72YgRz5PJbJdzRxk",
+      "google_id": "0x88d9bb9fdd0d14e1:0x194773976cc993cf",
+      "cid": 1.8215516684970609e18,
+      "kgmid": "/g/11fqtnsc3s",
+      "reviews_id": 1.8215516684970609e18,
+      "located_google_id": null
+    },
+    {
+      "query": "shared-use commercial kitchen, 33242, Miami, FL, US",
+      "name": "Cook Incubator Miami LLC",
+      "name_for_emails": "Cook Incubator Miami",
+      "site": "https://cookincubator.com/",
+      "subtypes": "Business to business service",
+      "category": "Business to business service",
+      "type": "Business to business service",
+      "phone": "+1 305-360-3372",
+      "full_address": "5525 NW 2nd Ave, Miami, FL 33127",
+      "borough": "Little Haiti",
+      "street": "5525 NW 2nd Ave",
+      "city": "Miami",
+      "postal_code": 33127,
+      "state": "Florida",
+      "us_state": "Florida",
+      "country": "United States of America",
+      "country_code": "US",
+      "latitude": 25.8264809,
+      "longitude": -80.1999082,
+      "h3": "8944a117267ffff",
+      "time_zone": "America/New_York",
+      "plus_code": null,
+      "area_service": false,
+      "rating": null,
+      "reviews": null,
+      "reviews_link": null,
+      "reviews_tags": null,
+      "reviews_per_score": null,
+      "reviews_per_score_1": null,
+      "reviews_per_score_2": null,
+      "reviews_per_score_3": null,
+      "reviews_per_score_4": null,
+      "reviews_per_score_5": null,
+      "photos_count": 7,
+      "photo": "https://lh3.googleusercontent.com/p/AF1QipPFwk8gdrEW9oXSGTD_zaasa46rnlaNlpUOc6B_=w800-h500-k-no",
+      "street_view": "https://lh3.googleusercontent.com/p/AF1QipPFwk8gdrEW9oXSGTD_zaasa46rnlaNlpUOc6B_=w1600-h1000-k-no",
+      "located_in": null,
+      "working_hours": null,
+      "working_hours_csv_compatible": null,
+      "working_hours_old_format": null,
+      "other_hours": null,
+      "popular_times": null,
+      "business_status": "CLOSED_TEMPORARILY",
+      "about": {},
+      "range": null,
+      "prices": null,
+      "posts": null,
+      "logo": "https://lh5.googleusercontent.com/-iZ0Himj6gIA/AAAAAAAAAAI/AAAAAAAAAAA/fkSCNvKF2tw/s44-p-k-no-ns-nd/photo.jpg",
+      "description": null,
+      "typical_time_spent": null,
+      "verified": true,
+      "owner_id": 1.0144162430850399e20,
+      "owner_title": "Cook Incubator Miami LLC",
+      "owner_link": "https://www.google.com/maps/contrib/101441624308503984834",
+      "reservation_links": null,
+      "booking_appointment_link": null,
+      "menu_link": null,
+      "order_links": null,
+      "location_link": "https://www.google.com/maps/place/Cook+Incubator+Miami+LLC/@25.8264809,-80.1999082,14z/data=!4m8!1m2!2m1!1sCook+Incubator+Miami+LLC!3m4!1s0x88d9b1bf2998d497:0x1f28cd4c1f47938f!8m2!3d25.8264809!4d-80.1999082",
+      "location_reviews_link": "https://www.google.com/maps/place/Cook+Incubator+Miami+LLC/@25.8264809,-80.1999082,13.99z/data=!4m16!1m7!3m6!1s0x88d9b1bf2998d497:0x1f28cd4c1f47938f!2sCook+Incubator+Miami+LLC!8m2!3d25.8264809!4d-80.1999082!16s%2Fg%2F11ckvg1dmb!3m7!1s0x88d9b1bf2998d497:0x1f28cd4c1f47938f!8m2!3d25.8264809!4d-80.1999082!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "place_id": "ChIJl9SYKb-x2YgRj5NHH0zNKB8",
+      "google_id": "0x88d9b1bf2998d497:0x1f28cd4c1f47938f",
+      "cid": 2.2452701410701855e18,
+      "kgmid": "/g/11q4bt91_7",
+      "reviews_id": "None",
+      "located_google_id": null
+    },
+    {
+      "query": "shared-use commercial kitchen, 33101, Miami, FL, US",
+      "name": "Miami Kitchen Incubator",
+      "name_for_emails": "Miami Kitchen Incubator",
+      "site": "https://www.miamikitchenincubator.com/",
+      "subtypes": "Food producer",
+      "category": "Food producer",
+      "type": "Food producer",
+      "phone": "+1 786-677-9762",
+      "full_address": "4259 W Flagler St, Miami, FL 33134",
+      "borough": "Flagami",
+      "street": "4259 W Flagler St",
+      "city": "Miami",
+      "postal_code": 33134,
+      "state": "Florida",
+      "us_state": "Florida",
+      "country": "United States of America",
+      "country_code": "US",
+      "latitude": 25.7718343,
+      "longitude": -80.2649313,
+      "h3": "8944a18d9cbffff",
+      "time_zone": "America/New_York",
+      "plus_code": null,
+      "area_service": false,
+      "rating": 5,
+      "reviews": 6,
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJGZh4lvq32YgREwKO6rPQ9Vk&q=shared-use+commercial+kitchen,+33101,+Miami,+FL,+US&authuser=0&hl=en&gl=US",
+      "reviews_tags": null,
+      "reviews_per_score": null,
+      "reviews_per_score_1": 0,
+      "reviews_per_score_2": 0,
+      "reviews_per_score_3": 0,
+      "reviews_per_score_4": 0,
+      "reviews_per_score_5": 6,
+      "photos_count": 7,
+      "photo": "https://lh3.googleusercontent.com/p/AF1QipNyLfp6yosOh22LPTPQoZ74YX6zt5eaj-vhOIQ8=w800-h500-k-no",
+      "street_view": "https://lh3.googleusercontent.com/p/AF1QipNyLfp6yosOh22LPTPQoZ74YX6zt5eaj-vhOIQ8=w1600-h1000-k-no",
+      "located_in": null,
+      "working_hours": {
+        "Monday": "Open 24 hours",
+        "Tuesday": "Open 24 hours",
+        "Wednesday": "Open 24 hours",
+        "Thursday": "Open 24 hours",
+        "Friday": "Open 24 hours",
+        "Saturday": "Open 24 hours",
+        "Sunday": "Open 24 hours"
+      },
+      "working_hours_csv_compatible": "Sunday,Open 24 hours|Monday,Open 24 hours|Tuesday,Open 24 hours|Wednesday,Open 24 hours|Thursday,Open 24 hours|Friday,Open 24 hours|Saturday,Open 24 hours",
+      "working_hours_old_format": "Monday:Open 24 hours|Tuesday:Open 24 hours|Wednesday:Open 24 hours|Thursday:Open 24 hours|Friday:Open 24 hours|Saturday:Open 24 hours|Sunday:Open 24 hours",
+      "other_hours": null,
+      "popular_times": null,
+      "business_status": "OPERATIONAL",
+      "about": {
+        "Accessibility": {
+          "Wheelchair accessible entrance": true,
+          "Wheelchair accessible parking lot": true
+        },
+        "Payments": {
+          "Credit cards": true,
+          "Debit cards": true,
+          "NFC mobile payments": true
+        }
+      },
+      "range": null,
+      "prices": null,
+      "posts": null,
+      "logo": "https://lh4.googleusercontent.com/-kOJ4Y2_YcvM/AAAAAAAAAAI/AAAAAAAAAAA/27hyMlM_ehE/s44-p-k-no-ns-nd/photo.jpg",
+      "description": null,
+      "typical_time_spent": null,
+      "verified": true,
+      "owner_id": 1.150019722824325e20,
+      "owner_title": "Miami Kitchen Incubator",
+      "owner_link": "https://www.google.com/maps/contrib/115001972282432510691",
+      "reservation_links": null,
+      "booking_appointment_link": null,
+      "menu_link": null,
+      "order_links": null,
+      "location_link": "https://www.google.com/maps/place/Miami+Kitchen+Incubator/@25.7718343,-80.2649313,14z/data=!4m8!1m2!2m1!1sMiami+Kitchen+Incubator!3m4!1s0x88d9b7fa96789819:0x59f5d0b3ea8e0213!8m2!3d25.7718343!4d-80.2649313",
+      "location_reviews_link": "https://www.google.com/maps/place/Miami+Kitchen+Incubator/@25.7718343,-80.2649313,13.99z/data=!4m16!1m7!3m6!1s0x88d9b7fa96789819:0x59f5d0b3ea8e0213!2sMiami+Kitchen+Incubator!8m2!3d25.7718343!4d-80.2649313!16s%2Fg%2F11ckvg1dmb!3m7!1s0x88d9b7fa96789819:0x59f5d0b3ea8e0213!8m2!3d25.7718343!4d-80.2649313!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "place_id": "ChIJGZh4lvq32YgREwKO6rPQ9Vk",
+      "google_id": "0x88d9b7fa96789819:0x59f5d0b3ea8e0213",
+      "cid": 6.482316709822596e18,
+      "kgmid": "/g/11l6b6cv19",
+      "reviews_id": 6.482316709822596e18,
+      "located_google_id": null
+    },
+    {
+      "query": "shared-use commercial kitchen, 33101, Miami, FL, US",
+      "name": "Healthy Food Factory - Shared-Use Commercial Commissary Kitchen",
+      "name_for_emails": "Healthy Food Factory Shared Use Commercial Commissary Kitchen",
+      "site": "http://www.healthyfoodfactory.com/",
+      "subtypes": "Shared-use commercial kitchen, Food processing company",
+      "category": "Shared-use commercial kitchen",
+      "type": "Shared-use commercial kitchen",
+      "phone": "+1 561-394-7466",
+      "full_address": "150 NW 16th St, Boca Raton, FL 33432",
+      "borough": "None",
+      "street": "150 NW 16th St",
+      "city": "Boca Raton",
+      "postal_code": 33432,
+      "state": "Florida",
+      "us_state": "Florida",
+      "country": "United States of America",
+      "country_code": "US",
+      "latitude": 26.3644583,
+      "longitude": -80.088348,
+      "h3": "8944a129b83ffff",
+      "time_zone": "America/New_York",
+      "plus_code": null,
+      "area_service": false,
+      "rating": 5,
+      "reviews": 32,
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJBy4hH_rh2IgRicbPVJMulLk&q=shared-use+commercial+kitchen,+33101,+Miami,+FL,+US&authuser=0&hl=en&gl=US",
+      "reviews_tags": null,
+      "reviews_per_score": null,
+      "reviews_per_score_1": 0,
+      "reviews_per_score_2": 0,
+      "reviews_per_score_3": 0,
+      "reviews_per_score_4": 0,
+      "reviews_per_score_5": 32,
+      "photos_count": 57,
+      "photo": "https://lh3.googleusercontent.com/p/AF1QipNm2H3DSNW-oOIEi6rdx2p5QHSvc6yV9vg9mQ7n=w800-h500-k-no",
+      "street_view": "https://lh3.googleusercontent.com/p/AF1QipNm2H3DSNW-oOIEi6rdx2p5QHSvc6yV9vg9mQ7n=w1600-h1000-k-no",
+      "located_in": null,
+      "working_hours": {
+        "Monday": "Open 24 hours",
+        "Tuesday": "Open 24 hours",
+        "Wednesday": "Open 24 hours",
+        "Thursday": "Open 24 hours",
+        "Friday": "Open 24 hours",
+        "Saturday": "Open 24 hours",
+        "Sunday": "Open 24 hours"
+      },
+      "working_hours_csv_compatible": "Sunday,Open 24 hours|Monday,Open 24 hours|Tuesday,Open 24 hours|Wednesday,Open 24 hours|Thursday,Open 24 hours|Friday,Open 24 hours|Saturday,Open 24 hours",
+      "working_hours_old_format": "Monday:Open 24 hours|Tuesday:Open 24 hours|Wednesday:Open 24 hours|Thursday:Open 24 hours|Friday:Open 24 hours|Saturday:Open 24 hours|Sunday:Open 24 hours",
+      "other_hours": null,
+      "popular_times": null,
+      "business_status": "OPERATIONAL",
+      "about": {
+        "From the business": {
+          "Identifies as women-owned": true
+        },
+        "Accessibility": {
+          "Wheelchair accessible entrance": true,
+          "Wheelchair accessible parking lot": true,
+          "Wheelchair accessible restroom": true,
+          "Wheelchair accessible seating": true,
+          "Assistive hearing loop": false
+        },
+        "Amenities": {
+          "Gender-neutral restroom": true
+        },
+        "Crowd": {
+          "LGBTQ+ friendly": true,
+          "Transgender safespace": true
+        },
+        "Payments": {
+          "Credit cards": true,
+          "NFC mobile payments": true
+        },
+        "Parking": {
+          "Free parking lot": true
+        },
+        "Other": {
+          "LGBTQ+ friendly": true,
+          "Identifies as women-owned": true
+        }
+      },
+      "range": null,
+      "prices": null,
+      "posts": null,
+      "logo": "https://lh4.googleusercontent.com/-YdqFYRlRhxw/AAAAAAAAAAI/AAAAAAAAAAA/NjezrSE_wGE/s44-p-k-no-ns-nd/photo.jpg",
+      "description": null,
+      "typical_time_spent": null,
+      "verified": true,
+      "owner_id": 1.1797126556649795e20,
+      "owner_title": "Healthy Food Factory - Shared-Use Commercial Commissary Kitchen",
+      "owner_link": "https://www.google.com/maps/contrib/117971265566497950835",
+      "reservation_links": null,
+      "booking_appointment_link": null,
+      "menu_link": null,
+      "order_links": null,
+      "location_link": "https://www.google.com/maps/place/Healthy+Food+Factory+-+Shared-Use+Commercial+Commissary+Kitchen/@26.3644583,-80.088348,14z/data=!4m8!1m2!2m1!1sHealthy+Food+Factory+-+Shared-Use+Commercial+Commissary+Kitchen!3m4!1s0x88d8e1fa1f212e07:0xb9942e9354cfc689!8m2!3d26.3644583!4d-80.088348",
+      "location_reviews_link": "https://www.google.com/maps/place/Healthy+Food+Factory+-+Shared-Use+Commercial+Commissary+Kitchen/@26.3644583,-80.088348,13.99z/data=!4m16!1m7!3m6!1s0x88d8e1fa1f212e07:0xb9942e9354cfc689!2sHealthy+Food+Factory+-+Shared-Use+Commercial+Commissary+Kitchen!8m2!3d26.3644583!4d-80.088348!16s%2Fg%2F11ckvg1dmb!3m7!1s0x88d8e1fa1f212e07:0xb9942e9354cfc689!8m2!3d26.3644583!4d-80.088348!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "place_id": "ChIJBy4hH_rh2IgRicbPVJMulLk",
+      "google_id": "0x88d8e1fa1f212e07:0xb9942e9354cfc689",
+      "cid": 1.3372364403887819e19,
+      "kgmid": "/g/11clwncsmp",
+      "reviews_id": -5.074379669821733e18,
+      "located_google_id": null
+    },
+    {
+      "query": "shared-use commercial kitchen, 33101, Miami, FL, US",
+      "name": "City Chef Kitchens",
+      "name_for_emails": "City Chef Kitchens",
+      "site": "http://www.citychefkitchens.com/",
+      "subtypes": "Shared-use commercial kitchen",
+      "category": "Shared-use commercial kitchen",
+      "type": "Shared-use commercial kitchen",
+      "phone": "+1 561-786-6001",
+      "full_address": "1321 NW 155th Dr, Miami Gardens, FL 33169",
+      "borough": "None",
+      "street": "1321 NW 155th Dr",
+      "city": "Miami Gardens",
+      "postal_code": 33169,
+      "state": "Florida",
+      "us_state": "Florida",
+      "country": "United States of America",
+      "country_code": "US",
+      "latitude": 25.91794,
+      "longitude": -80.222278,
+      "h3": "8944a115837ffff",
+      "time_zone": "America/New_York",
+      "plus_code": null,
+      "area_service": false,
+      "rating": 5,
+      "reviews": 2,
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9dhCr22v2YgRsu1z3O2SC-Q&q=shared-use+commercial+kitchen,+33101,+Miami,+FL,+US&authuser=0&hl=en&gl=US",
+      "reviews_tags": null,
+      "reviews_per_score": null,
+      "reviews_per_score_1": 0,
+      "reviews_per_score_2": 0,
+      "reviews_per_score_3": 0,
+      "reviews_per_score_4": 0,
+      "reviews_per_score_5": 2,
+      "photos_count": 3,
+      "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NtoJwGEIkVsiGhnbK4dBBA&cb_client=search.gws-prod.gps&w=800&h=500&yaw=322.687&pitch=0&thumbfov=100",
+      "street_view": "https://lh3.googleusercontent.com/p/AF1QipP38FdHtW9EEDfmYrqkoCjn1lCOrtn5pEbDmEBJ=w1600-h1000-k-no",
+      "located_in": null,
+      "working_hours": {
+        "Monday": "9AM-5PM",
+        "Tuesday": "9AM-5PM",
+        "Wednesday": "9AM-5PM",
+        "Thursday": "9AM-5PM",
+        "Friday": "9AM-5PM",
+        "Saturday": "9AM-5PM",
+        "Sunday": "9AM-5PM"
+      },
+      "working_hours_csv_compatible": "Sunday,9AM,5PM|Monday,9AM,5PM|Tuesday,9AM,5PM|Wednesday,9AM,5PM|Thursday,9AM,5PM|Friday,9AM,5PM|Saturday,9AM,5PM",
+      "working_hours_old_format": "Monday:9AM-5PM|Tuesday:9AM-5PM|Wednesday:9AM-5PM|Thursday:9AM-5PM|Friday:9AM-5PM|Saturday:9AM-5PM|Sunday:9AM-5PM",
+      "other_hours": null,
+      "popular_times": null,
+      "business_status": "OPERATIONAL",
+      "about": {
+        "Accessibility": {
+          "Wheelchair accessible entrance": true,
+          "Wheelchair accessible parking lot": true
+        }
+      },
+      "range": null,
+      "prices": null,
+      "posts": null,
+      "logo": "https://lh4.googleusercontent.com/-c_Yf6ci6OPk/AAAAAAAAAAI/AAAAAAAAAAA/zza1T7Mtyvo/s44-p-k-no-ns-nd/photo.jpg",
+      "description": null,
+      "typical_time_spent": null,
+      "verified": true,
+      "owner_id": 1.0190002879867514e20,
+      "owner_title": "City Chef Kitchens",
+      "owner_link": "https://www.google.com/maps/contrib/101900028798675134719",
+      "reservation_links": null,
+      "booking_appointment_link": null,
+      "menu_link": null,
+      "order_links": null,
+      "location_link": "https://www.google.com/maps/place/City+Chef+Kitchens/@25.917939999999998,-80.222278,14z/data=!4m8!1m2!2m1!1sCity+Chef+Kitchens!3m4!1s0x88d9af6daf42d8f5:0xe40b92eddc73edb2!8m2!3d25.917939999999998!4d-80.222278",
+      "location_reviews_link": "https://www.google.com/maps/place/City+Chef+Kitchens/@25.917939999999998,-80.222278,13.99z/data=!4m16!1m7!3m6!1s0x88d9af6daf42d8f5:0xe40b92eddc73edb2!2sCity+Chef+Kitchens!8m2!3d25.917939999999998!4d-80.222278!16s%2Fg%2F11ckvg1dmb!3m7!1s0x88d9af6daf42d8f5:0xe40b92eddc73edb2!8m2!3d25.917939999999998!4d-80.222278!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "place_id": "ChIJ9dhCr22v2YgRsu1z3O2SC-Q",
+      "google_id": "0x88d9af6daf42d8f5:0xe40b92eddc73edb2",
+      "cid": 1.6432389215694877e19,
+      "kgmid": "/g/11lw8sfv7s",
+      "reviews_id": -2.0143548580146755e18,
+      "located_google_id": null
+    },
+    {
+      "query": "shared-use commercial kitchen, 33142, Miami, FL, US",
+      "name": "West Village Kitchen Co.",
+      "name_for_emails": "West Village Kitchen",
+      "site": "https://www.westvillagekitchenco.com/",
+      "subtypes": "Shared-use commercial kitchen",
+      "category": "Shared-use commercial kitchen",
+      "type": "Shared-use commercial kitchen",
+      "phone": "+1 786-332-7517",
+      "full_address": "2739 NW 54th St, Miami, FL 33142",
+      "borough": "None",
+      "street": "2739 NW 54th St",
+      "city": "Miami",
+      "postal_code": 33142,
+      "state": "Florida",
+      "us_state": "Florida",
+      "country": "United States of America",
+      "country_code": "US",
+      "latitude": 25.824194,
+      "longitude": -80.241463,
+      "h3": "8944a117117ffff",
+      "time_zone": "America/New_York",
+      "plus_code": null,
+      "area_service": false,
+      "rating": 2.3,
+      "reviews": 3,
+      "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJld1ant2x2YgRMEtYi0NHm_c&q=shared-use+commercial+kitchen,+33142,+Miami,+FL,+US&authuser=0&hl=en&gl=US",
+      "reviews_tags": null,
+      "reviews_per_score": null,
+      "reviews_per_score_1": 2,
+      "reviews_per_score_2": 0,
+      "reviews_per_score_3": 0,
+      "reviews_per_score_4": 0,
+      "reviews_per_score_5": 1,
+      "photos_count": 12,
+      "photo": "https://lh3.googleusercontent.com/p/AF1QipMRBeiyldNLucEw2UFCIOJQai7hf2KFV6uNlYYh=w800-h500-k-no",
+      "street_view": "https://lh3.googleusercontent.com/p/AF1QipMRBeiyldNLucEw2UFCIOJQai7hf2KFV6uNlYYh=w1600-h1000-k-no",
+      "located_in": null,
+      "working_hours": {
+        "Monday": "Open 24 hours",
+        "Tuesday": "Open 24 hours",
+        "Wednesday": "Open 24 hours",
+        "Thursday": "Open 24 hours",
+        "Friday": "Open 24 hours",
+        "Saturday": "Open 24 hours",
+        "Sunday": "Open 24 hours"
+      },
+      "working_hours_csv_compatible": "Sunday,Open 24 hours|Monday,Open 24 hours|Tuesday,Open 24 hours|Wednesday,Open 24 hours|Thursday,Open 24 hours|Friday,Open 24 hours|Saturday,Open 24 hours",
+      "working_hours_old_format": "Monday:Open 24 hours|Tuesday:Open 24 hours|Wednesday:Open 24 hours|Thursday:Open 24 hours|Friday:Open 24 hours|Saturday:Open 24 hours|Sunday:Open 24 hours",
+      "other_hours": null,
+      "popular_times": null,
+      "business_status": "OPERATIONAL",
+      "about": {
+        "Accessibility": {
+          "Wheelchair accessible entrance": true,
+          "Wheelchair accessible parking lot": true
+        }
+      },
+      "range": null,
+      "prices": null,
+      "posts": null,
+      "logo": "https://lh4.googleusercontent.com/--KfRlerQzu4/AAAAAAAAAAI/AAAAAAAAAAA/Qmfnx0H6wZU/s44-p-k-no-ns-nd/photo.jpg",
+      "description": null,
+      "typical_time_spent": null,
+      "verified": true,
+      "owner_id": 1.1348776518687462e20,
+      "owner_title": "West Village Kitchen Co.",
+      "owner_link": "https://www.google.com/maps/contrib/113487765186874625164",
+      "reservation_links": null,
+      "booking_appointment_link": null,
+      "menu_link": null,
+      "order_links": null,
+      "location_link": "https://www.google.com/maps/place/West+Village+Kitchen+Co./@25.824194,-80.241463,14z/data=!4m8!1m2!2m1!1sWest+Village+Kitchen+Co.!3m4!1s0x88d9b1dd9e5add95:0xf79b47438b584b30!8m2!3d25.824194!4d-80.241463",
+      "location_reviews_link": "https://www.google.com/maps/place/West+Village+Kitchen+Co./@25.824194,-80.241463,13.99z/data=!4m16!1m7!3m6!1s0x88d9b1dd9e5add95:0xf79b47438b584b30!2sWest+Village+Kitchen+Co.!8m2!3d25.824194!4d-80.241463!16s%2Fg%2F11ckvg1dmb!3m7!1s0x88d9b1dd9e5add95:0xf79b47438b584b30!8m2!3d25.824194!4d-80.241463!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "place_id": "ChIJld1ant2x2YgRMEtYi0NHm_c",
+      "google_id": "0x88d9b1dd9e5add95:0xf79b47438b584b30",
+      "cid": 1.7841932704184551e19,
+      "kgmid": "/g/11v098ybm_",
+      "reviews_id": -604811369524999400,
+      "located_google_id": null
+    },
+    {
+      "query": "shared-use commercial kitchen, 33142, Miami, FL, US",
+      "name": "WECOOK MIAMI",
+      "name_for_emails": "Wecook Miami",
+      "site": "http://www.wecookmia.com/",
+      "subtypes": "Shared-use commercial kitchen",
+      "category": "Shared-use commercial kitchen",
+      "type": "Shared-use commercial kitchen",
+      "phone": "+1 305-546-4967",
+      "full_address": "2180 NW 21st St, Miami, FL 33142",
+      "borough": "Allapattah",
+      "street": "2180 NW 21st St",
+      "city": "Miami",
+      "postal_code": 33142,
+      "state": "Florida",
+      "us_state": "Florida",
+      "country": "United States of America",
+      "country_code": "US",
+      "latitude": 25.8019641,
+      "longitude": -80.2307266,
+      "h3": "8944a117097ffff",
+      "time_zone": "America/New_York",
+      "plus_code": null,
+      "area_service": false,
+      "rating": null,
+      "reviews": null,
+      "reviews_link": null,
+      "reviews_tags": null,
+      "reviews_per_score": null,
+      "reviews_per_score_1": null,
+      "reviews_per_score_2": null,
+      "reviews_per_score_3": null,
+      "reviews_per_score_4": null,
+      "reviews_per_score_5": null,
+      "photos_count": 1,
+      "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HCLiPIeB7Po5l7daj5ibdg&cb_client=search.gws-prod.gps&w=800&h=500&yaw=295.76624&pitch=0&thumbfov=100",
+      "street_view": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HCLiPIeB7Po5l7daj5ibdg&cb_client=search.gws-prod.gps&w=1600&h=1000&yaw=295.76624&pitch=0&thumbfov=100",
+      "located_in": null,
+      "working_hours": {
+        "Monday": "Open 24 hours",
+        "Tuesday": "Open 24 hours",
+        "Wednesday": "Open 24 hours",
+        "Thursday": "Open 24 hours",
+        "Friday": "Open 24 hours",
+        "Saturday": "Open 24 hours",
+        "Sunday": "Open 24 hours"
+      },
+      "working_hours_csv_compatible": "Sunday,Open 24 hours|Monday,Open 24 hours|Tuesday,Open 24 hours|Wednesday,Open 24 hours|Thursday,Open 24 hours|Friday,Open 24 hours|Saturday,Open 24 hours",
+      "working_hours_old_format": "Monday:Open 24 hours|Tuesday:Open 24 hours|Wednesday:Open 24 hours|Thursday:Open 24 hours|Friday:Open 24 hours|Saturday:Open 24 hours|Sunday:Open 24 hours",
+      "other_hours": null,
+      "popular_times": null,
+      "business_status": "OPERATIONAL",
+      "about": {
+        "Accessibility": {
+          "Wheelchair accessible entrance": true,
+          "Wheelchair accessible parking lot": true
+        }
+      },
+      "range": null,
+      "prices": null,
+      "posts": null,
+      "logo": null,
+      "description": null,
+      "typical_time_spent": null,
+      "verified": false,
+      "owner_id": "None",
+      "owner_title": "WECOOK MIAMI",
+      "owner_link": null,
+      "reservation_links": null,
+      "booking_appointment_link": null,
+      "menu_link": null,
+      "order_links": null,
+      "location_link": "https://www.google.com/maps/place/WECOOK+MIAMI/@25.8019641,-80.2307266,14z/data=!4m8!1m2!2m1!1sWECOOK+MIAMI!3m4!1s0x88d9b70005818b11:0x7d58fe0a7b4604b6!8m2!3d25.8019641!4d-80.2307266",
+      "location_reviews_link": "https://www.google.com/maps/place/WECOOK+MIAMI/@25.8019641,-80.2307266,13.99z/data=!4m16!1m7!3m6!1s0x88d9b70005818b11:0x7d58fe0a7b4604b6!2sWECOOK+MIAMI!8m2!3d25.8019641!4d-80.2307266!16s%2Fg%2F11ckvg1dmb!3m7!1s0x88d9b70005818b11:0x7d58fe0a7b4604b6!8m2!3d25.8019641!4d-80.2307266!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
+      "place_id": "ChIJEYuBBQC32YgRtgRGewr-WH0",
+      "google_id": "0x88d9b70005818b11:0x7d58fe0a7b4604b6",
+      "cid": 9.032248373662844e18,
+      "kgmid": "/g/11lnw5y_j9",
+      "reviews_id": "None",
+      "located_google_id": null
+    }
+  ]
+}
