@@ -113,15 +113,15 @@ function SimpleKitchenMap({ kitchen, placeDetails }) {
           <div className="relative rounded-lg overflow-hidden shadow-lg border border-gray-200">
             {process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY ? (
               <>
-                <img
+                <iframe className="w-full h-64">
                   src={staticMapUrl}
                   alt={`Map showing ${kitchenName} location`}
-                  className="w-full h-64 object-cover"
-                  onError={(e) => {
+                  className="w-full h-64 object-cover" onError=
+                  {(e) => {
                     // Fallback to OpenStreetMap if Google Static Maps fails
                     e.target.src = `https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-s-restaurant+285A98(${coordinates.lng},${coordinates.lat})/${coordinates.lng},${coordinates.lat},15/800x400?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw`
                   }}
-                />
+                </iframe>
                 <div className="absolute top-2 right-2">
                   <a
                     href={`https://www.google.com/maps/@${coordinates.lat},${coordinates.lng},15z`}
