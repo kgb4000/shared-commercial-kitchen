@@ -1,24 +1,10 @@
 // app/api/google-place-api/route.js
 // Complete Redis-powered API
 
-import { createClient } from 'redis'
-
-let redisClient = null
-
-async function getRedisClient() {
-  if (!redisClient) {
-    redisClient = createClient({
-      url: process.env.REDIS_URL || 'redis://localhost:6379',
-    })
-    redisClient.on('error', (err) => console.error('Redis Error:', err))
-    await redisClient.connect()
-  }
-  return redisClient
-}
+import redis from '@/lib/redis'
 
 async function getPageToken(query, page) {
   try {
-    const redis = await getRedisClient()
     const key = `token:${query}:${page}`
     const token = await redis.get(key)
     console.log(`🔍 Redis token for ${key}:`, token ? 'Found' : 'Not found')
@@ -31,7 +17,6 @@ async function getPageToken(query, page) {
 
 async function setPageToken(query, page, token) {
   try {
-    const redis = await getRedisClient()
     const key = `token:${query}:${page}`
     await redis.setEx(key, 600, token) // 10 minute expiry
     console.log(`💾 Redis cached token for ${key}`)
@@ -42,7 +27,6 @@ async function setPageToken(query, page, token) {
 
 async function getTotal(query) {
   try {
-    const redis = await getRedisClient()
     const key = `total:${query}`
     const total = await redis.get(key)
     return total ? parseInt(total) : null
@@ -54,7 +38,6 @@ async function getTotal(query) {
 
 async function setTotal(query, total) {
   try {
-    const redis = await getRedisClient()
     const key = `total:${query}`
     await redis.setEx(key, 3600, total.toString()) // 1 hour expiry
     console.log(`💾 Redis cached total ${total} for ${key}`)
@@ -82,7 +65,7 @@ export async function POST(request) {
     // Prepare request body
     let requestBody = {
       textQuery: query,
-      maxResultCount: 20,
+      maxResultCount: Math.min(pageSize, 20), // Google Places API max is 20
     }
 
     // Handle pagination with Redis
@@ -144,19 +127,39 @@ export async function POST(request) {
       await setPageToken(baseQuery, page, data.nextPageToken)
     }
 
-    // Handle total estimation
+    // Handle total estimation - improved logic
     let estimatedTotal = 0
     if (page === 1) {
-      // Always use exact count for first page
-      estimatedTotal = data.places?.length || 0
-      // Only multiply if we're certain there are more pages
+      const currentPageCount = data.places?.length || 0
       if (data.nextPageToken) {
-        estimatedTotal = estimatedTotal + 20 // Add estimate for next page
+        // If there's a next page token, estimate conservatively
+        estimatedTotal = currentPageCount * 2 // Conservative estimate
+      } else {
+        // No next page, this is the exact total
+        estimatedTotal = currentPageCount
       }
       await setTotal(baseQuery, estimatedTotal)
     } else {
+      // For subsequent pages, try to get cached total or calculate
       const cachedTotal = await getTotal(baseQuery)
-      estimatedTotal = cachedTotal || page * 20 // Fallback calculation
+      if (cachedTotal) {
+        estimatedTotal = cachedTotal
+        // Update estimate if we're getting more results than expected
+        const minExpectedTotal =
+          (page - 1) * pageSize + (data.places?.length || 0)
+        if (minExpectedTotal > cachedTotal) {
+          estimatedTotal = data.nextPageToken
+            ? minExpectedTotal + pageSize
+            : minExpectedTotal
+          await setTotal(baseQuery, estimatedTotal)
+        }
+      } else {
+        // Fallback calculation
+        const currentPageCount = data.places?.length || 0
+        estimatedTotal = data.nextPageToken
+          ? page * pageSize + pageSize
+          : (page - 1) * pageSize + currentPageCount
+      }
     }
 
     const responseData = {
@@ -166,6 +169,7 @@ export async function POST(request) {
         pageSize: pageSize,
         hasNextPage: !!data.nextPageToken,
         estimatedTotal: estimatedTotal,
+        actualResultsThisPage: data.places?.length || 0,
       },
       successfulQuery: query,
     }
@@ -173,6 +177,7 @@ export async function POST(request) {
     console.log('📤 Returning response:', {
       placesCount: responseData.places.length,
       hasNextPage: responseData.pagination.hasNextPage,
+      estimatedTotal: responseData.pagination.estimatedTotal,
     })
 
     return Response.json(responseData)
