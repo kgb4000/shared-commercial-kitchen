@@ -2,20 +2,8 @@
 
 import React, { useState, useEffect } from 'react'
 import Hero from './Hero'
-import CityEvents from './CityEvents'
-import { fetchEventsFromEventbrite } from '@/lib/eventbrite'
 import Link from 'next/link'
-
-export async function getServerSideProps(context) {
-  const { city, state } = context.params
-  const events = await fetchEventsFromEventbrite(city, state)
-
-  return {
-    props: {
-      events,
-    },
-  }
-}
+import { slugify } from '@/lib/slugify'
 
 import {
   MapPin,
@@ -48,27 +36,10 @@ const CommercialKitchenDirectory = ({
   kitchens = [],
   relatedCities = [],
 }) => {
-  const [events, setEvents] = useState([])
-  const [expandedFaq, setExpandedFaq] = useState(null)
-  const [expandedRegulation, setExpandedRegulation] = useState(null)
   const [showFilters, setShowFilters] = useState(true)
   const [showMap, setShowMap] = useState(false)
-  const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
   const [viewType, setViewType] = useState('grid')
 
-  useEffect(() => {
-    async function fetchEvents() {
-      try {
-        const res = await fetch(`/api/events?city=${city}&state=${state}`)
-        const data = await res.json()
-        setEvents(Array.isArray(data) ? data : [])
-      } catch (err) {
-        console.error('Failed to load events:', err)
-      }
-    }
-
-    fetchEvents()
-  }, [city, state])
   // Use props data or fallback to sample data
   const displayKitchens =
     kitchens.length > 0
@@ -125,25 +96,21 @@ const CommercialKitchenDirectory = ({
 
   const faqs = []
 
+  function getSlug(kitchen) {
+    return (
+      kitchen.name ||
+      kitchen.title
+        ?.toLowerCase()
+        .replace(/\s+/g, '-') // replace spaces with dashes
+        .replace(/[^\w-]+/g, '')
+    ) // remove special characters
+  }
+
   return (
     <div className="min-h-screen bg-gray-50">
       <BreadCrumbs city={city} state={state} />
 
       <Hero city={city} state={state} kitchenCount={kitchens.length} />
-
-      {/* Weather Snapshot */}
-      {/* <section className="bg-gradient-to-r from-orange-50 to-yellow-50 border-y">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-          <div className="flex items-center justify-center">
-            <Thermometer className="w-6 h-6 text-orange-500 mr-3" />
-            <p className="text-lg text-gray-700">
-              <span className="font-semibold">76°F and sunny</span> in {city}{' '}
-              today — perfect weather for outdoor prep work at kitchens with
-              patio access.
-            </p>
-          </div>
-        </div>
-      </section> */}
 
       {/* Main Content */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-20 pb-8">
@@ -489,9 +456,14 @@ const CommercialKitchenDirectory = ({
                     </div>
 
                     <div className="flex gap-3">
-                      <button className="flex-1 px-4 py-3 bg-blue-600 text-white rounded-xl font-medium hover:bg-blue-700 transition-colors">
+                      <Link
+                        href={`/commercial-kitchen-for-rent/kitchen/${slugify(
+                          kitchen.title || kitchen.name
+                        )}`}
+                        className="flex-1 px-4 py-3 bg-blue-600 text-white rounded-xl font-medium hover:bg-blue-700 transition-colors"
+                      >
                         View Details
-                      </button>
+                      </Link>
                       {kitchen.phone && (
                         <a
                           href={`tel:${kitchen.phone}`}
@@ -525,299 +497,6 @@ const CommercialKitchenDirectory = ({
             </div>
           </div>
         </div>
-
-        {/* Additional Sections */}
-        <div className="mt-20 space-y-16">
-          {/* Events Section - Now in main content area */}
-          {/* <section className="hidden lg:block">
-            <h2 className="text-3xl font-bold text-gray-900 mb-8">
-              Upcoming Events for Food Entrepreneurs
-            </h2>
-            <CityEvents city={city} state={state} />
-          </section> */}
-
-          {/* Tools & Resources */}
-          {/* <section>
-            <h2 className="text-3xl font-bold text-gray-900 mb-8">
-              Tools & Resources for Food Entrepreneurs
-            </h2>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              <a
-                href="#"
-                className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-all group"
-              >
-                <div className="w-12 h-12 bg-blue-100 rounded-xl flex items-center justify-center mb-4 group-hover:bg-blue-200 transition-colors">
-                  <Shield className="w-6 h-6 text-blue-600" />
-                </div>
-                <h3 className="font-bold text-gray-900 mb-2">
-                  ServSafe Certification
-                </h3>
-                <p className="text-gray-600 text-sm mb-3">
-                  Get certified and meet health department requirements.
-                </p>
-                <span className="text-blue-600 font-medium text-sm">
-                  Learn More →
-                </span>
-              </a>
-
-              <a
-                href="#"
-                className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-all group"
-              >
-                <div className="w-12 h-12 bg-green-100 rounded-xl flex items-center justify-center mb-4 group-hover:bg-green-200 transition-colors">
-                  <DollarSign className="w-6 h-6 text-green-600" />
-                </div>
-                <h3 className="font-bold text-gray-900 mb-2">
-                  Business Formation
-                </h3>
-                <p className="text-gray-600 text-sm mb-3">
-                  Start your LLC and get your business registered.
-                </p>
-                <span className="text-blue-600 font-medium text-sm">
-                  Get Started →
-                </span>
-              </a>
-
-              <a
-                href="#"
-                className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-all group"
-              >
-                <div className="w-12 h-12 bg-purple-100 rounded-xl flex items-center justify-center mb-4 group-hover:bg-purple-200 transition-colors">
-                  <Shield className="w-6 h-6 text-purple-600" />
-                </div>
-                <h3 className="font-bold text-gray-900 mb-2">
-                  Kitchen Insurance
-                </h3>
-                <p className="text-gray-600 text-sm mb-3">
-                  Protect your business with liability coverage.
-                </p>
-                <span className="text-blue-600 font-medium text-sm">
-                  Compare Plans →
-                </span>
-              </a>
-            </div>
-          </section> */}
-
-          {/* Regulations Section */}
-          {/* <section>
-            <h2 className="text-3xl font-bold text-gray-900 mb-8">
-              {city} Food Business Regulations
-            </h2>
-            <div className="bg-white rounded-2xl shadow-sm border border-gray-100">
-              <div className="border-b">
-                <button
-                  onClick={() =>
-                    setExpandedRegulation(expandedRegulation === 0 ? null : 0)
-                  }
-                  className="w-full px-6 py-4 text-left flex items-center justify-between hover:bg-gray-50 transition"
-                >
-                  <h3 className="font-semibold text-gray-900">
-                    Food Handler's License
-                  </h3>
-                  {expandedRegulation === 0 ? (
-                    <ChevronUp className="w-5 h-5 text-gray-400" />
-                  ) : (
-                    <ChevronDown className="w-5 h-5 text-gray-400" />
-                  )}
-                </button>
-                {expandedRegulation === 0 && (
-                  <div className="px-6 pb-4">
-                    <p className="text-gray-600 mb-3">
-                      All food service workers must obtain a food handler's
-                      license within 30 days of employment. ServSafe
-                      certification is accepted statewide.
-                    </p>
-                    <a
-                      href="#"
-                      className="block text-blue-600 hover:text-blue-700 text-sm"
-                    >
-                      Get ServSafe Certified →
-                    </a>
-                  </div>
-                )}
-              </div>
-
-              <div className="border-b">
-                <button
-                  onClick={() =>
-                    setExpandedRegulation(expandedRegulation === 1 ? null : 1)
-                  }
-                  className="w-full px-6 py-4 text-left flex items-center justify-between hover:bg-gray-50 transition"
-                >
-                  <h3 className="font-semibold text-gray-900">
-                    Sales Tax License
-                  </h3>
-                  {expandedRegulation === 1 ? (
-                    <ChevronUp className="w-5 h-5 text-gray-400" />
-                  ) : (
-                    <ChevronDown className="w-5 h-5 text-gray-400" />
-                  )}
-                </button>
-                {expandedRegulation === 1 && (
-                  <div className="px-6 pb-4">
-                    <p className="text-gray-600 mb-3">
-                      Register with the {city} Department of Finance for sales
-                      tax collection. Required for all food sales within city
-                      limits.
-                    </p>
-                    <a
-                      href="#"
-                      className="block text-blue-600 hover:text-blue-700 text-sm"
-                    >
-                      {city} Finance Dept. →
-                    </a>
-                  </div>
-                )}
-              </div>
-
-              <div>
-                <button
-                  onClick={() =>
-                    setExpandedRegulation(expandedRegulation === 2 ? null : 2)
-                  }
-                  className="w-full px-6 py-4 text-left flex items-center justify-between hover:bg-gray-50 transition"
-                >
-                  <h3 className="font-semibold text-gray-900">
-                    Cottage Food Law
-                  </h3>
-                  {expandedRegulation === 2 ? (
-                    <ChevronUp className="w-5 h-5 text-gray-400" />
-                  ) : (
-                    <ChevronDown className="w-5 h-5 text-gray-400" />
-                  )}
-                </button>
-                {expandedRegulation === 2 && (
-                  <div className="px-6 pb-4">
-                    <p className="text-gray-600 mb-3">
-                      Colorado allows certain low-risk foods to be prepared in
-                      home kitchens. Annual sales limited to $5,000.
-                    </p>
-                    <div className="space-y-2">
-                      <a
-                        href="#"
-                        className="block text-blue-600 hover:text-blue-700 text-sm"
-                      >
-                        CO Cottage Food Guide →
-                      </a>
-                      <a
-                        href="#"
-                        className="block text-blue-600 hover:text-blue-700 text-sm"
-                      >
-                        Approved Food List →
-                      </a>
-                    </div>
-                  </div>
-                )}
-              </div>
-            </div>
-          </section> */}
-
-          {/* Blog Previews */}
-          {/* <section>
-            <h2 className="text-3xl font-bold text-gray-900 mb-8">
-              Learn More About {city} Food Business
-            </h2>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              <a
-                href="#"
-                className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-all group"
-              >
-                <div className="w-12 h-12 bg-blue-100 rounded-xl flex items-center justify-center mb-4 group-hover:bg-blue-200 transition-colors">
-                  <ExternalLink className="w-6 h-6 text-blue-600" />
-                </div>
-                <h3 className="font-bold text-gray-900 mb-2">
-                  Starting a Food Business in {city}
-                </h3>
-                <p className="text-gray-600 text-sm mb-3">
-                  Complete guide to launching your culinary venture in {city}.
-                </p>
-                <span className="text-blue-600 font-medium text-sm">
-                  Read More →
-                </span>
-              </a>
-
-              <a
-                href="#"
-                className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-all group"
-              >
-                <div className="w-12 h-12 bg-green-100 rounded-xl flex items-center justify-center mb-4 group-hover:bg-green-200 transition-colors">
-                  <Check className="w-6 h-6 text-green-600" />
-                </div>
-                <h3 className="font-bold text-gray-900 mb-2">
-                  Shared Kitchen vs. Commissary
-                </h3>
-                <p className="text-gray-600 text-sm mb-3">
-                  Understanding the differences and choosing what's right for
-                  your business.
-                </p>
-                <span className="text-blue-600 font-medium text-sm">
-                  Learn More →
-                </span>
-              </a>
-
-              <a
-                href="#"
-                className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-all group"
-              >
-                <div className="w-12 h-12 bg-orange-100 rounded-xl flex items-center justify-center mb-4 group-hover:bg-orange-200 transition-colors">
-                  <Shield className="w-6 h-6 text-orange-600" />
-                </div>
-                <h3 className="font-bold text-gray-900 mb-2">
-                  Common Kitchen Rental Mistakes
-                </h3>
-                <p className="text-gray-600 text-sm mb-3">
-                  Avoid these pitfalls when renting your first commercial
-                  kitchen space.
-                </p>
-                <span className="text-blue-600 font-medium text-sm">
-                  Read Guide →
-                </span>
-              </a>
-            </div>
-          </section> */}
-        </div>
-
-        {/* FAQ Section */}
-        {/* <section className="mt-16">
-          <h2 className="text-3xl font-bold text-gray-900 mb-8">
-            Frequently Asked Questions
-          </h2>
-          <div className="space-y-4">
-            {faqs.map((faq, index) => (
-              <div
-                key={index}
-                className="bg-stone-100 rounded-lg overflow-hidden"
-              >
-                <button
-                  onClick={() =>
-                    setExpandedFaq(expandedFaq === index ? null : index)
-                  }
-                  className="w-full px-6 py-6 text-left flex items-center justify-between hover:bg-stone-200 transition-colors"
-                >
-                  <h3 className="font-bold text-gray-900 text-lg pr-4">
-                    {faq.question}
-                  </h3>
-                  <div className="flex-shrink-0">
-                    {expandedFaq === index ? (
-                      <ChevronDown className="w-6 h-6 text-gray-700 transform rotate-180 transition-transform" />
-                    ) : (
-                      <ChevronDown className="w-6 h-6 text-gray-700 transition-transform" />
-                    )}
-                  </div>
-                </button>
-                {expandedFaq === index && (
-                  <div className="px-6 pb-6 bg-white">
-                    <div className="pt-4 border-t border-gray-200">
-                      <p className="text-gray-700 leading-relaxed">
-                        {faq.answer}
-                      </p>
-                    </div>
-                  </div>
-                )}
-              </div>
-            ))}
-          </div>
-        </section> */}
       </div>
     </div>
   )

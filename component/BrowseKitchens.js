@@ -354,7 +354,7 @@ const BrowseKitchensByLocation = () => {
             {[
               { city: 'New York', state: 'NY', count: 345 },
               { city: 'Los Angeles', state: 'CA', count: 234 },
-              { city: 'Chicago', state: 'IL', count: 289 },
+              { city: 'Washington', state: 'DC', count: 289 },
               { city: 'Houston', state: 'TX', count: 267 },
               { city: 'Miami', state: 'FL', count: 234 },
               { city: 'Atlanta', state: 'GA', count: 234 },
