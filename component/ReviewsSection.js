@@ -11,7 +11,7 @@ export function ReviewsSection({ kitchen, googlePlacesReviews = [] }) {
   useEffect(() => {
     async function fetchAdditionalReviews() {
       // Only fetch if we have a place_id and don't already have Google reviews
-      if (!kitchen.placeId || googlePlacesReviews.length > 0) {
+      if (!kitchen.place_id || googlePlacesReviews.length > 0) {
         return
       }
 
@@ -19,7 +19,9 @@ export function ReviewsSection({ kitchen, googlePlacesReviews = [] }) {
       setError(null)
 
       try {
-        const response = await fetch(`/api/reviews?place_id=${kitchen.placeId}`)
+        const response = await fetch(
+          `/api/reviews?place_id=${kitchen.place_id}`
+        )
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`)
         }
@@ -35,7 +37,7 @@ export function ReviewsSection({ kitchen, googlePlacesReviews = [] }) {
     }
 
     fetchAdditionalReviews()
-  }, [kitchen.placeId, googlePlacesReviews.length])
+  }, [kitchen.place_id, googlePlacesReviews.length])
 
   // Combine all reviews
   const allReviews = [

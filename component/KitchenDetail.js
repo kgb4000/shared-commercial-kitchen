@@ -20,6 +20,46 @@ import EnhancedGooglePlacesInfo from './EnhancedGooglePlacesInfo'
 import NearbyPlaces from './NearbyPlaces'
 import BusinessInsights from './BusinessInsights'
 
+// Data normalization helper
+function normalizeKitchenData(kitchen) {
+  return {
+    ...kitchen,
+    // Standardize place ID fields
+    placeId:
+      kitchen.placeId ||
+      kitchen.place_id ||
+      kitchen.googlePlaceId ||
+      kitchen.id ||
+      null,
+    // Standardize rating fields
+    rating:
+      kitchen.totalScore || kitchen.rating || kitchen.google_rating || null,
+    reviewCount:
+      kitchen.reviewsCount ||
+      kitchen.reviewCount ||
+      kitchen.user_ratings_total ||
+      0,
+    // Standardize name fields
+    name:
+      kitchen.title || kitchen.name || kitchen.displayName || 'Unknown Kitchen',
+    // Standardize address fields
+    address:
+      kitchen.address ||
+      kitchen.formattedAddress ||
+      kitchen.full_address ||
+      null,
+    // Standardize contact fields
+    phone:
+      kitchen.phone ||
+      kitchen.nationalPhoneNumber ||
+      kitchen.phoneNumber ||
+      null,
+    website: kitchen.website || kitchen.websiteUri || kitchen.url || null,
+    // Standardize image fields
+    imageUrl: kitchen.imageUrl || kitchen.photo || kitchen.image || null,
+  }
+}
+
 // Helper functions
 function formatPhoneNumber(phone) {
   if (!phone) return null
@@ -78,7 +118,6 @@ function ImageGallery({ images, kitchenName }) {
         <h2 className="text-2xl font-semibold mb-4">Kitchen Photos</h2>
         <div className="relative w-full h-96 rounded-lg overflow-hidden shadow-lg">
           {failedImages.has(mainPhoto.url) ? (
-            // Fallback placeholder
             <div className="w-full h-full bg-gradient-to-br from-gray-200 to-gray-300 flex items-center justify-center">
               <div className="text-center text-gray-500">
                 <span className="text-6xl mb-4 block">🏢</span>
@@ -116,7 +155,6 @@ function ImageGallery({ images, kitchenName }) {
         <div className="lg:col-span-2 lg:row-span-2 relative">
           <div className="relative h-64 lg:h-full min-h-[300px] rounded-lg overflow-hidden shadow-lg">
             {failedImages.has(mainPhoto.url) ? (
-              // Fallback placeholder for main image
               <div className="w-full h-full bg-gradient-to-br from-gray-200 to-gray-300 flex items-center justify-center">
                 <div className="text-center text-gray-500">
                   <span className="text-6xl mb-4 block">🏢</span>
@@ -133,7 +171,6 @@ function ImageGallery({ images, kitchenName }) {
               />
             )}
 
-            {/* Navigation arrows for main image */}
             {images.length > 1 && (
               <>
                 <button
@@ -151,14 +188,12 @@ function ImageGallery({ images, kitchenName }) {
               </>
             )}
 
-            {/* Image counter */}
             {images.length > 1 && (
               <div className="absolute bottom-4 right-4 bg-black bg-opacity-50 text-white px-3 py-1 rounded-full text-sm">
                 {currentImageIndex + 1} / {images.length}
               </div>
             )}
 
-            {/* Attribution */}
             {mainPhoto.attribution && !failedImages.has(mainPhoto.url) && (
               <div className="absolute bottom-2 left-2 bg-black bg-opacity-50 text-white px-2 py-1 rounded text-xs">
                 Photo by {mainPhoto.attribution}
@@ -175,7 +210,6 @@ function ImageGallery({ images, kitchenName }) {
               className="block w-full h-32 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow"
             >
               {failedImages.has(photo.url) ? (
-                // Fallback placeholder for thumbnails
                 <div className="w-full h-full bg-gradient-to-br from-gray-200 to-gray-300 flex items-center justify-center">
                   <span className="text-2xl text-gray-500">🏢</span>
                 </div>
@@ -191,7 +225,6 @@ function ImageGallery({ images, kitchenName }) {
           </div>
         ))}
 
-        {/* Show more photos indicator */}
         {images.length > 4 && (
           <div className="lg:col-span-1 h-32 bg-gray-800 bg-opacity-75 rounded-lg flex items-center justify-center shadow-md">
             <div className="text-center text-white">
@@ -202,7 +235,6 @@ function ImageGallery({ images, kitchenName }) {
         )}
       </div>
 
-      {/* View all photos link */}
       {images.length > 1 && (
         <div className="mt-4 text-center">
           <p className="text-gray-600 text-sm">
@@ -214,11 +246,119 @@ function ImageGallery({ images, kitchenName }) {
   )
 }
 
+// Reviews Component
+function ReviewsSection({ placeDetails, kitchen }) {
+  const reviews = placeDetails?.reviews || []
+
+  console.log('🔍 ReviewsSection Debug:', {
+    hasPlaceDetails: !!placeDetails,
+    reviewsArray: reviews,
+    reviewsLength: reviews.length,
+    sampleReview: reviews[0],
+  })
+
+  if (reviews.length === 0) {
+    // Show fallback with original rating data if available
+    if (kitchen.rating && kitchen.reviewCount > 0) {
+      return (
+        <div className="mb-8">
+          <h2 className="text-2xl font-semibold mb-6 border-b border-gray-200 pb-2">
+            Customer Reviews
+          </h2>
+          <div className="bg-gray-50 p-6 rounded-xl text-center">
+            <Star className="w-8 h-8 text-yellow-400 fill-current mx-auto mb-3" />
+            <p className="text-gray-700 mb-2">
+              <span className="font-semibold text-lg">{kitchen.rating}</span>{' '}
+              out of 5 stars
+            </p>
+            <p className="text-gray-600">
+              Based on {kitchen.reviewCount} reviews
+            </p>
+            {kitchen.website && (
+              <div className="mt-4">
+                <a
+                  href={kitchen.website}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-blue-600 hover:text-blue-800 text-sm"
+                >
+                  View Reviews
+                </a>
+              </div>
+            )}
+          </div>
+        </div>
+      )
+    }
+
+    // No reviews available at all
+    return (
+      <div className="mb-8">
+        <h2 className="text-2xl font-semibold mb-6 border-b border-gray-200 pb-2">
+          Customer Reviews
+        </h2>
+        <div className="text-center py-8 bg-gray-50 rounded-xl">
+          <Star className="w-12 h-12 text-gray-400 mx-auto mb-4" />
+          <p className="text-gray-600">No reviews available yet.</p>
+          <p className="text-sm text-gray-500 mt-2">
+            Be the first to review this kitchen!
+          </p>
+        </div>
+      </div>
+    )
+  }
+
+  return (
+    <div className="mb-8">
+      <h2 className="text-2xl font-semibold mb-6 border-b border-gray-200 pb-2">
+        Customer Reviews ({reviews.length})
+      </h2>
+      <div className="space-y-6">
+        {reviews.slice(0, 8).map((review, index) => (
+          <div key={index} className="bg-gray-50 p-6 rounded-xl">
+            <div className="flex items-center justify-between mb-4">
+              <div className="flex items-center space-x-3">
+                <div className="flex text-yellow-400">
+                  {Array.from({ length: 5 }, (_, i) => (
+                    <Star
+                      key={i}
+                      className={`w-4 h-4 ${
+                        i < (review.rating || 0)
+                          ? 'fill-current'
+                          : 'text-gray-300'
+                      }`}
+                    />
+                  ))}
+                </div>
+                <span className="font-medium text-gray-900">
+                  {review.authorAttribution?.displayName || 'Anonymous'}
+                </span>
+                <span className="text-xs px-2 py-1 rounded-full bg-blue-100 text-blue-800">
+                  Google
+                </span>
+              </div>
+              {review.relativePublishTimeDescription && (
+                <span className="text-sm text-gray-500">
+                  {review.relativePublishTimeDescription}
+                </span>
+              )}
+            </div>
+            {review.text?.text && (
+              <p className="text-gray-700 leading-relaxed">
+                {review.text.text}
+              </p>
+            )}
+          </div>
+        ))}
+      </div>
+    </div>
+  )
+}
+
 // Kitchen Amenities Component
 function KitchenAmenities({ kitchen, placeDetails }) {
   const amenities = []
 
-  // Extract amenities from place data
   if (placeDetails?.types?.includes('restaurant'))
     amenities.push('Restaurant Grade Equipment')
   if (placeDetails?.types?.includes('bakery'))
@@ -230,7 +370,6 @@ function KitchenAmenities({ kitchen, placeDetails }) {
   if (placeDetails?.about?.Payments?.['Credit cards'])
     amenities.push('Credit Card Payments')
 
-  // Add common kitchen amenities
   amenities.push(
     'Professional Grade Equipment',
     'Food Safety Certified',
@@ -322,22 +461,22 @@ function KitchenFAQ() {
     {
       question: 'What equipment is included?',
       answer:
-        'Most commercial kitchens come equipped with professional-grade appliances including multi-burner stoves, large-capacity ovens, stainless-steel prep tables, commercial refrigeration units, and dedicated dishwashing facilities with sanitizing dishwashers and three-compartment sinks. Specific equipment varies by location, so confirm the exact equipment list with the kitchen manager.',
+        'Most commercial kitchens come equipped with professional-grade appliances including multi-burner stoves, large-capacity ovens, stainless-steel prep tables, commercial refrigeration units, and dedicated dishwashing facilities with sanitizing dishwashers and three-compartment sinks.',
     },
     {
       question: 'How do I book time?',
       answer:
-        'Contact the facility directly by phone or through their website to inquire about availability. Most kitchens offer flexible rental options including hourly, daily, or monthly rates. Ask about minimum booking requirements, peak vs. off-peak pricing, and any membership fees or security deposits required.',
+        'Contact the facility directly by phone or through their website to inquire about availability. Most kitchens offer flexible rental options including hourly, daily, or monthly rates.',
     },
     {
       question: 'Do I need insurance?',
       answer:
-        'Yes, most commercial kitchens require renters to have general liability insurance. Additional coverage may include product liability insurance, damage to premises coverage, and adding the kitchen owner as an additional insured on your policy. Check with the specific facility for their exact insurance requirements.',
+        'Yes, most commercial kitchens require renters to have general liability insurance. Additional coverage may include product liability insurance and adding the kitchen owner as an additional insured.',
     },
     {
       question: 'Are there storage options?',
       answer:
-        'Many facilities offer both refrigerated and dry storage options for an additional fee. Storage pricing varies by type (refrigerated, freezer, or dry), space needed, and rental duration. Costs typically range from $15-$100+ per month depending on the space and requirements.',
+        'Many facilities offer both refrigerated and dry storage options for an additional fee. Storage pricing varies by type and space needed.',
     },
   ]
 
@@ -363,45 +502,39 @@ function KitchenFAQ() {
   )
 }
 
-export default function KitchenDetail({ kitchen, initialGoogleData = null }) {
+export default function KitchenDetail({
+  kitchen: rawKitchen,
+  initialGoogleData = null,
+}) {
+  // Normalize the kitchen data first
+  const kitchen = normalizeKitchenData(rawKitchen)
+
   const [placeDetails, setPlaceDetails] = useState(initialGoogleData)
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState(null)
 
   useEffect(() => {
-    // Debug logging
-    console.log('=== KITCHEN DEBUG INFO ===')
-    console.log('Kitchen data:', kitchen)
-    console.log('Kitchen placeId:', kitchen.placeId) // Updated field name
-    console.log('Kitchen place_id:', kitchen.place_id) // Check both
+    console.log('=== KITCHEN DETAIL DEBUG ===')
+    console.log('Raw kitchen data:', rawKitchen)
+    console.log('Normalized kitchen data:', kitchen)
+    console.log('Kitchen placeId:', kitchen.placeId)
     console.log('Initial Google data:', initialGoogleData)
-    console.log('Place details state:', placeDetails)
-    console.log('Place details reviews:', placeDetails?.reviews)
-    console.log('Number of reviews:', placeDetails?.reviews?.length || 0)
+    console.log('Environment:', process.env.NODE_ENV)
 
-    // If we already have initial data, don't fetch again
-    if (initialGoogleData) {
-      console.log('Using server-side fetched Google Places data')
-      console.log('Initial data reviews:', initialGoogleData?.reviews)
+    // Skip if we already have data or no place ID
+    if (initialGoogleData || !kitchen.placeId) {
+      console.log(
+        initialGoogleData ? 'Using server-side data' : 'No place ID available'
+      )
       return
     }
 
     async function fetchGooglePlaceDetails() {
-      const placeIdToUse = kitchen.placeId || kitchen.place_id // Try both field names
-
-      if (!placeIdToUse) {
-        console.log('❌ No placeId available for this kitchen')
-        console.log('Kitchen object keys:', Object.keys(kitchen))
-        return
-      }
-
       setLoading(true)
       setError(null)
 
       try {
-        console.log('🚀 Making API request...')
-        console.log('📍 Place ID:', placeIdToUse)
-        console.log('🔗 API URL: /api/google-place-details')
+        console.log('🚀 Fetching Google Place details for:', kitchen.placeId)
 
         const response = await fetch('/api/google-place-details', {
           method: 'POST',
@@ -409,107 +542,85 @@ export default function KitchenDetail({ kitchen, initialGoogleData = null }) {
             'Content-Type': 'application/json',
           },
           body: JSON.stringify({
-            placeId: placeIdToUse, // Use the correct field
+            placeId: kitchen.placeId,
           }),
         })
 
-        console.log('📡 Response status:', response.status)
-        console.log('📡 Response ok:', response.ok)
+        console.log('📡 API Response:', {
+          status: response.status,
+          statusText: response.statusText,
+          ok: response.ok,
+        })
 
         if (!response.ok) {
           const errorText = await response.text()
-          console.error('❌ HTTP Error Response:', errorText)
-          throw new Error(`HTTP error! status: ${response.status}`)
+          console.error('❌ API Error:', errorText)
+          throw new Error(`API Error ${response.status}: ${errorText}`)
         }
 
         const data = await response.json()
-        console.log('📦 Raw API Response:', data)
-        console.log('📦 Response success:', data.success)
-        console.log('📦 Response place:', data.place)
-        console.log('📦 Response error:', data.error)
+        console.log('📦 API Success:', {
+          success: data.success,
+          hasPlace: !!data.place,
+          hasReviews: !!data.place?.reviews?.length,
+          reviewsCount: data.place?.reviews?.length || 0,
+        })
 
         if (data.success && data.place) {
           setPlaceDetails(data.place)
-          console.log(
-            '✅ Successfully fetched place details:',
-            data.place.displayName?.text
-          )
-          console.log('✅ Place ID used for fetch:', placeIdToUse)
-          console.log('✅ Reviews in fetched data:', data.place.reviews)
-          console.log(
-            '✅ Number of reviews fetched:',
-            data.place.reviews?.length || 0
-          )
-          console.log('✅ Full place data:', data.place)
+          console.log('✅ Place details set successfully')
         } else {
           console.error('❌ API returned unsuccessful response:', data)
-          console.error(
-            '❌ This usually means the Place ID is invalid or expired'
-          )
-          console.error('❌ Place ID used:', placeIdToUse)
-
-          // Don't throw error, just log it and continue with fallback data
-          setError(
-            `Google Places API error: ${data.error || 'Place not found'}`
-          )
+          setError(data.error || 'Failed to fetch place details')
         }
       } catch (err) {
-        console.error('💥 Failed to load Google Place details:', err)
-        console.error('💥 Error message:', err.message)
-        console.error('💥 This could be due to:')
-        console.error('  - Invalid or expired Place ID')
-        console.error('  - Google Places API key issues')
-        console.error('  - Network connectivity problems')
-        console.error('  - API quota exceeded')
+        console.error('💥 Error fetching place details:', err)
         setError(err.message)
       } finally {
         setLoading(false)
-        console.log('🏁 API call completed')
       }
     }
 
     fetchGooglePlaceDetails()
-  }, [kitchen.placeId, kitchen.place_id, initialGoogleData]) // Updated dependencies
+  }, [kitchen.placeId, initialGoogleData])
 
   // Get images from both sources
   const images = []
 
-  // Add original kitchen image if available
-  if (kitchen.imageUrl || kitchen.photo) {
+  if (kitchen.imageUrl) {
     images.push({
-      url: kitchen.imageUrl || kitchen.photo,
-      alt: kitchen.title || kitchen.name,
+      url: kitchen.imageUrl,
+      alt: kitchen.name,
       source: 'original',
     })
   }
 
-  // Add Google Places photos
   if (placeDetails?.photos) {
     placeDetails.photos.forEach((photo, index) => {
       images.push({
         url: photo.url,
         urlLarge: photo.urlLarge,
-        alt: `${kitchen.title || kitchen.name} - Photo ${index + 1}`,
+        alt: `${kitchen.name} - Photo ${index + 1}`,
         source: 'google',
         attribution: photo.authorAttributions?.[0]?.displayName,
       })
     })
   }
 
-  // Combine ratings from both sources - Updated field names
+  // Combine ratings
   const rating = {
-    score: placeDetails?.rating || kitchen.totalScore || 4.7, // Updated field name
-    count: placeDetails?.userRatingCount || kitchen.reviewsCount || 23, // Updated field name
+    score: placeDetails?.rating || kitchen.rating || 4.7,
+    count: placeDetails?.userRatingCount || kitchen.reviewCount || 23,
     source: placeDetails?.rating ? 'google' : 'original',
   }
 
-  // Get business hours - Updated field names
+  // Get business hours
   const businessHours =
     placeDetails?.currentOpeningHours?.weekdayDescriptions ||
     placeDetails?.regularOpeningHours?.weekdayDescriptions ||
     (kitchen.openingHours
       ? kitchen.openingHours.map((day) => `${day.day}: ${day.hours}`)
-      : null) // Updated field name
+      : null)
 
   const cityName = kitchen.city || 'this location'
   const stateName = kitchen.state || kitchen.us_state || ''
@@ -517,47 +628,18 @@ export default function KitchenDetail({ kitchen, initialGoogleData = null }) {
   return (
     <main>
       <div className="container max-w-7xl mx-auto px-6 my-10">
-        {/* Breadcrumb Navigation */}
-        <nav className="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
-          <ol className="flex items-center space-x-2">
-            <li>
-              <Link href="/" className="hover:text-blue-600">
-                Home
-              </Link>
-            </li>
-            <li className="text-gray-300">›</li>
-            <li>
-              <Link href="/kitchens" className="hover:text-blue-600">
-                Commercial Kitchens
-              </Link>
-            </li>
-            <li className="text-gray-300">›</li>
-            <li>
-              <span className="hover:text-blue-600">
-                {cityName}, {stateName}
-              </span>
-            </li>
-            <li className="text-gray-300">›</li>
-            <li className="text-gray-700" aria-current="page">
-              {kitchen.title || kitchen.name}
-            </li>
-          </ol>
-        </nav>
-
-        {/* Kitchen Header with enhanced design */}
+        {/* Kitchen Header */}
         <div className="bg-white rounded-lg shadow-lg border border-gray-200 overflow-hidden mb-8">
-          {/* Hero Section */}
           <div className="p-8 bg-gradient-to-r from-blue-50 via-indigo-50 to-purple-50">
             <div className="flex flex-col lg:flex-row lg:items-start lg:justify-between">
               <div className="flex-1">
                 <h1 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-                  {kitchen.title || kitchen.name}
+                  {kitchen.name}
                 </h1>
                 <p className="text-xl text-gray-600 mb-4">
                   Professional Commercial Kitchen in {cityName}, {stateName}
                 </p>
 
-                {/* Enhanced Quick Stats */}
                 <div className="flex flex-wrap gap-3 mb-6">
                   <div className="flex items-center space-x-2 bg-white px-4 py-2 rounded-lg shadow-sm">
                     <span className="text-yellow-400 text-lg">★</span>
@@ -601,25 +683,19 @@ export default function KitchenDetail({ kitchen, initialGoogleData = null }) {
                 </div>
               </div>
 
-              {/* Call-to-Action Buttons */}
               <div className="flex flex-col space-y-3 lg:ml-8">
-                {(kitchen.phone || placeDetails?.nationalPhoneNumber) && (
+                {kitchen.phone && (
                   <a
-                    href={`tel:${
-                      kitchen.phone || placeDetails.nationalPhoneNumber
-                    }`}
+                    href={`tel:${kitchen.phone}`}
                     className="bg-blue-600 text-white px-6 py-3 rounded-lg text-center font-medium hover:bg-blue-700 transition-colors shadow-lg"
                   >
-                    📞 Call{' '}
-                    {formatPhoneNumber(
-                      kitchen.phone || placeDetails.nationalPhoneNumber
-                    )}
+                    📞 Call {formatPhoneNumber(kitchen.phone)}
                   </a>
                 )}
 
-                {(kitchen.website || placeDetails?.websiteUri) && (
+                {kitchen.website && (
                   <a
-                    href={kitchen.website || placeDetails.websiteUri}
+                    href={kitchen.website}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-green-600 text-white px-6 py-3 rounded-lg text-center font-medium hover:bg-green-700 transition-colors shadow-lg"
@@ -631,16 +707,11 @@ export default function KitchenDetail({ kitchen, initialGoogleData = null }) {
             </div>
           </div>
 
-          {/* Main Content Grid */}
           <div className="p-8">
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-              {/* Left Column - Main Details */}
               <div className="lg:col-span-2 space-y-8">
                 {/* Image Gallery */}
-                <ImageGallery
-                  images={images}
-                  kitchenName={kitchen.title || kitchen.name}
-                />
+                <ImageGallery images={images} kitchenName={kitchen.name} />
 
                 {/* Contact Information */}
                 <div>
@@ -653,28 +724,20 @@ export default function KitchenDetail({ kitchen, initialGoogleData = null }) {
                         <span className="text-gray-400 text-xl">📍</span>
                         <div>
                           <p className="font-medium text-gray-900">Address</p>
-                          <p className="text-gray-600">
-                            {kitchen.address || placeDetails?.formattedAddress}
-                          </p>
+                          <p className="text-gray-600">{kitchen.address}</p>
                         </div>
                       </div>
 
-                      {(kitchen.phone || placeDetails?.nationalPhoneNumber) && (
+                      {kitchen.phone && (
                         <div className="flex items-start space-x-3">
                           <span className="text-gray-400 text-xl">📞</span>
                           <div>
                             <p className="font-medium text-gray-900">Phone</p>
                             <a
-                              href={`tel:${
-                                kitchen.phone ||
-                                placeDetails.nationalPhoneNumber
-                              }`}
+                              href={`tel:${kitchen.phone}`}
                               className="text-blue-600 hover:underline"
                             >
-                              {formatPhoneNumber(
-                                kitchen.phone ||
-                                  placeDetails.nationalPhoneNumber
-                              )}
+                              {formatPhoneNumber(kitchen.phone)}
                             </a>
                           </div>
                         </div>
@@ -697,13 +760,13 @@ export default function KitchenDetail({ kitchen, initialGoogleData = null }) {
                     </div>
 
                     <div className="space-y-4">
-                      {(kitchen.website || placeDetails?.websiteUri) && (
+                      {kitchen.website && (
                         <div className="flex items-start space-x-3">
                           <span className="text-gray-400 text-xl">🌐</span>
                           <div>
                             <p className="font-medium text-gray-900">Website</p>
                             <a
-                              href={kitchen.website || placeDetails.websiteUri}
+                              href={kitchen.website}
                               target="_blank"
                               rel="noopener noreferrer"
                               className="text-blue-600 hover:underline break-all"
@@ -722,7 +785,7 @@ export default function KitchenDetail({ kitchen, initialGoogleData = null }) {
                           </p>
                           <a
                             href={`https://www.google.com/maps/place/?q=place_id:${
-                              kitchen.placeId || kitchen.place_id || ''
+                              kitchen.placeId || ''
                             }`}
                             target="_blank"
                             rel="noopener noreferrer"
@@ -752,11 +815,9 @@ export default function KitchenDetail({ kitchen, initialGoogleData = null }) {
                       <>
                         <p className="text-gray-700 leading-relaxed mb-4">
                           This professional commercial kitchen space in{' '}
-                          {extractNeighborhood(
-                            kitchen.full_address || kitchen.address
-                          )}{' '}
-                          offers state-of-the-art facilities for food
-                          entrepreneurs, caterers, and culinary businesses.
+                          {extractNeighborhood(kitchen.address)} offers
+                          state-of-the-art facilities for food entrepreneurs,
+                          caterers, and culinary businesses.
                         </p>
                         <p className="text-gray-700 leading-relaxed">
                           {rating.score &&
@@ -775,6 +836,9 @@ export default function KitchenDetail({ kitchen, initialGoogleData = null }) {
                   kitchen={kitchen}
                   placeDetails={placeDetails}
                 />
+
+                {/* Reviews Section */}
+                <ReviewsSection placeDetails={placeDetails} kitchen={kitchen} />
 
                 {/* Enhanced Google Places Information */}
                 <EnhancedGooglePlacesInfo
@@ -849,181 +913,69 @@ export default function KitchenDetail({ kitchen, initialGoogleData = null }) {
                   </div>
                 )}
 
-                {/* Debug Section - Remove in production */}
-                <div className="bg-gray-100 p-4 rounded-lg mb-8">
-                  <h3 className="font-bold mb-2">
-                    🔧 Debug Info (Development Only)
-                  </h3>
-                  <div className="text-sm space-y-1">
-                    <p>
-                      <strong>Kitchen placeId:</strong>{' '}
-                      {kitchen.placeId || 'Not available'}
-                    </p>
-                    <p>
-                      <strong>Kitchen place_id (fallback):</strong>{' '}
-                      {kitchen.place_id || 'Not available'}
-                    </p>
-                    <p>
-                      <strong>Has placeDetails:</strong>{' '}
-                      {placeDetails ? 'Yes' : 'No'}
-                    </p>
-                    <p>
-                      <strong>Has reviews:</strong>{' '}
-                      {placeDetails?.reviews?.length > 0
-                        ? `Yes (${placeDetails.reviews.length})`
-                        : 'No'}
-                    </p>
-                    <p>
-                      <strong>Loading:</strong> {loading ? 'Yes' : 'No'}
-                    </p>
-                    <p>
-                      <strong>Error:</strong> {error || 'None'}
-                    </p>
-                    <p>
-                      <strong>Initial Google Data:</strong>{' '}
-                      {initialGoogleData ? 'Yes' : 'No'}
-                    </p>
-                    <p>
-                      <strong>Kitchen totalScore:</strong>{' '}
-                      {kitchen.totalScore || 'Not available'}
-                    </p>
-                    <p>
-                      <strong>Kitchen reviewsCount:</strong>{' '}
-                      {kitchen.reviewsCount || 'Not available'}
-                    </p>
-                    <details className="mt-2">
-                      <summary className="cursor-pointer font-medium">
-                        View Kitchen Object
-                      </summary>
-                      <pre className="text-xs bg-white p-2 rounded mt-1 overflow-auto max-h-40">
-                        {JSON.stringify(kitchen, null, 2)}
-                      </pre>
-                    </details>
-                    {placeDetails && (
+                {/* Debug Section */}
+                {process.env.NODE_ENV === 'development' && (
+                  <div className="bg-gray-100 p-4 rounded-lg mb-8">
+                    <h3 className="font-bold mb-2">
+                      🔧 Debug Info (Development Only)
+                    </h3>
+                    <div className="text-sm space-y-1">
+                      <p>
+                        <strong>Environment:</strong> {process.env.NODE_ENV}
+                      </p>
+                      <p>
+                        <strong>Kitchen placeId:</strong>{' '}
+                        {kitchen.placeId || 'Not available'}
+                      </p>
+                      <p>
+                        <strong>Has placeDetails:</strong>{' '}
+                        {placeDetails ? 'Yes' : 'No'}
+                      </p>
+                      <p>
+                        <strong>Has reviews:</strong>{' '}
+                        {placeDetails?.reviews?.length > 0
+                          ? `Yes (${placeDetails.reviews.length})`
+                          : 'No'}
+                      </p>
+                      <p>
+                        <strong>Loading:</strong> {loading ? 'Yes' : 'No'}
+                      </p>
+                      <p>
+                        <strong>Error:</strong> {error || 'None'}
+                      </p>
+                      <p>
+                        <strong>Initial Google Data:</strong>{' '}
+                        {initialGoogleData ? 'Yes' : 'No'}
+                      </p>
+                      <p>
+                        <strong>Kitchen rating:</strong>{' '}
+                        {kitchen.rating || 'Not available'}
+                      </p>
+                      <p>
+                        <strong>Kitchen reviewCount:</strong>{' '}
+                        {kitchen.reviewCount || 'Not available'}
+                      </p>
                       <details className="mt-2">
                         <summary className="cursor-pointer font-medium">
-                          View Place Details
+                          View Kitchen Object
                         </summary>
                         <pre className="text-xs bg-white p-2 rounded mt-1 overflow-auto max-h-40">
-                          {JSON.stringify(placeDetails, null, 2)}
+                          {JSON.stringify(kitchen, null, 2)}
                         </pre>
                       </details>
-                    )}
-                  </div>
-                </div>
-                {placeDetails?.reviews && placeDetails.reviews.length > 0 && (
-                  <div>
-                    <h2 className="text-2xl font-semibold mb-6 border-b border-gray-200 pb-2">
-                      Customer Reviews ({placeDetails.reviews.length})
-                    </h2>
-                    {console.log('🔍 RENDERING REVIEWS:', placeDetails.reviews)}
-                    <div className="space-y-6">
-                      {placeDetails.reviews.slice(0, 8).map((review, index) => {
-                        console.log(`🔍 Review ${index + 1}:`, review)
-                        return (
-                          <div
-                            key={index}
-                            className="bg-gray-50 p-6 rounded-xl"
-                          >
-                            <div className="flex items-center justify-between mb-4">
-                              <div className="flex items-center space-x-3">
-                                <div className="flex text-yellow-400">
-                                  {Array.from({ length: 5 }, (_, i) => (
-                                    <Star
-                                      key={i}
-                                      className={`w-4 h-4 ${
-                                        i < (review.rating || 0)
-                                          ? 'fill-current'
-                                          : 'text-gray-300'
-                                      }`}
-                                    />
-                                  ))}
-                                </div>
-                                <span className="font-medium text-gray-900">
-                                  {review.authorAttribution?.displayName ||
-                                    'Anonymous'}
-                                </span>
-                                <span className="text-xs px-2 py-1 rounded-full bg-blue-100 text-blue-800">
-                                  Google
-                                </span>
-                              </div>
-                              {review.relativePublishTimeDescription && (
-                                <span className="text-sm text-gray-500">
-                                  {review.relativePublishTimeDescription}
-                                </span>
-                              )}
-                            </div>
-                            {review.text?.text && (
-                              <p className="text-gray-700 leading-relaxed">
-                                {review.text.text}
-                              </p>
-                            )}
-                          </div>
-                        )
-                      })}
+                      {placeDetails && (
+                        <details className="mt-2">
+                          <summary className="cursor-pointer font-medium">
+                            View Place Details
+                          </summary>
+                          <pre className="text-xs bg-white p-2 rounded mt-1 overflow-auto max-h-40">
+                            {JSON.stringify(placeDetails, null, 2)}
+                          </pre>
+                        </details>
+                      )}
                     </div>
                   </div>
                 )}
-
-                {/* Fallback Reviews from Original Data */}
-                {(!placeDetails?.reviews ||
-                  placeDetails.reviews.length === 0) &&
-                  kitchen.reviewsCount &&
-                  kitchen.reviewsCount > 0 && (
-                    <div>
-                      {console.log(
-                        '🔍 RENDERING FALLBACK REVIEWS - Kitchen reviewsCount:',
-                        kitchen.reviewsCount
-                      )}
-                      <h2 className="text-2xl font-semibold mb-6 border-b border-gray-200 pb-2">
-                        Customer Reviews
-                      </h2>
-                      <div className="bg-gray-50 p-6 rounded-xl text-center">
-                        <Star className="w-8 h-8 text-yellow-400 fill-current mx-auto mb-3" />
-                        <p className="text-gray-700 mb-2">
-                          <span className="font-semibold text-lg">
-                            {kitchen.totalScore || 'N/A'}
-                          </span>{' '}
-                          out of 5 stars
-                        </p>
-                        <p className="text-gray-600">
-                          Based on {kitchen.reviewsCount || 0} reviews
-                        </p>
-                        {kitchen.url && (
-                          <div className="mt-4">
-                            <a
-                              href={kitchen.url}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              className="text-blue-600 hover:text-blue-800 text-sm"
-                            >
-                              View on Google Maps
-                            </a>
-                          </div>
-                        )}
-                      </div>
-                    </div>
-                  )}
-
-                {/* No Reviews State */}
-                {(!placeDetails?.reviews ||
-                  placeDetails.reviews.length === 0) &&
-                  (!kitchen.reviewsCount || kitchen.reviewsCount === 0) && (
-                    <div>
-                      <h2 className="text-2xl font-semibold mb-6 border-b border-gray-200 pb-2">
-                        Customer Reviews
-                      </h2>
-                      <div className="text-center py-8 bg-gray-50 rounded-xl">
-                        <Star className="w-12 h-12 text-gray-400 mx-auto mb-4" />
-                        <p className="text-gray-600">
-                          No reviews available yet.
-                        </p>
-                        <p className="text-sm text-gray-500 mt-2">
-                          Be the first to review this kitchen!
-                        </p>
-                      </div>
-                    </div>
-                  )}
               </div>
 
               {/* Right Sidebar */}
@@ -1037,7 +989,7 @@ export default function KitchenDetail({ kitchen, initialGoogleData = null }) {
                   <div className="space-y-3">
                     <a
                       href={`https://www.google.com/maps/place/?q=place_id:${
-                        kitchen.place_id || ''
+                        kitchen.placeId || ''
                       }`}
                       target="_blank"
                       rel="noopener noreferrer"
@@ -1153,17 +1105,6 @@ export default function KitchenDetail({ kitchen, initialGoogleData = null }) {
 
         {/* FAQ Section */}
         <KitchenFAQ />
-
-        {/* Back Navigation */}
-        {/* <div className="mt-12 text-center">
-          <Link
-            href="/kitchens"
-            className="inline-flex items-center space-x-2 text-blue-600 hover:underline font-medium text-lg"
-          >
-            <span>←</span>
-            <span>Back to all kitchens in {cityName}</span>
-          </Link>
-        </div> */}
       </div>
     </main>
   )

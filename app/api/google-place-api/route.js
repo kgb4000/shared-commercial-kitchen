@@ -1,63 +1,99 @@
 // app/api/google-place-api/route.js
-// Complete Redis-powered API
+// Complete Redis-powered API with enhanced error handling
 
 import redis from '@/lib/redis'
 
-async function getPageToken(query, page) {
+// Helper function to safely interact with Redis
+async function safeRedisOperation(operation, fallback = null) {
   try {
+    return await operation()
+  } catch (error) {
+    console.error('Redis operation failed:', error)
+    return fallback
+  }
+}
+
+async function getPageToken(query, page) {
+  return safeRedisOperation(async () => {
     const key = `token:${query}:${page}`
     const token = await redis.get(key)
     console.log(`🔍 Redis token for ${key}:`, token ? 'Found' : 'Not found')
     return token
-  } catch (error) {
-    console.error('Redis get error:', error)
-    return null
-  }
+  })
 }
 
 async function setPageToken(query, page, token) {
-  try {
+  return safeRedisOperation(async () => {
     const key = `token:${query}:${page}`
     await redis.setEx(key, 600, token) // 10 minute expiry
     console.log(`💾 Redis cached token for ${key}`)
-  } catch (error) {
-    console.error('Redis set error:', error)
-  }
+    return true
+  })
 }
 
 async function getTotal(query) {
-  try {
+  return safeRedisOperation(async () => {
     const key = `total:${query}`
     const total = await redis.get(key)
     return total ? parseInt(total) : null
-  } catch (error) {
-    console.error('Redis get total error:', error)
-    return null
-  }
+  })
 }
 
 async function setTotal(query, total) {
-  try {
+  return safeRedisOperation(async () => {
     const key = `total:${query}`
     await redis.setEx(key, 3600, total.toString()) // 1 hour expiry
     console.log(`💾 Redis cached total ${total} for ${key}`)
-  } catch (error) {
-    console.error('Redis set total error:', error)
-  }
+    return true
+  })
 }
 
 export async function POST(request) {
   try {
     const { query, page = 1, pageSize = 20 } = await request.json()
 
-    console.log('🚀 API Route received:', { query, page, pageSize })
+    console.log('🚀 Google Places Search API called:', {
+      query,
+      page,
+      pageSize,
+      environment: process.env.NODE_ENV,
+      timestamp: new Date().toISOString(),
+    })
 
-    if (!query) {
-      return Response.json({ error: 'Query is required' }, { status: 400 })
+    // Validate input
+    if (!query || typeof query !== 'string' || query.trim().length === 0) {
+      console.error('❌ Invalid query provided:', query)
+      return Response.json(
+        {
+          success: false,
+          error: 'Query is required and must be a non-empty string',
+        },
+        { status: 400 }
+      )
     }
 
-    if (!process.env.GOOGLE_PLACES_API_KEY) {
-      return Response.json({ error: 'API key not configured' }, { status: 500 })
+    if (page < 1 || pageSize < 1 || pageSize > 20) {
+      console.error('❌ Invalid pagination parameters:', { page, pageSize })
+      return Response.json(
+        {
+          success: false,
+          error: 'Invalid pagination parameters',
+        },
+        { status: 400 }
+      )
+    }
+
+    // Check API key
+    const apiKey = process.env.GOOGLE_PLACES_API_KEY
+    if (!apiKey) {
+      console.error('❌ Google Places API key not configured')
+      return Response.json(
+        {
+          success: false,
+          error: 'API key not configured',
+        },
+        { status: 500 }
+      )
     }
 
     const baseQuery = query.toLowerCase().trim()
@@ -79,6 +115,7 @@ export async function POST(request) {
         console.warn(`⚠️ No page token found for page ${page}`)
         return Response.json(
           {
+            success: false,
             error: 'Page token not found. Please start from page 1.',
             code: 'TOKEN_NOT_FOUND',
           },
@@ -88,6 +125,7 @@ export async function POST(request) {
     }
 
     console.log('📡 Making Google Places API request...')
+    console.log('📦 Request body:', JSON.stringify(requestBody, null, 2))
 
     const response = await fetch(
       'https://places.googleapis.com/v1/places:searchText',
@@ -95,7 +133,7 @@ export async function POST(request) {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'X-Goog-Api-Key': process.env.GOOGLE_PLACES_API_KEY,
+          'X-Goog-Api-Key': apiKey,
           'X-Goog-FieldMask':
             'places.id,places.displayName,places.formattedAddress,places.rating,places.userRatingCount,places.priceLevel,places.businessStatus,places.currentOpeningHours,places.nationalPhoneNumber,places.websiteUri,places.types,nextPageToken',
         },
@@ -103,13 +141,43 @@ export async function POST(request) {
       }
     )
 
+    console.log('📡 Google Places API response:', {
+      status: response.status,
+      statusText: response.statusText,
+      ok: response.ok,
+    })
+
     if (!response.ok) {
       const errorText = await response.text()
-      console.error('❌ Google Places API error:', response.status, errorText)
+      console.error('❌ Google Places API error:', {
+        status: response.status,
+        statusText: response.statusText,
+        body: errorText,
+        query: query,
+      })
+
+      // Try to parse error for better messaging
+      let errorMessage = `Google Places API error: ${response.status}`
+      try {
+        const errorJson = JSON.parse(errorText)
+        if (errorJson.error?.message) {
+          errorMessage = errorJson.error.message
+        }
+      } catch (e) {
+        if (errorText) {
+          errorMessage = errorText
+        }
+      }
+
       return Response.json(
         {
-          error: `Google Places API error: ${response.status}`,
-          details: errorText,
+          success: false,
+          error: errorMessage,
+          details: {
+            status: response.status,
+            statusText: response.statusText,
+            query: query,
+          },
         },
         { status: response.status }
       )
@@ -120,7 +188,22 @@ export async function POST(request) {
     console.log('✅ Google Places API success:', {
       placesFound: data.places?.length || 0,
       hasNextPageToken: !!data.nextPageToken,
+      query: query,
     })
+
+    // Process places to ensure consistent data structure
+    const processedPlaces = (data.places || []).map((place) => ({
+      ...place,
+      // Ensure we have a consistent place ID field
+      placeId: place.id,
+      // Normalize the display name
+      name: place.displayName?.text || 'Unknown Place',
+      // Ensure we have all the standard fields
+      rating: place.rating || null,
+      userRatingCount: place.userRatingCount || 0,
+      formattedAddress: place.formattedAddress || '',
+      businessStatus: place.businessStatus || 'UNKNOWN',
+    }))
 
     // Cache next page token
     if (data.nextPageToken) {
@@ -130,7 +213,7 @@ export async function POST(request) {
     // Handle total estimation - improved logic
     let estimatedTotal = 0
     if (page === 1) {
-      const currentPageCount = data.places?.length || 0
+      const currentPageCount = processedPlaces.length
       if (data.nextPageToken) {
         // If there's a next page token, estimate conservatively
         estimatedTotal = currentPageCount * 2 // Conservative estimate
@@ -145,8 +228,7 @@ export async function POST(request) {
       if (cachedTotal) {
         estimatedTotal = cachedTotal
         // Update estimate if we're getting more results than expected
-        const minExpectedTotal =
-          (page - 1) * pageSize + (data.places?.length || 0)
+        const minExpectedTotal = (page - 1) * pageSize + processedPlaces.length
         if (minExpectedTotal > cachedTotal) {
           estimatedTotal = data.nextPageToken
             ? minExpectedTotal + pageSize
@@ -155,7 +237,7 @@ export async function POST(request) {
         }
       } else {
         // Fallback calculation
-        const currentPageCount = data.places?.length || 0
+        const currentPageCount = processedPlaces.length
         estimatedTotal = data.nextPageToken
           ? page * pageSize + pageSize
           : (page - 1) * pageSize + currentPageCount
@@ -163,18 +245,21 @@ export async function POST(request) {
     }
 
     const responseData = {
-      places: data.places || [],
+      success: true,
+      places: processedPlaces,
       pagination: {
         currentPage: page,
         pageSize: pageSize,
         hasNextPage: !!data.nextPageToken,
         estimatedTotal: estimatedTotal,
-        actualResultsThisPage: data.places?.length || 0,
+        actualResultsThisPage: processedPlaces.length,
       },
-      successfulQuery: query,
+      query: query,
+      processedAt: new Date().toISOString(),
     }
 
     console.log('📤 Returning response:', {
+      success: true,
       placesCount: responseData.places.length,
       hasNextPage: responseData.pagination.hasNextPage,
       estimatedTotal: responseData.pagination.estimatedTotal,
@@ -182,13 +267,52 @@ export async function POST(request) {
 
     return Response.json(responseData)
   } catch (error) {
-    console.error('💥 API Route error:', error)
+    console.error('💥 API Route error:', {
+      message: error.message,
+      stack: error.stack,
+      name: error.name,
+    })
+
     return Response.json(
       {
+        success: false,
         error: 'Internal server error',
-        message: error.message,
+        details: error.message,
       },
       { status: 500 }
     )
   }
+}
+
+// Add GET method for testing
+export async function GET(request) {
+  const { searchParams } = new URL(request.url)
+  const query = searchParams.get('query')
+  const page = parseInt(searchParams.get('page')) || 1
+  const pageSize = parseInt(searchParams.get('pageSize')) || 20
+
+  if (query) {
+    // If query parameters are provided, call the POST method
+    return POST(
+      new Request(request.url, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ query, page, pageSize }),
+      })
+    )
+  }
+
+  return Response.json(
+    {
+      message: 'Google Places Search API',
+      usage: {
+        post: 'Send POST request with {"query": "search term", "page": 1, "pageSize": 20}',
+        get: 'Send GET request with ?query=search_term&page=1&pageSize=20',
+      },
+      environment: process.env.NODE_ENV,
+      hasApiKey: !!process.env.GOOGLE_PLACES_API_KEY,
+      hasRedis: !!redis,
+    },
+    { status: 200 }
+  )
 }
