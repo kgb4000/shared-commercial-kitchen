@@ -850,69 +850,67 @@ export default function KitchenDetail({ kitchen, initialGoogleData = null }) {
                 )}
 
                 {/* Debug Section - Remove in production */}
-                {process.env.NODE_ENV === 'development' && (
-                  <div className="bg-gray-100 p-4 rounded-lg mb-8">
-                    <h3 className="font-bold mb-2">
-                      🔧 Debug Info (Development Only)
-                    </h3>
-                    <div className="text-sm space-y-1">
-                      <p>
-                        <strong>Kitchen placeId:</strong>{' '}
-                        {kitchen.placeId || 'Not available'}
-                      </p>
-                      <p>
-                        <strong>Kitchen place_id (fallback):</strong>{' '}
-                        {kitchen.place_id || 'Not available'}
-                      </p>
-                      <p>
-                        <strong>Has placeDetails:</strong>{' '}
-                        {placeDetails ? 'Yes' : 'No'}
-                      </p>
-                      <p>
-                        <strong>Has reviews:</strong>{' '}
-                        {placeDetails?.reviews?.length > 0
-                          ? `Yes (${placeDetails.reviews.length})`
-                          : 'No'}
-                      </p>
-                      <p>
-                        <strong>Loading:</strong> {loading ? 'Yes' : 'No'}
-                      </p>
-                      <p>
-                        <strong>Error:</strong> {error || 'None'}
-                      </p>
-                      <p>
-                        <strong>Initial Google Data:</strong>{' '}
-                        {initialGoogleData ? 'Yes' : 'No'}
-                      </p>
-                      <p>
-                        <strong>Kitchen totalScore:</strong>{' '}
-                        {kitchen.totalScore || 'Not available'}
-                      </p>
-                      <p>
-                        <strong>Kitchen reviewsCount:</strong>{' '}
-                        {kitchen.reviewsCount || 'Not available'}
-                      </p>
+                <div className="bg-gray-100 p-4 rounded-lg mb-8">
+                  <h3 className="font-bold mb-2">
+                    🔧 Debug Info (Development Only)
+                  </h3>
+                  <div className="text-sm space-y-1">
+                    <p>
+                      <strong>Kitchen placeId:</strong>{' '}
+                      {kitchen.placeId || 'Not available'}
+                    </p>
+                    <p>
+                      <strong>Kitchen place_id (fallback):</strong>{' '}
+                      {kitchen.place_id || 'Not available'}
+                    </p>
+                    <p>
+                      <strong>Has placeDetails:</strong>{' '}
+                      {placeDetails ? 'Yes' : 'No'}
+                    </p>
+                    <p>
+                      <strong>Has reviews:</strong>{' '}
+                      {placeDetails?.reviews?.length > 0
+                        ? `Yes (${placeDetails.reviews.length})`
+                        : 'No'}
+                    </p>
+                    <p>
+                      <strong>Loading:</strong> {loading ? 'Yes' : 'No'}
+                    </p>
+                    <p>
+                      <strong>Error:</strong> {error || 'None'}
+                    </p>
+                    <p>
+                      <strong>Initial Google Data:</strong>{' '}
+                      {initialGoogleData ? 'Yes' : 'No'}
+                    </p>
+                    <p>
+                      <strong>Kitchen totalScore:</strong>{' '}
+                      {kitchen.totalScore || 'Not available'}
+                    </p>
+                    <p>
+                      <strong>Kitchen reviewsCount:</strong>{' '}
+                      {kitchen.reviewsCount || 'Not available'}
+                    </p>
+                    <details className="mt-2">
+                      <summary className="cursor-pointer font-medium">
+                        View Kitchen Object
+                      </summary>
+                      <pre className="text-xs bg-white p-2 rounded mt-1 overflow-auto max-h-40">
+                        {JSON.stringify(kitchen, null, 2)}
+                      </pre>
+                    </details>
+                    {placeDetails && (
                       <details className="mt-2">
                         <summary className="cursor-pointer font-medium">
-                          View Kitchen Object
+                          View Place Details
                         </summary>
                         <pre className="text-xs bg-white p-2 rounded mt-1 overflow-auto max-h-40">
-                          {JSON.stringify(kitchen, null, 2)}
+                          {JSON.stringify(placeDetails, null, 2)}
                         </pre>
                       </details>
-                      {placeDetails && (
-                        <details className="mt-2">
-                          <summary className="cursor-pointer font-medium">
-                            View Place Details
-                          </summary>
-                          <pre className="text-xs bg-white p-2 rounded mt-1 overflow-auto max-h-40">
-                            {JSON.stringify(placeDetails, null, 2)}
-                          </pre>
-                        </details>
-                      )}
-                    </div>
+                    )}
                   </div>
-                )}
+                </div>
                 {placeDetails?.reviews && placeDetails.reviews.length > 0 && (
                   <div>
                     <h2 className="text-2xl font-semibold mb-6 border-b border-gray-200 pb-2">
