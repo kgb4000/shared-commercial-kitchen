@@ -8,10 +8,7 @@ export async function POST(request) {
     console.log('=== Google Place Details API Called ===')
     console.log('Environment:', process.env.NODE_ENV)
     console.log('Place ID:', placeId)
-    console.log(
-      'Request headers:',
-      Object.fromEntries(request.headers.entries())
-    )
+    console.log('Timestamp:', new Date().toISOString())
 
     // Validate input
     if (!placeId) {
@@ -37,21 +34,54 @@ export async function POST(request) {
       )
     }
 
-    // Get API key from environment
+    // Enhanced API key validation
+    console.log('🔑 Checking API key...')
+    console.log(
+      '🔑 Environment variable exists:',
+      'GOOGLE_PLACES_API_KEY' in process.env
+    )
+    console.log(
+      '🔑 Environment variable type:',
+      typeof process.env.GOOGLE_PLACES_API_KEY
+    )
+
     const apiKey = process.env.GOOGLE_PLACES_API_KEY
-    console.log('🔑 API key check:', {
-      exists: !!apiKey,
-      length: apiKey?.length || 0,
-      preview: apiKey?.substring(0, 15) + '...' || 'UNDEFINED',
-      environment: process.env.NODE_ENV,
-    })
 
     if (!apiKey) {
-      console.error('❌ No API key found')
+      console.error('❌ GOOGLE_PLACES_API_KEY environment variable is missing')
+      console.error(
+        '❌ Available env vars:',
+        Object.keys(process.env).filter((k) => k.includes('GOOGLE'))
+      )
       return NextResponse.json(
         {
           success: false,
           error: 'Google Places API key not configured',
+          debug: {
+            hasEnvVar: false,
+            availableGoogleVars: Object.keys(process.env).filter((k) =>
+              k.includes('GOOGLE')
+            ),
+            nodeEnv: process.env.NODE_ENV,
+          },
+        },
+        { status: 500 }
+      )
+    }
+
+    console.log('🔑 API key found, length:', apiKey.length)
+    console.log('🔑 API key prefix:', apiKey.substring(0, 10))
+
+    if (typeof apiKey !== 'string') {
+      console.error('❌ API key is not a string, type:', typeof apiKey)
+      return NextResponse.json(
+        {
+          success: false,
+          error: 'Google Places API key has invalid type',
+          debug: {
+            keyType: typeof apiKey,
+            keyValue: String(apiKey).substring(0, 20),
+          },
         },
         { status: 500 }
       )
@@ -62,11 +92,35 @@ export async function POST(request) {
       return NextResponse.json(
         {
           success: false,
-          error: 'Google Places API key appears invalid',
+          error: 'Google Places API key appears invalid (too short)',
+          debug: {
+            keyLength: apiKey.length,
+            keyPrefix: apiKey.substring(0, 10),
+          },
         },
         { status: 500 }
       )
     }
+
+    if (!apiKey.startsWith('AIza')) {
+      console.error(
+        '❌ API key does not start with AIza:',
+        apiKey.substring(0, 10)
+      )
+      return NextResponse.json(
+        {
+          success: false,
+          error: 'Google Places API key appears to have invalid format',
+          debug: {
+            keyPrefix: apiKey.substring(0, 10),
+            expectedPrefix: 'AIza',
+          },
+        },
+        { status: 500 }
+      )
+    }
+
+    console.log('✅ API key validation passed')
 
     // Define the fields we want to retrieve
     const fields = [
@@ -88,20 +142,6 @@ export async function POST(request) {
       'editorialSummary',
       'reviews',
       'photos',
-      'accessibilityOptions',
-      'paymentOptions',
-      'parkingOptions',
-      'outdoorSeating',
-      'takeout',
-      'delivery',
-      'dineIn',
-      'reservable',
-      'servesBreakfast',
-      'servesLunch',
-      'servesDinner',
-      'servesBeer',
-      'servesWine',
-      'servesVegetarianFood',
     ].join(',')
 
     const url = `https://places.googleapis.com/v1/places/${encodeURIComponent(
@@ -109,7 +149,7 @@ export async function POST(request) {
     )}`
 
     console.log('🌐 Making request to Google Places API:', url)
-    console.log('🔍 Requested fields:', fields)
+    console.log('🔍 Requested fields:', fields.split(',').length, 'fields')
 
     const requestHeaders = {
       'Content-Type': 'application/json',
@@ -117,10 +157,7 @@ export async function POST(request) {
       'X-Goog-FieldMask': fields,
     }
 
-    console.log('📡 Request headers (API key hidden):', {
-      ...requestHeaders,
-      'X-Goog-Api-Key': '[HIDDEN]',
-    })
+    console.log('📡 Request headers prepared (API key hidden)')
 
     const response = await fetch(url, {
       method: 'GET',
@@ -131,7 +168,6 @@ export async function POST(request) {
       status: response.status,
       statusText: response.statusText,
       ok: response.ok,
-      headers: Object.fromEntries(response.headers.entries()),
     })
 
     if (!response.ok) {
@@ -145,10 +181,12 @@ export async function POST(request) {
 
       // Try to parse error for better messaging
       let errorMessage = `Google Places API error: ${response.status}`
+      let parsedError = null
+
       try {
-        const errorJson = JSON.parse(errorText)
-        if (errorJson.error?.message) {
-          errorMessage = errorJson.error.message
+        parsedError = JSON.parse(errorText)
+        if (parsedError.error?.message) {
+          errorMessage = parsedError.error.message
         }
       } catch (e) {
         // Use the raw error text if JSON parsing fails
@@ -161,10 +199,13 @@ export async function POST(request) {
         {
           success: false,
           error: errorMessage,
-          details: {
+          debug: {
             status: response.status,
             statusText: response.statusText,
             placeId: placeId,
+            apiKeyPrefix: apiKey.substring(0, 10),
+            parsedError: parsedError,
+            rawError: errorText,
           },
         },
         { status: response.status }
@@ -204,10 +245,8 @@ export async function POST(request) {
             photoName: photo.name,
           }
 
-          // Log the generated URL (with hidden API key for security)
           console.log(
-            `📸 Generated URL for photo ${index + 1}:`,
-            processedPhoto.url.replace(apiKey, '[API_KEY_HIDDEN]')
+            `📸 Generated URL for photo ${index + 1} (API key hidden)`
           )
 
           return processedPhoto
@@ -240,6 +279,13 @@ export async function POST(request) {
       place: data,
       fetchedAt: new Date().toISOString(),
       placeId: placeId,
+      debug: {
+        apiKeyLength: apiKey.length,
+        apiKeyPrefix: apiKey.substring(0, 10),
+        fieldsRequested: fields.split(',').length,
+        hasReviews: !!data.reviews?.length,
+        hasPhotos: !!data.photos?.length,
+      },
     }
 
     console.log('📤 Returning successful response with place data')
@@ -256,14 +302,19 @@ export async function POST(request) {
       {
         success: false,
         error: 'Internal server error',
-        details: error.message,
+        debug: {
+          errorMessage: error.message,
+          errorType: error.name,
+          hasApiKey: !!process.env.GOOGLE_PLACES_API_KEY,
+          timestamp: new Date().toISOString(),
+        },
       },
       { status: 500 }
     )
   }
 }
 
-// Add GET method for testing
+// Enhanced GET method for testing
 export async function GET(request) {
   const { searchParams } = new URL(request.url)
   const placeId = searchParams.get('placeId')
@@ -288,6 +339,8 @@ export async function GET(request) {
       },
       environment: process.env.NODE_ENV,
       hasApiKey: !!process.env.GOOGLE_PLACES_API_KEY,
+      apiKeyLength: process.env.GOOGLE_PLACES_API_KEY?.length || 0,
+      timestamp: new Date().toISOString(),
     },
     { status: 200 }
   )
