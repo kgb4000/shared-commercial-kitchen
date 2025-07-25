@@ -627,9 +627,9 @@ export default function KitchenDetail({
 
   return (
     <main>
-      <div className="container max-w-7xl mx-auto px-6 my-10">
+      <div className="container max-w-7xl mx-auto px-4 my-10">
         {/* Kitchen Header */}
-        <div className="bg-white rounded-lg shadow-lg border border-gray-200 overflow-hidden mb-8">
+        <div>
           <div className="p-8 bg-gradient-to-r from-blue-50 via-indigo-50 to-purple-50">
             <div className="flex flex-col lg:flex-row lg:items-start lg:justify-between">
               <div className="flex-1">
