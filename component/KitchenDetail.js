@@ -19,6 +19,7 @@ import SimpleKitchenMap from './SimpleKitchenMap'
 import EnhancedGooglePlacesInfo from './EnhancedGooglePlacesInfo'
 import NearbyPlaces from './NearbyPlaces'
 import BusinessInsights from './BusinessInsights'
+import GooglePlacesTest from '@/component/GooglePlacesAPITestComponent' // adjust path
 
 // Data normalization helper
 function normalizeKitchenData(kitchen) {
@@ -1105,6 +1106,7 @@ export default function KitchenDetail({
 
         {/* FAQ Section */}
         <KitchenFAQ />
+        <GooglePlacesTest />
       </div>
     </main>
   )
