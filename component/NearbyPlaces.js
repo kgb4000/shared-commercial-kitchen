@@ -205,7 +205,7 @@ function NearbyPlaces({ kitchen, placeDetails }) {
           ].map((term) => (
             <a
               key={term}
-              href={`https://www.google.com/maps/search/${term}+near+${kitchen.location?.lat},${kitchen.location?.lng}`}
+              href={`https://www.google.com/maps/search/${term}+near+${coordinates.lat},${coordinates.lng}`}
               target="_blank"
               rel="noopener noreferrer"
               className="px-3 py-1 bg-gray-100 text-gray-700 rounded-full text-sm hover:bg-gray-200 transition-colors"

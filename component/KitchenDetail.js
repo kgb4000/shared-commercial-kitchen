@@ -516,7 +516,7 @@ export default function KitchenDetail({ kitchen, initialGoogleData = null }) {
 
   return (
     <main>
-      <div className="container max-w-6xl mx-auto px-6 my-10">
+      <div className="container max-w-7xl mx-auto px-6 my-10">
         {/* Breadcrumb Navigation */}
         <nav className="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
           <ol className="flex items-center space-x-2">
@@ -1157,7 +1157,7 @@ export default function KitchenDetail({ kitchen, initialGoogleData = null }) {
         <KitchenFAQ />
 
         {/* Back Navigation */}
-        <div className="mt-12 text-center">
+        {/* <div className="mt-12 text-center">
           <Link
             href="/kitchens"
             className="inline-flex items-center space-x-2 text-blue-600 hover:underline font-medium text-lg"
@@ -1165,7 +1165,7 @@ export default function KitchenDetail({ kitchen, initialGoogleData = null }) {
             <span>←</span>
             <span>Back to all kitchens in {cityName}</span>
           </Link>
-        </div>
+        </div> */}
       </div>
     </main>
   )
