@@ -16,7 +16,9 @@ import {
 import Image from 'next/image'
 import Link from 'next/link'
 import SimpleKitchenMap from './SimpleKitchenMap'
-import MarketOpportunitySection from '@/component/MarketOpportunitySection'
+import EnhancedGooglePlacesInfo from './EnhancedGooglePlacesInfo'
+import NearbyPlaces from './NearbyPlaces'
+import BusinessInsights from './BusinessInsights'
 
 // Helper functions
 function formatPhoneNumber(phone) {
@@ -361,12 +363,7 @@ function KitchenFAQ() {
   )
 }
 
-export default function KitchenDetail({
-  kitchen,
-  demographics,
-  marketingMessages,
-  initialGoogleData = null,
-}) {
+export default function KitchenDetail({ kitchen, initialGoogleData = null }) {
   const [placeDetails, setPlaceDetails] = useState(initialGoogleData)
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState(null)
@@ -519,7 +516,7 @@ export default function KitchenDetail({
 
   return (
     <main>
-      <div className="container max-w-9xl mx-auto px-6 my-10">
+      <div className="container max-w-6xl mx-auto px-6 my-10">
         {/* Breadcrumb Navigation */}
         <nav className="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
           <ol className="flex items-center space-x-2">
@@ -529,11 +526,11 @@ export default function KitchenDetail({
               </Link>
             </li>
             <li className="text-gray-300">›</li>
-            {/* <li>
+            <li>
               <Link href="/kitchens" className="hover:text-blue-600">
                 Commercial Kitchens
               </Link>
-            </li> */}
+            </li>
             <li className="text-gray-300">›</li>
             <li>
               <span className="hover:text-blue-600">
@@ -779,11 +776,26 @@ export default function KitchenDetail({
                   placeDetails={placeDetails}
                 />
 
+                {/* Enhanced Google Places Information */}
+                <EnhancedGooglePlacesInfo
+                  placeDetails={placeDetails}
+                  kitchen={kitchen}
+                />
+
+                {/* Business Insights */}
+                <BusinessInsights
+                  placeDetails={placeDetails}
+                  kitchen={kitchen}
+                />
+
                 {/* Location & Map */}
                 <SimpleKitchenMap
                   kitchen={kitchen}
                   placeDetails={placeDetails}
                 />
+
+                {/* Nearby Places */}
+                <NearbyPlaces kitchen={kitchen} placeDetails={placeDetails} />
 
                 {/* Opening Hours */}
                 {businessHours && (
@@ -838,7 +850,7 @@ export default function KitchenDetail({
                 )}
 
                 {/* Debug Section - Remove in production */}
-                {/* {process.env.NODE_ENV === 'development' && (
+                {process.env.NODE_ENV === 'development' && (
                   <div className="bg-gray-100 p-4 rounded-lg mb-8">
                     <h3 className="font-bold mb-2">
                       🔧 Debug Info (Development Only)
@@ -900,7 +912,7 @@ export default function KitchenDetail({
                       )}
                     </div>
                   </div>
-                )} */}
+                )}
                 {placeDetails?.reviews && placeDetails.reviews.length > 0 && (
                   <div>
                     <h2 className="text-2xl font-semibold mb-6 border-b border-gray-200 pb-2">
@@ -1141,47 +1153,19 @@ export default function KitchenDetail({
           </div>
         )}
 
-        {/* Market Opportunity Section - Add this after the hero section */}
-        {demographics && (
-          <MarketOpportunitySection
-            demographics={demographics}
-            kitchen={kitchen}
-          />
-        )}
-        {/* Marketing Messages Banner */}
-        {marketingMessages && marketingMessages.length > 0 && (
-          <div className="mb-8">
-            <div className="bg-gradient-to-r from-green-500 to-blue-600 rounded-lg p-6 text-white">
-              <h3 className="text-xl font-bold mb-3">
-                Why This Location is Perfect for Your Food Business
-              </h3>
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
-                {marketingMessages.slice(0, 4).map((message, index) => (
-                  <div key={index} className="flex items-center">
-                    <div className="w-2 h-2 bg-white rounded-full mr-3"></div>
-                    <span className="text-sm font-medium">
-                      {message.message}
-                    </span>
-                  </div>
-                ))}
-              </div>
-            </div>
-          </div>
-        )}
-
         {/* FAQ Section */}
         <KitchenFAQ />
 
         {/* Back Navigation */}
-        {/* <div className="mt-12 text-center">
+        <div className="mt-12 text-center">
           <Link
-            href={`/commercial-kitchen-for-rent/${kitchen.city.toLowerCase()}/${kitchen.state.toLowerCase()}`}
+            href="/kitchens"
             className="inline-flex items-center space-x-2 text-blue-600 hover:underline font-medium text-lg"
           >
             <span>←</span>
             <span>Back to all kitchens in {cityName}</span>
           </Link>
-        </div> */}
+        </div>
       </div>
     </main>
   )
