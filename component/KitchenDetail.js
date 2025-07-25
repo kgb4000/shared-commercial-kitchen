@@ -1106,6 +1106,7 @@ export default function KitchenDetail({
 
         {/* FAQ Section */}
         <KitchenFAQ />
+        <p></p>
         <GooglePlacesTest />
       </div>
     </main>
