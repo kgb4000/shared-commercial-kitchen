@@ -192,7 +192,7 @@ export async function generateMetadata({ params }) {
         `Professional commercial kitchen for rent in ${cityState}`,
       images: kitchen.imageUrl ? [{ url: kitchen.imageUrl }] : [],
       // type: 'business.business',
-      url: `/commercial-kitchen-for-rent/kitchen/${slug}`,
+      url: `/commercial-kitchen-for-rent/kitchen/${formattedCity}/${kitchen.state}/${slug}`,
     },
     twitter: {
       card: 'summary_large_image',

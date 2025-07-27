@@ -95,7 +95,7 @@
       "kgmid": "/g/11bx1y9_vz"
     },
     {
-      "title": "Aurora Eatery - Aurora CloudKitchens",
+      "title": "Aurora Eatery",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",
       "address": "14200 E Alameda Ave, Aurora, CO 80012",
@@ -111,7 +111,6 @@
         "lat": 39.7082577,
         "lng": -104.823209
       },
-      "totalScore": 2.3,
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJeTPRL_djbIcRRN5VqUDSlOE",
@@ -122,7 +121,6 @@
       ],
       "fid": "0x876c63f72fd13379:0xe194d240a955de44",
       "cid": "16254848130247679556",
-      "reviewsCount": 3,
       "imagesCount": 6,
       "imageCategories": [],
       "scrapedAt": "2025-07-11T06:24:20.961Z",
