@@ -118,82 +118,6 @@ const CommercialKitchenDirectory = ({
           {/* Filters Sidebar */}
           {showFilters && (
             <div className="lg:col-span-1">
-              {/* <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 top-24">
-                <div className="flex items-center justify-between mb-6">
-                  <h3 className="text-lg font-bold text-gray-900">
-                    Filter Results
-                  </h3>
-                  <button
-                    onClick={() => setShowFilters(false)}
-                    className="lg:hidden p-1 hover:bg-gray-100 rounded-lg transition-colors"
-                  >
-                    <X className="w-5 h-5 text-gray-500" />
-                  </button>
-                </div>
-
-                <div className="space-y-4">
-                  <div>
-                    <label className="block text-sm font-semibold text-gray-700 mb-2">
-                      Price Range
-                    </label>
-                    <select className="w-full px-4 py-3 border border-gray-200 rounded-xl text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 bg-white">
-                      <option>Any Price</option>
-                      <option>$15-25/hour</option>
-                      <option>$25-35/hour</option>
-                      <option>$35+/hour</option>
-                    </select>
-                  </div>
-
-                  <div>
-                    <label className="block text-sm font-semibold text-gray-700 mb-2">
-                      Amenities
-                    </label>
-                    <select className="w-full px-4 py-3 border border-gray-200 rounded-xl text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 bg-white">
-                      <option>All Amenities</option>
-                      <option>24/7 Access</option>
-                      <option>Cold Storage</option>
-                      <option>Parking Available</option>
-                      <option>Loading Dock</option>
-                      <option>Outdoor Space</option>
-                    </select>
-                  </div>
-
-                  <div>
-                    <label className="block text-sm font-semibold text-gray-700 mb-2">
-                      Rental Terms
-                    </label>
-                    <select className="w-full px-4 py-3 border border-gray-200 rounded-xl text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 bg-white">
-                      <option>Any Terms</option>
-                      <option>Hourly</option>
-                      <option>Daily</option>
-                      <option>Weekly</option>
-                      <option>Monthly</option>
-                    </select>
-                  </div>
-
-                  <div>
-                    <label className="block text-sm font-semibold text-gray-700 mb-2">
-                      Kitchen Capacity
-                    </label>
-                    <select className="w-full px-4 py-3 border border-gray-200 rounded-xl text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 bg-white">
-                      <option>Any Size</option>
-                      <option>1-4 people</option>
-                      <option>5-8 people</option>
-                      <option>9-12 people</option>
-                      <option>12+ people</option>
-                    </select>
-                  </div>
-                </div>
-
-                <button className="w-full px-4 py-3 bg-blue-600 text-white rounded-xl font-medium hover:bg-blue-700 transition-colors mt-6">
-                  Apply Filters
-                </button>
-
-                <button className="w-full px-4 py-2 text-gray-600 hover:text-gray-800 text-sm font-medium mt-2 transition-colors">
-                  Clear All Filters
-                </button>
-              </div> */}
-
               {relatedCities && relatedCities.length > 0 && (
                 <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 mt-6">
                   <h3 className="text-lg font-bold text-gray-900 mb-4 flex items-center">
@@ -282,30 +206,6 @@ const CommercialKitchenDirectory = ({
                   <Filter className="w-4 h-4 mr-2" />
                   {showFilters ? 'Hide Filters' : 'Show Filters'}
                 </button>
-
-                {/* View Toggle */}
-                <div className="flex items-center bg-gray-100 rounded-lg p-1">
-                  <button
-                    onClick={() => setViewType('grid')}
-                    className={`px-3 py-2 rounded-md text-sm font-medium transition-colors ${
-                      viewType === 'grid'
-                        ? 'bg-white text-gray-900 shadow-sm'
-                        : 'text-gray-600 hover:text-gray-900'
-                    }`}
-                  >
-                    Grid
-                  </button>
-                  <button
-                    onClick={() => setViewType('list')}
-                    className={`px-3 py-2 rounded-md text-sm font-medium transition-colors ${
-                      viewType === 'list'
-                        ? 'bg-white text-gray-900 shadow-sm'
-                        : 'text-gray-600 hover:text-gray-900'
-                    }`}
-                  >
-                    List
-                  </button>
-                </div>
 
                 {/* Map Toggle */}
                 <button
@@ -460,7 +360,7 @@ const CommercialKitchenDirectory = ({
                         href={`/commercial-kitchen-for-rent/kitchen/${slugify(
                           kitchen.title || kitchen.name
                         )}`}
-                        className="flex-1 px-4 py-3 bg-blue-600 text-white rounded-xl font-medium hover:bg-blue-700 transition-colors"
+                        className="flex-1 px-4 py-3 bg-blue-600 text-white rounded-xl font-medium hover:bg-blue-700 transition-colors text-center"
                       >
                         View Details
                       </Link>

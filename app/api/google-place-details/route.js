@@ -126,6 +126,7 @@ export async function POST(request) {
     const fields = [
       'id',
       'displayName',
+      'description',
       'formattedAddress',
       'location',
       'rating',

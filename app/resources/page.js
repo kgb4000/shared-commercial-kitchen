@@ -87,7 +87,7 @@ export default function ResourcesPage() {
 
               <div className="bg-emerald-50 border border-emerald-200 rounded-lg p-4 mb-6">
                 <p className="text-emerald-800 font-medium text-sm">
-                  💰 Save $200+ on professional labeling services
+                  💰 Save $200+ on labeling services
                 </p>
               </div>
 
@@ -219,11 +219,11 @@ export default function ResourcesPage() {
         </div>
 
         {/* CTA Section */}
-        <section className="bg-gradient-to-r from-emerald-600 to-blue-600 rounded-2xl p-8 md:p-12 text-center text-white">
+        <section className="bg-slate-50 rounded-2xl p-8 md:p-12 text-center text-black">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">
             Ready to Launch Your Food Business?
           </h2>
-          <p className="text-xl text-emerald-100 mb-8 max-w-2xl mx-auto">
+          <p className="text-xl text-black mb-8 max-w-2xl mx-auto">
             Find the perfect shared kitchen space near you and start building
             your culinary empire today.
           </p>
@@ -243,108 +243,6 @@ export default function ResourcesPage() {
           </div>
         </section>
       </section>
-
-      {/* Footer */}
-      <footer className="bg-gray-900 text-white py-12">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid md:grid-cols-4 gap-8">
-            <div>
-              <h3 className="text-xl font-bold mb-4">SharedKitchenLocator</h3>
-              <p className="text-gray-400">
-                Connecting food entrepreneurs with shared kitchen spaces and
-                business tools.
-              </p>
-            </div>
-            <div>
-              <h4 className="font-semibold mb-4">Tools</h4>
-              <ul className="space-y-2 text-gray-400">
-                <li>
-                  <a
-                    href="/tools/nutrition-label-maker"
-                    className="hover:text-white transition-colors"
-                  >
-                    Nutrition Label Maker
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="/tools/expiration-checker"
-                    className="hover:text-white transition-colors"
-                  >
-                    Expiration Date Checker
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="/tools/recipe-cost-tracker"
-                    className="hover:text-white transition-colors"
-                  >
-                    Recipe Cost Tracker
-                  </a>
-                </li>
-              </ul>
-            </div>
-            <div>
-              <h4 className="font-semibold mb-4">Resources</h4>
-              <ul className="space-y-2 text-gray-400">
-                <li>
-                  <a
-                    href="/blog"
-                    className="hover:text-white transition-colors"
-                  >
-                    Blog
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="/guides"
-                    className="hover:text-white transition-colors"
-                  >
-                    Business Guides
-                  </a>
-                </li>
-                <li>
-                  <a href="/faq" className="hover:text-white transition-colors">
-                    FAQ
-                  </a>
-                </li>
-              </ul>
-            </div>
-            <div>
-              <h4 className="font-semibold mb-4">Company</h4>
-              <ul className="space-y-2 text-gray-400">
-                <li>
-                  <a
-                    href="/about"
-                    className="hover:text-white transition-colors"
-                  >
-                    About
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="/contact"
-                    className="hover:text-white transition-colors"
-                  >
-                    Contact
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="/privacy"
-                    className="hover:text-white transition-colors"
-                  >
-                    Privacy Policy
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2025 SharedKitchenLocator. All rights reserved.</p>
-          </div>
-        </div>
-      </footer>
     </div>
   )
 }

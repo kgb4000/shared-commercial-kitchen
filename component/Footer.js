@@ -22,72 +22,106 @@ export default function Footer() {
           </div>
         </div>
       </section>
+      {/* Footer */}
       <footer className="bg-gray-900 text-white py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-            <div className="md:col-span-2">
-              <h3 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent mb-4">
-                Shared Kitchen Locator
-              </h3>
-              <p className="text-gray-400 mb-4 max-w-md">
-                The leading marketplace for commercial kitchen rentals. Find
-                verified, professional kitchen spaces for your food business.
+          <div className="grid md:grid-cols-4 gap-8">
+            <div>
+              <h3 className="text-xl font-bold mb-4">SharedKitchenLocator</h3>
+              <p className="text-gray-400">
+                Connecting food entrepreneurs with shared kitchen spaces and
+                business tools.
               </p>
             </div>
-
             <div>
-              <h4 className="font-semibold mb-4">For Renters</h4>
-              <div className="space-y-2">
-                <Link
-                  href="/browse-kitchens"
-                  className="hover:text-blue-600 text-white font-medium transition-colors"
-                >
-                  Browse Kitchens
-                </Link>
-                {/* <a
-                  href="#"
-                  className="block text-gray-400 hover:text-white transition-colors"
-                >
-                  Pricing
-                </a> */}
-                <a
-                  href="#"
-                  className="block text-gray-400 hover:text-white transition-colors"
-                >
-                  Resources
-                </a>
-              </div>
+              <h4 className="font-semibold mb-4">Tools</h4>
+              <ul className="space-y-2 text-gray-400">
+                <li>
+                  <a
+                    href="/resources/nutrition-label-maker"
+                    className="hover:text-white transition-colors"
+                  >
+                    Nutrition Label Maker
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="/resources/expiration-checker"
+                    className="hover:text-white transition-colors"
+                  >
+                    Expiration Date Checker
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="/resources/recipe-cost-tracker"
+                    className="hover:text-white transition-colors"
+                  >
+                    Recipe Cost Tracker
+                  </a>
+                </li>
+              </ul>
             </div>
-
             <div>
-              <h4 className="font-semibold mb-4">For Kitchen Owners</h4>
-              <div className="space-y-2">
-                <a
-                  href="#"
-                  className="block hover:text-gray-400 text-white transition-colors"
-                >
-                  List Your Kitchen
-                </a>
-                {/* <a
-                  href="#"
-                  className="block text-gray-400 hover:text-white transition-colors"
-                >
-                  Owner Dashboard
-                </a> */}
-                <a
-                  href="#"
-                  className="block text-gray-400 hover:text-white transition-colors"
-                >
-                  Support
-                </a>
-              </div>
+              <h4 className="font-semibold mb-4">Resources</h4>
+              <ul className="space-y-2 text-gray-400">
+                <li>
+                  <a
+                    href="/blog"
+                    className="hover:text-white transition-colors"
+                  >
+                    Blog
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="/guides"
+                    className="hover:text-white transition-colors"
+                  >
+                    Business Guides
+                  </a>
+                </li>
+                <li>
+                  <a href="/faq" className="hover:text-white transition-colors">
+                    FAQ
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div>
+              <h4 className="font-semibold mb-4">Company</h4>
+              <ul className="space-y-2 text-gray-400">
+                <li>
+                  <a
+                    href="/about"
+                    className="hover:text-white transition-colors"
+                  >
+                    About
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="/contact"
+                    className="hover:text-white transition-colors"
+                  >
+                    Contact
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="/privacy"
+                    className="hover:text-white transition-colors"
+                  >
+                    Privacy Policy
+                  </a>
+                </li>
+              </ul>
             </div>
           </div>
-
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
             <p>
-              &copy; {new Date().getFullYear()} Shared Kitchen Locator. All
-              rights reserved.
+              &copy; {new Date().getFullYear()} SharedKitchenLocator. All rights
+              reserved.
             </p>
           </div>
         </div>

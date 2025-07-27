@@ -41,73 +41,6 @@ const CommercialKitchenDirectory = ({
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
   const [viewType, setViewType] = useState('grid')
 
-  // Use props data or fallback to sample data
-  const displayKitchens =
-    kitchens.length > 0
-      ? kitchens.map((kitchen, index) => ({
-          id: kitchen.placeId || index,
-          name: kitchen.title,
-          image: kitchen.imageUrl || '/api/placeholder/400/280',
-          rating: kitchen.totalScore || 0,
-          reviews: kitchen.reviewsCount || 0,
-          tags: kitchen.tags || [],
-          price: kitchen.price || 'Contact for pricing',
-          priceType: kitchen.price ? 'per hour' : '',
-          verified: kitchen.totalScore > 4.0,
-          distance: `${kitchen.neighborhood || kitchen.city} • ${
-            kitchen.street
-          }`,
-          description:
-            kitchen.description ||
-            'Commercial kitchen space available for rent.',
-          featured: index === 0,
-          capacity:
-            kitchen.categoryName === 'Shared-use commercial kitchen'
-              ? 'Industrial scale'
-              : 'Variable',
-          availability: kitchen.hours || 'Contact for hours',
-          phone: kitchen.phone,
-          website: kitchen.website,
-          address: kitchen.address,
-          neighborhood: kitchen.neighborhood,
-        }))
-      : [
-          // Fallback sample data
-          {
-            id: 1,
-            name: 'Sample Kitchen',
-            image: '/api/placeholder/400/280',
-            rating: 4.5,
-            reviews: 25,
-            tags: ['24/7 Access', 'Equipment Included'],
-            price: '$25',
-            priceType: 'per hour',
-            verified: true,
-            distance: 'Downtown',
-            description: 'Sample commercial kitchen for demonstration.',
-            featured: true,
-            capacity: '8-12 people',
-            availability: 'Available Today',
-          },
-        ]
-
-  const events = [
-    {
-      title: 'Start a Food Truck Workshop',
-      date: 'JUL 21',
-      time: '2:00 PM',
-      location: 'Downtown Denver',
-      price: '$45',
-    },
-    {
-      title: 'ServSafe Certification Course',
-      date: 'JUL 25',
-      time: '9:00 AM',
-      location: 'Denver Community College',
-      price: '$125',
-    },
-  ]
-
   const faqs = [
     {
       question:
@@ -148,20 +81,17 @@ const CommercialKitchenDirectory = ({
         {/* Additional Sections */}
         <div className="mt-20 space-y-16">
           {/* What is the Shared Commercial Kitchens Locator */}
-          <section className="bg-white py-20">
+          <section className="py-10">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
               <h2 className="text-3xl lg:text-5xl font-bold mb-10 text-center max-w-4xl mx-auto">
-                What is the Shared Commercial Kitchens Locator?
+                Shared Commercial Kitchens
               </h2>
               <p className="py-4 text-center max-w-4xl mx-auto leading-relaxed text-xl text-gray-700">
-                The Shared Commercial Kitchens Locator is the premier platform
-                connecting culinary entrepreneurs with{' '}
-                <strong>commercial kitchen rental</strong> opportunities across
-                the country. Whether you're a chef launching a catering
-                business, a baker starting a specialty bakery, or a food truck
-                owner seeking commissary kitchen space, we help you find the
-                perfect <strong>shared-use commercial kitchen</strong> to
-                legally operate and grow your food business.
+                Whether you're a chef launching a catering business, a baker
+                starting a specialty bakery, or a food truck owner seeking
+                commissary kitchen space, we help you find the perfect{' '}
+                <strong>shared-use commercial kitchen</strong> to legally
+                operate and grow your food business.
               </p>
               <p className="py-4 text-center max-w-4xl mx-auto leading-relaxed text-xl text-gray-700">
                 Our curated network of{' '}
@@ -174,7 +104,7 @@ const CommercialKitchenDirectory = ({
           </section>
 
           {/* Three Feature Cards */}
-          <section className="py-16">
+          <section className="py-10">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
               <div className="grid md:grid-cols-3 gap-10">
                 <div className="border-2 border-gray-200 p-8 rounded-3xl hover:shadow-lg transition-shadow">
@@ -469,69 +399,6 @@ const CommercialKitchenDirectory = ({
             </div>
           </section>
 
-          {/* Events Section - Now in main content area */}
-          <section className="hidden lg:block">
-            <h2 className="text-3xl font-bold text-gray-900 mb-8">
-              Upcoming Events for Food Entrepreneurs
-            </h2>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              {events.map((event, index) => (
-                <div
-                  key={index}
-                  className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-all"
-                >
-                  <div className="flex items-start gap-4 mb-4">
-                    <div className="bg-blue-100 text-blue-800 rounded-xl p-3 text-center min-w-[60px]">
-                      <div className="text-sm font-bold">{event.date}</div>
-                    </div>
-                    <div className="flex-1">
-                      <h3 className="font-bold text-gray-900 mb-2">
-                        {event.title}
-                      </h3>
-                      <p className="text-sm text-gray-600 mb-2">{event.time}</p>
-                      <p className="text-sm text-gray-500 mb-3">
-                        {event.location}
-                      </p>
-                      <span className="inline-block px-3 py-1 bg-green-100 text-green-800 text-sm font-medium rounded-full">
-                        {event.price}
-                      </span>
-                    </div>
-                  </div>
-                  <button className="w-full px-4 py-2 bg-blue-600 text-white rounded-xl hover:bg-blue-700 transition-colors font-medium">
-                    Register Now
-                  </button>
-                </div>
-              ))}
-
-              {/* Additional event placeholder */}
-              <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-all">
-                <div className="flex items-start gap-4 mb-4">
-                  <div className="bg-purple-100 text-purple-800 rounded-xl p-3 text-center min-w-[60px]">
-                    <div className="text-sm font-bold">AUG 3</div>
-                  </div>
-                  <div className="flex-1">
-                    <h3 className="font-bold text-gray-900 mb-2">
-                      Denver Local Makers Market
-                    </h3>
-                    <p className="text-sm text-gray-600 mb-2">8:00 AM</p>
-                    <p className="text-sm text-gray-500 mb-3">Union Station</p>
-                    <span className="inline-block px-3 py-1 bg-green-100 text-green-800 text-sm font-medium rounded-full">
-                      Free
-                    </span>
-                  </div>
-                </div>
-                <button className="w-full px-4 py-2 bg-blue-600 text-white rounded-xl hover:bg-blue-700 transition-colors font-medium">
-                  Register Now
-                </button>
-              </div>
-            </div>
-            <div className="text-center mt-8">
-              <button className="px-6 py-3 border border-gray-300 text-gray-700 rounded-xl hover:bg-gray-50 transition-colors font-medium">
-                View All Events on Eventbrite →
-              </button>
-            </div>
-          </section>
-
           {/* Tools & Resources */}
           <section>
             <h2 className="text-3xl font-bold text-gray-900 mb-8">
@@ -591,120 +458,6 @@ const CommercialKitchenDirectory = ({
                   Compare Plans →
                 </span>
               </a>
-            </div>
-          </section>
-
-          {/* Regulations Section */}
-          <section>
-            <h2 className="text-3xl font-bold text-gray-900 mb-8">
-              {city} Food Business Regulations
-            </h2>
-            <div className="bg-white rounded-2xl shadow-sm border border-gray-100">
-              <div className="border-b">
-                <button
-                  onClick={() =>
-                    setExpandedRegulation(expandedRegulation === 0 ? null : 0)
-                  }
-                  className="w-full px-6 py-4 text-left flex items-center justify-between hover:bg-gray-50 transition"
-                >
-                  <h3 className="font-semibold text-gray-900">
-                    Food Handler's License
-                  </h3>
-                  {expandedRegulation === 0 ? (
-                    <ChevronUp className="w-5 h-5 text-gray-400" />
-                  ) : (
-                    <ChevronDown className="w-5 h-5 text-gray-400" />
-                  )}
-                </button>
-                {expandedRegulation === 0 && (
-                  <div className="px-6 pb-4">
-                    <p className="text-gray-600 mb-3">
-                      All food service workers must obtain a food handler's
-                      license within 30 days of employment. ServSafe
-                      certification is accepted statewide.
-                    </p>
-                    <a
-                      href="#"
-                      className="block text-blue-600 hover:text-blue-700 text-sm"
-                    >
-                      Get ServSafe Certified →
-                    </a>
-                  </div>
-                )}
-              </div>
-
-              <div className="border-b">
-                <button
-                  onClick={() =>
-                    setExpandedRegulation(expandedRegulation === 1 ? null : 1)
-                  }
-                  className="w-full px-6 py-4 text-left flex items-center justify-between hover:bg-gray-50 transition"
-                >
-                  <h3 className="font-semibold text-gray-900">
-                    Sales Tax License
-                  </h3>
-                  {expandedRegulation === 1 ? (
-                    <ChevronUp className="w-5 h-5 text-gray-400" />
-                  ) : (
-                    <ChevronDown className="w-5 h-5 text-gray-400" />
-                  )}
-                </button>
-                {expandedRegulation === 1 && (
-                  <div className="px-6 pb-4">
-                    <p className="text-gray-600 mb-3">
-                      Register with the {city} Department of Finance for sales
-                      tax collection. Required for all food sales within city
-                      limits.
-                    </p>
-                    <a
-                      href="#"
-                      className="block text-blue-600 hover:text-blue-700 text-sm"
-                    >
-                      {city} Finance Dept. →
-                    </a>
-                  </div>
-                )}
-              </div>
-
-              <div>
-                <button
-                  onClick={() =>
-                    setExpandedRegulation(expandedRegulation === 2 ? null : 2)
-                  }
-                  className="w-full px-6 py-4 text-left flex items-center justify-between hover:bg-gray-50 transition"
-                >
-                  <h3 className="font-semibold text-gray-900">
-                    Cottage Food Law
-                  </h3>
-                  {expandedRegulation === 2 ? (
-                    <ChevronUp className="w-5 h-5 text-gray-400" />
-                  ) : (
-                    <ChevronDown className="w-5 h-5 text-gray-400" />
-                  )}
-                </button>
-                {expandedRegulation === 2 && (
-                  <div className="px-6 pb-4">
-                    <p className="text-gray-600 mb-3">
-                      Colorado allows certain low-risk foods to be prepared in
-                      home kitchens. Annual sales limited to $5,000.
-                    </p>
-                    <div className="space-y-2">
-                      <a
-                        href="#"
-                        className="block text-blue-600 hover:text-blue-700 text-sm"
-                      >
-                        CO Cottage Food Guide →
-                      </a>
-                      <a
-                        href="#"
-                        className="block text-blue-600 hover:text-blue-700 text-sm"
-                      >
-                        Approved Food List →
-                      </a>
-                    </div>
-                  </div>
-                )}
-              </div>
             </div>
           </section>
 
