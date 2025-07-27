@@ -186,7 +186,7 @@ export async function generateMetadata({ params }) {
       `Professional commercial kitchen space for rent in ${formattedCity}. View details, photos, reviews, and contact information for ${kitchenName}.`,
     keywords: `commercial kitchen for rent, ${formattedCity}, ${kitchen.state}, food business, catering kitchen, rental kitchen`,
     openGraph: {
-      title: `${kitchenName} - Commercial Kitchen for Rent`,
+      title: `$Commercial Kitchen for Rent in ${formattedCity} - ${kitchenName}`,
       description:
         kitchen.description ||
         `Professional commercial kitchen for rent in ${cityState}`,
@@ -196,14 +196,14 @@ export async function generateMetadata({ params }) {
     },
     twitter: {
       card: 'summary_large_image',
-      title: `${kitchenName} - Commercial Kitchen for Rent`,
+      title: `Commercial Kitchen for Rent in ${formattedCity} - ${kitchenName}`,
       description:
         kitchen.description ||
         `Professional commercial kitchen for rent in ${cityState}`,
       images: kitchen.imageUrl ? [kitchen.imageUrl] : [],
     },
     alternates: {
-      canonical: `/commercial-kitchen-for-rent/kitchen/${slug}`,
+      canonical: `https://sharedkitchenlocator.com/commercial-kitchen-for-rent/kitchen/${slug}`,
     },
   }
 }
