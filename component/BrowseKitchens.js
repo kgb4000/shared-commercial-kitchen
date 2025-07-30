@@ -352,22 +352,22 @@ const BrowseKitchensByLocation = () => {
 
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
             {[
-              { city: 'New York', state: 'NY', count: 345 },
+              { city: 'New York', state: 'NY', count: 41 },
               { city: 'Los Angeles', state: 'CA', count: 27 },
               { city: 'Washington', state: 'DC', count: 8 },
               { city: 'Houston', state: 'TX', count: 16 },
-              { city: 'Miami', state: 'FL', count: 234 },
+              { city: 'Miami', state: 'FL', count: 11 },
               { city: 'Atlanta', state: 'GA', count: 13 },
               { city: 'Denver', state: 'CO', count: 15 },
-              { city: 'Philadelphia', state: 'PA', count: 198 },
+              { city: 'Philadelphia', state: 'PA', count: 24 },
               { city: 'Dallas', state: 'TX', count: 8 },
-              { city: 'San Francisco', state: 'CA', count: 234 },
-              { city: 'Austin', state: 'TX', count: 234 },
-              { city: 'San Antonio', state: 'TX', count: 234 },
-              { city: 'San Jose', state: 'CA', count: 234 },
+              { city: 'San Francisco', state: 'CA', count: 10 },
+              { city: 'Austin', state: 'TX', count: 28 },
+              { city: 'San Antonio', state: 'TX', count: 13 },
+              { city: 'San Jose', state: 'CA', count: 13 },
               { city: 'Chicago', state: 'IL', count: 38 },
-              { city: 'Pittsburg', state: 'PA', count: 234 },
-              { city: 'Phoenix', state: 'AZ', count: 234 },
+              { city: 'Pittsburg', state: 'PA', count: 6 },
+              { city: 'Phoenix', state: 'AZ', count: 9 },
             ].map((location, index) => (
               <a
                 key={index}

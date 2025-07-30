@@ -92,7 +92,7 @@ export default function ResourcesPage() {
               </div>
 
               <a
-                href="/tools/nutrition-label-maker"
+                href="/resources/nutrition-label-maker"
                 className="w-full bg-gradient-to-r from-emerald-600 to-emerald-700 hover:from-emerald-700 hover:to-emerald-800 text-white font-semibold py-3 px-6 rounded-lg transition-all duration-200 flex items-center justify-center gap-2 group"
               >
                 Create Nutrition Label
@@ -150,7 +150,7 @@ export default function ResourcesPage() {
               </div>
 
               <a
-                href="/tools/expiration-checker"
+                href="#"
                 className="w-full bg-gradient-to-r from-emerald-600 to-emerald-700 hover:from-emerald-700 hover:to-emerald-800 text-white font-semibold py-3 px-6 rounded-lg transition-all duration-200 flex items-center justify-center gap-2 group"
               >
                 Check Expiration Dates
@@ -208,7 +208,7 @@ export default function ResourcesPage() {
               </div>
 
               <a
-                href="/tools/recipe-cost-tracker"
+                href="/resources/recipe-cost-tracker"
                 className="w-full bg-gradient-to-r from-emerald-600 to-emerald-700 hover:from-emerald-700 hover:to-emerald-800 text-white font-semibold py-3 px-6 rounded-lg transition-all duration-200 flex items-center justify-center gap-2 group"
               >
                 Track Recipe Costs
@@ -235,7 +235,7 @@ export default function ResourcesPage() {
               Find Shared Kitchens
             </a>
             <a
-              href="/blog/starting-food-business-guide"
+              href="#"
               className="border border-white text-white hover:bg-white hover:text-emerald-600 font-semibold py-3 px-8 rounded-lg transition-all"
             >
               Read Success Guide

@@ -22,6 +22,7 @@ import {
 import Image from 'next/image'
 import Link from 'next/link'
 import BusinessInsights from './BusinessInsights'
+import SearchBar from './SearchBar'
 
 // Helper functions
 function formatPhoneNumber(phone) {
@@ -1030,7 +1031,7 @@ export default function KitchenDetail({ kitchen, initialGoogleData = null }) {
                   {kitchenName}
                 </h1>
                 <p className="text-xl text-gray-600 mb-4">
-                  Professional Commercial Kitchen in {formattedCity}
+                  Commercial Kitchen for Rent in {formattedCity}
                   {stateName && `, ${stateName}`}
                 </p>
 

@@ -268,7 +268,7 @@
       "kgmid": "/g/11k9_r42nj"
     },
     {
-      "title": "Cook Collective Kitchen - Shared Kitchens for Rent",
+      "title": "Cook Collective Kitchen",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",
       "address": "999 Atlantic Ave, Brooklyn, NY 11238",
@@ -3137,113 +3137,6 @@
       "isAdvertisement": false,
       "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5SOwtW56EzhU0EMs-LowAVQJgh4g-g78SSddzZK02mtCl9IJJo9vKX00FWbq9Qu5MAmvgqDd3T5fyU4-Q00xQc_OQmGT9-LNWWtQwykqiKTLTDrfO2GQ-yecXxQ3i1fw3Zqk=w408-h306-k-no",
       "kgmid": "/g/1hc0_0wzd"
-    },
-    {
-      "title": "WORKVILLE - Flexible NYC Office & Meeting Spaces",
-      "price": null,
-      "categoryName": "Coworking space",
-      "address": "1412 Broadway 21st Floor, New York, NY 10018, United States",
-      "neighborhood": "Manhattan",
-      "street": "1412 Broadway 21st Floor",
-      "city": "New York",
-      "postalCode": "10018",
-      "state": "NY",
-      "countryCode": "US",
-      "website": "https://www.workvillenyc.com/",
-      "phone": "+1 646-257-5537",
-      "phoneUnformatted": "+16462575537",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 40.753615,
-        "lng": -73.9865612
-      },
-      "totalScore": 5,
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJuwEPBatZwokRo8ED9iGT9cQ",
-      "categories": [
-        "Coworking space",
-        "Conference center",
-        "Event venue",
-        "Executive suite rental agency",
-        "Meeting planning service",
-        "Office space rental agency"
-      ],
-      "fid": "0x89c259ab050f01bb:0xc4f59321f603c1a3",
-      "cid": "14192411574798631331",
-      "reviewsCount": 359,
-      "reviewsDistribution": {
-        "oneStar": 1,
-        "twoStar": 0,
-        "threeStar": 0,
-        "fourStar": 10,
-        "fiveStar": 348
-      },
-      "imagesCount": 153,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-15T04:35:37.968Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [
-        {
-          "day": "Monday",
-          "hours": "9 AM to 5 PM"
-        },
-        {
-          "day": "Tuesday",
-          "hours": "9 AM to 5 PM"
-        },
-        {
-          "day": "Wednesday",
-          "hours": "9 AM to 5 PM"
-        },
-        {
-          "day": "Thursday",
-          "hours": "9 AM to 5 PM"
-        },
-        {
-          "day": "Friday",
-          "hours": "9 AM to 5 PM"
-        },
-        {
-          "day": "Saturday",
-          "hours": "Closed"
-        },
-        {
-          "day": "Sunday",
-          "hours": "Closed"
-        }
-      ],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "Service options": [
-          {
-            "On-site services": true
-          }
-        ],
-        "Accessibility": [
-          {
-            "Wheelchair-accessible entrance": true
-          },
-          {
-            "Wheelchair-accessible seating": true
-          },
-          {
-            "Wheelchair-accessible toilet": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=WORKVILLE%20-%20Flexible%20NYC%20Office%20%26%20Meeting%20Spaces&query_place_id=ChIJuwEPBatZwokRo8ED9iGT9cQ",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.7532039,-73.9260856,13.602075158588038z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 30,
-      "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOxnKKBvdFwkt5PSS-T5igsrPQD79lKDHXtfTRq=w408-h272-k-no",
-      "kgmid": "/g/11cmsj2scj"
     },
     {
       "title": "Kommissary",

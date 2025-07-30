@@ -3,7 +3,7 @@
   "city": "Austin",
   "kitchens": [
     {
-      "name": "Capital Kitchens - Shared Commercial Kitchen",
+      "name": "Capital Kitchens",
       "price": null,
       "categoryName": "Self-catering accommodation",
       "address": "1606 W Stassney Ln #1",
@@ -166,7 +166,7 @@
       "kgmid": "/g/11mvvngcm7"
     },
     {
-      "title": "Commercial Kitchen Factories Austin - South Commissary",
+      "title": "Commercial Kitchen Factories",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",
       "address": "630 Ralph Ablanedo Dr Kitchen 6, Austin, TX 78748",
@@ -429,7 +429,7 @@
       "kgmid": "/g/11j0r3tcy6"
     },
     {
-      "title": "Manon's Shared Kitchen - Commercial Kitchen",
+      "title": "Manon's Shared Kitchen",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",
       "address": "8309 Research Blvd Ste B, Austin, TX 78758",
@@ -1320,7 +1320,7 @@
     },
     {
       "query": "shared-use commercial kitchen, 78701, Austin, TX, US",
-      "name": "Manon's Shared Kitchen - Commercial Kitchen",
+      "name": "Manon's Shared Kitchen",
       "name_for_emails": "Manons Shared Kitchen Commercial Kitchen",
       "site": "http://www.manonssharedkitchen.com/",
       "subtypes": "Shared-use commercial kitchen, Caterer, Food manufacturer, Food processing company, Mobile caterer",
@@ -1421,7 +1421,7 @@
     },
     {
       "query": "shared-use commercial kitchen, 78701, Austin, TX, US",
-      "name": "Capital Kitchens - Shared Commercial Kitchen",
+      "name": "Capital Kitchens",
       "name_for_emails": "Capital Kitchens Shared Commercial Kitchen",
       "site": "http://www.capital-kitchens.com/",
       "subtypes": "Self-catering accommodation, Food and beverage consultant, Food processing company, Food producer, Food products supplier",
@@ -1577,7 +1577,7 @@
     },
     {
       "query": "shared-use commercial kitchen, 78701, Austin, TX, US",
-      "name": "Capital Kitchens Chef Center & Commissary Kitchen Rental",
+      "name": "Capital Kitchens Chef Center",
       "name_for_emails": "Capital Kitchens Chef Center And Commissary Kitchen Rental",
       "site": "http://www.capital-kitchens.com/",
       "subtypes": "Shared-use commercial kitchen",
@@ -1645,7 +1645,7 @@
     },
     {
       "query": "shared-use commercial kitchen, 78702, Austin, TX, US",
-      "name": "Commercial Kitchen Factories Austin - North Commissary",
+      "name": "Commercial Kitchen Factories Austin North Commissary",
       "name_for_emails": "Commercial Kitchen Factories Austin North Commissary",
       "site": "https://www.kitchenfactories.com/",
       "subtypes": "Shared-use commercial kitchen, Catering food and drink supplier, Caterer, Food producer, Mobile caterer",
@@ -1741,7 +1741,7 @@
       "typical_time_spent": null,
       "verified": true,
       "owner_id": 1.175177842404938e20,
-      "owner_title": "Commercial Kitchen Factories Austin - North Commissary",
+      "owner_title": "Commercial Kitchen Factories Austin North Commissary",
       "owner_link": "https://www.google.com/maps/contrib/117517784240493810581",
       "reservation_links": null,
       "booking_appointment_link": null,
@@ -1758,7 +1758,7 @@
     },
     {
       "query": "shared-use commercial kitchen, 78702, Austin, TX, US",
-      "name": "Commercial Kitchen Factories Austin - South Commissary",
+      "name": "Commercial Kitchen Factories Austin South Commissary",
       "name_for_emails": "Commercial Kitchen Factories Austin South Commissary",
       "site": "https://www.kitchenfactories.com/",
       "subtypes": "Shared-use commercial kitchen, Catering food and drink supplier, Caterer, Food manufacturer, Food processing company, Food producer, Mobile caterer",
