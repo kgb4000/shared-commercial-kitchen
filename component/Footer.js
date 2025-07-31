@@ -45,10 +45,7 @@ export default function Footer() {
                   </a>
                 </li>
                 <li>
-                  <a
-                    href="/resources/expiration-checker"
-                    className="hover:text-white transition-colors"
-                  >
+                  <a href="#" className="hover:text-white transition-colors">
                     Expiration Date Checker
                   </a>
                 </li>
