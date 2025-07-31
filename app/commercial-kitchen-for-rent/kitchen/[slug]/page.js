@@ -302,7 +302,7 @@ export default async function CommercialKitchenDetailPage({ params }) {
             sameAs: kitchen.website || kitchen.site,
             image: kitchen.imageUrl,
             priceRange: '$$',
-            category: 'Commercial Kitchen Rental',
+            category: 'FoodEstablishment',
             aggregateRating: kitchen.rating
               ? {
                   '@type': 'AggregateRating',
