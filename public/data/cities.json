@@ -16,6 +16,8 @@
   { "city": "san-francisco", "state": "ca" },
   { "city": "san-jose", "state": "ca" },
   { "city": "chicago", "state": "il" },
+  { "city": "indianapolis", "state": "in" },
+  { "city": "san-diego", "state": "ca" },
   { "city": "minneapolis", "state": "mn" },
   { "city": "st-paul", "state": "mn" },
   { "city": "plymouth", "state": "mn" },

@@ -201,17 +201,19 @@ function SimpleKitchenMap({ kitchen, placeDetails }) {
             </div>
           ) : (
             /* Fallback Map Placeholder */
-            <div className="h-64 md:h-80 bg-gray-100 flex items-center justify-center">
+            {
+              /* <div className="h-64 md:h-80 bg-gray-100 flex items-center justify-center">
               <div className="text-center text-gray-500">
                 <span className="text-4xl mb-2 block">🗺️</span>
                 <p className="text-lg font-medium">Map Unavailable</p>
                 <p className="text-sm">Location details not available</p>
               </div>
-            </div>
+            </div> */
+            }
           )}
 
           {/* Map Overlay Controls */}
-          <div className="absolute top-4 right-4 space-y-2">
+          {/* <div className="absolute top-4 right-4 space-y-2">
             <a
               href={`https://www.google.com/maps/place/?q=place_id:${
                 kitchen.placeId || ''
@@ -249,7 +251,7 @@ function SimpleKitchenMap({ kitchen, placeDetails }) {
             >
               🧭 Get Directions
             </button>
-          </div>
+          </div> */}
         </div>
       </div>
 

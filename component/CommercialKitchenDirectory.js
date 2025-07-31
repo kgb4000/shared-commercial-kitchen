@@ -50,8 +50,8 @@ const CommercialKitchenDirectory = ({
             kitchen.imageUrl ||
             kitchen.photo ||
             '/images/commercial-kitchen-for-rent.jpg',
-          rating: kitchen.totalScore || 0,
-          reviews: kitchen.reviewsCount || 0,
+          rating: kitchen.totalScore || kitchen.rating || 0,
+          reviews: kitchen.reviewsCount || kitchen.reviews || 0,
           tags: kitchen.tags || [],
           price: kitchen.price || 'Contact for pricing',
           priceType: kitchen.price ? 'per hour' : '',
@@ -73,6 +73,7 @@ const CommercialKitchenDirectory = ({
           address: kitchen.street,
           neighborhood: kitchen.neighborhood,
           city: kitchen.city,
+          state: kitchen.state,
         }))
       : [
           // Fallback sample data
@@ -357,7 +358,9 @@ const CommercialKitchenDirectory = ({
 
                     <div className="flex gap-3">
                       <Link
-                        href={`/commercial-kitchen-for-rent/kitchen/${slugify(
+                        href={`/commercial-kitchen-for-rent/${slugify(
+                          city
+                        )}/${slugify(state)}/kitchen/${slugify(
                           kitchen.title || kitchen.name
                         )}`}
                         className="flex-1 px-4 py-3 bg-blue-600 text-white rounded-xl font-medium hover:bg-blue-700 transition-colors text-center"
