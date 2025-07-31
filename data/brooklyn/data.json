@@ -1,0 +1,716 @@
+{
+  "state": "NY",
+  "city": "Brooklyn",
+  "kitchens": [
+    {
+      "title": "Cook Collective Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "999 Atlantic Ave, Brooklyn, NY 11238",
+      "neighborhood": "Clinton Hill",
+      "street": "999 Atlantic Ave",
+      "city": "Brooklyn",
+      "postalCode": "11238",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://cookcollectivekitchen.com/",
+      "phone": "(718) 500-0285",
+      "phoneUnformatted": "+17185000285",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.6802328,
+        "lng": -73.9591725
+      },
+      "totalScore": 4,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ6ZFM_stbwokRgvMylwu3wfc",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c25bcbfe4c91e9:0xf7c1b70b9732f382",
+      "cid": "17852751658282578818",
+      "reviewsCount": 3,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.884Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Cook%20Collective%20Kitchen%20-%20Shared%20Kitchens%20for%20Rent&query_place_id=ChIJ6ZFM_stbwokRgvMylwu3wfc",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.59321488768417,-73.70638644734598,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 4,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Y93PRHnmteJrlPTP9pkAQQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=342.13275&pitch=0&thumbfov=100",
+      "kgmid": "/g/11hz__wv_0"
+    },
+    {
+      "title": "Bed-Stuy Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "217 Pulaski St, Brooklyn, NY 11206",
+      "neighborhood": "Bedford-Stuyvesant",
+      "street": "217 Pulaski St",
+      "city": "Brooklyn",
+      "postalCode": "11206",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://www.bedstuykitchen.com/formmap",
+      "phone": "(347) 915-0439",
+      "phoneUnformatted": "+13479150439",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 40.6932382,
+        "lng": -73.9426345
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJtUTYj_NbwokRUGyztRXI3YQ",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c25bf38fd844b5:0x84ddc815b5b36c50",
+      "cid": "9574028378427845712",
+      "reviewsCount": 1,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.884Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Bed-Stuy%20Kitchen&query_place_id=ChIJtUTYj_NbwokRUGyztRXI3YQ",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.59321488768417,-73.70638644734598,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 7,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U3X6vk3XjjojzAFY42XHdA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=94.9289&pitch=0&thumbfov=100",
+      "kgmid": "/g/11d_784vty"
+    },
+    {
+      "title": "Nimbus Downtown Brooklyn",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "383 Bridge St, Brooklyn, NY 11201",
+      "neighborhood": "Downtown Brooklyn",
+      "street": "383 Bridge St",
+      "city": "Brooklyn",
+      "postalCode": "11201",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://www.nimbuskitchen.com/",
+      "phone": "(646) 718-3475",
+      "phoneUnformatted": "+16467183475",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.6917479,
+        "lng": -73.985035
+      },
+      "totalScore": 4.7,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJe9HZ4WNbwokRDPKXARkVjfw",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c25b63e1d9d17b:0xfc8d15190197f20c",
+      "cid": "18198224866419143180",
+      "reviewsCount": 51,
+      "imagesCount": 46,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.885Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "6 AM to 10 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "6 AM to 10 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Delivery": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": false
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          }
+        ],
+        "Parking": [
+          {
+            "Paid street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Nimbus%20Downtown%20Brooklyn&query_place_id=ChIJe9HZ4WNbwokRDPKXARkVjfw",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.59321488768417,-73.70638644734598,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 12,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOWrsqBzgS6jJ3pdPzDRoYkclyjqofG8a-mVPfj=w408-h272-k-no",
+      "kgmid": "/g/11p5ndw3l7"
+    },
+    {
+      "title": "Foodio Space",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "49 Wyckoff Ave, Brooklyn, NY 11237",
+      "neighborhood": "Bushwick",
+      "street": "49 Wyckoff Ave",
+      "city": "Brooklyn",
+      "postalCode": "11237",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "https://www.foodio.space/",
+      "phone": "(347) 315-0035",
+      "phoneUnformatted": "+13473150035",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.706009,
+        "lng": -73.9215154
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJG23dmqNdwokRMe-_LaepPZs",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c25da39add6d1b:0x9b3da9a72dbfef31",
+      "cid": "11186283584950366001",
+      "reviewsCount": 0,
+      "imagesCount": 4,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.885Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Foodio%20Space&query_place_id=ChIJG23dmqNdwokRMe-_LaepPZs",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.59321488768417,-73.70638644734598,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 13,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOlHMXAOPa8jvps4H98iOtq-vyVHLmDzKBV-h83=w408-h306-k-no",
+      "kgmid": "/g/11vys0fyng"
+    },
+    {
+      "title": "Cypress Hills Community Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "276 Chestnut St, Brooklyn, NY 11208",
+      "neighborhood": "Cypress Hills",
+      "street": "276 Chestnut St",
+      "city": "Brooklyn",
+      "postalCode": "11208",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "https://www.cypresshills.org/communitykitchen",
+      "phone": "(929) 481-7566",
+      "phoneUnformatted": "+19294817566",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.6810858,
+        "lng": -73.8751109
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJfe1mbhVdwokRCMI7ey8n2R0",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c25d156e66ed7d:0x1dd9272f7b3bc208",
+      "cid": "2150793381930582536",
+      "reviewsCount": 0,
+      "imagesCount": 8,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:43.885Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 9 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 9 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 9 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 9 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM to 5 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Cypress%20Hills%20Community%20Kitchen&query_place_id=ChIJfe1mbhVdwokRCMI7ey8n2R0",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.59321488768417,-73.70638644734598,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 14,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPNNaPF09RkccxD9u6pC22mDCoWq-et0eeIghlc=w408-h314-k-no",
+      "kgmid": "/g/11vs38vnyx"
+    },
+    {
+      "title": "Coney Island Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "2334 Coney Island Ave, Brooklyn, NY 11223, United States",
+      "neighborhood": "Sheepshead Bay",
+      "street": "2334 Coney Island Ave",
+      "city": "Brooklyn",
+      "postalCode": "11223",
+      "state": "New York",
+      "countryCode": "US",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 40.600026,
+        "lng": -73.9616751
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJI35BQABFwokRRbtf250GVMI",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c2450040417e23:0xc254069ddb5fbb45",
+      "cid": "14002824416461830981",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:34:48.955Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Coney%20Island%20Kitchens&query_place_id=ChIJI35BQABFwokRRbtf250GVMI",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.48932577536834,-73.84296222367298,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 15,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mHbULRyfXg3hCi0H3AQsBg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=265.8118&pitch=0&thumbfov=100",
+      "kgmid": "/g/11md1cw2hb"
+    },
+    {
+      "title": "IMPERIO UNIDO TOWNECRAFT HOMEWARES DISTRIBUIDORES INDEPENDIENTES",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1765 Westchester Ave, Bronx, NY 10472",
+      "neighborhood": "East Bronx",
+      "street": "1765 Westchester Ave",
+      "city": "Bronx",
+      "postalCode": "10472",
+      "state": "New York",
+      "countryCode": "US",
+      "phone": "(203) 907-7772",
+      "phoneUnformatted": "+12039077772",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.8317093,
+        "lng": -73.8679716
+      },
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJfxViSMr1wokRCvhTRLcoHB8",
+      "categories": ["Shared-use commercial kitchen"],
+      "fid": "0x89c2f5ca4862157f:0x1f1c28b74453f80a",
+      "cid": "2241711482114144266",
+      "reviewsCount": 1,
+      "imagesCount": 73,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:35:31.243Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "7 AM to 10 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7 AM to 10 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7 AM to 10 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7 AM to 10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7 AM to 10 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7 AM to 10 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=IMPERIO%20UNIDO%20TOWNECRAFT%20HOMEWARES%20DISTRIBUIDORES%20INDEPENDIENTES&query_place_id=ChIJfxViSMr1wokRCvhTRLcoHB8",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.8364755,-73.9190552,13.600265612482508z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 20,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPdqFHuYBcybu8n9teMmdHrFQ__NvIeG11pBwg_=w408-h544-k-no",
+      "kgmid": "/g/11ksbcxpn1"
+    },
+    {
+      "title": "Shared Online Kitchens, Inc.",
+      "price": null,
+      "categoryName": "Real estate agency",
+      "address": "205 E 42nd St, New York, NY 10017, United States",
+      "neighborhood": "Manhattan",
+      "street": "205 E 42nd St",
+      "city": "New York",
+      "postalCode": "10017",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://sharedcloudkitchens.com/",
+      "claimThisBusiness": true,
+      "location": {
+        "lat": 40.7507849,
+        "lng": -73.9736235
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJK_wIBQNZwokRp8hplnKCUAk",
+      "categories": ["Real estate agency"],
+      "fid": "0x89c259030508fc2b:0x95082729669c8a7",
+      "cid": "671179773139601575",
+      "reviewsCount": 0,
+      "imagesCount": 1,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:35:37.968Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Shared%20Online%20Kitchens%2C%20Inc.&query_place_id=ChIJK_wIBQNZwokRp8hplnKCUAk",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.7532039,-73.9260856,13.602075158588038z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 27,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DFTdfOtrx-MebYOw1z9XXQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=27.94691&pitch=0&thumbfov=100",
+      "kgmid": "/g/11n1083ywv"
+    },
+    {
+      "title": "Flatbush Central Caribbean Marketplace x Mangrove FC",
+      "price": null,
+      "categoryName": "Restaurant",
+      "address": "2123 Caton Ave, Brooklyn, NY 11226",
+      "neighborhood": "Little Caribbean",
+      "street": "2123 Caton Ave",
+      "city": "Brooklyn",
+      "postalCode": "11226",
+      "state": "New York",
+      "countryCode": "US",
+      "website": "http://www.flatbushcentral.com/",
+      "phone": "(917) 765-9005",
+      "phoneUnformatted": "+19177659005",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.6529867,
+        "lng": -73.959495
+      },
+      "totalScore": 4.3,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJD2YDVBVbwokRpGj9JFIVm1k",
+      "categories": [
+        "Restaurant",
+        "Clothing store",
+        "Community center",
+        "Cultural landmark",
+        "Design institute",
+        "Food court",
+        "Learning center",
+        "Market",
+        "Shared-use commercial kitchen"
+      ],
+      "fid": "0x89c25b155403660f:0x599b155224fd68a4",
+      "cid": "6456777933317826724",
+      "reviewsCount": 95,
+      "reviewsDistribution": {
+        "oneStar": 5,
+        "twoStar": 3,
+        "threeStar": 9,
+        "fourStar": 23,
+        "fiveStar": 55
+      },
+      "imagesCount": 271,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-15T04:36:25.232Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11 AM to 9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "11 AM to 9 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "12 to 7 PM"
+        }
+      ],
+      "additionalOpeningHours": {
+        "Breakfast": [
+          {
+            "day": "Monday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Thursday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Friday",
+            "hours": "Closed"
+          },
+          {
+            "day": "Saturday",
+            "hours": "11 AM–3 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Closed"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as Black-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "In-store shopping": true
+          },
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Restroom": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Flatbush%20Central%20Caribbean%20Marketplace%20x%20Mangrove%20FC&query_place_id=ChIJD2YDVBVbwokRpGj9JFIVm1k",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.6449847,-73.9299486,13.60441889914174z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 23,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrDFHev43wx75l68kR_SD3fy3Qo088IU-3U0nTv63iyxVn2pPcMQyhH3gsBpRlVLmG0e-1YSLep2BqEWaf92vDMBq3ngtLlan_Dgq_XR5eda_CYL7QSfob31yDJQDqugY2B8Vt3-A=w426-h240-k-no",
+      "kgmid": "/g/1tj9cxy7"
+    }
+  ]
+}
