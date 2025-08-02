@@ -150,21 +150,6 @@ async function fetchKitchenData(slug) {
   }
 }
 
-// export async function generateMetadata({ params }) {
-//   const formattedCity = formatCityName(params.city)
-//   const formattedState = params.state.toUpperCase()
-
-//   const canonicalUrl = `https://sharedkitchenlocator.com/commercial-kitchen-for-rent/${params.city}/${params.state}`
-
-//   return {
-//     title: `Commercial kitchen for rent in ${formattedCity}, ${formattedState} | Rent a Kitchen Today!`,
-//     description: `Discover shared-use, commissary & ghost kitchens in ${formattedCity}. Browse verified commercial kitchen rentals with flexible hourly, daily & monthly rates.`,
-//     alternates: {
-//       canonical: canonicalUrl,
-//     },
-//   }
-// }
-
 // Generate metadata for SEO
 export async function generateMetadata({ params }) {
   // Await params in newer Next.js versions
@@ -218,7 +203,7 @@ export async function generateMetadata({ params }) {
       images: kitchen.imageUrl ? [kitchen.imageUrl] : [],
     },
     alternates: {
-      canonical: `https://sharedkitchenlocator.com/commercial-kitchen-for-rent/kitchen/${slug}`,
+      canonical: `https://sharedkitchenlocator.com/commercial-kitchen-for-rent/${params.city}/${params.state}/kitchen/${slug}`,
     },
   }
 }

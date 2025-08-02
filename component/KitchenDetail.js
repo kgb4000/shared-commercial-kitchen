@@ -935,7 +935,12 @@ function KitchenAmenities({ kitchen, placeDetails }) {
 }
 
 // Main KitchenDetail Component
-export default function KitchenDetail({ kitchen, initialGoogleData = null }) {
+export default function KitchenDetail({
+  kitchen,
+  city,
+  state,
+  initialGoogleData = null,
+}) {
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState(null)
   const [mounted, setMounted] = useState(false)
@@ -1725,6 +1730,11 @@ export default function KitchenDetail({ kitchen, initialGoogleData = null }) {
                   kitchen={kitchen}
                   placeDetails={initialGoogleData}
                 /> */}
+                {/* <p className="text-sm text-gray-500 mt-2">
+                  <Link href={`/commercial-kitchen-for-rent/${city}/${state}`}>
+                    Back to Kitchens in {cityName}
+                  </Link>
+                </p> */}
               </div>
 
               {/* Right Sidebar */}
