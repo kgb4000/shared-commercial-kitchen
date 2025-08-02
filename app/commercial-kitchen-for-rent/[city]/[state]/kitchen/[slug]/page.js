@@ -122,8 +122,8 @@ async function fetchKitchenData(slug) {
     console.log('🍳 Fetching kitchen data for slug:', slug)
 
     // Use absolute URL for server-side fetch
-    const baseUrl = process.env.VERCEL_URL
-      ? `https://${process.env.VERCEL_URL}`
+    const baseUrl = process.env.BASE_URL
+      ? `https://${process.env.BASE_URL}`
       : 'http://localhost:3000'
 
     const response = await fetch(`${baseUrl}/api/kitchens/${slug}`, {

@@ -40,6 +40,10 @@ const CommercialKitchenDirectory = ({
   const [showMap, setShowMap] = useState(false)
   const [viewType, setViewType] = useState('grid')
 
+  const baseUrl = process.env.BASE_URL
+    ? `https://${process.env.BASE_URL}`
+    : 'http://localhost:3000'
+
   // Use props data or fallback to sample data
   const displayKitchens =
     kitchens.length > 0
@@ -127,11 +131,9 @@ const CommercialKitchenDirectory = ({
                   </h3>
                   <div className="space-y-2">
                     {relatedCities.slice(0, 6).map((relatedCity, index) => (
-                      <a
+                      <Link
                         key={index}
-                        href={`/commercial-kitchen-for-rent/${slugify(
-                          city
-                        )}/${slugify(state)}/${relatedCity.url}`}
+                        href={`${baseUrl}/${relatedCity.url}`}
                         className="flex items-center justify-between p-3 bg-gray-50 rounded-xl hover:bg-blue-50 hover:border-blue-200 transition-all group border border-transparent"
                       >
                         <div className="flex items-center">
@@ -148,7 +150,7 @@ const CommercialKitchenDirectory = ({
                           </div>
                         </div>
                         <ExternalLink className="w-4 h-4 text-gray-400 group-hover:text-blue-600 transition-colors" />
-                      </a>
+                      </Link>
                     ))}
                     {relatedCities.length > 6 && (
                       <button className="w-full text-blue-600 hover:text-blue-700 text-sm font-medium mt-2">
@@ -359,7 +361,6 @@ const CommercialKitchenDirectory = ({
                     </div>
 
                     <div className="flex gap-3">
-                      {/* /${slugify(city)}/${slugify(state)} */}
                       <Link
                         href={`/commercial-kitchen-for-rent/${slugify(
                           city
