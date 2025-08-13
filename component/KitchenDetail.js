@@ -23,6 +23,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import BusinessInsights from './BusinessInsights'
 import SearchBar from './SearchBar'
+import BackButton from './BackButton'
 
 // Helper functions
 function formatPhoneNumber(phone) {
@@ -1724,6 +1725,8 @@ export default function KitchenDetail({
                   placeDetails={initialGoogleData}
                   kitchen={kitchen}
                 />
+
+                <BackButton />
 
                 {/* Nearby Places Section */}
                 {/* <NearbyPlaces

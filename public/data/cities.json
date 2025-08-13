@@ -15,9 +15,11 @@
   { "city": "long-beach", "state": "ca" },
   { "city": "san-francisco", "state": "ca" },
   { "city": "san-jose", "state": "ca" },
+  { "city": "oakland", "state": "ca" },
   { "city": "chicago", "state": "il" },
   { "city": "indianapolis", "state": "in" },
   { "city": "san-diego", "state": "ca" },
+  { "city": "anaheim", "state": "ca" },
   { "city": "minneapolis", "state": "mn" },
   { "city": "st-paul", "state": "mn" },
   { "city": "plymouth", "state": "mn" },
@@ -35,5 +37,6 @@
   { "city": "milwaukee", "state": "wi" },
   { "city": "seattle", "state": "wa" },
   { "city": "atlanta", "state": "ga" },
-  { "city": "miami", "state": "fl" }
+  { "city": "miami", "state": "fl" },
+  { "city": "tampa", "state": "fl" }
 ]
