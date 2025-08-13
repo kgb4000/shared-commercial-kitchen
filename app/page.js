@@ -25,21 +25,9 @@ import {
   MapIcon,
 } from 'lucide-react'
 import SearchBar from '@/component/SearchBar'
-import Header from '@/component/Header'
-import Hero from '@/component/Hero'
 
-const CommercialKitchenDirectory = ({
-  city,
-  state,
-  kitchens = [],
-  relatedCities = [],
-}) => {
+const Home = ({ city }) => {
   const [expandedFaq, setExpandedFaq] = useState(null)
-  const [expandedRegulation, setExpandedRegulation] = useState(null)
-  const [showFilters, setShowFilters] = useState(true)
-  const [showMap, setShowMap] = useState(false)
-  const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
-  const [viewType, setViewType] = useState('grid')
 
   const faqs = [
     {
@@ -572,4 +560,4 @@ const CommercialKitchenDirectory = ({
   )
 }
 
-export default CommercialKitchenDirectory
+export default Home
