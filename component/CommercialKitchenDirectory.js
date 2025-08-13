@@ -195,9 +195,9 @@ const CommercialKitchenDirectory = ({
             {/* Results Header */}
             <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-6">
               <div>
-                <h1 className="text-3xl font-bold text-gray-900 mb-2 max-w-sm">
+                <h2 className="text-3xl font-bold text-gray-900 mb-2 max-w-sm">
                   Commercial Kitchen for Rent in {city}
-                </h1>
+                </h2>
                 <p className="text-gray-600">
                   Showing {displayKitchens.length} verified kitchens
                 </p>
