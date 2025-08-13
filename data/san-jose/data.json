@@ -606,6 +606,120 @@
       "kgmid": "/g/11vds1yfpk"
     },
     {
+      "title": "Rooter Hero Plumbing & Air of San Jose",
+      "price": null,
+      "categoryName": "Plumber",
+      "address": "2827 Aiello Dr, San Jose, CA 95111, United States",
+      "neighborhood": "South San Jose",
+      "street": "2827 Aiello Dr",
+      "city": "San Jose",
+      "postalCode": "95111",
+      "state": "California",
+      "countryCode": "US",
+      "website": "https://rooterhero.com/san-jose",
+      "phone": "+1 408-816-1005",
+      "phoneUnformatted": "+14088161005",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.2932592,
+        "lng": -121.8467872
+      },
+      "totalScore": 4.8,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ5awrBzujj4ARWQLUgOweNNM",
+      "categories": [
+        "Plumber",
+        "Air conditioning repair service",
+        "HVAC contractor"
+      ],
+      "fid": "0x808fa33b072bace5:0xd3341eec80d40259",
+      "cid": "15218823041914241625",
+      "reviewsCount": 3046,
+      "reviewsDistribution": {
+        "oneStar": 98,
+        "twoStar": 22,
+        "threeStar": 21,
+        "fourStar": 96,
+        "fiveStar": 2809
+      },
+      "imagesCount": 276,
+      "imageCategories": [],
+      "scrapedAt": "2025-07-16T13:59:36.308Z",
+      "googleFoodUrl": null,
+      "hotelAds": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Online estimates": true
+          },
+          {
+            "On-site services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair-accessible entrance": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Repair services": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Rooter%20Hero%20Plumbing%20%26%20Air%20of%20San%20Jose&query_place_id=ChIJ5awrBzujj4ARWQLUgOweNNM",
+      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@37.24151580868085,-121.7476092680734,13z?hl=en",
+      "searchString": "shared-use commercial kitchen",
+      "language": "en",
+      "rank": 21,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNXIZD6y1UeO72dnxOAAak8O7kTTDVthQ-9Gl_N=w408-h320-k-no",
+      "kgmid": "/g/1ptyqzsg5"
+    },
+    {
       "title": "1505 Kitchen Space",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",

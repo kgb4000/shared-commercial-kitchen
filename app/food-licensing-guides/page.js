@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import guides from '@/food-licensing-guides/los-angeles'
+import guides from '@/food-licensing-guides'
 
 export const metadata = {
   title: 'Food Business Licensing Guide',
@@ -20,9 +20,9 @@ export default function GuidesPage() {
         </p>
 
         <ul className="grid gap-6 md:grid-cols-2">
-          {Object.entries(guides).map(([guide]) => (
-            <li key={guide}>
-              <Link href={`/guides/${guide}`}>
+          {Object.entries(guides).map(([stateKey, guide]) => (
+            <li key={stateKey}>
+              <Link href={`/food-licensing-guides/${stateKey}`}>
                 <div className="block p-6 bg-white rounded-lg shadow hover:shadow-lg transition">
                   <h2 className="text-xl font-semibold text-blue-700 mb-1">
                     {guide.title}
