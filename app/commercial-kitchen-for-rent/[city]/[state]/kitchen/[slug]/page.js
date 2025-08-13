@@ -285,7 +285,7 @@ export default async function CommercialKitchenDetailPage({ params }) {
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
             '@context': 'https://schema.org',
-            '@type': 'LocalBusiness',
+            '@type': 'FoodEstablishment',
             '@id': `/commercial-kitchen-for-rent/kitchen/${slug}`,
             name: kitchen.name,
             description:
@@ -302,7 +302,6 @@ export default async function CommercialKitchenDetailPage({ params }) {
             sameAs: kitchen.website || kitchen.site,
             image: kitchen.imageUrl,
             priceRange: '$$',
-            category: 'FoodEstablishment',
             aggregateRating: kitchen.rating
               ? {
                   '@type': 'AggregateRating',
