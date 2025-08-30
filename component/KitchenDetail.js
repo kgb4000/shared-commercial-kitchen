@@ -1743,10 +1743,26 @@ export default function KitchenDetail({
               {/* Right Sidebar */}
               <div className="space-y-6">
                 {/* Contact Form */}
-                <ContactForm
+                {/* <ContactForm
                   kitchen={kitchen}
                   placeDetails={initialGoogleData}
-                />
+                /> */}
+                <script
+                  async
+                  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2967132781692430"
+                  crossorigin="anonymous"
+                ></script>
+                <ins
+                  className="adsbygoogle block"
+                  // style="display:block"
+                  data-ad-client="ca-pub-2967132781692430"
+                  data-ad-slot="9128699685"
+                  data-ad-format="auto"
+                  data-full-width-responsive="true"
+                ></ins>
+                <script>
+                  (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
 
                 {/* Quick Actions */}
                 <div className="bg-white border border-gray-200 rounded-lg p-6">

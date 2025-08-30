@@ -402,6 +402,20 @@ const CommercialKitchenDirectory = ({
                 Showing {displayKitchens.length} results
               </p>
             </div>
+            <script
+              async
+              src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2967132781692430"
+              crossorigin="anonymous"
+            ></script>
+            <ins
+              className="adsbygoogle block"
+              // style="display:block"
+              data-ad-client="ca-pub-2967132781692430"
+              data-ad-slot="9128699685"
+              data-ad-format="auto"
+              data-full-width-responsive="true"
+            ></ins>
+            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
           </div>
         </div>
       </div>
