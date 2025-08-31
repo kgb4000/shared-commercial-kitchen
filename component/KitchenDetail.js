@@ -1727,17 +1727,6 @@ export default function KitchenDetail({
                 />
 
                 <BackButton />
-
-                {/* Nearby Places Section */}
-                {/* <NearbyPlaces
-                  kitchen={kitchen}
-                  placeDetails={initialGoogleData}
-                /> */}
-                {/* <p className="text-sm text-gray-500 mt-2">
-                  <Link href={`/commercial-kitchen-for-rent/${city}/${state}`}>
-                    Back to Kitchens in {cityName}
-                  </Link>
-                </p> */}
               </div>
 
               {/* Right Sidebar */}

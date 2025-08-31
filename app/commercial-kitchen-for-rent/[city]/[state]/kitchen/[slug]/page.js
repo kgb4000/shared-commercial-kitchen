@@ -1,4 +1,4 @@
-// app/commercial-kitchen-for-rent/kitchen/[slug]/page.js
+// app/commercial-kitchen-for-rent/[city]/[state]/kitchen/[slug]/page.js
 import { notFound } from 'next/navigation'
 import KitchenDetail from '@/component/KitchenDetail'
 import { normalizeKitchenData, getBestPlaceId } from '@/utils/dataUtils'
@@ -150,19 +150,18 @@ async function fetchKitchenData(slug) {
   }
 }
 
-// Generate metadata for SEO
+// Generate metadata for SEO - FIXED: await params properly
 export async function generateMetadata({ params }) {
-  // Await params in newer Next.js versions
-  const resolvedParams = await params
+  // FIXED: Await params first, then destructure
+  const { slug, city, state } = await params
 
-  if (!resolvedParams || !resolvedParams.slug) {
+  if (!slug) {
     return {
       title: 'Kitchen Not Found',
       description: 'The requested kitchen could not be found.',
     }
   }
 
-  const { slug } = resolvedParams
   const kitchen = await fetchKitchenData(slug)
 
   if (!kitchen || kitchen.error) {
@@ -173,52 +172,53 @@ export async function generateMetadata({ params }) {
   }
 
   const kitchenName = kitchen.title || kitchen.name || 'Commercial Kitchen'
-  const cityState =
-    kitchen.city && kitchen.state
-      ? `${kitchen.city}, ${kitchen.state}`
-      : kitchen.city || 'Unknown Location'
-  const formattedCity = capitalizeCityName(cityState)
+
+  // Use URL params for city/state, but fallback to kitchen data
+  const cityName = city ? city.replace(/-/g, ' ') : kitchen.city
+  const stateName = state ? state.toUpperCase() : kitchen.state
+  const formattedCity = capitalizeCityName(cityName)
+  const location = `${formattedCity}, ${stateName}`
 
   return {
-    title: `Commercial Kitchen for Rent in ${formattedCity} - ${kitchenName}`,
+    title: `${kitchenName} - Commercial Kitchen for Rent in ${location}`,
     description:
       kitchen.description ||
-      `Professional commercial kitchen space for rent in ${formattedCity}. View details, photos, reviews, and contact information for ${kitchenName}.`,
-    keywords: `commercial kitchen for rent, ${formattedCity}, ${kitchen.state}, food business, catering kitchen, rental kitchen`,
+      `Professional commercial kitchen space for rent at ${kitchenName} in ${location}. View details, photos, reviews, and contact information.`,
+    keywords: `commercial kitchen for rent, ${formattedCity}, ${stateName}, food business, catering kitchen, rental kitchen, ${kitchenName}`,
     openGraph: {
-      title: `$Commercial Kitchen for Rent in ${formattedCity} - ${kitchenName}`,
+      title: `${kitchenName} - Commercial Kitchen for Rent in ${location}`,
       description:
         kitchen.description ||
-        `Professional commercial kitchen for rent in ${cityState}`,
+        `Professional commercial kitchen for rent in ${location}`,
       images: kitchen.imageUrl ? [{ url: kitchen.imageUrl }] : [],
-      // type: 'business.business',
-      url: `https://sharedkitchenlocator.com/commercial-kitchen-for-rent/kitchen/${slug}`,
+      url: `https://sharedkitchenlocator.com/commercial-kitchen-for-rent/${city}/${state}/kitchen/${slug}`,
     },
     twitter: {
       card: 'summary_large_image',
-      title: `Commercial Kitchen for Rent in ${formattedCity} - ${kitchenName}`,
+      title: `${kitchenName} - Commercial Kitchen for Rent in ${location}`,
       description:
         kitchen.description ||
-        `Professional commercial kitchen for rent in ${cityState}`,
+        `Professional commercial kitchen for rent in ${location}`,
       images: kitchen.imageUrl ? [kitchen.imageUrl] : [],
     },
     alternates: {
-      canonical: `https://sharedkitchenlocator.com/commercial-kitchen-for-rent/${params.city}/${params.state}/kitchen/${slug}`,
+      canonical: `https://sharedkitchenlocator.com/commercial-kitchen-for-rent/${city}/${state}/kitchen/${slug}`,
     },
   }
 }
 
-// Main page component (Server Component)
+// Main page component (Server Component) - FIXED: await params properly
 export default async function CommercialKitchenDetailPage({ params }) {
-  // Await params in newer Next.js versions
-  const resolvedParams = await params
+  // FIXED: Await params first, then destructure
+  const { slug, city, state } = await params
 
-  console.log(
-    '🏠 CommercialKitchenDetailPage called with params:',
-    resolvedParams
-  )
+  console.log('🏠 CommercialKitchenDetailPage called with params:', {
+    slug,
+    city,
+    state,
+  })
 
-  if (!resolvedParams || !resolvedParams.slug) {
+  if (!slug) {
     console.error('❌ No slug provided in params')
     return (
       <div className="container max-w-4xl mx-auto px-6 py-12 text-center">
@@ -229,23 +229,28 @@ export default async function CommercialKitchenDetailPage({ params }) {
           No kitchen identifier was provided in the URL.
         </p>
         <p className="text-sm text-gray-500 mt-4">
-          Expected format: /commercial-kitchen-for-rent/kitchen/kitchen-slug
+          Expected format:
+          /commercial-kitchen-for-rent/city/state/kitchen/kitchen-slug
         </p>
         <div className="mt-6 p-4 bg-gray-100 rounded">
           <p className="text-sm">
-            <strong>Received params:</strong> {JSON.stringify(resolvedParams)}
+            <strong>Received params:</strong>{' '}
+            {JSON.stringify({ slug, city, state })}
           </p>
           <p className="text-sm">
             <strong>URL should be:</strong>{' '}
-            /commercial-kitchen-for-rent/kitchen/atlanta-shared-kitchen
+            /commercial-kitchen-for-rent/los-angeles/ca/kitchen/onkitchens
           </p>
         </div>
       </div>
     )
   }
 
-  const { slug } = resolvedParams
-  console.log('🏠 Rendering kitchen detail page for slug:', slug)
+  console.log('🏠 Rendering kitchen detail page for:', {
+    slug,
+    city,
+    state,
+  })
 
   // Fetch kitchen data
   const rawKitchen = await fetchKitchenData(slug)
@@ -260,6 +265,10 @@ export default async function CommercialKitchenDetailPage({ params }) {
   const kitchen = normalizeKitchenData(rawKitchen)
   const placeId = getBestPlaceId(kitchen)
 
+  // Add URL params to kitchen data for context
+  kitchen.urlCity = city
+  kitchen.urlState = state
+
   // Fetch Google Places data server-side
   let googlePlacesData = null
   if (placeId) {
@@ -272,10 +281,17 @@ export default async function CommercialKitchenDetailPage({ params }) {
     hasKitchen: !!kitchen,
     kitchenName: kitchen.name,
     foundInCity: kitchen.city,
+    urlCity: city,
+    urlState: state,
     hasGoogleData: !!googlePlacesData,
     hasReviews: !!googlePlacesData?.reviews?.length,
     reviewsCount: googlePlacesData?.reviews?.length || 0,
   })
+
+  // Format city and state for display
+  const cityName = city ? city.replace(/-/g, ' ') : kitchen.city
+  const stateName = state ? state.toUpperCase() : kitchen.state
+  const formattedCity = capitalizeCityName(cityName)
 
   return (
     <>
@@ -286,17 +302,17 @@ export default async function CommercialKitchenDetailPage({ params }) {
           __html: JSON.stringify({
             '@context': 'https://schema.org',
             '@type': 'FoodEstablishment',
-            '@id': `/commercial-kitchen-for-rent/kitchen/${slug}`,
+            '@id': `/commercial-kitchen-for-rent/${city}/${state}/kitchen/${slug}`,
             name: kitchen.name,
             description:
               kitchen.description ||
-              `Commercial kitchen for rent in ${kitchen.city}, ${kitchen.state}`,
-            url: `/commercial-kitchen-for-rent/kitchen/${slug}`,
+              `Commercial kitchen for rent in ${formattedCity}, ${stateName}`,
+            url: `/commercial-kitchen-for-rent/${city}/${state}/kitchen/${slug}`,
             address: {
               '@type': 'PostalAddress',
               streetAddress: kitchen.address,
-              addressLocality: kitchen.city,
-              addressRegion: kitchen.state,
+              addressLocality: formattedCity,
+              addressRegion: stateName,
             },
             telephone: kitchen.phone,
             sameAs: kitchen.website || kitchen.site,
@@ -323,7 +339,12 @@ export default async function CommercialKitchenDetailPage({ params }) {
       />
 
       {/* Pass SSR data to client component */}
-      <KitchenDetail kitchen={kitchen} initialGoogleData={googlePlacesData} />
+      <KitchenDetail
+        kitchen={kitchen}
+        initialGoogleData={googlePlacesData}
+        cityFromUrl={formattedCity}
+        stateFromUrl={stateName}
+      />
     </>
   )
 }

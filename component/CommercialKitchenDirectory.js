@@ -133,7 +133,7 @@ const CommercialKitchenDirectory = ({
                     {relatedCities.slice(0, 6).map((relatedCity, index) => (
                       <Link
                         key={index}
-                        href={`${baseUrl}/${relatedCity.url}`}
+                        href={relatedCity.url}
                         className="flex items-center justify-between p-3 bg-gray-50 rounded-xl hover:bg-blue-50 hover:border-blue-200 transition-all group border border-transparent"
                       >
                         <div className="flex items-center">
