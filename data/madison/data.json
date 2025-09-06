@@ -25,7 +25,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJrwG7EYtUBogR5KXlrRY9MSs",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x8806548b11bb01af:0x2b313d16ade5a5e4",
       "cid": "3112335985105806820",
       "reviewsCount": 26,
@@ -118,7 +120,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJ0aSSdGNVBogRcwwWJElCbr0",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880655637492a4d1:0xbd6e424924160c73",
       "cid": "13649920402512022643",
       "reviewsCount": 0,
@@ -164,7 +168,10 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJr40dDApUBogRsjp1y-LkW9E",
-      "categories": ["Restaurant supply store", "Appliance store"],
+      "categories": [
+        "Restaurant supply store",
+        "Appliance store"
+      ],
       "fid": "0x8806540a0c1d8daf:0xd15be4e2cb753ab2",
       "cid": "15085903039534807730",
       "reviewsCount": 51,
@@ -314,7 +321,7 @@
       "description": "FEED Kitchens is a shared use, commercial kitchen, food business incubator. Besides kitchen space, we support entrepreneurs in all facets of their business development. Operating at FEED requires a membership to the facility. Contact us for more information.",
       "typical_time_spent": "People typically spend up to 2.5 hours here",
       "verified": true,
-      "owner_id": 1.1200927784905017e20,
+      "owner_id": 112009277849050170000,
       "owner_title": "FEED Kitchens",
       "owner_link": "https://www.google.com/maps/contrib/112009277849050163307",
       "reservation_links": null,
@@ -325,10 +332,59 @@
       "location_reviews_link": "https://www.google.com/maps/place/FEED+Kitchens/@43.113166199999995,-89.3629625,13.99z/data=!4m16!1m7!3m6!1s0x8806548b11bb01af:0x2b313d16ade5a5e4!2sFEED+Kitchens!8m2!3d43.113166199999995!4d-89.3629625!16s%2Fg%2F11ckvg1dmb!3m7!1s0x8806548b11bb01af:0x2b313d16ade5a5e4!8m2!3d43.113166199999995!4d-89.3629625!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJrwG7EYtUBogR5KXlrRY9MSs",
       "google_id": "0x8806548b11bb01af:0x2b313d16ade5a5e4",
-      "cid": 3.112335985105807e18,
+      "cid": 3112335985105807000,
       "kgmid": "/g/11b7l2p1xp",
-      "reviews_id": 3.112335985105807e18,
+      "reviews_id": 3112335985105807000,
       "located_google_id": null
     }
-  ]
+  ],
+  "insights": {
+    "residents": {
+      "count": "269.8K",
+      "description": "Madison's diverse population creates exceptional opportunities for food entrepreneurs serving multicultural communities and busy families.\nThis demographic diversity reflects modern America's changing food preferences, with residents increasingly seeking authentic cuisines and convenient meal solutions.\nResearch shows that 60% of Madison consumers order takeout or delivery at least once a week, driven by busy lifestyles and dual-income households.\nThe city's residential patterns create distinct neighborhoods where food delivery thrives, especially during evening hours when families need convenient dinner solutions.\nYoung professionals and established families both value high-quality, convenient meal options that save time while providing variety and authentic flavors.\nHome ownership rates indicate stable communities with established dining habits and disposable income for food services.\nThe growing preference for delivery over dining out, particularly among suburban families, creates consistent demand for ghost kitchen and meal delivery concepts.",
+      "driveTime": "15 min",
+      "homeowners": "45%",
+      "medianHomeValue": "$185K",
+      "diversity": "50+",
+      "hispanicPopulation": "25%"
+    },
+    "workforce": {
+      "count": "175K",
+      "description": "Madison's dynamic workforce drives significant demand for convenient, high-quality meal options during busy workdays and corporate meetings.\nThe concentration of professional services, healthcare, and business operations creates a large population of time-conscious workers who value meal delivery services.\nAverage commute times and office-based work schedules create predictable lunch and dinner rush periods that food businesses can optimize around.\nThe rise of remote and hybrid work arrangements has expanded delivery opportunities to residential areas during traditional business hours.\nCorporate culture increasingly includes food benefits and catered meetings, providing opportunities for bulk catering and corporate accounts.\nBusiness lunch meetings remain important for relationship building, creating demand for professional-quality group meal orders and presentation-ready packaging.\nHigher-income professionals represent a premium market segment willing to pay for convenience, quality ingredients, and unique culinary experiences.",
+      "driveTime": "15 min",
+      "workFromHome": "12%",
+      "averageCommute": "25 min",
+      "highIncome": "22%",
+      "businessLunch": "65%"
+    },
+    "students": {
+      "count": "130K",
+      "description": "Madison's educated population and student community drive innovation in food trends and represent early adopters of new delivery platforms and concepts.\nCollege students and recent graduates combine adventurous food preferences with strong digital engagement habits and regular delivery app usage.\nLocal colleges and universities creates a constant influx of young adults who view food delivery as an essential part of their lifestyle rather than a luxury service.\nStudents and young professionals often work irregular hours, creating demand for late-night delivery options and weekend meal services.\nThis educated demographic actively seeks out diverse cuisines, sustainable food options, and restaurants that align with their values and social media presence.\nGraduate students, medical residents, and young professionals have limited cooking time but sufficient income to prioritize convenient, nutritious meal options.\nThe concentration of educated consumers makes Madison an ideal testing ground for innovative food concepts before expanding to other markets.",
+      "driveTime": "15 min",
+      "bachelors": "78K",
+      "advanced": "52K",
+      "foodDelivery": "35%",
+      "avgSpend": "$25"
+    },
+    "income": {
+      "median": "$65.3K",
+      "description": "Madison's income diversity creates opportunities for food businesses to serve multiple market segments through strategic pricing and menu offerings.\nThe substantial middle-income population balances budget consciousness with willingness to pay for convenience during busy periods and special occasions.\nHigher-income households demonstrate different ordering behaviors, ordering delivery more frequently and spending more per order than average consumers.\nIncome distribution patterns reveal distinct market segments that can be served with different brands, pricing strategies, or menu offerings from the same commercial kitchen.\nProfessional services and established industries create seasonal income fluctuations that smart food entrepreneurs can capitalize on with targeted offerings.\nThe city's cost of living relative to income means residents have discretionary spending power for dining and delivery services.\nEconomic stability and employment growth in key industries support sustained demand for food services and premium dining experiences.",
+      "under50k": "38%",
+      "over100k": "28%",
+      "deliveryFrequency": "2.1x",
+      "avgOrderValue": "$38"
+    },
+    "foodScene": {
+      "title": "Madison's Growing Food Scene",
+      "description": "Madison boasts a vibrant and evolving culinary landscape that reflects both local traditions and innovative dining trends.\nThe city's food scene combines established favorites with emerging concepts, creating opportunities for entrepreneurs to both honor local preferences and introduce new ideas.\nFrom food trucks to fine dining establishments, Madison offers diverse dining experiences that demonstrate consumer openness to culinary innovation.\nLocal food festivals, farmers markets, and culinary events showcase the community's appreciation for quality ingredients and creative preparation.\nThe city's food critics and social media influencers actively champion new restaurants and concepts, providing valuable marketing opportunities for new businesses.\nEstablished food culture creates a knowledgeable customer base that appreciates quality while remaining open to new flavors and concepts.\nThe growing food scene attracts food tourists and creates buzz that benefits all local food businesses through increased visibility and foot traffic."
+    },
+    "businessOpportunity": {
+      "title": "Why Start a Food Business in Madison",
+      "description": "Madison presents excellent opportunities for food entrepreneurs due to its diverse population, stable economy, and strong demand for convenient dining options.\nWisconsin's business-friendly environment includes favorable tax policies, streamlined permitting processes, and supportive small business resources.\nThe $2.2B Wisconsin food service market continues expanding at 13% annually, driven by population growth and changing consumer preferences.\nCommercial kitchen rental costs in Madison remain competitive compared to major metropolitan areas, allowing entrepreneurs to test concepts with manageable overhead.\nThe city's established delivery infrastructure and tech-savvy population create ideal conditions for ghost kitchen and food delivery concepts.\nAccess to diverse suppliers, skilled culinary professionals, and multicultural ingredients supports authentic cuisine development and menu innovation.\nSuccessful food concepts in Madison can easily expand regionally or serve as testing grounds for national restaurant chains and food brands.",
+      "foodServiceMarket": "$2.2B",
+      "deliveryGrowth": "13%",
+      "ghostKitchenROI": "32%",
+      "startupCost": "$45K"
+    }
+  }
 }

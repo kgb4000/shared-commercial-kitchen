@@ -69,7 +69,7 @@
       "description": "The Haughville Shared Kitchen is a 1,500 sqft facility that provides a pathway for food entrepreneurs - ranging from chefs, caterers, food truck operators, and bakers, to value-added producers and packaged food and beverage makers - to launch and grow their businesses.",
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.181558350275295e20,
+      "owner_id": 118155835027529500000,
       "owner_title": "Haughville Shared Kitchen",
       "owner_link": "https://www.google.com/maps/contrib/118155835027529494717",
       "reservation_links": null,
@@ -186,7 +186,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.029874279877502e20,
+      "owner_id": 102987427987750200000,
       "owner_title": "Indy's Kitchen",
       "owner_link": "https://www.google.com/maps/contrib/102987427987750214901",
       "reservation_links": null,
@@ -197,9 +197,9 @@
       "location_reviews_link": "https://www.google.com/maps/place/Indy%27s+Kitchen/@39.8026631,-86.14990739999999,13.99z/data=!4m16!1m7!3m6!1s0x886b511a284bd35d:0x9e88f71b3c37f5fd!2sIndy%27s+Kitchen!8m2!3d39.8026631!4d-86.14990739999999!16s%2Fg%2F11ckvg1dmb!3m7!1s0x886b511a284bd35d:0x9e88f71b3c37f5fd!8m2!3d39.8026631!4d-86.14990739999999!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJXdNLKBpRa4gR_fU3PBv3iJ4",
       "google_id": "0x886b511a284bd35d:0x9e88f71b3c37f5fd",
-      "cid": 1.1423652151171742e19,
+      "cid": 11423652151171742000,
       "kgmid": "/g/1thqblqg",
-      "reviews_id": -7.023091922537811e18,
+      "reviews_id": -7023091922537811000,
       "located_google_id": null
     },
     {
@@ -266,7 +266,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.0079557439771574e20,
+      "owner_id": 100795574397715740000,
       "owner_title": "Kitchen Corner",
       "owner_link": "https://www.google.com/maps/contrib/100795574397715737814",
       "reservation_links": null,
@@ -277,7 +277,7 @@
       "location_reviews_link": "https://www.google.com/maps/place/Kitchen+Corner/@39.721500899999995,-86.08636779999999,13.99z/data=!4m16!1m7!3m6!1s0x886b4593ff6317b1:0xf2e22515d8b56fea!2sKitchen+Corner!8m2!3d39.721500899999995!4d-86.08636779999999!16s%2Fg%2F11ckvg1dmb!3m7!1s0x886b4593ff6317b1:0xf2e22515d8b56fea!8m2!3d39.721500899999995!4d-86.08636779999999!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJsRdj_5NFa4gR6m-12BUl4vI",
       "google_id": "0x886b4593ff6317b1:0xf2e22515d8b56fea",
-      "cid": 1.750159187767548e19,
+      "cid": 17501591877675480000,
       "kgmid": "/g/11jg4m48l4",
       "reviews_id": -945152196034072600,
       "located_google_id": null
@@ -373,7 +373,7 @@
       "location_reviews_link": "https://www.google.com/maps/place/Company+Kitchen/@39.738219099999995,-86.1602628,13.99z/data=!4m16!1m7!3m6!1s0x886b5a13f9e459b5:0xf5f2f7b959a29ca2!2sCompany+Kitchen!8m2!3d39.738219099999995!4d-86.1602628!16s%2Fg%2F11ckvg1dmb!3m7!1s0x886b5a13f9e459b5:0xf5f2f7b959a29ca2!8m2!3d39.738219099999995!4d-86.1602628!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJtVnk-RNaa4gRopyiWbn38vU",
       "google_id": "0x886b5a13f9e459b5:0xf5f2f7b959a29ca2",
-      "cid": 1.7722499859101164e19,
+      "cid": 17722499859101164000,
       "kgmid": "/g/11k5lrvfkn",
       "reviews_id": -724244214608389000,
       "located_google_id": null
@@ -441,7 +441,7 @@
       "location_reviews_link": "https://www.google.com/maps/place/Indy+Hoods+LLC/@39.7174414,-86.14799099999999,13.99z/data=!4m16!1m7!3m6!1s0x886b5a4e9b0e947f:0xf4fb90ce5f2a518b!2sIndy+Hoods+LLC!8m2!3d39.7174414!4d-86.14799099999999!16s%2Fg%2F11ckvg1dmb!3m7!1s0x886b5a4e9b0e947f:0xf4fb90ce5f2a518b!8m2!3d39.7174414!4d-86.14799099999999!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJf5QOm05aa4gRi1EqX86Q-_Q",
       "google_id": "0x886b5a4e9b0e947f:0xf4fb90ce5f2a518b",
-      "cid": 1.7652862380443062e19,
+      "cid": 17652862380443062000,
       "kgmid": "/g/1th57r1k",
       "reviews_id": -793881693266489000,
       "located_google_id": null
@@ -513,7 +513,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.0706477831625563e20,
+      "owner_id": 107064778316255630000,
       "owner_title": "Lilac & Thistle Commissary Kitchen",
       "owner_link": "https://www.google.com/maps/contrib/107064778316255621568",
       "reservation_links": null,
@@ -524,7 +524,7 @@
       "location_reviews_link": "https://www.google.com/maps/place/Lilac+%26+Thistle+Commissary+Kitchen/@39.750838099999996,-86.0377575,13.99z/data=!4m16!1m7!3m6!1s0x886b4ff07198744d:0xfd2c4bc3389d0c9d!2sLilac+%26+Thistle+Commissary+Kitchen!8m2!3d39.750838099999996!4d-86.0377575!16s%2Fg%2F11ckvg1dmb!3m7!1s0x886b4ff07198744d:0xfd2c4bc3389d0c9d!8m2!3d39.750838099999996!4d-86.0377575!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJTXSYcfBPa4gRnQydOMNLLP0",
       "google_id": "0x886b4ff07198744d:0xfd2c4bc3389d0c9d",
-      "cid": 1.824303949241156e19,
+      "cid": 18243039492411560000,
       "kgmid": "/g/11lm_h6_d2",
       "reviews_id": -203704581297992540,
       "located_google_id": null
@@ -624,7 +624,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.0893139576335902e20,
+      "owner_id": 108931395763359020000,
       "owner_title": "The Cooking Station Indy",
       "owner_link": "https://www.google.com/maps/contrib/108931395763359029315",
       "reservation_links": null,
@@ -640,5 +640,54 @@
       "reviews_id": 536857099727602750,
       "located_google_id": null
     }
-  ]
+  ],
+  "insights": {
+    "residents": {
+      "count": "876.4K",
+      "description": "Indianapolis's diverse population creates exceptional opportunities for food entrepreneurs serving multicultural communities and busy families.\nThis demographic diversity reflects modern America's changing food preferences, with residents increasingly seeking authentic cuisines and convenient meal solutions.\nResearch shows that 60% of Indianapolis consumers order takeout or delivery at least once a week, driven by busy lifestyles and dual-income households.\nThe city's residential patterns create distinct neighborhoods where food delivery thrives, especially during evening hours when families need convenient dinner solutions.\nYoung professionals and established families both value high-quality, convenient meal options that save time while providing variety and authentic flavors.\nHome ownership rates indicate stable communities with established dining habits and disposable income for food services.\nThe growing preference for delivery over dining out, particularly among suburban families, creates consistent demand for ghost kitchen and meal delivery concepts.",
+      "driveTime": "15 min",
+      "homeowners": "45%",
+      "medianHomeValue": "$185K",
+      "diversity": "50+",
+      "hispanicPopulation": "25%"
+    },
+    "workforce": {
+      "count": "540K",
+      "description": "Indianapolis's dynamic workforce drives significant demand for convenient, high-quality meal options during busy workdays and corporate meetings.\nThe concentration of professional services, healthcare, and business operations creates a large population of time-conscious workers who value meal delivery services.\nAverage commute times and office-based work schedules create predictable lunch and dinner rush periods that food businesses can optimize around.\nThe rise of remote and hybrid work arrangements has expanded delivery opportunities to residential areas during traditional business hours.\nCorporate culture increasingly includes food benefits and catered meetings, providing opportunities for bulk catering and corporate accounts.\nBusiness lunch meetings remain important for relationship building, creating demand for professional-quality group meal orders and presentation-ready packaging.\nHigher-income professionals represent a premium market segment willing to pay for convenience, quality ingredients, and unique culinary experiences.",
+      "driveTime": "15 min",
+      "workFromHome": "12%",
+      "averageCommute": "25 min",
+      "highIncome": "22%",
+      "businessLunch": "65%"
+    },
+    "students": {
+      "count": "220K",
+      "description": "Indianapolis's educated population and student community drive innovation in food trends and represent early adopters of new delivery platforms and concepts.\nCollege students and recent graduates combine adventurous food preferences with strong digital engagement habits and regular delivery app usage.\nIUPUI + Butler creates a constant influx of young adults who view food delivery as an essential part of their lifestyle rather than a luxury service.\nStudents and young professionals often work irregular hours, creating demand for late-night delivery options and weekend meal services.\nThis educated demographic actively seeks out diverse cuisines, sustainable food options, and restaurants that align with their values and social media presence.\nGraduate students, medical residents, and young professionals have limited cooking time but sufficient income to prioritize convenient, nutritious meal options.\nThe concentration of educated consumers makes Indianapolis an ideal testing ground for innovative food concepts before expanding to other markets.",
+      "driveTime": "15 min",
+      "bachelors": "132K",
+      "advanced": "88K",
+      "foodDelivery": "35%",
+      "avgSpend": "$25"
+    },
+    "income": {
+      "median": "$47.2K",
+      "description": "Indianapolis's income diversity creates opportunities for food businesses to serve multiple market segments through strategic pricing and menu offerings.\nThe substantial middle-income population balances budget consciousness with willingness to pay for convenience during busy periods and special occasions.\nHigher-income households demonstrate different ordering behaviors, ordering delivery more frequently and spending more per order than average consumers.\nIncome distribution patterns reveal distinct market segments that can be served with different brands, pricing strategies, or menu offerings from the same commercial kitchen.\nProfessional services and established industries create seasonal income fluctuations that smart food entrepreneurs can capitalize on with targeted offerings.\nThe city's cost of living relative to income means residents have discretionary spending power for dining and delivery services.\nEconomic stability and employment growth in key industries support sustained demand for food services and premium dining experiences.",
+      "under50k": "38%",
+      "over100k": "28%",
+      "deliveryFrequency": "2.1x",
+      "avgOrderValue": "$38"
+    },
+    "foodScene": {
+      "title": "Indianapolis's Growing Food Scene",
+      "description": "Indianapolis boasts a vibrant and evolving culinary landscape that reflects both local traditions and innovative dining trends.\nThe city's food scene combines established favorites with emerging concepts, creating opportunities for entrepreneurs to both honor local preferences and introduce new ideas.\nFrom food trucks to fine dining establishments, Indianapolis offers diverse dining experiences that demonstrate consumer openness to culinary innovation.\nLocal food festivals, farmers markets, and culinary events showcase the community's appreciation for quality ingredients and creative preparation.\nThe city's food critics and social media influencers actively champion new restaurants and concepts, providing valuable marketing opportunities for new businesses.\nEstablished food culture creates a knowledgeable customer base that appreciates quality while remaining open to new flavors and concepts.\nThe growing food scene attracts food tourists and creates buzz that benefits all local food businesses through increased visibility and foot traffic."
+    },
+    "businessOpportunity": {
+      "title": "Why Start a Food Business in Indianapolis",
+      "description": "Indianapolis presents excellent opportunities for food entrepreneurs due to its diverse population, stable economy, and strong demand for convenient dining options.\nIndiana's business-friendly environment includes favorable tax policies, streamlined permitting processes, and supportive small business resources.\nThe $2.4B Indiana food service market continues expanding at 15% annually, driven by population growth and changing consumer preferences.\nCommercial kitchen rental costs in Indianapolis remain competitive compared to major metropolitan areas, allowing entrepreneurs to test concepts with manageable overhead.\nThe city's established delivery infrastructure and tech-savvy population create ideal conditions for ghost kitchen and food delivery concepts.\nAccess to diverse suppliers, skilled culinary professionals, and multicultural ingredients supports authentic cuisine development and menu innovation.\nSuccessful food concepts in Indianapolis can easily expand regionally or serve as testing grounds for national restaurant chains and food brands.",
+      "foodServiceMarket": "$2.4B",
+      "deliveryGrowth": "15%",
+      "ghostKitchenROI": "32%",
+      "startupCost": "$45K"
+    }
+  }
 }

@@ -1,6 +1,7 @@
 import path from 'path'
 import fs from 'fs/promises'
 import CommercialKitchenDirectory from '@/component/CommercialKitchenDirectory'
+import CityInsights from '@/component/CityInsights'
 
 function formatCityName(slug) {
   return slug
@@ -10,11 +11,54 @@ function formatCityName(slug) {
     .join(' ')
 }
 
-export async function generateMetadata({ params }) {
-  const formattedCity = formatCityName(params.city)
-  const formattedState = params.state.toUpperCase()
+// Prevent dynamic routes not in generateStaticParams from being generated
+export const dynamicParams = false
 
-  const canonicalUrl = `https://sharedkitchenlocator.com/commercial-kitchen-for-rent/${params.city}/${params.state}`
+// Generate static params for valid city/state combinations
+export async function generateStaticParams() {
+  const staticParams = []
+  
+  try {
+    const fsModule = await import('fs/promises')
+    const pathModule = await import('path')
+    
+    const dataDir = pathModule.join(process.cwd(), 'data')
+    const folders = await fsModule.readdir(dataDir)
+    
+    for (const folder of folders) {
+      try {
+        const cityDataPath = pathModule.join(dataDir, folder, 'data.json')
+        const cityFile = await fsModule.readFile(cityDataPath, 'utf-8')
+        const cityData = JSON.parse(cityFile)
+        
+        // Extract city and state info
+        const city = folder // Use folder name as city slug
+        const state = (cityData.state || 'ca').toLowerCase()
+        
+        staticParams.push({
+          city,
+          state
+        })
+      } catch (error) {
+        console.warn(`⚠️ Error processing ${folder} for generateStaticParams:`, error.message)
+      }
+    }
+    
+    console.log(`✅ Generated ${staticParams.length} static params for city/state pages`)
+    return staticParams
+    
+  } catch (error) {
+    console.error('❌ Error in city/state generateStaticParams:', error)
+    return []
+  }
+}
+
+export async function generateMetadata({ params }) {
+  const { city, state } = await params
+  const formattedCity = formatCityName(city)
+  const formattedState = state.toUpperCase()
+
+  const canonicalUrl = `https://sharedkitchenlocator.com/commercial-kitchen-for-rent/${city}/${state}`
 
   return {
     title: `Commercial kitchens for rent in ${formattedCity}, ${formattedState} | Rent a Kitchen Today!`,
@@ -26,18 +70,18 @@ export async function generateMetadata({ params }) {
 }
 
 export default async function CityKitchenPage({ params }) {
-  const { city, state } = params
+  const { city, state } = await params
   const formattedCity = formatCityName(city)
   const formattedState = state.toUpperCase()
 
-  let kitchenData = []
+  let cityData = {}
   let relatedCities = []
 
   try {
     // Load kitchen data
     const cityDataPath = path.join(process.cwd(), 'data', city, 'data.json')
     const cityFile = await fs.readFile(cityDataPath, 'utf-8')
-    kitchenData = JSON.parse(cityFile)
+    cityData = JSON.parse(cityFile)
 
     // Read all city directories
     const dataDir = path.join(process.cwd(), 'data')
@@ -70,11 +114,18 @@ export default async function CityKitchenPage({ params }) {
   }
 
   return (
-    <CommercialKitchenDirectory
-      city={formattedCity}
-      state={formattedState}
-      kitchens={kitchenData?.kitchens || []}
-      relatedCities={relatedCities}
-    />
+    <div>
+      <CommercialKitchenDirectory
+        city={formattedCity}
+        state={formattedState}
+        kitchens={cityData?.kitchens || []}
+        relatedCities={relatedCities}
+      />
+      <CityInsights
+        cityData={cityData}
+        cityName={formattedCity}
+        stateName={formattedState}
+      />
+    </div>
   )
 }

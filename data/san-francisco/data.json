@@ -209,7 +209,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJEROkem2BhYARX3CICM-PPy0",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x8085816d7aa41311:0x2d3f8fcf0888705f",
       "cid": "3260482774603690079",
       "reviewsCount": 6,
@@ -534,7 +536,10 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJh-YVm52AhYARFwqhrrGumN0",
-      "categories": ["Restaurant", "Shared-use commercial kitchen"],
+      "categories": [
+        "Restaurant",
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x8085809d9b15e687:0xdd98aeb1aea10a17",
       "cid": "15967704557004327447",
       "reviewsCount": 13,
@@ -666,7 +671,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJg8P1PlJ_j4ARqfkm8dCjTKY",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x808f7f523ef5c383:0xa64ca3d0f126f9a9",
       "cid": "11983132826320435625",
       "reviewsCount": 0,
@@ -747,7 +754,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJNf3weW9_j4ARpI4vFb5UQKY",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x808f7f6f79f0fd35:0xa64054be152f8ea4",
       "cid": "11979668184181477028",
       "reviewsCount": 0,
@@ -988,7 +997,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJV1WFYUK7j4ARxzfj2xvMQ-4",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x808fbb4261855557:0xee43cc1bdbe337c7",
       "cid": "17168790624491747271",
       "reviewsCount": 4,
@@ -1063,5 +1074,54 @@
       "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP77gLVPb-j3fvNhiRIQU1K9xjkMLhL_FkT2nAH=w408-h272-k-no",
       "kgmid": "/g/11gy87shms"
     }
-  ]
+  ],
+  "insights": {
+    "residents": {
+      "count": "815.2K",
+      "description": "San Francisco's diverse population creates exceptional opportunities for food entrepreneurs serving multicultural communities and busy families.\nThis demographic diversity reflects modern America's changing food preferences, with residents increasingly seeking authentic cuisines and convenient meal solutions.\nResearch shows that 60% of San Francisco consumers order takeout or delivery at least once a week, driven by busy lifestyles and dual-income households.\nThe city's residential patterns create distinct neighborhoods where food delivery thrives, especially during evening hours when families need convenient dinner solutions.\nYoung professionals and established families both value high-quality, convenient meal options that save time while providing variety and authentic flavors.\nHome ownership rates indicate stable communities with established dining habits and disposable income for food services.\nThe growing preference for delivery over dining out, particularly among suburban families, creates consistent demand for ghost kitchen and meal delivery concepts.",
+      "driveTime": "15 min",
+      "homeowners": "45%",
+      "medianHomeValue": "$185K",
+      "diversity": "50+",
+      "hispanicPopulation": "25%"
+    },
+    "workforce": {
+      "count": "520K",
+      "description": "San Francisco's dynamic workforce drives significant demand for convenient, high-quality meal options during busy workdays and corporate meetings.\nThe concentration of professional services, healthcare, and business operations creates a large population of time-conscious workers who value meal delivery services.\nAverage commute times and office-based work schedules create predictable lunch and dinner rush periods that food businesses can optimize around.\nThe rise of remote and hybrid work arrangements has expanded delivery opportunities to residential areas during traditional business hours.\nCorporate culture increasingly includes food benefits and catered meetings, providing opportunities for bulk catering and corporate accounts.\nBusiness lunch meetings remain important for relationship building, creating demand for professional-quality group meal orders and presentation-ready packaging.\nHigher-income professionals represent a premium market segment willing to pay for convenience, quality ingredients, and unique culinary experiences.",
+      "driveTime": "15 min",
+      "workFromHome": "12%",
+      "averageCommute": "25 min",
+      "highIncome": "22%",
+      "businessLunch": "65%"
+    },
+    "students": {
+      "count": "450K",
+      "description": "San Francisco's educated population and student community drive innovation in food trends and represent early adopters of new delivery platforms and concepts.\nCollege students and recent graduates combine adventurous food preferences with strong digital engagement habits and regular delivery app usage.\nUCSF + USF + others creates a constant influx of young adults who view food delivery as an essential part of their lifestyle rather than a luxury service.\nStudents and young professionals often work irregular hours, creating demand for late-night delivery options and weekend meal services.\nThis educated demographic actively seeks out diverse cuisines, sustainable food options, and restaurants that align with their values and social media presence.\nGraduate students, medical residents, and young professionals have limited cooking time but sufficient income to prioritize convenient, nutritious meal options.\nThe concentration of educated consumers makes San Francisco an ideal testing ground for innovative food concepts before expanding to other markets.",
+      "driveTime": "15 min",
+      "bachelors": "270K",
+      "advanced": "180K",
+      "foodDelivery": "35%",
+      "avgSpend": "$25"
+    },
+    "income": {
+      "median": "$126.2K",
+      "description": "San Francisco's income diversity creates opportunities for food businesses to serve multiple market segments through strategic pricing and menu offerings.\nThe substantial middle-income population balances budget consciousness with willingness to pay for convenience during busy periods and special occasions.\nHigher-income households demonstrate different ordering behaviors, ordering delivery more frequently and spending more per order than average consumers.\nIncome distribution patterns reveal distinct market segments that can be served with different brands, pricing strategies, or menu offerings from the same commercial kitchen.\nProfessional services and established industries create seasonal income fluctuations that smart food entrepreneurs can capitalize on with targeted offerings.\nThe city's cost of living relative to income means residents have discretionary spending power for dining and delivery services.\nEconomic stability and employment growth in key industries support sustained demand for food services and premium dining experiences.",
+      "under50k": "38%",
+      "over100k": "28%",
+      "deliveryFrequency": "2.1x",
+      "avgOrderValue": "$38"
+    },
+    "foodScene": {
+      "title": "San Francisco's Growing Food Scene",
+      "description": "San Francisco boasts a vibrant and evolving culinary landscape that reflects both local traditions and innovative dining trends.\nThe city's food scene combines established favorites with emerging concepts, creating opportunities for entrepreneurs to both honor local preferences and introduce new ideas.\nFrom food trucks to fine dining establishments, San Francisco offers diverse dining experiences that demonstrate consumer openness to culinary innovation.\nLocal food festivals, farmers markets, and culinary events showcase the community's appreciation for quality ingredients and creative preparation.\nThe city's food critics and social media influencers actively champion new restaurants and concepts, providing valuable marketing opportunities for new businesses.\nEstablished food culture creates a knowledgeable customer base that appreciates quality while remaining open to new flavors and concepts.\nThe growing food scene attracts food tourists and creates buzz that benefits all local food businesses through increased visibility and foot traffic."
+    },
+    "businessOpportunity": {
+      "title": "Why Start a Food Business in San Francisco",
+      "description": "San Francisco presents excellent opportunities for food entrepreneurs due to its diverse population, stable economy, and strong demand for convenient dining options.\nCalifornia's business-friendly environment includes favorable tax policies, streamlined permitting processes, and supportive small business resources.\nThe $15.2B California food service market continues expanding at 18% annually, driven by population growth and changing consumer preferences.\nCommercial kitchen rental costs in San Francisco remain competitive compared to major metropolitan areas, allowing entrepreneurs to test concepts with manageable overhead.\nThe city's established delivery infrastructure and tech-savvy population create ideal conditions for ghost kitchen and food delivery concepts.\nAccess to diverse suppliers, skilled culinary professionals, and multicultural ingredients supports authentic cuisine development and menu innovation.\nSuccessful food concepts in San Francisco can easily expand regionally or serve as testing grounds for national restaurant chains and food brands.",
+      "foodServiceMarket": "$15.2B",
+      "deliveryGrowth": "18%",
+      "ghostKitchenROI": "32%",
+      "startupCost": "$45K"
+    }
+  }
 }

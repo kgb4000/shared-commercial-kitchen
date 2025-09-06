@@ -1,5 +1,41 @@
 // app/api/google-place-details/route.js
 import { NextResponse } from 'next/server'
+import redis from '@/lib/redis'
+import { checkRateLimit, getRateLimitHeaders } from '@/lib/rateLimiter'
+import { trackApiUsage, trackRateLimitViolation } from '@/lib/apiMonitoring'
+
+// Helper function to safely interact with Redis
+async function safeRedisOperation(operation, fallback = null) {
+  try {
+    return await operation()
+  } catch (error) {
+    console.error('Redis operation failed:', error)
+    return fallback
+  }
+}
+
+async function getCachedPlaceDetails(placeId) {
+  return safeRedisOperation(async () => {
+    const key = `place-details:${placeId}`
+    const cached = await redis.get(key)
+    if (cached) {
+      console.log(`💾 Redis cache hit for place details: ${placeId}`)
+      return JSON.parse(cached)
+    }
+    console.log(`❌ Redis cache miss for place details: ${placeId}`)
+    return null
+  })
+}
+
+async function setCachedPlaceDetails(placeId, data) {
+  return safeRedisOperation(async () => {
+    const key = `place-details:${placeId}`
+    // Cache for 24 hours - place details don't change frequently
+    await redis.setEx(key, 86400, JSON.stringify(data))
+    console.log(`💾 Redis cached place details for: ${placeId}`)
+    return true
+  })
+}
 
 export async function POST(request) {
   try {
@@ -9,6 +45,27 @@ export async function POST(request) {
     console.log('Environment:', process.env.NODE_ENV)
     console.log('Place ID:', placeId)
     console.log('Timestamp:', new Date().toISOString())
+
+    // Rate limiting check
+    const rateLimitResult = await checkRateLimit('google-place-details', 'global')
+    if (!rateLimitResult.allowed) {
+      console.error('🚫 Rate limit exceeded for place details API')
+      await trackRateLimitViolation('google-place-details', 'global')
+      return NextResponse.json(
+        {
+          success: false,
+          error: 'Rate limit exceeded. Please try again later.',
+          rateLimitInfo: {
+            limit: rateLimitResult.limit,
+            resetTime: rateLimitResult.resetTime,
+          },
+        },
+        { 
+          status: 429,
+          headers: getRateLimitHeaders(rateLimitResult),
+        }
+      )
+    }
 
     // Validate input
     if (!placeId) {
@@ -122,27 +179,41 @@ export async function POST(request) {
 
     console.log('✅ API key validation passed')
 
-    // Define the fields we want to retrieve
+    // Check Redis cache first
+    const cachedData = await getCachedPlaceDetails(placeId)
+    if (cachedData) {
+      console.log('🚀 Returning cached place details, avoiding API call')
+      // Track cache hit
+      await trackApiUsage('google-place-details', {
+        fieldsCount: 0, // No API call made
+        cacheHit: true,
+      })
+
+      return NextResponse.json({
+        success: true,
+        place: cachedData.place,
+        fetchedAt: cachedData.fetchedAt,
+        placeId: placeId,
+        fromCache: true,
+        debug: {
+          ...cachedData.debug,
+          cacheHit: true,
+        },
+      }, {
+        headers: getRateLimitHeaders(rateLimitResult),
+      })
+    }
+
+    // OPTIMIZED: Minimal fields to reduce API costs
     const fields = [
       'id',
       'displayName',
-      'description',
       'formattedAddress',
-      'location',
       'rating',
       'userRatingCount',
-      'priceLevel',
-      'types',
-      'businessStatus',
       'currentOpeningHours',
-      'regularOpeningHours',
       'nationalPhoneNumber',
-      'internationalPhoneNumber',
       'websiteUri',
-      'googleMapsUri',
-      'editorialSummary',
-      'reviews',
-      'photos',
     ].join(',')
 
     const url = `https://places.googleapis.com/v1/places/${encodeURIComponent(
@@ -274,12 +345,13 @@ export async function POST(request) {
       console.log('⭐ No reviews found for this place')
     }
 
-    // Return the place data
+    // Cache the successful response
     const responseData = {
       success: true,
       place: data,
       fetchedAt: new Date().toISOString(),
       placeId: placeId,
+      fromCache: false,
       debug: {
         apiKeyLength: apiKey.length,
         apiKeyPrefix: apiKey.substring(0, 10),
@@ -289,9 +361,24 @@ export async function POST(request) {
       },
     }
 
-    console.log('📤 Returning successful response with place data')
+    // Cache the data for future requests
+    await setCachedPlaceDetails(placeId, {
+      place: data,
+      fetchedAt: responseData.fetchedAt,
+      debug: responseData.debug,
+    })
 
-    return NextResponse.json(responseData)
+    // Track API usage for monitoring
+    await trackApiUsage('google-place-details', {
+      fieldsCount: 8, // We request 8 fields
+      cacheHit: false, // This is a fresh API call
+    })
+
+    console.log('📤 Returning fresh API response and caching for future use')
+
+    return NextResponse.json(responseData, {
+      headers: getRateLimitHeaders(rateLimitResult),
+    })
   } catch (error) {
     console.error('💥 Error in place details API:', {
       message: error.message,

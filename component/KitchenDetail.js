@@ -24,6 +24,8 @@ import Link from 'next/link'
 import BusinessInsights from './BusinessInsights'
 import SearchBar from './SearchBar'
 import BackButton from './BackButton'
+import AdSenseAd from './AdSenseAd'
+import OptimizedImage from './OptimizedImage'
 
 // Helper functions
 function formatPhoneNumber(phone) {
@@ -498,7 +500,7 @@ function NearbyPlaces({ kitchen, placeDetails }) {
 // Image Gallery Component
 function ImageGallery({ images, kitchenName }) {
   const [currentImageIndex, setCurrentImageIndex] = useState(0)
-  const [failedImages, setFailedImages] = useState(new Set())
+  // Removed failedImages state - now handled by OptimizedImage component
   const [mounted, setMounted] = useState(false)
 
   useEffect(() => {
@@ -541,10 +543,7 @@ function ImageGallery({ images, kitchenName }) {
     setCurrentImageIndex((prev) => (prev - 1 + images.length) % images.length)
   }
 
-  const handleImageError = (imageUrl) => {
-    console.error('Image failed to load:', imageUrl)
-    setFailedImages((prev) => new Set([...prev, imageUrl]))
-  }
+  // Image error handling now managed by OptimizedImage component
 
   const mainPhoto = images[currentImageIndex]
   const safeKitchenName = safeRender(kitchenName, 'Kitchen')
@@ -554,23 +553,16 @@ function ImageGallery({ images, kitchenName }) {
       <div className="mb-8">
         <h3 className="text-xl font-semibold mb-4">Kitchen Photos</h3>
         <div className="relative w-full h-96 rounded-lg overflow-hidden shadow-lg">
-          {failedImages.has(mainPhoto.url) ? (
-            <div className="w-full h-full bg-gradient-to-br from-gray-200 to-gray-300 flex items-center justify-center">
-              <div className="text-center text-gray-500">
-                <span className="text-6xl mb-4 block">🏢</span>
-                <p className="text-lg font-medium">{safeKitchenName}</p>
-                <p className="text-sm">Kitchen Photo</p>
-              </div>
-            </div>
-          ) : (
-            <img
-              src={mainPhoto.url}
-              alt={`${safeKitchenName} - Kitchen view`}
-              className="w-full h-full object-cover"
-              onError={() => handleImageError(mainPhoto.url)}
-            />
-          )}
-          {mainPhoto.attribution && !failedImages.has(mainPhoto.url) && (
+          {/* <OptimizedImage
+            src={mainPhoto.url}
+            alt={`${safeKitchenName} - Kitchen view`}
+            width={800}
+            height={600}
+            className="w-full h-full object-cover"
+            fallbackSrc="/images/kitchen-placeholder.svg"
+            priority={true}
+          /> */}
+          {mainPhoto.attribution && (
             <div className="absolute bottom-2 right-2 bg-black bg-opacity-50 text-white px-2 py-1 rounded text-xs">
               Photo by {safeRender(mainPhoto.attribution)}
             </div>
@@ -586,22 +578,14 @@ function ImageGallery({ images, kitchenName }) {
       <div className="grid grid-cols-1 lg:grid-cols-4 gap-4">
         <div className="lg:col-span-2 lg:row-span-2 relative">
           <div className="relative h-64 lg:h-full min-h-[300px] rounded-lg overflow-hidden shadow-lg">
-            {failedImages.has(mainPhoto.url) ? (
-              <div className="w-full h-full bg-gradient-to-br from-gray-200 to-gray-300 flex items-center justify-center">
-                <div className="text-center text-gray-500">
-                  <span className="text-6xl mb-4 block">🏢</span>
-                  <p className="text-lg font-medium">{safeKitchenName}</p>
-                  <p className="text-sm">Main Photo</p>
-                </div>
-              </div>
-            ) : (
-              <img
-                src={mainPhoto.url}
-                alt={`${safeKitchenName} - Main view`}
-                className="w-full h-full object-cover"
-                onError={() => handleImageError(mainPhoto.url)}
-              />
-            )}
+            <OptimizedImage
+              src={mainPhoto.url}
+              alt={`${safeKitchenName} - Main view`}
+              width={400}
+              height={300}
+              className="w-full h-full object-cover"
+              fallbackSrc="/images/kitchen-placeholder.svg"
+            />
 
             {images.length > 1 && (
               <>
@@ -628,7 +612,7 @@ function ImageGallery({ images, kitchenName }) {
               </div>
             )}
 
-            {mainPhoto.attribution && !failedImages.has(mainPhoto.url) && (
+            {mainPhoto.attribution && (
               <div className="absolute bottom-2 left-2 bg-black bg-opacity-50 text-white px-2 py-1 rounded text-xs">
                 Photo by {safeRender(mainPhoto.attribution)}
               </div>
@@ -643,18 +627,14 @@ function ImageGallery({ images, kitchenName }) {
               className="block w-full h-32 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow"
               aria-label={`View photo ${index + 2}`}
             >
-              {failedImages.has(photo.url) ? (
-                <div className="w-full h-full bg-gradient-to-br from-gray-200 to-gray-300 flex items-center justify-center">
-                  <span className="text-2xl text-gray-500">🏢</span>
-                </div>
-              ) : (
-                <img
-                  src={photo.url}
-                  alt={`${safeKitchenName} - View ${index + 2}`}
-                  className="w-full h-full object-cover hover:scale-105 transition-transform"
-                  onError={() => handleImageError(photo.url)}
-                />
-              )}
+              <OptimizedImage
+                src={photo.url}
+                alt={`${safeKitchenName} - View ${index + 2}`}
+                width={120}
+                height={90}
+                className="w-full h-full object-cover hover:scale-105 transition-transform"
+                fallbackSrc="/images/kitchen-placeholder.svg"
+              />
             </button>
           </div>
         ))}
@@ -1736,22 +1716,9 @@ export default function KitchenDetail({
                   kitchen={kitchen}
                   placeDetails={initialGoogleData}
                 /> */}
-                <script
-                  async
-                  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2967132781692430"
-                  crossorigin="anonymous"
-                ></script>
-                <ins
-                  className="adsbygoogle block"
-                  // style="display:block"
-                  data-ad-client="ca-pub-2967132781692430"
-                  data-ad-slot="9128699685"
-                  data-ad-format="auto"
-                  data-full-width-responsive="true"
-                ></ins>
-                <script>
-                  (adsbygoogle = window.adsbygoogle || []).push({});
-                </script>
+                <div className="my-8">
+                  <AdSenseAd />
+                </div>
 
                 {/* Quick Actions */}
                 <div className="bg-white border border-gray-200 rounded-lg p-6">

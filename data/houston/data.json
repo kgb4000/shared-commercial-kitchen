@@ -1,6 +1,55 @@
 {
   "state": "tx",
   "city": "Houston",
+  "insights": {
+    "residents": {
+      "count": "2.3M",
+      "description": "Houston's diverse population creates exceptional opportunities for food entrepreneurs serving multicultural communities and busy families.\nThis demographic diversity reflects modern America's changing food preferences, with residents increasingly seeking authentic cuisines and convenient meal solutions.\nResearch shows that 60% of Houston consumers order takeout or delivery at least once a week, driven by busy lifestyles and dual-income households.\nThe city's residential patterns create distinct neighborhoods where food delivery thrives, especially during evening hours when families need convenient dinner solutions.\nYoung professionals and established families both value high-quality, convenient meal options that save time while providing variety and authentic flavors.\nHome ownership rates indicate stable communities with established dining habits and disposable income for food services.\nThe growing preference for delivery over dining out, particularly among suburban families, creates consistent demand for ghost kitchen and meal delivery concepts.",
+      "driveTime": "15 min",
+      "homeowners": "45%",
+      "medianHomeValue": "$185K",
+      "diversity": "50+",
+      "hispanicPopulation": "25%"
+    },
+    "workforce": {
+      "count": "1.2M",
+      "description": "Houston's dynamic workforce drives significant demand for convenient, high-quality meal options during busy workdays and corporate meetings.\nThe concentration of professional services, healthcare, and business operations creates a large population of time-conscious workers who value meal delivery services.\nAverage commute times and office-based work schedules create predictable lunch and dinner rush periods that food businesses can optimize around.\nThe rise of remote and hybrid work arrangements has expanded delivery opportunities to residential areas during traditional business hours.\nCorporate culture increasingly includes food benefits and catered meetings, providing opportunities for bulk catering and corporate accounts.\nBusiness lunch meetings remain important for relationship building, creating demand for professional-quality group meal orders and presentation-ready packaging.\nHigher-income professionals represent a premium market segment willing to pay for convenience, quality ingredients, and unique culinary experiences.",
+      "driveTime": "15 min",
+      "workFromHome": "12%",
+      "averageCommute": "25 min",
+      "highIncome": "22%",
+      "businessLunch": "65%"
+    },
+    "students": {
+      "count": "523K",
+      "description": "Houston's educated population and student community drive innovation in food trends and represent early adopters of new delivery platforms and concepts.\nCollege students and recent graduates combine adventurous food preferences with strong digital engagement habits and regular delivery app usage.\nUniversity of Houston system creates a constant influx of young adults who view food delivery as an essential part of their lifestyle rather than a luxury service.\nStudents and young professionals often work irregular hours, creating demand for late-night delivery options and weekend meal services.\nThis educated demographic actively seeks out diverse cuisines, sustainable food options, and restaurants that align with their values and social media presence.\nGraduate students, medical residents, and young professionals have limited cooking time but sufficient income to prioritize convenient, nutritious meal options.\nThe concentration of educated consumers makes Houston an ideal testing ground for innovative food concepts before expanding to other markets.",
+      "driveTime": "15 min",
+      "bachelors": "313.8K",
+      "advanced": "209.2K",
+      "foodDelivery": "35%",
+      "avgSpend": "$25"
+    },
+    "income": {
+      "median": "$54.6K",
+      "description": "Houston's income diversity creates opportunities for food businesses to serve multiple market segments through strategic pricing and menu offerings.\nThe substantial middle-income population balances budget consciousness with willingness to pay for convenience during busy periods and special occasions.\nHigher-income households demonstrate different ordering behaviors, ordering delivery more frequently and spending more per order than average consumers.\nIncome distribution patterns reveal distinct market segments that can be served with different brands, pricing strategies, or menu offerings from the same commercial kitchen.\nProfessional services and established industries create seasonal income fluctuations that smart food entrepreneurs can capitalize on with targeted offerings.\nThe city's cost of living relative to income means residents have discretionary spending power for dining and delivery services.\nEconomic stability and employment growth in key industries support sustained demand for food services and premium dining experiences.",
+      "under50k": "38%",
+      "over100k": "28%",
+      "deliveryFrequency": "2.1x",
+      "avgOrderValue": "$38"
+    },
+    "foodScene": {
+      "title": "Houston's Growing Food Scene",
+      "description": "Houston boasts a vibrant and evolving culinary landscape that reflects both local traditions and innovative dining trends.\nThe city's food scene combines established favorites with emerging concepts, creating opportunities for entrepreneurs to both honor local preferences and introduce new ideas.\nFrom food trucks to fine dining establishments, Houston offers diverse dining experiences that demonstrate consumer openness to culinary innovation.\nLocal food festivals, farmers markets, and culinary events showcase the community's appreciation for quality ingredients and creative preparation.\nThe city's food critics and social media influencers actively champion new restaurants and concepts, providing valuable marketing opportunities for new businesses.\nEstablished food culture creates a knowledgeable customer base that appreciates quality while remaining open to new flavors and concepts.\nThe growing food scene attracts food tourists and creates buzz that benefits all local food businesses through increased visibility and foot traffic."
+    },
+    "businessOpportunity": {
+      "title": "Why Start a Food Business in Houston",
+      "description": "Houston presents excellent opportunities for food entrepreneurs due to its diverse population, stable economy, and strong demand for convenient dining options.\nTexas's business-friendly environment includes favorable tax policies, streamlined permitting processes, and supportive small business resources.\nThe $12.8B Texas food service market continues expanding at 23% annually, driven by population growth and changing consumer preferences.\nCommercial kitchen rental costs in Houston remain competitive compared to major metropolitan areas, allowing entrepreneurs to test concepts with manageable overhead.\nThe city's established delivery infrastructure and tech-savvy population create ideal conditions for ghost kitchen and food delivery concepts.\nAccess to diverse suppliers, skilled culinary professionals, and multicultural ingredients supports authentic cuisine development and menu innovation.\nSuccessful food concepts in Houston can easily expand regionally or serve as testing grounds for national restaurant chains and food brands.",
+      "foodServiceMarket": "$12.8B",
+      "deliveryGrowth": "23%",
+      "ghostKitchenROI": "32%",
+      "startupCost": "$45K"
+    }
+  },
   "kitchens": [
     {
       "query": "shared-use commercial kitchen, 78419, Corpus Christi, TX, US",
@@ -81,7 +130,7 @@
       "description": "A Place for Food Entrepreneurs\n\nShared Commercial / Commissary kitchen for rent. We are a Commercial Kitchen that offers shared rental space to Chefs and other Industry Professionals.",
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.0117696671458922e20,
+      "owner_id": 101176966714589220000,
       "owner_title": "Shared Commercial Kitchen & Rentals",
       "owner_link": "https://www.google.com/maps/contrib/101176966714589211795",
       "reservation_links": null,
@@ -92,9 +141,9 @@
       "location_reviews_link": "https://www.google.com/maps/place/Shared+Commercial+Kitchen+%26+Rentals/@29.884734199999997,-95.4731733,13.99z/data=!4m16!1m7!3m6!1s0x8640e746c59863eb:0x89a81fe956fe7f89!2sShared+Commercial+Kitchen+%26+Rentals!8m2!3d29.884734199999997!4d-95.4731733!16s%2Fg%2F11ckvg1dmb!3m7!1s0x8640e746c59863eb:0x89a81fe956fe7f89!8m2!3d29.884734199999997!4d-95.4731733!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJ62OYxUbnQIYRiX_-VukfqIk",
       "google_id": "0x8640e746c59863eb:0x89a81fe956fe7f89",
-      "cid": 9.919213266330878e18,
+      "cid": 9919213266330878000,
       "kgmid": "/g/11rcjnnj6h",
-      "reviews_id": -8.527530807378674e18,
+      "reviews_id": -8527530807378674000,
       "located_google_id": null
     },
     {
@@ -120,7 +169,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJ62OYxUbnQIYRiX_-VukfqIk",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x8640e746c59863eb:0x89a81fe956fe7f89",
       "cid": "9919213266330877833",
       "reviewsCount": 24,
@@ -225,7 +276,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJmVMDt5K5QIYRGNDyyRweifc",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x8640b992b7035399:0xf7891e1cc9f2d018",
       "cid": "17836820908173611032",
       "reviewsCount": 10,
@@ -320,7 +373,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJbdE-VHfnQIYRPfJOH7x0UVA",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x8640e777543ed16d:0x505174bc1f4ef23d",
       "cid": "5787535347475739197",
       "reviewsCount": 11,
@@ -415,7 +470,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJjeZodYXHQIYRdKgY3DTsPxg",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x8640c7857568e68d:0x183fec34dc18a874",
       "cid": "1747374892218099828",
       "reviewsCount": 36,
@@ -613,7 +670,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJAciE5Ja5QIYRdqtFZQbF-CM",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x8640b996e484c801:0x23f8c5066545ab76",
       "cid": "2592038216811260790",
       "reviewsCount": 0,
@@ -686,7 +745,9 @@
       "permanentlyClosed": true,
       "temporarilyClosed": false,
       "placeId": "ChIJAeG1e4y5QIYRe8O6yuT3oDk",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x8640b98c7bb5e101:0x39a0f7e4cabac37b",
       "cid": "4152591418461438843",
       "reviewsCount": 6,
@@ -940,7 +1001,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJS3B-EQCXQIYRTYykwGg90_w",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x86409700117e704b:0xfcd33d68c0a48c4d",
       "cid": "18217972437761690701",
       "reviewsCount": 0,
@@ -1021,7 +1084,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJZTFPxeTBQIYRoGa71y2qbmc",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x8640c1e4c54f3165:0x676eaa2dd7bb66a0",
       "cid": "7453081547214382752",
       "reviewsCount": 0,
@@ -1076,7 +1141,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJV_kv1szHQIYRgR3U_M6a47M",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x8640c7ccd62ff957:0xb3e39acefcd41d81",
       "cid": "12962374366298119553",
       "reviewsCount": 0,
@@ -1150,7 +1217,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJYf6HnHnJQIYRw2DFMOxwkoc",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x8640c9799c87fe61:0x879270ec30c560c3",
       "cid": "9768994701452861635",
       "reviewsCount": 3,
@@ -1403,7 +1472,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": true,
       "placeId": "ChIJ748FL7C_QIYRnB3bX0uAgVU",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x8640bfb02f058fef:0x5581804b5fdb1d9c",
       "cid": "6161346826438647196",
       "reviewsCount": 0,

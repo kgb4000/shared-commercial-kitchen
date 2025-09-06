@@ -150,6 +150,94 @@ async function fetchKitchenData(slug) {
   }
 }
 
+// Helper function to generate URL-friendly slug from a name
+function generateSlug(name) {
+  if (!name) return 'unknown-kitchen'
+
+  return name
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, '') // Remove special characters
+    .replace(/\s+/g, '-') // Replace spaces with hyphens
+    .replace(/-+/g, '-') // Replace multiple hyphens with single
+    .trim()
+}
+
+// Prevent dynamic routes not in generateStaticParams from being generated
+export const dynamicParams = false
+
+// Generate static params to prevent invalid route generation
+export async function generateStaticParams() {
+  const staticParams = []
+  
+  try {
+    const fs = await import('fs')
+    const path = await import('path')
+    
+    const dataDir = path.join(process.cwd(), 'data')
+    
+    if (!fs.existsSync(dataDir)) {
+      console.warn('❌ Data directory not found for generateStaticParams')
+      return []
+    }
+    
+    const cityFolders = fs.readdirSync(dataDir, { withFileTypes: true })
+      .filter(dirent => dirent.isDirectory())
+      .map(dirent => dirent.name)
+    
+    for (const cityFolder of cityFolders) {
+      try {
+        const cityDataPath = path.join(dataDir, cityFolder, 'data.json')
+        
+        if (!fs.existsSync(cityDataPath)) continue
+        
+        const rawData = fs.readFileSync(cityDataPath, 'utf8')
+        const cityData = JSON.parse(rawData)
+        
+        // Extract city and state info
+        const city = (cityData.city || cityFolder).toLowerCase().replace(/\s+/g, '-')
+        const state = (cityData.state || 'ca').toLowerCase()
+        
+        // Get kitchens array from various possible structures
+        let kitchens = []
+        if (Array.isArray(cityData)) {
+          kitchens = cityData
+        } else if (cityData.kitchens && Array.isArray(cityData.kitchens)) {
+          kitchens = cityData.kitchens
+        } else if (cityData.data && Array.isArray(cityData.data)) {
+          kitchens = cityData.data
+        } else if (cityData.results && Array.isArray(cityData.results)) {
+          kitchens = cityData.results
+        }
+        
+        // Generate params for each kitchen
+        for (const kitchen of kitchens) {
+          const slug = kitchen.slug || generateSlug(
+            kitchen.title || kitchen.name || kitchen.displayName?.text
+          )
+          
+          if (slug && slug !== 'unknown-kitchen') {
+            staticParams.push({
+              city,
+              state,
+              slug
+            })
+          }
+        }
+        
+      } catch (error) {
+        console.warn(`⚠️ Error processing ${cityFolder} in generateStaticParams:`, error.message)
+      }
+    }
+    
+    console.log(`✅ Generated ${staticParams.length} static params for kitchen pages`)
+    return staticParams
+    
+  } catch (error) {
+    console.error('❌ Error in generateStaticParams:', error)
+    return []
+  }
+}
+
 // Generate metadata for SEO - FIXED: await params properly
 export async function generateMetadata({ params }) {
   // FIXED: Await params first, then destructure

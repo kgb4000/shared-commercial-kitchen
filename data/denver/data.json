@@ -23,12 +23,18 @@
         "lng": -104.9449679
       },
       "verified": true,
-      "tags": ["Hourly Rental", "Equipment Included", "Parking"],
+      "tags": [
+        "Hourly Rental",
+        "Equipment Included",
+        "Parking"
+      ],
       "totalScore": 4.5,
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJnSNInGR5bIcRvMYcHek2m18",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x876c79649c48239d:0x5f9b36e91d1cc6bc",
       "cid": "6889160429837010620",
       "reviewsCount": 62,
@@ -126,7 +132,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJHTY7Oml_bIcR_kpIRNuZu5k",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x876c7f693a3b361d:0x99bb99db44484afe",
       "cid": "11077616875470342910",
       "reviewsCount": 6,
@@ -368,7 +376,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJVVXFW1F_bIcRxl0oiLj-tnA",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x876c7f515bc55555:0x70b6feb888285dc6",
       "cid": "8121959046521052614",
       "reviewsCount": 0,
@@ -540,7 +550,10 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJI59Bkmx9bIcR9zeqsyUVoFE",
-      "categories": ["Shared-use commercial kitchen", "Education center"],
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Education center"
+      ],
       "fid": "0x876c7d6c92419f23:0x51a01525b3aa37f7",
       "cid": "5881724365018118135",
       "reviewsCount": 1,
@@ -629,7 +642,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJawVsBjJ7bIcRLPIMTMTePS0",
-      "categories": ["Commercial real estate agency"],
+      "categories": [
+        "Commercial real estate agency"
+      ],
       "fid": "0x876c7b32066c056b:0x2d3ddec44c0cf22c",
       "cid": "3260006639956980268",
       "reviewsCount": 27,
@@ -791,7 +806,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJb3J9h8B7bIcRHfo3sfF5H_s",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x876c7bc0877d726f:0xfb1f79f1b137fa1d",
       "cid": "18095315906765257245",
       "reviewsCount": 0,
@@ -865,7 +882,10 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJS-0DHsN_bIcREQHvxUTn_9w",
-      "categories": ["Shared-use commercial kitchen", "Restaurant"],
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Restaurant"
+      ],
       "fid": "0x876c7fc31e03ed4b:0xdcffe744c5ef0111",
       "cid": "15924701089969930513",
       "reviewsCount": 11,
@@ -1072,7 +1092,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJ8WwzEVF7bIcRjhddNbcum8w",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x876c7b5111336cf1:0xcc9b2eb7355d178e",
       "cid": "14743429169536636814",
       "reviewsCount": 0,
@@ -1214,7 +1236,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJ-5GgLyd_bIcR8VOwy2gbLHI",
-      "categories": ["Coworking space"],
+      "categories": [
+        "Coworking space"
+      ],
       "fid": "0x876c7f272fa091fb:0x722c1b68cbb053f1",
       "cid": "8226980756206932977",
       "reviewsCount": 65,
@@ -1295,5 +1319,54 @@
       "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNis6Pz1TCRBcNSKbyiKuuDEY5URxDq6wkLus8Q=w408-h272-k-no",
       "kgmid": "/g/11c6t7rcf9"
     }
-  ]
+  ],
+  "insights": {
+    "residents": {
+      "count": "715.5K",
+      "description": "Denver's diverse population creates exceptional opportunities for food entrepreneurs serving multicultural communities and busy families.\nThis demographic diversity reflects modern America's changing food preferences, with residents increasingly seeking authentic cuisines and convenient meal solutions.\nResearch shows that 60% of Denver consumers order takeout or delivery at least once a week, driven by busy lifestyles and dual-income households.\nThe city's residential patterns create distinct neighborhoods where food delivery thrives, especially during evening hours when families need convenient dinner solutions.\nYoung professionals and established families both value high-quality, convenient meal options that save time while providing variety and authentic flavors.\nHome ownership rates indicate stable communities with established dining habits and disposable income for food services.\nThe growing preference for delivery over dining out, particularly among suburban families, creates consistent demand for ghost kitchen and meal delivery concepts.",
+      "driveTime": "15 min",
+      "homeowners": "45%",
+      "medianHomeValue": "$185K",
+      "diversity": "50+",
+      "hispanicPopulation": "25%"
+    },
+    "workforce": {
+      "count": "460K",
+      "description": "Denver's dynamic workforce drives significant demand for convenient, high-quality meal options during busy workdays and corporate meetings.\nThe concentration of professional services, healthcare, and business operations creates a large population of time-conscious workers who value meal delivery services.\nAverage commute times and office-based work schedules create predictable lunch and dinner rush periods that food businesses can optimize around.\nThe rise of remote and hybrid work arrangements has expanded delivery opportunities to residential areas during traditional business hours.\nCorporate culture increasingly includes food benefits and catered meetings, providing opportunities for bulk catering and corporate accounts.\nBusiness lunch meetings remain important for relationship building, creating demand for professional-quality group meal orders and presentation-ready packaging.\nHigher-income professionals represent a premium market segment willing to pay for convenience, quality ingredients, and unique culinary experiences.",
+      "driveTime": "15 min",
+      "workFromHome": "12%",
+      "averageCommute": "25 min",
+      "highIncome": "22%",
+      "businessLunch": "65%"
+    },
+    "students": {
+      "count": "320K",
+      "description": "Denver's educated population and student community drive innovation in food trends and represent early adopters of new delivery platforms and concepts.\nCollege students and recent graduates combine adventurous food preferences with strong digital engagement habits and regular delivery app usage.\nUniversity of Colorado Denver creates a constant influx of young adults who view food delivery as an essential part of their lifestyle rather than a luxury service.\nStudents and young professionals often work irregular hours, creating demand for late-night delivery options and weekend meal services.\nThis educated demographic actively seeks out diverse cuisines, sustainable food options, and restaurants that align with their values and social media presence.\nGraduate students, medical residents, and young professionals have limited cooking time but sufficient income to prioritize convenient, nutritious meal options.\nThe concentration of educated consumers makes Denver an ideal testing ground for innovative food concepts before expanding to other markets.",
+      "driveTime": "15 min",
+      "bachelors": "192K",
+      "advanced": "128K",
+      "foodDelivery": "35%",
+      "avgSpend": "$25"
+    },
+    "income": {
+      "median": "$78.2K",
+      "description": "Denver's income diversity creates opportunities for food businesses to serve multiple market segments through strategic pricing and menu offerings.\nThe substantial middle-income population balances budget consciousness with willingness to pay for convenience during busy periods and special occasions.\nHigher-income households demonstrate different ordering behaviors, ordering delivery more frequently and spending more per order than average consumers.\nIncome distribution patterns reveal distinct market segments that can be served with different brands, pricing strategies, or menu offerings from the same commercial kitchen.\nProfessional services and established industries create seasonal income fluctuations that smart food entrepreneurs can capitalize on with targeted offerings.\nThe city's cost of living relative to income means residents have discretionary spending power for dining and delivery services.\nEconomic stability and employment growth in key industries support sustained demand for food services and premium dining experiences.",
+      "under50k": "38%",
+      "over100k": "28%",
+      "deliveryFrequency": "2.1x",
+      "avgOrderValue": "$38"
+    },
+    "foodScene": {
+      "title": "Denver's Growing Food Scene",
+      "description": "Denver boasts a vibrant and evolving culinary landscape that reflects both local traditions and innovative dining trends.\nThe city's food scene combines established favorites with emerging concepts, creating opportunities for entrepreneurs to both honor local preferences and introduce new ideas.\nFrom food trucks to fine dining establishments, Denver offers diverse dining experiences that demonstrate consumer openness to culinary innovation.\nLocal food festivals, farmers markets, and culinary events showcase the community's appreciation for quality ingredients and creative preparation.\nThe city's food critics and social media influencers actively champion new restaurants and concepts, providing valuable marketing opportunities for new businesses.\nEstablished food culture creates a knowledgeable customer base that appreciates quality while remaining open to new flavors and concepts.\nThe growing food scene attracts food tourists and creates buzz that benefits all local food businesses through increased visibility and foot traffic."
+    },
+    "businessOpportunity": {
+      "title": "Why Start a Food Business in Denver",
+      "description": "Denver presents excellent opportunities for food entrepreneurs due to its diverse population, stable economy, and strong demand for convenient dining options.\nColorado's business-friendly environment includes favorable tax policies, streamlined permitting processes, and supportive small business resources.\nThe $2.8B Colorado food service market continues expanding at 24% annually, driven by population growth and changing consumer preferences.\nCommercial kitchen rental costs in Denver remain competitive compared to major metropolitan areas, allowing entrepreneurs to test concepts with manageable overhead.\nThe city's established delivery infrastructure and tech-savvy population create ideal conditions for ghost kitchen and food delivery concepts.\nAccess to diverse suppliers, skilled culinary professionals, and multicultural ingredients supports authentic cuisine development and menu innovation.\nSuccessful food concepts in Denver can easily expand regionally or serve as testing grounds for national restaurant chains and food brands.",
+      "foodServiceMarket": "$2.8B",
+      "deliveryGrowth": "24%",
+      "ghostKitchenROI": "32%",
+      "startupCost": "$45K"
+    }
+  }
 }

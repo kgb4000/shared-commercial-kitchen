@@ -1,4 +1,7 @@
 import redis from '@/lib/redis'
+import { checkRateLimit, getRateLimitHeaders } from '@/lib/rateLimiter'
+import { checkOngoingRequest, markRequestOngoing, markRequestCompleted } from '@/lib/requestDeduplication'
+import { trackApiUsage, trackRateLimitViolation } from '@/lib/apiMonitoring'
 
 // Helper function to safely interact with Redis
 async function safeRedisOperation(operation, fallback = null) {
@@ -56,6 +59,44 @@ export async function POST(request) {
       environment: process.env.NODE_ENV,
       timestamp: new Date().toISOString(),
     })
+
+    // Rate limiting check
+    const rateLimitResult = await checkRateLimit('google-places-search', 'global')
+    if (!rateLimitResult.allowed) {
+      console.error('🚫 Rate limit exceeded for places search API')
+      await trackRateLimitViolation('google-places-search', 'global')
+      return Response.json(
+        {
+          success: false,
+          error: 'Rate limit exceeded. Please try again later.',
+          rateLimitInfo: {
+            limit: rateLimitResult.limit,
+            resetTime: rateLimitResult.resetTime,
+          },
+        },
+        { 
+          status: 429,
+          headers: getRateLimitHeaders(rateLimitResult),
+        }
+      )
+    }
+
+    // Check for duplicate ongoing requests
+    const deduplicationResult = await checkOngoingRequest('google-places-search', { query, page, pageSize })
+    if (deduplicationResult.isOngoing) {
+      console.log('🔄 Duplicate request detected, returning 202 status')
+      return Response.json(
+        {
+          success: false,
+          error: 'Identical request already in progress. Please wait and try again.',
+          code: 'REQUEST_IN_PROGRESS',
+        },
+        { status: 202 }
+      )
+    }
+
+    // Mark this request as ongoing
+    await markRequestOngoing(deduplicationResult.requestKey)
 
     // Validate input
     if (!query || typeof query !== 'string' || query.trim().length === 0) {
@@ -132,11 +173,11 @@ export async function POST(request) {
         headers: {
           'Content-Type': 'application/json',
           'X-Goog-Api-Key': apiKey,
-          // UPDATED: Added places.location to get coordinates
+          // OPTIMIZED: Minimal fields to reduce API costs
           'X-Goog-FieldMask':
-            'places.id,places.displayName,places.formattedAddress,places.rating,places.userRatingCount,places.priceLevel,places.businessStatus,places.currentOpeningHours,places.nationalPhoneNumber,places.websiteUri,places.types,places.location,nextPageToken',
+            'places.id,places.displayName,places.formattedAddress,places.rating,places.userRatingCount,places.nationalPhoneNumber,places.websiteUri,nextPageToken',
         },
-        body: JSON.stringify({ query: 'commercial kitchen Dallas' }),
+        body: JSON.stringify(requestBody),
       }
     )
 
@@ -273,13 +314,29 @@ export async function POST(request) {
       ).length,
     })
 
-    return Response.json(responseData)
+    // Track API usage for monitoring
+    await trackApiUsage('google-places-search', {
+      fieldsCount: 7, // We request 7 fields
+      cacheHit: false, // This is a fresh API call
+    })
+
+    // Mark request as completed
+    await markRequestCompleted(deduplicationResult.requestKey)
+
+    return Response.json(responseData, {
+      headers: getRateLimitHeaders(rateLimitResult),
+    })
   } catch (error) {
     console.error('💥 API Route error:', {
       message: error.message,
       stack: error.stack,
       name: error.name,
     })
+
+    // Clean up ongoing request marker on error
+    if (typeof deduplicationResult !== 'undefined') {
+      await markRequestCompleted(deduplicationResult.requestKey)
+    }
 
     return Response.json(
       {

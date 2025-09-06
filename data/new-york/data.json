@@ -25,7 +25,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJo5Mc4a1nwokR7nRa-E5xqj0",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c267ade11c93a3:0x3daa714ef85a74ee",
       "cid": "4443488566342481134",
       "reviewsCount": 7,
@@ -100,7 +102,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJq4PC7WL3wokRPfNOaZoE8oI",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c2f762edc283ab:0x82f2049a694ef33d",
       "cid": "9435609230532866877",
       "reviewsCount": 45,
@@ -203,7 +207,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJsaeAX4v3wokRQSda1577AVo",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c2f78b5f80a7b1:0x5a01fb9ed75a2741",
       "cid": "6485741598026639169",
       "reviewsCount": 1,
@@ -290,7 +296,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJ6ZFM_stbwokRgvMylwu3wfc",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c25bcbfe4c91e9:0xf7c1b70b9732f382",
       "cid": "17852751658282578818",
       "reviewsCount": 3,
@@ -476,7 +484,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJtUTYj_NbwokRUGyztRXI3YQ",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c25bf38fd844b5:0x84ddc815b5b36c50",
       "cid": "9574028378427845712",
       "reviewsCount": 1,
@@ -522,7 +532,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJo77kZeH3wokRqpZ8NWJNsKw",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c2f7e165e4bea3:0xacb04d62357c96aa",
       "cid": "12443530854624171690",
       "reviewsCount": 1,
@@ -618,7 +630,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJe9HZ4WNbwokRDPKXARkVjfw",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c25b63e1d9d17b:0xfc8d15190197f20c",
       "cid": "18198224866419143180",
       "reviewsCount": 51,
@@ -717,7 +731,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJG23dmqNdwokRMe-_LaepPZs",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c25da39add6d1b:0x9b3da9a72dbfef31",
       "cid": "11186283584950366001",
       "reviewsCount": 0,
@@ -791,7 +807,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJfe1mbhVdwokRCMI7ey8n2R0",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c25d156e66ed7d:0x1dd9272f7b3bc208",
       "cid": "2150793381930582536",
       "reviewsCount": 0,
@@ -1079,7 +1097,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJZXeBJkNfwokRT0SDdpuvdV4",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c25f4326817765:0x5e75af9b7683444f",
       "cid": "6806539494083478607",
       "reviewsCount": 8,
@@ -1169,7 +1189,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJ3_sGXJVZwokRMfeh_gTok9E",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c259955c06fbdf:0xd193e804fea1f731",
       "cid": "15101669083652945713",
       "reviewsCount": 5,
@@ -1256,7 +1278,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJwZN_s0BZwokRQjWqS11LlZA",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c25940b37f93c1:0x90954b5d4baa3542",
       "cid": "10418316177064998210",
       "reviewsCount": 9,
@@ -1342,7 +1366,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJi-xF9aJdwokR64R1ba4iBhk",
-      "categories": ["School"],
+      "categories": [
+        "School"
+      ],
       "fid": "0x89c25da2f545ec8b:0x190622ae6d7584eb",
       "cid": "1803166833364534507",
       "reviewsCount": 0,
@@ -1395,7 +1421,10 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJB9Xjo8BYwokRFx0z_0atgEs",
-      "categories": ["Educational consultant", "Kitchen remodeler"],
+      "categories": [
+        "Educational consultant",
+        "Kitchen remodeler"
+      ],
       "fid": "0x89c258c0a3e3d507:0x4b80ad46ff331d17",
       "cid": "5440538870304414999",
       "reviewsCount": 1,
@@ -1598,7 +1627,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJI35BQABFwokRRbtf250GVMI",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c2450040417e23:0xc254069ddb5fbb45",
       "cid": "14002824416461830981",
       "reviewsCount": 0,
@@ -1643,7 +1674,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJfxViSMr1wokRCvhTRLcoHB8",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c2f5ca4862157f:0x1f1c28b74453f80a",
       "cid": "2241711482114144266",
       "reviewsCount": 1,
@@ -1717,7 +1750,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJw7osJ1H3wokR1nUY12FGkas",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c2f751272cbac3:0xab914661d71875d6",
       "cid": "12362739838143198678",
       "reviewsCount": 0,
@@ -1789,7 +1824,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJK_wIBQNZwokRp8hplnKCUAk",
-      "categories": ["Real estate agency"],
+      "categories": [
+        "Real estate agency"
+      ],
       "fid": "0x89c259030508fc2b:0x95082729669c8a7",
       "cid": "671179773139601575",
       "reviewsCount": 0,
@@ -1834,7 +1871,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJZScjg_FfwokRpYgGTLJuE40",
-      "categories": ["Restaurant supply store"],
+      "categories": [
+        "Restaurant supply store"
+      ],
       "fid": "0x89c25ff183232765:0x8d136eb24c0688a5",
       "cid": "10165590495964072101",
       "reviewsCount": 134,
@@ -1942,7 +1981,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJwauSLwBfwokRnaPiQOH3wlk",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c25f002f92abc1:0x59c2f7e140e2a39d",
       "cid": "6468004561685750685",
       "reviewsCount": 0,
@@ -1988,7 +2029,10 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJFTKcwp9fwokRjz4JSvkY8F8",
-      "categories": ["Shared-use commercial kitchen", "Indian takeaway"],
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Indian takeaway"
+      ],
       "fid": "0x89c25f9fc29c3215:0x5ff018f94a093e8f",
       "cid": "6913052886981754511",
       "reviewsCount": 8,
@@ -2402,7 +2446,10 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJ0zr6-YRZwokRWdnvdsSwOw4",
-      "categories": ["Food", "Food and drink"],
+      "categories": [
+        "Food",
+        "Food and drink"
+      ],
       "fid": "0x89c25984f9fa3ad3:0xe3bb0c476efd959",
       "cid": "1025607698012428633",
       "reviewsCount": 5,
@@ -2482,7 +2529,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJi1EEQ61ZwokRAO_uyuAGrAE",
-      "categories": ["Business management consultant"],
+      "categories": [
+        "Business management consultant"
+      ],
       "fid": "0x89c259ad4304518b:0x1ac06e0caeeef00",
       "cid": "120478852579258112",
       "reviewsCount": 0,
@@ -2535,7 +2584,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJF-WneXxfwokRI_8HfY0ikec",
-      "categories": ["Restaurant supply store"],
+      "categories": [
+        "Restaurant supply store"
+      ],
       "fid": "0x89c25f7c79a7e517:0xe791228d7d07ff23",
       "cid": "16686156085467807523",
       "reviewsCount": 13,
@@ -2782,5 +2833,54 @@
       "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrDFHev43wx75l68kR_SD3fy3Qo088IU-3U0nTv63iyxVn2pPcMQyhH3gsBpRlVLmG0e-1YSLep2BqEWaf92vDMBq3ngtLlan_Dgq_XR5eda_CYL7QSfob31yDJQDqugY2B8Vt3-A=w426-h240-k-no",
       "kgmid": "/g/1tj9cxy7"
     }
-  ]
+  ],
+  "insights": {
+    "residents": {
+      "count": "8.2M",
+      "description": "New York's diverse population creates exceptional opportunities for food entrepreneurs serving multicultural communities and busy families.\nThis demographic diversity reflects modern America's changing food preferences, with residents increasingly seeking authentic cuisines and convenient meal solutions.\nResearch shows that 60% of New York consumers order takeout or delivery at least once a week, driven by busy lifestyles and dual-income households.\nThe city's residential patterns create distinct neighborhoods where food delivery thrives, especially during evening hours when families need convenient dinner solutions.\nYoung professionals and established families both value high-quality, convenient meal options that save time while providing variety and authentic flavors.\nHome ownership rates indicate stable communities with established dining habits and disposable income for food services.\nThe growing preference for delivery over dining out, particularly among suburban families, creates consistent demand for ghost kitchen and meal delivery concepts.",
+      "driveTime": "15 min",
+      "homeowners": "45%",
+      "medianHomeValue": "$185K",
+      "diversity": "50+",
+      "hispanicPopulation": "25%"
+    },
+    "workforce": {
+      "count": "4.2M",
+      "description": "New York's dynamic workforce drives significant demand for convenient, high-quality meal options during busy workdays and corporate meetings.\nThe concentration of professional services, healthcare, and business operations creates a large population of time-conscious workers who value meal delivery services.\nAverage commute times and office-based work schedules create predictable lunch and dinner rush periods that food businesses can optimize around.\nThe rise of remote and hybrid work arrangements has expanded delivery opportunities to residential areas during traditional business hours.\nCorporate culture increasingly includes food benefits and catered meetings, providing opportunities for bulk catering and corporate accounts.\nBusiness lunch meetings remain important for relationship building, creating demand for professional-quality group meal orders and presentation-ready packaging.\nHigher-income professionals represent a premium market segment willing to pay for convenience, quality ingredients, and unique culinary experiences.",
+      "driveTime": "15 min",
+      "workFromHome": "12%",
+      "averageCommute": "25 min",
+      "highIncome": "22%",
+      "businessLunch": "65%"
+    },
+    "students": {
+      "count": "2.8M",
+      "description": "New York's educated population and student community drive innovation in food trends and represent early adopters of new delivery platforms and concepts.\nCollege students and recent graduates combine adventurous food preferences with strong digital engagement habits and regular delivery app usage.\nNYU + Columbia + CUNY system creates a constant influx of young adults who view food delivery as an essential part of their lifestyle rather than a luxury service.\nStudents and young professionals often work irregular hours, creating demand for late-night delivery options and weekend meal services.\nThis educated demographic actively seeks out diverse cuisines, sustainable food options, and restaurants that align with their values and social media presence.\nGraduate students, medical residents, and young professionals have limited cooking time but sufficient income to prioritize convenient, nutritious meal options.\nThe concentration of educated consumers makes New York an ideal testing ground for innovative food concepts before expanding to other markets.",
+      "driveTime": "15 min",
+      "bachelors": "1.7M",
+      "advanced": "1.1M",
+      "foodDelivery": "35%",
+      "avgSpend": "$25"
+    },
+    "income": {
+      "median": "$70.7K",
+      "description": "New York's income diversity creates opportunities for food businesses to serve multiple market segments through strategic pricing and menu offerings.\nThe substantial middle-income population balances budget consciousness with willingness to pay for convenience during busy periods and special occasions.\nHigher-income households demonstrate different ordering behaviors, ordering delivery more frequently and spending more per order than average consumers.\nIncome distribution patterns reveal distinct market segments that can be served with different brands, pricing strategies, or menu offerings from the same commercial kitchen.\nProfessional services and established industries create seasonal income fluctuations that smart food entrepreneurs can capitalize on with targeted offerings.\nThe city's cost of living relative to income means residents have discretionary spending power for dining and delivery services.\nEconomic stability and employment growth in key industries support sustained demand for food services and premium dining experiences.",
+      "under50k": "38%",
+      "over100k": "28%",
+      "deliveryFrequency": "2.1x",
+      "avgOrderValue": "$38"
+    },
+    "foodScene": {
+      "title": "New York's Growing Food Scene",
+      "description": "New York boasts a vibrant and evolving culinary landscape that reflects both local traditions and innovative dining trends.\nThe city's food scene combines established favorites with emerging concepts, creating opportunities for entrepreneurs to both honor local preferences and introduce new ideas.\nFrom food trucks to fine dining establishments, New York offers diverse dining experiences that demonstrate consumer openness to culinary innovation.\nLocal food festivals, farmers markets, and culinary events showcase the community's appreciation for quality ingredients and creative preparation.\nThe city's food critics and social media influencers actively champion new restaurants and concepts, providing valuable marketing opportunities for new businesses.\nEstablished food culture creates a knowledgeable customer base that appreciates quality while remaining open to new flavors and concepts.\nThe growing food scene attracts food tourists and creates buzz that benefits all local food businesses through increased visibility and foot traffic."
+    },
+    "businessOpportunity": {
+      "title": "Why Start a Food Business in New York",
+      "description": "New York presents excellent opportunities for food entrepreneurs due to its diverse population, stable economy, and strong demand for convenient dining options.\nNew York's business-friendly environment includes favorable tax policies, streamlined permitting processes, and supportive small business resources.\nThe $8.9B New York food service market continues expanding at 15% annually, driven by population growth and changing consumer preferences.\nCommercial kitchen rental costs in New York remain competitive compared to major metropolitan areas, allowing entrepreneurs to test concepts with manageable overhead.\nThe city's established delivery infrastructure and tech-savvy population create ideal conditions for ghost kitchen and food delivery concepts.\nAccess to diverse suppliers, skilled culinary professionals, and multicultural ingredients supports authentic cuisine development and menu innovation.\nSuccessful food concepts in New York can easily expand regionally or serve as testing grounds for national restaurant chains and food brands.",
+      "foodServiceMarket": "$8.9B",
+      "deliveryGrowth": "15%",
+      "ghostKitchenROI": "32%",
+      "startupCost": "$45K"
+    }
+  }
 }

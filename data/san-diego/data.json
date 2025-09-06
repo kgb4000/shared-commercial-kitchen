@@ -70,9 +70,9 @@
       "location_reviews_link": "https://www.google.com/maps/place/Shared+Kitchen+Rentals/@32.898912599999996,-117.18019199999999,13.99z/data=!4m16!1m7!3m6!1s0x80dc076748cce035:0x433916251736c1ad!2sShared+Kitchen+Rentals!8m2!3d32.898912599999996!4d-117.18019199999999!16s%2Fg%2F11ckvg1dmb!3m7!1s0x80dc076748cce035:0x433916251736c1ad!8m2!3d32.898912599999996!4d-117.18019199999999!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJNeDMSGcH3IARrcE2FyUWOUM",
       "google_id": "0x80dc076748cce035:0x433916251736c1ad",
-      "cid": 4.843927222772744e18,
+      "cid": 4843927222772744000,
       "kgmid": "/g/1vm7brn_",
-      "reviews_id": 4.843927222772744e18,
+      "reviews_id": 4843927222772744000,
       "located_google_id": null
     },
     {
@@ -146,7 +146,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.0138350299711424e20,
+      "owner_id": 101383502997114240000,
       "owner_title": "San Diego Commercial Kitchen Rental",
       "owner_link": "https://www.google.com/maps/contrib/101383502997114241621",
       "reservation_links": null,
@@ -157,9 +157,9 @@
       "location_reviews_link": "https://www.google.com/maps/place/San+Diego+Commercial+Kitchen+Rental/@32.8976338,-117.12117579999999,13.99z/data=!4m16!1m7!3m6!1s0x80dbf93dace927e9:0x419f85da07e21a28!2sSan+Diego+Commercial+Kitchen+Rental!8m2!3d32.8976338!4d-117.12117579999999!16s%2Fg%2F11ckvg1dmb!3m7!1s0x80dbf93dace927e9:0x419f85da07e21a28!8m2!3d32.8976338!4d-117.12117579999999!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJ6SfprD3524ARKBriB9qFn0E",
       "google_id": "0x80dbf93dace927e9:0x419f85da07e21a28",
-      "cid": 4.728645305243934e18,
+      "cid": 4728645305243934000,
       "kgmid": "/g/11c58p95hw",
-      "reviews_id": 4.728645305243934e18,
+      "reviews_id": 4728645305243934000,
       "located_google_id": null
     },
     {
@@ -230,9 +230,9 @@
       "location_reviews_link": "https://www.google.com/maps/place/Shared+Commercial+Kitchen/@32.814833,-116.96840929999999,13.99z/data=!4m16!1m7!3m6!1s0x80d9583bce400001:0x3b3cf2c71de84116!2sShared+Commercial+Kitchen!8m2!3d32.814833!4d-116.96840929999999!16s%2Fg%2F11ckvg1dmb!3m7!1s0x80d9583bce400001:0x3b3cf2c71de84116!8m2!3d32.814833!4d-116.96840929999999!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJAQBAzjtY2YARFkHoHcfyPDs",
       "google_id": "0x80d9583bce400001:0x3b3cf2c71de84116",
-      "cid": 4.268553483854562e18,
+      "cid": 4268553483854562000,
       "kgmid": "/g/11ghr0xtk1",
-      "reviews_id": 4.268553483854562e18,
+      "reviews_id": 4268553483854562000,
       "located_google_id": null
     },
     {
@@ -300,7 +300,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.0624279088439371e20,
+      "owner_id": 106242790884393710000,
       "owner_title": "Kitchen Rental Solutions",
       "owner_link": "https://www.google.com/maps/contrib/106242790884393715345",
       "reservation_links": null,
@@ -311,7 +311,7 @@
       "location_reviews_link": "https://www.google.com/maps/place/Kitchen+Rental+Solutions/@32.676462,-117.06511979999999,13.99z/data=!4m16!1m7!3m6!1s0x80d95192fb7b4479:0xea8959c8835d9704!2sKitchen+Rental+Solutions!8m2!3d32.676462!4d-117.06511979999999!16s%2Fg%2F11ckvg1dmb!3m7!1s0x80d95192fb7b4479:0xea8959c8835d9704!8m2!3d32.676462!4d-117.06511979999999!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJeUR7-5JR2YARBJddg8hZieo",
       "google_id": "0x80d95192fb7b4479:0xea8959c8835d9704",
-      "cid": 1.6900137794416777e19,
+      "cid": 16900137794416777000,
       "kgmid": "/g/11c5h3s78f",
       "reviews_id": "None",
       "located_google_id": null
@@ -373,7 +373,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.1355151696331974e20,
+      "owner_id": 113551516963319740000,
       "owner_title": "Kearny Mesa Commercial Kitchen Rental",
       "owner_link": "https://www.google.com/maps/contrib/113551516963319746149",
       "reservation_links": null,
@@ -384,9 +384,9 @@
       "location_reviews_link": "https://www.google.com/maps/place/Kearny+Mesa+Commercial+Kitchen+Rental/@32.8348863,-117.1451132,13.99z/data=!4m16!1m7!3m6!1s0x80dbff11f4df6d85:0x26b33b0ae214182e!2sKearny+Mesa+Commercial+Kitchen+Rental!8m2!3d32.8348863!4d-117.1451132!16s%2Fg%2F11ckvg1dmb!3m7!1s0x80dbff11f4df6d85:0x26b33b0ae214182e!8m2!3d32.8348863!4d-117.1451132!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJhW3f9BH_24ARLhgU4go7syY",
       "google_id": "0x80dbff11f4df6d85:0x26b33b0ae214182e",
-      "cid": 2.7886375122011484e18,
+      "cid": 2788637512201148400,
       "kgmid": "/g/11kpg8fxw7",
-      "reviews_id": 2.7886375122011484e18,
+      "reviews_id": 2788637512201148400,
       "located_google_id": null
     },
     {
@@ -460,7 +460,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.0861691444574529e20,
+      "owner_id": 108616914445745290000,
       "owner_title": "Maker Kitchens",
       "owner_link": "https://www.google.com/maps/contrib/108616914445745297312",
       "reservation_links": null,
@@ -471,9 +471,9 @@
       "location_reviews_link": "https://www.google.com/maps/place/Maker+Kitchens/@32.7558315,-117.2083114,13.99z/data=!4m16!1m7!3m6!1s0x80deabbf7f14cda1:0xa62b6d5a55c85e6a!2sMaker+Kitchens!8m2!3d32.7558315!4d-117.2083114!16s%2Fg%2F11ckvg1dmb!3m7!1s0x80deabbf7f14cda1:0xa62b6d5a55c85e6a!8m2!3d32.7558315!4d-117.2083114!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJoc0Uf7-r3oARal7IVVptK6Y",
       "google_id": "0x80deabbf7f14cda1:0xa62b6d5a55c85e6a",
-      "cid": 1.1973784269048275e19,
+      "cid": 11973784269048275000,
       "kgmid": "/g/11v1909cgl",
-      "reviews_id": -6.472959804661277e18,
+      "reviews_id": -6472959804661277000,
       "located_google_id": null
     },
     {
@@ -528,7 +528,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.0959903837992523e20,
+      "owner_id": 109599038379925230000,
       "owner_title": "Sae Kitchen Rental",
       "owner_link": "https://www.google.com/maps/contrib/109599038379925221868",
       "reservation_links": null,
@@ -539,10 +539,59 @@
       "location_reviews_link": "https://www.google.com/maps/place/Sae+Kitchen+Rental/@33.1418721,-117.18526659999999,13.99z/data=!4m16!1m7!3m6!1s0x80dc7544aad690dd:0xf1f5f92c736a72f!2sSae+Kitchen+Rental!8m2!3d33.1418721!4d-117.18526659999999!16s%2Fg%2F11ckvg1dmb!3m7!1s0x80dc7544aad690dd:0xf1f5f92c736a72f!8m2!3d33.1418721!4d-117.18526659999999!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJ3ZDWqkR13IARL6c2x5JfHw8",
       "google_id": "0x80dc7544aad690dd:0xf1f5f92c736a72f",
-      "cid": 1.089694718859061e18,
+      "cid": 1089694718859061000,
       "kgmid": "/g/11dxm8df0g",
-      "reviews_id": 1.089694718859061e18,
+      "reviews_id": 1089694718859061000,
       "located_google_id": null
     }
-  ]
+  ],
+  "insights": {
+    "residents": {
+      "count": "1.4M",
+      "description": "SAn Diego's diverse population creates exceptional opportunities for food entrepreneurs serving multicultural communities and busy families.\nThis demographic diversity reflects modern America's changing food preferences, with residents increasingly seeking authentic cuisines and convenient meal solutions.\nResearch shows that 60% of SAn Diego consumers order takeout or delivery at least once a week, driven by busy lifestyles and dual-income households.\nThe city's residential patterns create distinct neighborhoods where food delivery thrives, especially during evening hours when families need convenient dinner solutions.\nYoung professionals and established families both value high-quality, convenient meal options that save time while providing variety and authentic flavors.\nHome ownership rates indicate stable communities with established dining habits and disposable income for food services.\nThe growing preference for delivery over dining out, particularly among suburban families, creates consistent demand for ghost kitchen and meal delivery concepts.",
+      "driveTime": "15 min",
+      "homeowners": "45%",
+      "medianHomeValue": "$185K",
+      "diversity": "50+",
+      "hispanicPopulation": "25%"
+    },
+    "workforce": {
+      "count": "750K",
+      "description": "SAn Diego's dynamic workforce drives significant demand for convenient, high-quality meal options during busy workdays and corporate meetings.\nThe concentration of professional services, healthcare, and business operations creates a large population of time-conscious workers who value meal delivery services.\nAverage commute times and office-based work schedules create predictable lunch and dinner rush periods that food businesses can optimize around.\nThe rise of remote and hybrid work arrangements has expanded delivery opportunities to residential areas during traditional business hours.\nCorporate culture increasingly includes food benefits and catered meetings, providing opportunities for bulk catering and corporate accounts.\nBusiness lunch meetings remain important for relationship building, creating demand for professional-quality group meal orders and presentation-ready packaging.\nHigher-income professionals represent a premium market segment willing to pay for convenience, quality ingredients, and unique culinary experiences.",
+      "driveTime": "15 min",
+      "workFromHome": "12%",
+      "averageCommute": "25 min",
+      "highIncome": "22%",
+      "businessLunch": "65%"
+    },
+    "students": {
+      "count": "520K",
+      "description": "SAn Diego's educated population and student community drive innovation in food trends and represent early adopters of new delivery platforms and concepts.\nCollege students and recent graduates combine adventurous food preferences with strong digital engagement habits and regular delivery app usage.\nUCSD + SDSU creates a constant influx of young adults who view food delivery as an essential part of their lifestyle rather than a luxury service.\nStudents and young professionals often work irregular hours, creating demand for late-night delivery options and weekend meal services.\nThis educated demographic actively seeks out diverse cuisines, sustainable food options, and restaurants that align with their values and social media presence.\nGraduate students, medical residents, and young professionals have limited cooking time but sufficient income to prioritize convenient, nutritious meal options.\nThe concentration of educated consumers makes SAn Diego an ideal testing ground for innovative food concepts before expanding to other markets.",
+      "driveTime": "15 min",
+      "bachelors": "312K",
+      "advanced": "208K",
+      "foodDelivery": "35%",
+      "avgSpend": "$25"
+    },
+    "income": {
+      "median": "$88.5K",
+      "description": "SAn Diego's income diversity creates opportunities for food businesses to serve multiple market segments through strategic pricing and menu offerings.\nThe substantial middle-income population balances budget consciousness with willingness to pay for convenience during busy periods and special occasions.\nHigher-income households demonstrate different ordering behaviors, ordering delivery more frequently and spending more per order than average consumers.\nIncome distribution patterns reveal distinct market segments that can be served with different brands, pricing strategies, or menu offerings from the same commercial kitchen.\nProfessional services and established industries create seasonal income fluctuations that smart food entrepreneurs can capitalize on with targeted offerings.\nThe city's cost of living relative to income means residents have discretionary spending power for dining and delivery services.\nEconomic stability and employment growth in key industries support sustained demand for food services and premium dining experiences.",
+      "under50k": "38%",
+      "over100k": "28%",
+      "deliveryFrequency": "2.1x",
+      "avgOrderValue": "$38"
+    },
+    "foodScene": {
+      "title": "SAn Diego's Growing Food Scene",
+      "description": "SAn Diego boasts a vibrant and evolving culinary landscape that reflects both local traditions and innovative dining trends.\nThe city's food scene combines established favorites with emerging concepts, creating opportunities for entrepreneurs to both honor local preferences and introduce new ideas.\nFrom food trucks to fine dining establishments, SAn Diego offers diverse dining experiences that demonstrate consumer openness to culinary innovation.\nLocal food festivals, farmers markets, and culinary events showcase the community's appreciation for quality ingredients and creative preparation.\nThe city's food critics and social media influencers actively champion new restaurants and concepts, providing valuable marketing opportunities for new businesses.\nEstablished food culture creates a knowledgeable customer base that appreciates quality while remaining open to new flavors and concepts.\nThe growing food scene attracts food tourists and creates buzz that benefits all local food businesses through increased visibility and foot traffic."
+    },
+    "businessOpportunity": {
+      "title": "Why Start a Food Business in SAn Diego",
+      "description": "SAn Diego presents excellent opportunities for food entrepreneurs due to its diverse population, stable economy, and strong demand for convenient dining options.\nCalifornia's business-friendly environment includes favorable tax policies, streamlined permitting processes, and supportive small business resources.\nThe $15.2B California food service market continues expanding at 18% annually, driven by population growth and changing consumer preferences.\nCommercial kitchen rental costs in SAn Diego remain competitive compared to major metropolitan areas, allowing entrepreneurs to test concepts with manageable overhead.\nThe city's established delivery infrastructure and tech-savvy population create ideal conditions for ghost kitchen and food delivery concepts.\nAccess to diverse suppliers, skilled culinary professionals, and multicultural ingredients supports authentic cuisine development and menu innovation.\nSuccessful food concepts in SAn Diego can easily expand regionally or serve as testing grounds for national restaurant chains and food brands.",
+      "foodServiceMarket": "$15.2B",
+      "deliveryGrowth": "18%",
+      "ghostKitchenROI": "32%",
+      "startupCost": "$45K"
+    }
+  }
 }

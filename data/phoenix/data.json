@@ -25,7 +25,10 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJG1It--ERK4cRX55LpPAhZZg",
-      "categories": ["Food manufacturer", "Food processing company"],
+      "categories": [
+        "Food manufacturer",
+        "Food processing company"
+      ],
       "fid": "0x872b11e1fb2d521b:0x986521f0a44b9e5f",
       "cid": "10981220583845109343",
       "reviewsCount": 20,
@@ -115,7 +118,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJX8u80s8PK4cRWPVRj8vFFis",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x872b0fcfd2bccb5f:0x2b16c5cb8f51f558",
       "cid": "3104886471192081752",
       "reviewsCount": 5,
@@ -205,7 +210,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJdX7dwDkFK4cRF7VQhM7SlQ4",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x872b0539c0dd7e75:0xe95d2ce8450b517",
       "cid": "1050977872485856535",
       "reviewsCount": 1,
@@ -295,7 +302,10 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJpZA3laZtK4cRhT98fnZdkHU",
-      "categories": ["Shared-use commercial kitchen", "Food manufacturer"],
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Food manufacturer"
+      ],
       "fid": "0x872b6da6953790a5:0x75905d767e7c3f85",
       "cid": "8471373662593499013",
       "reviewsCount": 23,
@@ -393,7 +403,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJ_4kWYkITK4cRBoTZuyQYtlU",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x872b1342621689ff:0x55b61824bbd98406",
       "cid": "6176150485034697734",
       "reviewsCount": 0,
@@ -454,7 +466,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJfcToAsJvK4cRs-KMena4meI",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x872b6fc202e8c47d:0xe299b8767a8ce2b3",
       "cid": "16328284743010149043",
       "reviewsCount": 6,
@@ -561,7 +575,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJTSgJvi4TK4cRzmsCB-YlZ3Q",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x872b132ebe09284d:0x746725e607026bce",
       "cid": "8387714500891143118",
       "reviewsCount": 0,
@@ -758,7 +774,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJ-QOe_HsTK4cR40_Sw5WTdkg",
-      "categories": ["Caterer"],
+      "categories": [
+        "Caterer"
+      ],
       "fid": "0x872b137bfc9e03f9:0x48769395c3d24fe3",
       "cid": "5221523089427419107",
       "reviewsCount": 10,
@@ -820,5 +838,54 @@
       "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZNv7uk7MDEpv3pkXWiQxYvQqpvz2nV1YYDIzx9oYfJcQdbtcAMfHsUTVV9uFz3fcbLPssStCd5sy6WCS869wLEp0nIVYui3REH0gjsESQZkSaN0dQGYCc7ml_fhksaghgojqF=w408-h544-k-no",
       "kgmid": "/g/11bw2hnycf"
     }
-  ]
+  ],
+  "insights": {
+    "residents": {
+      "count": "1.6M",
+      "description": "Phoenix's diverse population creates exceptional opportunities for food entrepreneurs serving multicultural communities and busy families.\nThis demographic diversity reflects modern America's changing food preferences, with residents increasingly seeking authentic cuisines and convenient meal solutions.\nResearch shows that 60% of Phoenix consumers order takeout or delivery at least once a week, driven by busy lifestyles and dual-income households.\nThe city's residential patterns create distinct neighborhoods where food delivery thrives, especially during evening hours when families need convenient dinner solutions.\nYoung professionals and established families both value high-quality, convenient meal options that save time while providing variety and authentic flavors.\nHome ownership rates indicate stable communities with established dining habits and disposable income for food services.\nThe growing preference for delivery over dining out, particularly among suburban families, creates consistent demand for ghost kitchen and meal delivery concepts.",
+      "driveTime": "15 min",
+      "homeowners": "45%",
+      "medianHomeValue": "$185K",
+      "diversity": "50+",
+      "hispanicPopulation": "25%"
+    },
+    "workforce": {
+      "count": "860K",
+      "description": "Phoenix's dynamic workforce drives significant demand for convenient, high-quality meal options during busy workdays and corporate meetings.\nThe concentration of professional services, healthcare, and business operations creates a large population of time-conscious workers who value meal delivery services.\nAverage commute times and office-based work schedules create predictable lunch and dinner rush periods that food businesses can optimize around.\nThe rise of remote and hybrid work arrangements has expanded delivery opportunities to residential areas during traditional business hours.\nCorporate culture increasingly includes food benefits and catered meetings, providing opportunities for bulk catering and corporate accounts.\nBusiness lunch meetings remain important for relationship building, creating demand for professional-quality group meal orders and presentation-ready packaging.\nHigher-income professionals represent a premium market segment willing to pay for convenience, quality ingredients, and unique culinary experiences.",
+      "driveTime": "15 min",
+      "workFromHome": "12%",
+      "averageCommute": "25 min",
+      "highIncome": "22%",
+      "businessLunch": "65%"
+    },
+    "students": {
+      "count": "410K",
+      "description": "Phoenix's educated population and student community drive innovation in food trends and represent early adopters of new delivery platforms and concepts.\nCollege students and recent graduates combine adventurous food preferences with strong digital engagement habits and regular delivery app usage.\nASU + local colleges creates a constant influx of young adults who view food delivery as an essential part of their lifestyle rather than a luxury service.\nStudents and young professionals often work irregular hours, creating demand for late-night delivery options and weekend meal services.\nThis educated demographic actively seeks out diverse cuisines, sustainable food options, and restaurants that align with their values and social media presence.\nGraduate students, medical residents, and young professionals have limited cooking time but sufficient income to prioritize convenient, nutritious meal options.\nThe concentration of educated consumers makes Phoenix an ideal testing ground for innovative food concepts before expanding to other markets.",
+      "driveTime": "15 min",
+      "bachelors": "246K",
+      "advanced": "164K",
+      "foodDelivery": "35%",
+      "avgSpend": "$25"
+    },
+    "income": {
+      "median": "$64.9K",
+      "description": "Phoenix's income diversity creates opportunities for food businesses to serve multiple market segments through strategic pricing and menu offerings.\nThe substantial middle-income population balances budget consciousness with willingness to pay for convenience during busy periods and special occasions.\nHigher-income households demonstrate different ordering behaviors, ordering delivery more frequently and spending more per order than average consumers.\nIncome distribution patterns reveal distinct market segments that can be served with different brands, pricing strategies, or menu offerings from the same commercial kitchen.\nProfessional services and established industries create seasonal income fluctuations that smart food entrepreneurs can capitalize on with targeted offerings.\nThe city's cost of living relative to income means residents have discretionary spending power for dining and delivery services.\nEconomic stability and employment growth in key industries support sustained demand for food services and premium dining experiences.",
+      "under50k": "38%",
+      "over100k": "28%",
+      "deliveryFrequency": "2.1x",
+      "avgOrderValue": "$38"
+    },
+    "foodScene": {
+      "title": "Phoenix's Growing Food Scene",
+      "description": "Phoenix boasts a vibrant and evolving culinary landscape that reflects both local traditions and innovative dining trends.\nThe city's food scene combines established favorites with emerging concepts, creating opportunities for entrepreneurs to both honor local preferences and introduce new ideas.\nFrom food trucks to fine dining establishments, Phoenix offers diverse dining experiences that demonstrate consumer openness to culinary innovation.\nLocal food festivals, farmers markets, and culinary events showcase the community's appreciation for quality ingredients and creative preparation.\nThe city's food critics and social media influencers actively champion new restaurants and concepts, providing valuable marketing opportunities for new businesses.\nEstablished food culture creates a knowledgeable customer base that appreciates quality while remaining open to new flavors and concepts.\nThe growing food scene attracts food tourists and creates buzz that benefits all local food businesses through increased visibility and foot traffic."
+    },
+    "businessOpportunity": {
+      "title": "Why Start a Food Business in Phoenix",
+      "description": "Phoenix presents excellent opportunities for food entrepreneurs due to its diverse population, stable economy, and strong demand for convenient dining options.\nArizona's business-friendly environment includes favorable tax policies, streamlined permitting processes, and supportive small business resources.\nThe $3.2B Arizona food service market continues expanding at 31% annually, driven by population growth and changing consumer preferences.\nCommercial kitchen rental costs in Phoenix remain competitive compared to major metropolitan areas, allowing entrepreneurs to test concepts with manageable overhead.\nThe city's established delivery infrastructure and tech-savvy population create ideal conditions for ghost kitchen and food delivery concepts.\nAccess to diverse suppliers, skilled culinary professionals, and multicultural ingredients supports authentic cuisine development and menu innovation.\nSuccessful food concepts in Phoenix can easily expand regionally or serve as testing grounds for national restaurant chains and food brands.",
+      "foodServiceMarket": "$3.2B",
+      "deliveryGrowth": "31%",
+      "ghostKitchenROI": "32%",
+      "startupCost": "$45K"
+    }
+  }
 }

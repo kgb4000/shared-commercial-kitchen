@@ -167,7 +167,7 @@ function searchKitchens(searchTerm) {
 
 export async function GET(request, { params }) {
   try {
-    const { slug } = params
+    const { slug } = await params
 
     console.log('🍳 Kitchen API called for slug:', slug)
     console.log('📂 Data directory:', path.join(process.cwd(), 'data'))
@@ -256,7 +256,7 @@ export async function GET(request, { params }) {
 // Optional: Add POST method for updating kitchen data
 export async function POST(request, { params }) {
   try {
-    const { slug } = params
+    const { slug } = await params
     const updates = await request.json()
 
     console.log('🔄 Kitchen update requested for:', slug)

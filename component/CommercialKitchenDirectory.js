@@ -29,6 +29,8 @@ import {
   MapIcon,
 } from 'lucide-react'
 import BreadCrumbs from './BreadCrumbs'
+import AdSenseAd from './AdSenseAd'
+import OptimizedImage from './OptimizedImage'
 
 const CommercialKitchenDirectory = ({
   city = { city },
@@ -115,7 +117,7 @@ const CommercialKitchenDirectory = ({
     <div className="min-h-screen bg-gray-50">
       <BreadCrumbs city={city} state={state} />
 
-      <Hero city={city} state={state} kitchenCount={kitchens.length} />
+      {/* <Hero city={city} state={state} kitchenCount={kitchens.length} /> */}
 
       {/* Main Content */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-20 pb-8">
@@ -195,9 +197,9 @@ const CommercialKitchenDirectory = ({
             {/* Results Header */}
             <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-6">
               <div>
-                <h2 className="text-3xl font-bold text-gray-900 mb-2 max-w-sm">
+                <h1 className="text-3xl font-bold text-gray-900 mb-2 max-w-sm">
                   Commercial Kitchen for Rent in {city}
-                </h2>
+                </h1>
                 <p className="text-gray-600">
                   Showing {displayKitchens.length} verified kitchens
                 </p>
@@ -260,20 +262,15 @@ const CommercialKitchenDirectory = ({
                       viewType === 'list' ? 'w-80 flex-shrink-0' : ''
                     }`}
                   >
-                    <img
-                      src={
-                        kitchen.image ||
-                        '/images/commercial-kitchen-for-rent.jpg'
-                      }
+                    <OptimizedImage
+                      src={kitchen.image}
                       alt={kitchen.name || kitchen.title || 'Kitchen image'}
-                      onError={(e) => {
-                        e.currentTarget.onerror = null
-                        e.currentTarget.src =
-                          '/images/commercial-kitchen-for-rent.jpg'
-                      }}
+                      width={300}
+                      height={200}
                       className={`w-full object-cover group-hover:scale-105 transition-transform duration-300 ${
                         viewType === 'list' ? 'h-full' : 'h-56'
                       }`}
+                      fallbackSrc="/images/kitchen-placeholder.svg"
                     />
                     <div className="absolute top-4 right-4 flex gap-2">
                       <button className="p-2 bg-white/90 backdrop-blur-sm rounded-full hover:bg-white transition-colors">
@@ -402,20 +399,9 @@ const CommercialKitchenDirectory = ({
                 Showing {displayKitchens.length} results
               </p>
             </div>
-            <script
-              async
-              src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2967132781692430"
-              crossorigin="anonymous"
-            ></script>
-            <ins
-              className="adsbygoogle block"
-              // style="display:block"
-              data-ad-client="ca-pub-2967132781692430"
-              data-ad-slot="9128699685"
-              data-ad-format="auto"
-              data-full-width-responsive="true"
-            ></ins>
-            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+            <div className="my-8">
+              <AdSenseAd />
+            </div>
           </div>
         </div>
       </div>

@@ -25,7 +25,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJkbbEK4y1D4gRQtOC1BYNODc",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880fb58c2bc4b691:0x37380d16d482d342",
       "cid": "3978944662487618370",
       "reviewsCount": 23,
@@ -110,7 +112,10 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJsWIrwUgtDogR1SQy0Zy0B08",
-      "categories": ["Shared-use commercial kitchen", "Event venue"],
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Event venue"
+      ],
       "fid": "0x880e2d48c12b62b1:0x4f07b49cd13224d5",
       "cid": "5694718839450903765",
       "reviewsCount": 47,
@@ -205,7 +210,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJJ3HI54DTD4gRRw5Oe_VI3yo",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880fd380e7c87127:0x2adf48f57b4e0e47",
       "cid": "3089268088572350023",
       "reviewsCount": 14,
@@ -306,7 +313,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJC8jMIN9pD4gR_RWJKOGKhSg",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880f69df20ccc80b:0x28858ae1288915fd",
       "cid": "2919892633071982077",
       "reviewsCount": 1,
@@ -497,7 +506,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJATY5uf4lDogRJLdK6IQbGqk",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880e25feb9393601:0xa91a1b84e84ab724",
       "cid": "12185081999451141924",
       "reviewsCount": 17,
@@ -620,7 +631,10 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJNaD1aY4FD4gR5G_z0zkgNt4",
-      "categories": ["Shared-use commercial kitchen", "Caterer"],
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Caterer"
+      ],
       "fid": "0x880f058e69f5a035:0xde362039d3f36fe4",
       "cid": "16012020957903548388",
       "reviewsCount": 2,
@@ -796,7 +810,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJJR4FiqxvDogR257p_2TTCd0",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880e6fac8a051e25:0xdd09d364ffe99edb",
       "cid": "15927493987916160731",
       "reviewsCount": 3,
@@ -852,7 +868,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJH8IPwFXAD4gRFc-w2VMNPMA",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880fc055c00fc21f:0xc03c0d53d9b0cf15",
       "cid": "13851961207670492949",
       "reviewsCount": 12,
@@ -938,7 +956,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJReznLTf4DogR0CEDPp2lvvg",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880ef8372de7ec45:0xf8bea59d3e0321d0",
       "cid": "17923945661749993936",
       "reviewsCount": 9,
@@ -1021,7 +1041,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJSceDgpPvDogRghKRsLCdhqQ",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880eef938283c749:0xa4869db0b0911282",
       "cid": "11855336451301511810",
       "reviewsCount": 3,
@@ -1106,7 +1128,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJFVaWfRHLD4gRpU96OTuB1H4",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880fcb117d965615:0x7ed4813b397a4fa5",
       "cid": "9139071635208949669",
       "reviewsCount": 3,
@@ -1193,7 +1217,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJudkD0rf1DogRcy7TJ8MiM4c",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880ef5b7d203d9b9:0x873322c327d32e73",
       "cid": "9742168640514633331",
       "reviewsCount": 2,
@@ -1286,7 +1312,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJ2w0jfa3TD4gRDRWsHDhsPAA",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880fd3ad7d230ddb:0x3c6c381cac150d",
       "cid": "17007486857647373",
       "reviewsCount": 2,
@@ -1369,7 +1397,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJxZ-QFwARCIgRWkVdoNKRqwM",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x8808110017909fc5:0x3ab91d2a05d455a",
       "cid": "264465336950932826",
       "reviewsCount": 0,
@@ -1473,7 +1503,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJZRHVxjijD4gRRmPybOFoxpQ",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880fa338c6d51165:0x94c668e16cf26346",
       "cid": "10720371280406799174",
       "reviewsCount": 0,
@@ -1649,7 +1681,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJXW0agbj5dogRfJaVopx5j3k",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x8876f9b8811a6d5d:0x798f799ca295967c",
       "cid": "8759353513908475516",
       "reviewsCount": 0,
@@ -1848,7 +1882,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJE7Yuq7CFDogRGZdjCqwBZX4",
-      "categories": ["Coworking space"],
+      "categories": [
+        "Coworking space"
+      ],
       "fid": "0x880e85b0ab2eb613:0x7e6501ac0a639719",
       "cid": "9107687659846997785",
       "reviewsCount": 91,
@@ -1934,7 +1970,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJUbmFTQAxDogRBObpx3Qbw4U",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880e31004d85b951:0x85c31b74c7e9e604",
       "cid": "9638577815887144452",
       "reviewsCount": 0,
@@ -2156,7 +2194,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJMXCGb7MtDogRud9q6ZtMtaQ",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880e2db36f867031:0xa4b54c9be96adfb9",
       "cid": "11868476625524547513",
       "reviewsCount": 32,
@@ -2255,7 +2295,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJe3ncIFDND4gRLwnmfoHbtkU",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880fcd5020dc797b:0x45b6db817ee6092f",
       "cid": "5023443783604635951",
       "reviewsCount": 0,
@@ -2337,7 +2379,10 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJ7xP4xzMHdogRE3SHjs_DhTI",
-      "categories": ["Shared-use commercial kitchen", "Grocery store"],
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Grocery store"
+      ],
       "fid": "0x88760733c7f813ef:0x3285c3cf8e877413",
       "cid": "3640531170015802387",
       "reviewsCount": 5,
@@ -2544,7 +2589,10 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJ_____08yDogRi-tTIz7svOg",
-      "categories": ["Corporate office", "Shared-use commercial kitchen"],
+      "categories": [
+        "Corporate office",
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880e324fffffffff:0xe8bcec3e2353eb8b",
       "cid": "16770538864045714315",
       "reviewsCount": 3,
@@ -2643,7 +2691,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJu4L5ckIUDogRNCojOxlWMAw",
-      "categories": ["Caterer"],
+      "categories": [
+        "Caterer"
+      ],
       "fid": "0x880e144272f982bb:0xc3056193b232a34",
       "cid": "878296593703578164",
       "reviewsCount": 0,
@@ -2723,7 +2773,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJC4xlYwAtC4gRYPhTIGmTrOc",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880b2d0063658c0b:0xe7ac93692053f860",
       "cid": "16693879998478809184",
       "reviewsCount": 1,
@@ -2777,7 +2829,9 @@
       "permanentlyClosed": true,
       "temporarilyClosed": false,
       "placeId": "ChIJtfMPdCEtDogRuCqTPM-WNN8",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880e2d21740ff3b5:0xdf3496cf3c932ab8",
       "cid": "16083645986065558200",
       "reviewsCount": 0,
@@ -2820,7 +2874,9 @@
       "permanentlyClosed": true,
       "temporarilyClosed": false,
       "placeId": "ChIJcVBD8R7ND4gRXdCw8d30m10",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880fcd1ef1435071:0x5d9bf4ddf1b0d05d",
       "cid": "6745254100997296221",
       "reviewsCount": 0,
@@ -2864,7 +2920,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJ_0SsuPbRD4gRvm4Okz198rk",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880fd1f6b8ac44ff:0xb9f27d3d930e6ebe",
       "cid": "13398909544794320574",
       "reviewsCount": 0,
@@ -3062,7 +3120,9 @@
       "permanentlyClosed": true,
       "temporarilyClosed": false,
       "placeId": "ChIJHXGCTxEvDogRUnLXfMLZxLo",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x880e2f114f82711d:0xbac4d9c27cd77252",
       "cid": "13458121015831261778",
       "reviewsCount": 0,
@@ -3085,5 +3145,54 @@
       "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN1yaJqNjqnxp5oqK8bHDEL-iWzKBADb_rMpSB-=w445-h240-k-no",
       "kgmid": "/g/11spwfyk39"
     }
-  ]
+  ],
+  "insights": {
+    "residents": {
+      "count": "2.7M",
+      "description": "Chicago's diverse population creates exceptional opportunities for food entrepreneurs serving multicultural communities and busy families.\nThis demographic diversity reflects modern America's changing food preferences, with residents increasingly seeking authentic cuisines and convenient meal solutions.\nResearch shows that 60% of Chicago consumers order takeout or delivery at least once a week, driven by busy lifestyles and dual-income households.\nThe city's residential patterns create distinct neighborhoods where food delivery thrives, especially during evening hours when families need convenient dinner solutions.\nYoung professionals and established families both value high-quality, convenient meal options that save time while providing variety and authentic flavors.\nHome ownership rates indicate stable communities with established dining habits and disposable income for food services.\nThe growing preference for delivery over dining out, particularly among suburban families, creates consistent demand for ghost kitchen and meal delivery concepts.",
+      "driveTime": "15 min",
+      "homeowners": "45%",
+      "medianHomeValue": "$185K",
+      "diversity": "50+",
+      "hispanicPopulation": "25%"
+    },
+    "workforce": {
+      "count": "1.4M",
+      "description": "Chicago's dynamic workforce drives significant demand for convenient, high-quality meal options during busy workdays and corporate meetings.\nThe concentration of professional services, healthcare, and business operations creates a large population of time-conscious workers who value meal delivery services.\nAverage commute times and office-based work schedules create predictable lunch and dinner rush periods that food businesses can optimize around.\nThe rise of remote and hybrid work arrangements has expanded delivery opportunities to residential areas during traditional business hours.\nCorporate culture increasingly includes food benefits and catered meetings, providing opportunities for bulk catering and corporate accounts.\nBusiness lunch meetings remain important for relationship building, creating demand for professional-quality group meal orders and presentation-ready packaging.\nHigher-income professionals represent a premium market segment willing to pay for convenience, quality ingredients, and unique culinary experiences.",
+      "driveTime": "15 min",
+      "workFromHome": "12%",
+      "averageCommute": "25 min",
+      "highIncome": "22%",
+      "businessLunch": "65%"
+    },
+    "students": {
+      "count": "820K",
+      "description": "Chicago's educated population and student community drive innovation in food trends and represent early adopters of new delivery platforms and concepts.\nCollege students and recent graduates combine adventurous food preferences with strong digital engagement habits and regular delivery app usage.\nUniversity of Chicago + others creates a constant influx of young adults who view food delivery as an essential part of their lifestyle rather than a luxury service.\nStudents and young professionals often work irregular hours, creating demand for late-night delivery options and weekend meal services.\nThis educated demographic actively seeks out diverse cuisines, sustainable food options, and restaurants that align with their values and social media presence.\nGraduate students, medical residents, and young professionals have limited cooking time but sufficient income to prioritize convenient, nutritious meal options.\nThe concentration of educated consumers makes Chicago an ideal testing ground for innovative food concepts before expanding to other markets.",
+      "driveTime": "15 min",
+      "bachelors": "492K",
+      "advanced": "328K",
+      "foodDelivery": "35%",
+      "avgSpend": "$25"
+    },
+    "income": {
+      "median": "$65.8K",
+      "description": "Chicago's income diversity creates opportunities for food businesses to serve multiple market segments through strategic pricing and menu offerings.\nThe substantial middle-income population balances budget consciousness with willingness to pay for convenience during busy periods and special occasions.\nHigher-income households demonstrate different ordering behaviors, ordering delivery more frequently and spending more per order than average consumers.\nIncome distribution patterns reveal distinct market segments that can be served with different brands, pricing strategies, or menu offerings from the same commercial kitchen.\nProfessional services and established industries create seasonal income fluctuations that smart food entrepreneurs can capitalize on with targeted offerings.\nThe city's cost of living relative to income means residents have discretionary spending power for dining and delivery services.\nEconomic stability and employment growth in key industries support sustained demand for food services and premium dining experiences.",
+      "under50k": "38%",
+      "over100k": "28%",
+      "deliveryFrequency": "2.1x",
+      "avgOrderValue": "$38"
+    },
+    "foodScene": {
+      "title": "Chicago's Growing Food Scene",
+      "description": "Chicago boasts a vibrant and evolving culinary landscape that reflects both local traditions and innovative dining trends.\nThe city's food scene combines established favorites with emerging concepts, creating opportunities for entrepreneurs to both honor local preferences and introduce new ideas.\nFrom food trucks to fine dining establishments, Chicago offers diverse dining experiences that demonstrate consumer openness to culinary innovation.\nLocal food festivals, farmers markets, and culinary events showcase the community's appreciation for quality ingredients and creative preparation.\nThe city's food critics and social media influencers actively champion new restaurants and concepts, providing valuable marketing opportunities for new businesses.\nEstablished food culture creates a knowledgeable customer base that appreciates quality while remaining open to new flavors and concepts.\nThe growing food scene attracts food tourists and creates buzz that benefits all local food businesses through increased visibility and foot traffic."
+    },
+    "businessOpportunity": {
+      "title": "Why Start a Food Business in Chicago",
+      "description": "Chicago presents excellent opportunities for food entrepreneurs due to its diverse population, stable economy, and strong demand for convenient dining options.\nIllinois's business-friendly environment includes favorable tax policies, streamlined permitting processes, and supportive small business resources.\nThe $6.3B Illinois food service market continues expanding at 12% annually, driven by population growth and changing consumer preferences.\nCommercial kitchen rental costs in Chicago remain competitive compared to major metropolitan areas, allowing entrepreneurs to test concepts with manageable overhead.\nThe city's established delivery infrastructure and tech-savvy population create ideal conditions for ghost kitchen and food delivery concepts.\nAccess to diverse suppliers, skilled culinary professionals, and multicultural ingredients supports authentic cuisine development and menu innovation.\nSuccessful food concepts in Chicago can easily expand regionally or serve as testing grounds for national restaurant chains and food brands.",
+      "foodServiceMarket": "$6.3B",
+      "deliveryGrowth": "12%",
+      "ghostKitchenROI": "32%",
+      "startupCost": "$45K"
+    }
+  }
 }

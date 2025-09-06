@@ -32,13 +32,15 @@ export default function RootLayout({ children }) {
         data-gr-ext-installed=""
         cz-shortcut-listen="true"
       >
-        <Header />
-        {children}
-        <script
+        <Script
+          id="google-adsense"
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2967132781692430"
-          crossorigin="anonymous"
-        ></script>
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
+        <Header />
+        {children}
         <Footer />
       </body>
     </html>

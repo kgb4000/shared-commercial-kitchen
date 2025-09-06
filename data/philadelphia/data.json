@@ -62,7 +62,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.0622941912303683e20,
+      "owner_id": 106229419123036830000,
       "owner_title": "Alt Kitchen",
       "owner_link": "https://www.google.com/maps/contrib/106229419123036832811",
       "reservation_links": null,
@@ -73,9 +73,9 @@
       "location_reviews_link": "https://www.google.com/maps/place/Alt+Kitchen/@39.9993933,-75.110158,13.99z/data=!4m16!1m7!3m6!1s0x89c6b7da99a22e0f:0x5b21643e9a36b3ce!2sAlt+Kitchen!8m2!3d39.9993933!4d-75.110158!16s%2Fg%2F11ckvg1dmb!3m7!1s0x89c6b7da99a22e0f:0x5b21643e9a36b3ce!8m2!3d39.9993933!4d-75.110158!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJDy6imdq3xokRzrM2mj5kIVs",
       "google_id": "0x89c6b7da99a22e0f:0x5b21643e9a36b3ce",
-      "cid": 6.56663995172092e18,
+      "cid": 6566639951720920000,
       "kgmid": "/g/11s2kd65fq",
-      "reviews_id": 6.56663995172092e18,
+      "reviews_id": 6566639951720920000,
       "located_google_id": null
     },
     {
@@ -99,7 +99,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJy2I-EBG2xokR6onISa1pfws",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c6b611103e62cb:0xb7f69ad49c889ea",
       "cid": "828497049447598570",
       "reviewsCount": 21,
@@ -203,7 +205,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJU9VQ74W2xokRDEg5BsGP2R4",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c6b685ef50d553:0x1ed98fc10639480c",
       "cid": "2222965950279927820",
       "reviewsCount": 5,
@@ -288,7 +292,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJOS9KmFTtNIgR7Wy5o8NiPpE",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x8834ed54984a2f39:0x913e62c3a3b96ced",
       "cid": "10465911176460594413",
       "reviewsCount": 5,
@@ -397,7 +403,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJDy6imdq3xokRzrM2mj5kIVs",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c6b7da99a22e0f:0x5b21643e9a36b3ce",
       "cid": "6566639951720920014",
       "reviewsCount": 9,
@@ -470,7 +478,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJ437Yw44bxYkRClE9B5RcaYw",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c51b8ec3d87ee3:0x8c695c94073d510a",
       "cid": "10117719828710904074",
       "reviewsCount": 0,
@@ -523,7 +533,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJTXcURtS1xIkRueQL2tSdiQA",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c4b5d44614774d:0x899dd4da0be4b9",
       "cid": "38735609326199993",
       "reviewsCount": 8,
@@ -612,7 +624,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJ__8TOV_mxokRWJFskS7Bpz4",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c6e65f3913ffff:0x3ea7c12e916c9158",
       "cid": "4514789557214679384",
       "reviewsCount": 1,
@@ -664,7 +678,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJz3z_rvORxokRXWYT4n11V9A",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c691f3aeff7ccf:0xd057757de213665d",
       "cid": "15012597066387121757",
       "reviewsCount": 0,
@@ -818,7 +834,6 @@
       "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrFVOm7OfF6RhtnCLqFy7W2qwt_Z3h7nAhqrTM_bQ5AYDnr0dUj1PJKEgmN4RvWcNTaZ3ySR-Nq4CMU7WJvUCmIdiUzXwB4BWOVXjhaKCzfrgCeoi9B2RVKU_39nJJW7-E8_wZmmg=w408-h544-k-no",
       "kgmid": "/g/11scmzdrfc"
     },
-
     {
       "title": "The Dorrance Hamilton Center for Culinary Enterprises",
       "price": null,
@@ -842,7 +857,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJTfTqze7GxokRBxV3humk6C4",
-      "categories": ["Non-profit organization"],
+      "categories": [
+        "Non-profit organization"
+      ],
       "fid": "0x89c6c6eecdeaf44d:0x2ee8a4e986771507",
       "cid": "3380132843231843591",
       "reviewsCount": 41,
@@ -935,7 +952,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJXVx4b3TDxokRGtsNK2WKLSY",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c6c3746f785c5d:0x262d8a652b0ddb1a",
       "cid": "2751007114511899418",
       "reviewsCount": 0,
@@ -977,7 +996,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJnwMzB2C3xokRlCEDnKsTgDQ",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c6b7600733039f:0x348013ab9c032194",
       "cid": "3783045314769002900",
       "reviewsCount": 0,
@@ -1022,7 +1043,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJh0bjWo-VNIgRN12H8nXd3ps",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x8834958f5ae34687:0x9bdedd75f2875d37",
       "cid": "11231658019358465335",
       "reviewsCount": 2,
@@ -1571,7 +1594,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJ4YB3oC45xIkR3TkzhPV1Vt0",
-      "categories": ["Coworking space"],
+      "categories": [
+        "Coworking space"
+      ],
       "fid": "0x89c4392ea07780e1:0xdd5675f5843339dd",
       "cid": "15949064827724577245",
       "reviewsCount": 0,
@@ -1601,7 +1626,6 @@
       "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d9qoWOyRlM9RH8XuofrT-A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=334.82278&pitch=0&thumbfov=100",
       "kgmid": "/g/11fr0_nbrf"
     },
-
     {
       "title": "Hazleton Kitchen Incubator",
       "price": null,
@@ -1622,7 +1646,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJfZIVfBmlxYkRqYPbDhuWkcg",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c5a5197c15927d:0xc891961b0edb83a9",
       "cid": "14452497722166182825",
       "reviewsCount": 0,
@@ -1712,7 +1738,10 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJh0hrz9IXxIkR71CJwQ_0s3M",
-      "categories": ["Farm", "Shared-use commercial kitchen"],
+      "categories": [
+        "Farm",
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c417d2cf6b4887:0x73b3f40fc18950ef",
       "cid": "8337275683701608687",
       "reviewsCount": 12,
@@ -1742,7 +1771,6 @@
       "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMk-0-XXcnpn58WbKsCGEADIQfWZYXXcT27oCDa=w426-h240-k-no",
       "kgmid": "/g/11qnvn2sfr"
     },
-
     {
       "title": "Bond Collective",
       "price": null,
@@ -1853,7 +1881,11 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJY6TyDaXxxokRHwjIszrHVB8",
-      "categories": ["Bakery", "Corporate gift supplier", "Wholesale bakery"],
+      "categories": [
+        "Bakery",
+        "Corporate gift supplier",
+        "Wholesale bakery"
+      ],
       "fid": "0x89c6f1a50df2a463:0x1f54c73ab3c8081f",
       "cid": "2257648368157722655",
       "reviewsCount": 93,
@@ -1948,7 +1980,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJQ5QYN0klxokRSZukmk53iI4",
-      "categories": ["Food manufacturer"],
+      "categories": [
+        "Food manufacturer"
+      ],
       "fid": "0x89c6254937189443:0x8e88774e9aa49b49",
       "cid": "10270590129704049481",
       "reviewsCount": 3,
@@ -2022,7 +2056,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJAQCQs5QkxokR-LkzX4gOhVY",
-      "categories": ["Bakery"],
+      "categories": [
+        "Bakery"
+      ],
       "fid": "0x89c62494b3900001:0x56850e885f33b9f8",
       "cid": "6234405238039886328",
       "reviewsCount": 0,
@@ -2085,7 +2121,10 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJkUhQ6lahz4kRcgH5pZ6_jLw",
-      "categories": ["Soup kitchen", "Food service"],
+      "categories": [
+        "Soup kitchen",
+        "Food service"
+      ],
       "fid": "0x89cfa156ea504891:0xbc8cbf9ea5f90172",
       "cid": "13586444863980241266",
       "reviewsCount": 6,
@@ -2123,5 +2162,54 @@
       "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DnIBA8E9sJBh3tKHlKuU1A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=79.30439&pitch=0&thumbfov=100",
       "kgmid": "/g/1tgdjzs8"
     }
-  ]
+  ],
+  "insights": {
+    "residents": {
+      "count": "1.6M",
+      "description": "Philadelphia's diverse population creates exceptional opportunities for food entrepreneurs serving multicultural communities and busy families.\nThis demographic diversity reflects modern America's changing food preferences, with residents increasingly seeking authentic cuisines and convenient meal solutions.\nResearch shows that 60% of Philadelphia consumers order takeout or delivery at least once a week, driven by busy lifestyles and dual-income households.\nThe city's residential patterns create distinct neighborhoods where food delivery thrives, especially during evening hours when families need convenient dinner solutions.\nYoung professionals and established families both value high-quality, convenient meal options that save time while providing variety and authentic flavors.\nHome ownership rates indicate stable communities with established dining habits and disposable income for food services.\nThe growing preference for delivery over dining out, particularly among suburban families, creates consistent demand for ghost kitchen and meal delivery concepts.",
+      "driveTime": "15 min",
+      "homeowners": "45%",
+      "medianHomeValue": "$185K",
+      "diversity": "50+",
+      "hispanicPopulation": "25%"
+    },
+    "workforce": {
+      "count": "820K",
+      "description": "Philadelphia's dynamic workforce drives significant demand for convenient, high-quality meal options during busy workdays and corporate meetings.\nThe concentration of professional services, healthcare, and business operations creates a large population of time-conscious workers who value meal delivery services.\nAverage commute times and office-based work schedules create predictable lunch and dinner rush periods that food businesses can optimize around.\nThe rise of remote and hybrid work arrangements has expanded delivery opportunities to residential areas during traditional business hours.\nCorporate culture increasingly includes food benefits and catered meetings, providing opportunities for bulk catering and corporate accounts.\nBusiness lunch meetings remain important for relationship building, creating demand for professional-quality group meal orders and presentation-ready packaging.\nHigher-income professionals represent a premium market segment willing to pay for convenience, quality ingredients, and unique culinary experiences.",
+      "driveTime": "15 min",
+      "workFromHome": "12%",
+      "averageCommute": "25 min",
+      "highIncome": "22%",
+      "businessLunch": "65%"
+    },
+    "students": {
+      "count": "450K",
+      "description": "Philadelphia's educated population and student community drive innovation in food trends and represent early adopters of new delivery platforms and concepts.\nCollege students and recent graduates combine adventurous food preferences with strong digital engagement habits and regular delivery app usage.\nUPenn + Temple + others creates a constant influx of young adults who view food delivery as an essential part of their lifestyle rather than a luxury service.\nStudents and young professionals often work irregular hours, creating demand for late-night delivery options and weekend meal services.\nThis educated demographic actively seeks out diverse cuisines, sustainable food options, and restaurants that align with their values and social media presence.\nGraduate students, medical residents, and young professionals have limited cooking time but sufficient income to prioritize convenient, nutritious meal options.\nThe concentration of educated consumers makes Philadelphia an ideal testing ground for innovative food concepts before expanding to other markets.",
+      "driveTime": "15 min",
+      "bachelors": "270K",
+      "advanced": "180K",
+      "foodDelivery": "35%",
+      "avgSpend": "$25"
+    },
+    "income": {
+      "median": "$49.1K",
+      "description": "Philadelphia's income diversity creates opportunities for food businesses to serve multiple market segments through strategic pricing and menu offerings.\nThe substantial middle-income population balances budget consciousness with willingness to pay for convenience during busy periods and special occasions.\nHigher-income households demonstrate different ordering behaviors, ordering delivery more frequently and spending more per order than average consumers.\nIncome distribution patterns reveal distinct market segments that can be served with different brands, pricing strategies, or menu offerings from the same commercial kitchen.\nProfessional services and established industries create seasonal income fluctuations that smart food entrepreneurs can capitalize on with targeted offerings.\nThe city's cost of living relative to income means residents have discretionary spending power for dining and delivery services.\nEconomic stability and employment growth in key industries support sustained demand for food services and premium dining experiences.",
+      "under50k": "38%",
+      "over100k": "28%",
+      "deliveryFrequency": "2.1x",
+      "avgOrderValue": "$38"
+    },
+    "foodScene": {
+      "title": "Philadelphia's Growing Food Scene",
+      "description": "Philadelphia boasts a vibrant and evolving culinary landscape that reflects both local traditions and innovative dining trends.\nThe city's food scene combines established favorites with emerging concepts, creating opportunities for entrepreneurs to both honor local preferences and introduce new ideas.\nFrom food trucks to fine dining establishments, Philadelphia offers diverse dining experiences that demonstrate consumer openness to culinary innovation.\nLocal food festivals, farmers markets, and culinary events showcase the community's appreciation for quality ingredients and creative preparation.\nThe city's food critics and social media influencers actively champion new restaurants and concepts, providing valuable marketing opportunities for new businesses.\nEstablished food culture creates a knowledgeable customer base that appreciates quality while remaining open to new flavors and concepts.\nThe growing food scene attracts food tourists and creates buzz that benefits all local food businesses through increased visibility and foot traffic."
+    },
+    "businessOpportunity": {
+      "title": "Why Start a Food Business in Philadelphia",
+      "description": "Philadelphia presents excellent opportunities for food entrepreneurs due to its diverse population, stable economy, and strong demand for convenient dining options.\nPennsylvania's business-friendly environment includes favorable tax policies, streamlined permitting processes, and supportive small business resources.\nThe $5.8B Pennsylvania food service market continues expanding at 14% annually, driven by population growth and changing consumer preferences.\nCommercial kitchen rental costs in Philadelphia remain competitive compared to major metropolitan areas, allowing entrepreneurs to test concepts with manageable overhead.\nThe city's established delivery infrastructure and tech-savvy population create ideal conditions for ghost kitchen and food delivery concepts.\nAccess to diverse suppliers, skilled culinary professionals, and multicultural ingredients supports authentic cuisine development and menu innovation.\nSuccessful food concepts in Philadelphia can easily expand regionally or serve as testing grounds for national restaurant chains and food brands.",
+      "foodServiceMarket": "$5.8B",
+      "deliveryGrowth": "14%",
+      "ghostKitchenROI": "32%",
+      "startupCost": "$45K"
+    }
+  }
 }

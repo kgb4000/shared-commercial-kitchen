@@ -110,7 +110,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.0301089910617935e20,
+      "owner_id": 103010899106179350000,
       "owner_title": "Our Time Kitchen",
       "owner_link": "https://www.google.com/maps/contrib/103010899106179343025",
       "reservation_links": null,
@@ -121,9 +121,9 @@
       "location_reviews_link": "https://www.google.com/maps/place/Our+Time+Kitchen/@39.3160685,-76.6190642,13.99z/data=!4m16!1m7!3m6!1s0x89c805012d2cdbe5:0x4001f4cd02c27a04!2sOur+Time+Kitchen!8m2!3d39.3160685!4d-76.6190642!16s%2Fg%2F11ckvg1dmb!3m7!1s0x89c805012d2cdbe5:0x4001f4cd02c27a04!8m2!3d39.3160685!4d-76.6190642!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJ5dssLQEFyIkRBHrCAs30AUA",
       "google_id": "0x89c805012d2cdbe5:0x4001f4cd02c27a04",
-      "cid": 4.612236654755872e18,
+      "cid": 4612236654755872000,
       "kgmid": "/g/11t1jfc80x",
-      "reviews_id": 4.612236654755872e18,
+      "reviews_id": 4612236654755872000,
       "located_google_id": null
     },
     {
@@ -149,7 +149,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJq6pOg1UPyIkRAeS10mfmLw8",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c80f55834eaaab:0xf2fe667d2b5e401",
       "cid": "1094346568065475585",
       "reviewsCount": 19,
@@ -245,7 +247,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJYdgqQG8FyIkRBXHtW_3yZrg",
-      "categories": ["Business development service"],
+      "categories": [
+        "Business development service"
+      ],
       "fid": "0x89c8056f402ad861:0xb866f2fd5bed7105",
       "cid": "13287574920586162437",
       "reviewsCount": 30,
@@ -330,7 +334,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJxQVd_O4FyIkRk_huWx6_YWU",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c805eefc5d05c5:0x6561bf1e5b6ef893",
       "cid": "7305330207675578515",
       "reviewsCount": 17,
@@ -516,7 +522,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJLfc4OgIDyIkRieNIxXsVvYQ",
-      "categories": ["Makerspace"],
+      "categories": [
+        "Makerspace"
+      ],
       "fid": "0x89c803023a38f72d:0x84bd157bc548e389",
       "cid": "9564824804939850633",
       "reviewsCount": 3,
@@ -774,7 +782,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJOWPxTfZLuIkRmlwpEU_AHx0",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89b84bf64df16339:0x1d1fc04f11295c9a",
       "cid": "2098607397200813210",
       "reviewsCount": 0,
@@ -862,7 +872,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJodpM-cOnt4kRqOKb9sBxL6A",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89b7a7c3f94cdaa1:0xa02f71c0f69be2a8",
       "cid": "11542569443558941352",
       "reviewsCount": 30,
@@ -969,7 +981,10 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJncVKCCvlx4kR_8Z1kygdclw",
-      "categories": ["Shared-use commercial kitchen", "Event venue"],
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Event venue"
+      ],
       "fid": "0x89c7e52b084ac59d:0x5c721d289375c6ff",
       "cid": "6661418858944251647",
       "reviewsCount": 5,
@@ -1537,7 +1552,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJqyccw3IFyIkRIexaplPzaes",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c80572c31c27ab:0xeb69f353a65aec21",
       "cid": "16963357012066495521",
       "reviewsCount": 2,
@@ -1622,7 +1639,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJGSZjSGMFyIkRZVJMxYAlXTk",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x89c8056348632619:0x395d2580c54c5265",
       "cid": "4133501267992138341",
       "reviewsCount": 33,
@@ -1888,7 +1907,11 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJD8xEk4UFyIkRkYjmK03D6xQ",
-      "categories": ["Coworking space", "Conference center", "Event venue"],
+      "categories": [
+        "Coworking space",
+        "Conference center",
+        "Event venue"
+      ],
       "fid": "0x89c805859344cc0f:0x14ebc34d2be68891",
       "cid": "1507513236501989521",
       "reviewsCount": 84,
@@ -1991,7 +2014,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJQ2csS00fyIkR1hSzk6zfdUQ",
-      "categories": ["Recreation center"],
+      "categories": [
+        "Recreation center"
+      ],
       "fid": "0x89c81f4d4b2c6743:0x4475dfac93b314d6",
       "cid": "4933094899159602390",
       "reviewsCount": 4,
@@ -2108,7 +2133,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.1311671674424056e20,
+      "owner_id": 113116716744240560000,
       "owner_title": "STC Soul Joint-Commissary Kitchen",
       "owner_link": "https://www.google.com/maps/contrib/113116716744240563832",
       "reservation_links": null,
@@ -2119,9 +2144,9 @@
       "location_reviews_link": "https://www.google.com/maps/place/STC+Soul+Joint-Commissary+Kitchen/@38.6692855,-76.9965721,13.99z/data=!4m16!1m7!3m6!1s0x89b7a7c3f94cdaa1:0xa02f71c0f69be2a8!2sSTC+Soul+Joint-Commissary+Kitchen!8m2!3d38.6692855!4d-76.9965721!16s%2Fg%2F11ckvg1dmb!3m7!1s0x89b7a7c3f94cdaa1:0xa02f71c0f69be2a8!8m2!3d38.6692855!4d-76.9965721!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJodpM-cOnt4kRqOKb9sBxL6A",
       "google_id": "0x89b7a7c3f94cdaa1:0xa02f71c0f69be2a8",
-      "cid": 1.154256944355894e19,
+      "cid": 11542569443558940000,
       "kgmid": "/g/11ls_zr3st",
-      "reviews_id": -6.90417463015061e18,
+      "reviews_id": -6904174630150610000,
       "located_google_id": null
     },
     {
@@ -2216,7 +2241,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.0302367867387195e20,
+      "owner_id": 103023678673871950000,
       "owner_title": "Baltimore Food & Beverage Maker’s Space",
       "owner_link": "https://www.google.com/maps/contrib/103023678673871947103",
       "reservation_links": null,
@@ -2227,9 +2252,9 @@
       "location_reviews_link": "https://www.google.com/maps/place/Baltimore+Food+%26+Beverage+Maker%E2%80%99s+Space/@39.3293774,-76.6096884,13.99z/data=!4m16!1m7!3m6!1s0x89c803023a38f72d:0x84bd157bc548e389!2sBaltimore+Food+%26+Beverage+Maker%E2%80%99s+Space!8m2!3d39.3293774!4d-76.6096884!16s%2Fg%2F11ckvg1dmb!3m7!1s0x89c803023a38f72d:0x84bd157bc548e389!8m2!3d39.3293774!4d-76.6096884!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJLfc4OgIDyIkRieNIxXsVvYQ",
       "google_id": "0x89c803023a38f72d:0x84bd157bc548e389",
-      "cid": 9.56482480493985e18,
+      "cid": 9564824804939850000,
       "kgmid": "/g/11h1yw0jy8",
-      "reviews_id": -8.881919268769701e18,
+      "reviews_id": -8881919268769701000,
       "located_google_id": null
     },
     {
@@ -2310,7 +2335,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.0599104698268426e20,
+      "owner_id": 105991046982684260000,
       "owner_title": "B'More Made with Pride Commercial Kitchen",
       "owner_link": "https://www.google.com/maps/contrib/105991046982684265335",
       "reservation_links": null,
@@ -2321,9 +2346,9 @@
       "location_reviews_link": "https://www.google.com/maps/place/B%27More+Made+with+Pride+Commercial+Kitchen/@39.36278,-76.55200669999999,13.99z/data=!4m16!1m7!3m6!1s0x89c80f55834eaaab:0xf2fe667d2b5e401!2sB%27More+Made+with+Pride+Commercial+Kitchen!8m2!3d39.36278!4d-76.55200669999999!16s%2Fg%2F11ckvg1dmb!3m7!1s0x89c80f55834eaaab:0xf2fe667d2b5e401!8m2!3d39.36278!4d-76.55200669999999!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJq6pOg1UPyIkRAeS10mfmLw8",
       "google_id": "0x89c80f55834eaaab:0xf2fe667d2b5e401",
-      "cid": 1.0943465680654756e18,
+      "cid": 1094346568065475600,
       "kgmid": "/g/11j03brzcc",
-      "reviews_id": 1.0943465680654756e18,
+      "reviews_id": 1094346568065475600,
       "located_google_id": null
     },
     {
@@ -2391,7 +2416,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.116774988705023e20,
+      "owner_id": 111677498870502300000,
       "owner_title": "Breath Taking Soul",
       "owner_link": "https://www.google.com/maps/contrib/111677498870502291468",
       "reservation_links": null,
@@ -2402,10 +2427,59 @@
       "location_reviews_link": "https://www.google.com/maps/place/Breath+Taking+Soul/@39.289866599999996,-76.6208037,13.99z/data=!4m16!1m7!3m6!1s0x89c80572c31c27ab:0xeb69f353a65aec21!2sBreath+Taking+Soul!8m2!3d39.289866599999996!4d-76.6208037!16s%2Fg%2F11ckvg1dmb!3m7!1s0x89c80572c31c27ab:0xeb69f353a65aec21!8m2!3d39.289866599999996!4d-76.6208037!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJqyccw3IFyIkRIexaplPzaes",
       "google_id": "0x89c80572c31c27ab:0xeb69f353a65aec21",
-      "cid": 1.6963357012066497e19,
+      "cid": 16963357012066497000,
       "kgmid": "/g/11sdsqm5cf",
-      "reviews_id": -1.483387061643056e18,
+      "reviews_id": -1483387061643056000,
       "located_google_id": null
     }
-  ]
+  ],
+  "insights": {
+    "residents": {
+      "count": "585.7K",
+      "description": "Baltimore's diverse population creates exceptional opportunities for food entrepreneurs serving multicultural communities and busy families.\nThis demographic diversity reflects modern America's changing food preferences, with residents increasingly seeking authentic cuisines and convenient meal solutions.\nResearch shows that 60% of Baltimore consumers order takeout or delivery at least once a week, driven by busy lifestyles and dual-income households.\nThe city's residential patterns create distinct neighborhoods where food delivery thrives, especially during evening hours when families need convenient dinner solutions.\nYoung professionals and established families both value high-quality, convenient meal options that save time while providing variety and authentic flavors.\nHome ownership rates indicate stable communities with established dining habits and disposable income for food services.\nThe growing preference for delivery over dining out, particularly among suburban families, creates consistent demand for ghost kitchen and meal delivery concepts.",
+      "driveTime": "15 min",
+      "homeowners": "45%",
+      "medianHomeValue": "$185K",
+      "diversity": "50+",
+      "hispanicPopulation": "25%"
+    },
+    "workforce": {
+      "count": "360K",
+      "description": "Baltimore's dynamic workforce drives significant demand for convenient, high-quality meal options during busy workdays and corporate meetings.\nThe concentration of professional services, healthcare, and business operations creates a large population of time-conscious workers who value meal delivery services.\nAverage commute times and office-based work schedules create predictable lunch and dinner rush periods that food businesses can optimize around.\nThe rise of remote and hybrid work arrangements has expanded delivery opportunities to residential areas during traditional business hours.\nCorporate culture increasingly includes food benefits and catered meetings, providing opportunities for bulk catering and corporate accounts.\nBusiness lunch meetings remain important for relationship building, creating demand for professional-quality group meal orders and presentation-ready packaging.\nHigher-income professionals represent a premium market segment willing to pay for convenience, quality ingredients, and unique culinary experiences.",
+      "driveTime": "15 min",
+      "workFromHome": "12%",
+      "averageCommute": "25 min",
+      "highIncome": "22%",
+      "businessLunch": "65%"
+    },
+    "students": {
+      "count": "180K",
+      "description": "Baltimore's educated population and student community drive innovation in food trends and represent early adopters of new delivery platforms and concepts.\nCollege students and recent graduates combine adventurous food preferences with strong digital engagement habits and regular delivery app usage.\nJohns Hopkins + others creates a constant influx of young adults who view food delivery as an essential part of their lifestyle rather than a luxury service.\nStudents and young professionals often work irregular hours, creating demand for late-night delivery options and weekend meal services.\nThis educated demographic actively seeks out diverse cuisines, sustainable food options, and restaurants that align with their values and social media presence.\nGraduate students, medical residents, and young professionals have limited cooking time but sufficient income to prioritize convenient, nutritious meal options.\nThe concentration of educated consumers makes Baltimore an ideal testing ground for innovative food concepts before expanding to other markets.",
+      "driveTime": "15 min",
+      "bachelors": "108K",
+      "advanced": "72K",
+      "foodDelivery": "35%",
+      "avgSpend": "$25"
+    },
+    "income": {
+      "median": "$54.1K",
+      "description": "Baltimore's income diversity creates opportunities for food businesses to serve multiple market segments through strategic pricing and menu offerings.\nThe substantial middle-income population balances budget consciousness with willingness to pay for convenience during busy periods and special occasions.\nHigher-income households demonstrate different ordering behaviors, ordering delivery more frequently and spending more per order than average consumers.\nIncome distribution patterns reveal distinct market segments that can be served with different brands, pricing strategies, or menu offerings from the same commercial kitchen.\nProfessional services and established industries create seasonal income fluctuations that smart food entrepreneurs can capitalize on with targeted offerings.\nThe city's cost of living relative to income means residents have discretionary spending power for dining and delivery services.\nEconomic stability and employment growth in key industries support sustained demand for food services and premium dining experiences.",
+      "under50k": "38%",
+      "over100k": "28%",
+      "deliveryFrequency": "2.1x",
+      "avgOrderValue": "$38"
+    },
+    "foodScene": {
+      "title": "Baltimore's Growing Food Scene",
+      "description": "Baltimore boasts a vibrant and evolving culinary landscape that reflects both local traditions and innovative dining trends.\nThe city's food scene combines established favorites with emerging concepts, creating opportunities for entrepreneurs to both honor local preferences and introduce new ideas.\nFrom food trucks to fine dining establishments, Baltimore offers diverse dining experiences that demonstrate consumer openness to culinary innovation.\nLocal food festivals, farmers markets, and culinary events showcase the community's appreciation for quality ingredients and creative preparation.\nThe city's food critics and social media influencers actively champion new restaurants and concepts, providing valuable marketing opportunities for new businesses.\nEstablished food culture creates a knowledgeable customer base that appreciates quality while remaining open to new flavors and concepts.\nThe growing food scene attracts food tourists and creates buzz that benefits all local food businesses through increased visibility and foot traffic."
+    },
+    "businessOpportunity": {
+      "title": "Why Start a Food Business in Baltimore",
+      "description": "Baltimore presents excellent opportunities for food entrepreneurs due to its diverse population, stable economy, and strong demand for convenient dining options.\nMaryland's business-friendly environment includes favorable tax policies, streamlined permitting processes, and supportive small business resources.\nThe $2.9B Maryland food service market continues expanding at 17% annually, driven by population growth and changing consumer preferences.\nCommercial kitchen rental costs in Baltimore remain competitive compared to major metropolitan areas, allowing entrepreneurs to test concepts with manageable overhead.\nThe city's established delivery infrastructure and tech-savvy population create ideal conditions for ghost kitchen and food delivery concepts.\nAccess to diverse suppliers, skilled culinary professionals, and multicultural ingredients supports authentic cuisine development and menu innovation.\nSuccessful food concepts in Baltimore can easily expand regionally or serve as testing grounds for national restaurant chains and food brands.",
+      "foodServiceMarket": "$2.9B",
+      "deliveryGrowth": "17%",
+      "ghostKitchenROI": "32%",
+      "startupCost": "$45K"
+    }
+  }
 }

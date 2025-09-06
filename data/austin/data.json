@@ -77,7 +77,10 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJE7lfRHC1RIYRpVo-b73A8YA",
-      "categories": ["Shared-use commercial kitchen", "Event venue"],
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Event venue"
+      ],
       "fid": "0x8644b570445fb913:0x80f1c0bd6f3e5aa5",
       "cid": "9291419426089753253",
       "reviewsCount": 71,
@@ -570,7 +573,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJOeXhzPG3RIYRc-cWXskDKm0",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x8644b7f1cce1e539:0x6d2a03c95e16e773",
       "cid": "7866103862557861747",
       "reviewsCount": 2,
@@ -652,7 +657,10 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJFzrophe3RIYRR6gI9gnWjIM",
-      "categories": ["Coworking space", "Shared-use commercial kitchen"],
+      "categories": [
+        "Coworking space",
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x8644b717a6e83a17:0x838cd609f608a847",
       "cid": "9479186653978863687",
       "reviewsCount": 8,
@@ -763,7 +771,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJ3baRtYy1RIYRmI3WU59kVf8",
-      "categories": ["Food and beverage consultant"],
+      "categories": [
+        "Food and beverage consultant"
+      ],
       "fid": "0x8644b58cb591b6dd:0xff55649f53d68d98",
       "cid": "18398722488161176984",
       "reviewsCount": 9,
@@ -919,7 +929,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJud-aQE7NRIYRCxA1m87xCE0",
-      "categories": ["Caterer"],
+      "categories": [
+        "Caterer"
+      ],
       "fid": "0x8644cd4e409adfb9:0x4d08f1ce9b35100b",
       "cid": "5550952410403639307",
       "reviewsCount": 0,
@@ -1113,7 +1125,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJ3USnAPrLRIYR-etUOG0zGZ0",
-      "categories": ["Restaurant supply store"],
+      "categories": [
+        "Restaurant supply store"
+      ],
       "fid": "0x8644cbfa00a744dd:0x9d19336d3854ebf9",
       "cid": "11320135682561993721",
       "reviewsCount": 0,
@@ -1205,7 +1219,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJS0yQcIPLRIYRVYXoCnn9aVw",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x8644cb8370904c4b:0x5c69fd790ae88555",
       "cid": "6659132220359869781",
       "reviewsCount": 0,
@@ -1280,7 +1296,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJF08jwq61RIYRSkOVSh9Rh_Y",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x8644b5aec2234f17:0xf687511f4a95434a",
       "cid": "17764256450023342922",
       "reviewsCount": 2,
@@ -1403,7 +1421,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.1775851734132472e20,
+      "owner_id": 117758517341324720000,
       "owner_title": "Manon's Shared Kitchen - Commercial Kitchen",
       "owner_link": "https://www.google.com/maps/contrib/117758517341324716347",
       "reservation_links": null,
@@ -1471,7 +1489,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.0519867112495432e20,
+      "owner_id": 105198671124954320000,
       "owner_title": "Capital Kitchens - Shared Commercial Kitchen",
       "owner_link": "https://www.google.com/maps/contrib/105198671124954312447",
       "reservation_links": null,
@@ -1482,9 +1500,9 @@
       "location_reviews_link": "https://www.google.com/maps/place/Capital+Kitchens+-+Shared+Commercial+Kitchen/@30.2136708,-97.79308759999999,13.99z/data=!4m16!1m7!3m6!1s0x865b4b51b3a13ce9:0x6fce3b2a21f5934e!2sCapital+Kitchens+-+Shared+Commercial+Kitchen!8m2!3d30.2136708!4d-97.79308759999999!16s%2Fg%2F11ckvg1dmb!3m7!1s0x865b4b51b3a13ce9:0x6fce3b2a21f5934e!8m2!3d30.2136708!4d-97.79308759999999!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJ6Tyhs1FLW4YRTpP1ISo7zm8",
       "google_id": "0x865b4b51b3a13ce9:0x6fce3b2a21f5934e",
-      "cid": 8.056441835556804e18,
+      "cid": 8056441835556804000,
       "kgmid": "/g/1ptwlkskv",
-      "reviews_id": 8.056441835556804e18,
+      "reviews_id": 8056441835556804000,
       "located_google_id": null
     },
     {
@@ -1559,7 +1577,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.129530905584171e20,
+      "owner_id": 112953090558417100000,
       "owner_title": "PREP ATX Commercial Kitchens",
       "owner_link": "https://www.google.com/maps/contrib/112953090558417088737",
       "reservation_links": null,
@@ -1570,9 +1588,9 @@
       "location_reviews_link": "https://www.google.com/maps/place/PREP+ATX+Commercial+Kitchens/@30.336745099999998,-97.6878883,13.99z/data=!4m16!1m7!3m6!1s0x8644c91e9dc4cfdb:0x7a339393a6d1f83f!2sPREP+ATX+Commercial+Kitchens!8m2!3d30.336745099999998!4d-97.6878883!16s%2Fg%2F11ckvg1dmb!3m7!1s0x8644c91e9dc4cfdb:0x7a339393a6d1f83f!8m2!3d30.336745099999998!4d-97.6878883!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJ28_EnR7JRIYRP_jRppOTM3o",
       "google_id": "0x8644c91e9dc4cfdb:0x7a339393a6d1f83f",
-      "cid": 8.805543958807706e18,
+      "cid": 8805543958807706000,
       "kgmid": "/g/11j0r3tcy6",
-      "reviews_id": 8.805543958807706e18,
+      "reviews_id": 8805543958807706000,
       "located_google_id": null
     },
     {
@@ -1638,7 +1656,7 @@
       "location_reviews_link": "https://www.google.com/maps/place/Capital+Kitchens+Chef+Center+%26+Commissary+Kitchen+Rental/@30.327736899999998,-97.7498825,13.99z/data=!4m16!1m7!3m6!1s0x8644cb37b34f7159:0xcc93a3188ca4654a!2sCapital+Kitchens+Chef+Center+%26+Commissary+Kitchen+Rental!8m2!3d30.327736899999998!4d-97.7498825!16s%2Fg%2F11ckvg1dmb!3m7!1s0x8644cb37b34f7159:0xcc93a3188ca4654a!8m2!3d30.327736899999998!4d-97.7498825!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJWXFPszfLRIYRSmWkjBijk8w",
       "google_id": "0x8644cb37b34f7159:0xcc93a3188ca4654a",
-      "cid": 1.4741305331147893e19,
+      "cid": 14741305331147893000,
       "kgmid": "/g/11h1vh72tc",
       "reviews_id": "None",
       "located_google_id": null
@@ -1740,7 +1758,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.175177842404938e20,
+      "owner_id": 117517784240493800000,
       "owner_title": "Commercial Kitchen Factories Austin North Commissary",
       "owner_link": "https://www.google.com/maps/contrib/117517784240493810581",
       "reservation_links": null,
@@ -1751,9 +1769,9 @@
       "location_reviews_link": "https://www.google.com/maps/place/Commercial+Kitchen+Factories+Austin+-+North+Commissary/@30.4666206,-97.6579601,13.99z/data=!4m16!1m7!3m6!1s0x8644cfd4ae01817d:0x86914f927d44add3!2sCommercial+Kitchen+Factories+Austin+-+North+Commissary!8m2!3d30.4666206!4d-97.6579601!16s%2Fg%2F11ckvg1dmb!3m7!1s0x8644cfd4ae01817d:0x86914f927d44add3!8m2!3d30.4666206!4d-97.6579601!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJfYEBrtTPRIYR061EfZJPkYY",
       "google_id": "0x8644cfd4ae01817d:0x86914f927d44add3",
-      "cid": 9.696618963290862e18,
+      "cid": 9696618963290862000,
       "kgmid": "/g/11fnp3_6xd",
-      "reviews_id": -8.750125110418691e18,
+      "reviews_id": -8750125110418691000,
       "located_google_id": null
     },
     {
@@ -1852,7 +1870,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.0033080536479739e20,
+      "owner_id": 100330805364797390000,
       "owner_title": "Commercial Kitchen Factories Austin - South Commissary",
       "owner_link": "https://www.google.com/maps/contrib/100330805364797397805",
       "reservation_links": null,
@@ -1863,9 +1881,9 @@
       "location_reviews_link": "https://www.google.com/maps/place/Commercial+Kitchen+Factories+Austin+-+South+Commissary/@30.174461599999997,-97.7970572,13.99z/data=!4m16!1m7!3m6!1s0x865b4dd331bdac57:0x1d3baa4e109f0a55!2sCommercial+Kitchen+Factories+Austin+-+South+Commissary!8m2!3d30.174461599999997!4d-97.7970572!16s%2Fg%2F11ckvg1dmb!3m7!1s0x865b4dd331bdac57:0x1d3baa4e109f0a55!8m2!3d30.174461599999997!4d-97.7970572!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJV6y9MdNNW4YRVQqfEE6qOx0",
       "google_id": "0x865b4dd331bdac57:0x1d3baa4e109f0a55",
-      "cid": 2.106464502988868e18,
+      "cid": 2106464502988868000,
       "kgmid": "/g/11g1dmv0qg",
-      "reviews_id": 2.106464502988868e18,
+      "reviews_id": 2106464502988868000,
       "located_google_id": null
     },
     {
@@ -1928,7 +1946,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.0524899399956501e20,
+      "owner_id": 105248993999565010000,
       "owner_title": "Just Add Chef",
       "owner_link": "https://www.google.com/maps/contrib/105248993999565009411",
       "reservation_links": null,
@@ -1939,7 +1957,7 @@
       "location_reviews_link": "https://www.google.com/maps/place/Just+Add+Chef/@30.293034,-97.72017,13.99z/data=!4m16!1m7!3m6!1s0x8644b58cb591b6dd:0xff55649f53d68d98!2sJust+Add+Chef!8m2!3d30.293034!4d-97.72017!16s%2Fg%2F11ckvg1dmb!3m7!1s0x8644b58cb591b6dd:0xff55649f53d68d98!8m2!3d30.293034!4d-97.72017!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJ3baRtYy1RIYRmI3WU59kVf8",
       "google_id": "0x8644b58cb591b6dd:0xff55649f53d68d98",
-      "cid": 1.8398722488161178e19,
+      "cid": 18398722488161178000,
       "kgmid": "/g/1tsjf0nf",
       "reviews_id": -48021585548374630,
       "located_google_id": null
@@ -2023,7 +2041,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.1791029737951609e20,
+      "owner_id": 117910297379516090000,
       "owner_title": "GhostLine Kitchens",
       "owner_link": "https://www.google.com/maps/contrib/117910297379516081191",
       "reservation_links": null,
@@ -2034,9 +2052,9 @@
       "location_reviews_link": "https://www.google.com/maps/place/GhostLine+Kitchens/@30.21258,-97.7200951,13.99z/data=!4m16!1m7!3m6!1s0x8644b570445fb913:0x80f1c0bd6f3e5aa5!2sGhostLine+Kitchens!8m2!3d30.21258!4d-97.7200951!16s%2Fg%2F11ckvg1dmb!3m7!1s0x8644b570445fb913:0x80f1c0bd6f3e5aa5!8m2!3d30.21258!4d-97.7200951!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJE7lfRHC1RIYRpVo-b73A8YA",
       "google_id": "0x8644b570445fb913:0x80f1c0bd6f3e5aa5",
-      "cid": 9.291419426089753e18,
+      "cid": 9291419426089753000,
       "kgmid": "/g/11mvvngcm7",
-      "reviews_id": -9.155324647619798e18,
+      "reviews_id": -9155324647619798000,
       "located_google_id": null
     },
     {
@@ -2091,7 +2109,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.1819754470767588e20,
+      "owner_id": 118197544707675880000,
       "owner_title": "Our Shared Kitchen",
       "owner_link": "https://www.google.com/maps/contrib/118197544707675881997",
       "reservation_links": null,
@@ -2102,9 +2120,9 @@
       "location_reviews_link": "https://www.google.com/maps/place/Our+Shared+Kitchen/@30.296114,-97.73297,13.99z/data=!4m16!1m7!3m6!1s0x2bda95696b464b0d:0x68cf396ad3db5a4a!2sOur+Shared+Kitchen!8m2!3d30.296114!4d-97.73297!16s%2Fg%2F11ckvg1dmb!3m7!1s0x2bda95696b464b0d:0x68cf396ad3db5a4a!8m2!3d30.296114!4d-97.73297!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJDUtGa2mV2isRSlrb02o5z2g",
       "google_id": "0x2bda95696b464b0d:0x68cf396ad3db5a4a",
-      "cid": 7.552318231107296e18,
+      "cid": 7552318231107296000,
       "kgmid": "/g/11jzrtfkbx",
-      "reviews_id": 7.552318231107296e18,
+      "reviews_id": 7552318231107296000,
       "located_google_id": null
     },
     {
@@ -2178,7 +2196,7 @@
       "location_reviews_link": "https://www.google.com/maps/place/ATX+Shared+Kitchen/@30.453833799999998,-97.7726768,13.99z/data=!4m16!1m7!3m6!1s0x8644cd4e409adfb9:0x4d08f1ce9b35100b!2sATX+Shared+Kitchen!8m2!3d30.453833799999998!4d-97.7726768!16s%2Fg%2F11ckvg1dmb!3m7!1s0x8644cd4e409adfb9:0x4d08f1ce9b35100b!8m2!3d30.453833799999998!4d-97.7726768!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJud-aQE7NRIYRCxA1m87xCE0",
       "google_id": "0x8644cd4e409adfb9:0x4d08f1ce9b35100b",
-      "cid": 5.550952410403639e18,
+      "cid": 5550952410403639000,
       "kgmid": "/g/11t5sbszz1",
       "reviews_id": "None",
       "located_google_id": null
@@ -2240,7 +2258,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.1026604820880332e20,
+      "owner_id": 110266048208803320000,
       "owner_title": "Hudson Bend Commercial Kitchen",
       "owner_link": "https://www.google.com/maps/contrib/110266048208803322270",
       "reservation_links": null,
@@ -2344,7 +2362,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.0273318503702643e20,
+      "owner_id": 102733185037026430000,
       "owner_title": "Casper's Kitchen LLC",
       "owner_link": "https://www.google.com/maps/contrib/102733185037026433022",
       "reservation_links": null,
@@ -2355,9 +2373,9 @@
       "location_reviews_link": "https://www.google.com/maps/place/Casper%27s+Kitchen+LLC/@30.476354999999998,-97.840334,13.99z/data=!4m16!1m7!3m6!1s0x865b2d007542e33d:0xd31a6e47e2ecb9ab!2sCasper%27s+Kitchen+LLC!8m2!3d30.476354999999998!4d-97.840334!16s%2Fg%2F11ckvg1dmb!3m7!1s0x865b2d007542e33d:0xd31a6e47e2ecb9ab!8m2!3d30.476354999999998!4d-97.840334!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJPeNCdQAtW4YRq7ns4kduGtM",
       "google_id": "0x865b2d007542e33d:0xd31a6e47e2ecb9ab",
-      "cid": 1.521159194642617e19,
+      "cid": 15211591946426170000,
       "kgmid": "/g/11rwx59m55",
-      "reviews_id": -3.235152127283382e18,
+      "reviews_id": -3235152127283382000,
       "located_google_id": null
     },
     {
@@ -2443,7 +2461,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.1809323127611417e20,
+      "owner_id": 118093231276114170000,
       "owner_title": "Wingman Kitchens",
       "owner_link": "https://www.google.com/maps/contrib/118093231276114172629",
       "reservation_links": null,
@@ -2454,9 +2472,9 @@
       "location_reviews_link": "https://www.google.com/maps/place/Wingman+Kitchens/@30.2676324,-97.6939238,13.99z/data=!4m16!1m7!3m6!1s0x8644b717a6e83a17:0x838cd609f608a847!2sWingman+Kitchens!8m2!3d30.2676324!4d-97.6939238!16s%2Fg%2F11ckvg1dmb!3m7!1s0x8644b717a6e83a17:0x838cd609f608a847!8m2!3d30.2676324!4d-97.6939238!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJFzrophe3RIYRR6gI9gnWjIM",
       "google_id": "0x8644b717a6e83a17:0x838cd609f608a847",
-      "cid": 9.479186653978864e18,
+      "cid": 9479186653978864000,
       "kgmid": "/g/11h4vv_8td",
-      "reviews_id": -8.967557419730688e18,
+      "reviews_id": -8967557419730688000,
       "located_google_id": null
     },
     {
@@ -2539,10 +2557,59 @@
       "location_reviews_link": "https://www.google.com/maps/place/East+Side+King+Commissary/@30.3441229,-97.7139213,13.99z/data=!4m16!1m7!3m6!1s0x8644cbfa00a744dd:0x9d19336d3854ebf9!2sEast+Side+King+Commissary!8m2!3d30.3441229!4d-97.7139213!16s%2Fg%2F11ckvg1dmb!3m7!1s0x8644cbfa00a744dd:0x9d19336d3854ebf9!8m2!3d30.3441229!4d-97.7139213!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJ3USnAPrLRIYR-etUOG0zGZ0",
       "google_id": "0x8644cbfa00a744dd:0x9d19336d3854ebf9",
-      "cid": 1.1320135682561993e19,
+      "cid": 11320135682561993000,
       "kgmid": "/g/11frnmtnhp",
       "reviews_id": "None",
       "located_google_id": null
     }
-  ]
+  ],
+  "insights": {
+    "residents": {
+      "count": "965.9K",
+      "description": "Austin's diverse population creates exceptional opportunities for food entrepreneurs serving multicultural communities and busy families.\nThis demographic diversity reflects modern America's changing food preferences, with residents increasingly seeking authentic cuisines and convenient meal solutions.\nResearch shows that 60% of Austin consumers order takeout or delivery at least once a week, driven by busy lifestyles and dual-income households.\nThe city's residential patterns create distinct neighborhoods where food delivery thrives, especially during evening hours when families need convenient dinner solutions.\nYoung professionals and established families both value high-quality, convenient meal options that save time while providing variety and authentic flavors.\nHome ownership rates indicate stable communities with established dining habits and disposable income for food services.\nThe growing preference for delivery over dining out, particularly among suburban families, creates consistent demand for ghost kitchen and meal delivery concepts.",
+      "driveTime": "15 min",
+      "homeowners": "45%",
+      "medianHomeValue": "$185K",
+      "diversity": "50+",
+      "hispanicPopulation": "25%"
+    },
+    "workforce": {
+      "count": "620K",
+      "description": "Austin's dynamic workforce drives significant demand for convenient, high-quality meal options during busy workdays and corporate meetings.\nThe concentration of professional services, healthcare, and business operations creates a large population of time-conscious workers who value meal delivery services.\nAverage commute times and office-based work schedules create predictable lunch and dinner rush periods that food businesses can optimize around.\nThe rise of remote and hybrid work arrangements has expanded delivery opportunities to residential areas during traditional business hours.\nCorporate culture increasingly includes food benefits and catered meetings, providing opportunities for bulk catering and corporate accounts.\nBusiness lunch meetings remain important for relationship building, creating demand for professional-quality group meal orders and presentation-ready packaging.\nHigher-income professionals represent a premium market segment willing to pay for convenience, quality ingredients, and unique culinary experiences.",
+      "driveTime": "15 min",
+      "workFromHome": "12%",
+      "averageCommute": "25 min",
+      "highIncome": "22%",
+      "businessLunch": "65%"
+    },
+    "students": {
+      "count": "410K",
+      "description": "Austin's educated population and student community drive innovation in food trends and represent early adopters of new delivery platforms and concepts.\nCollege students and recent graduates combine adventurous food preferences with strong digital engagement habits and regular delivery app usage.\nUniversity of Texas at Austin creates a constant influx of young adults who view food delivery as an essential part of their lifestyle rather than a luxury service.\nStudents and young professionals often work irregular hours, creating demand for late-night delivery options and weekend meal services.\nThis educated demographic actively seeks out diverse cuisines, sustainable food options, and restaurants that align with their values and social media presence.\nGraduate students, medical residents, and young professionals have limited cooking time but sufficient income to prioritize convenient, nutritious meal options.\nThe concentration of educated consumers makes Austin an ideal testing ground for innovative food concepts before expanding to other markets.",
+      "driveTime": "15 min",
+      "bachelors": "246K",
+      "advanced": "164K",
+      "foodDelivery": "35%",
+      "avgSpend": "$25"
+    },
+    "income": {
+      "median": "$81K",
+      "description": "Austin's income diversity creates opportunities for food businesses to serve multiple market segments through strategic pricing and menu offerings.\nThe substantial middle-income population balances budget consciousness with willingness to pay for convenience during busy periods and special occasions.\nHigher-income households demonstrate different ordering behaviors, ordering delivery more frequently and spending more per order than average consumers.\nIncome distribution patterns reveal distinct market segments that can be served with different brands, pricing strategies, or menu offerings from the same commercial kitchen.\nProfessional services and established industries create seasonal income fluctuations that smart food entrepreneurs can capitalize on with targeted offerings.\nThe city's cost of living relative to income means residents have discretionary spending power for dining and delivery services.\nEconomic stability and employment growth in key industries support sustained demand for food services and premium dining experiences.",
+      "under50k": "38%",
+      "over100k": "28%",
+      "deliveryFrequency": "2.1x",
+      "avgOrderValue": "$38"
+    },
+    "foodScene": {
+      "title": "Austin's Growing Food Scene",
+      "description": "Austin boasts a vibrant and evolving culinary landscape that reflects both local traditions and innovative dining trends.\nThe city's food scene combines established favorites with emerging concepts, creating opportunities for entrepreneurs to both honor local preferences and introduce new ideas.\nFrom food trucks to fine dining establishments, Austin offers diverse dining experiences that demonstrate consumer openness to culinary innovation.\nLocal food festivals, farmers markets, and culinary events showcase the community's appreciation for quality ingredients and creative preparation.\nThe city's food critics and social media influencers actively champion new restaurants and concepts, providing valuable marketing opportunities for new businesses.\nEstablished food culture creates a knowledgeable customer base that appreciates quality while remaining open to new flavors and concepts.\nThe growing food scene attracts food tourists and creates buzz that benefits all local food businesses through increased visibility and foot traffic."
+    },
+    "businessOpportunity": {
+      "title": "Why Start a Food Business in Austin",
+      "description": "Austin presents excellent opportunities for food entrepreneurs due to its diverse population, stable economy, and strong demand for convenient dining options.\nTexas's business-friendly environment includes favorable tax policies, streamlined permitting processes, and supportive small business resources.\nThe $12.8B Texas food service market continues expanding at 23% annually, driven by population growth and changing consumer preferences.\nCommercial kitchen rental costs in Austin remain competitive compared to major metropolitan areas, allowing entrepreneurs to test concepts with manageable overhead.\nThe city's established delivery infrastructure and tech-savvy population create ideal conditions for ghost kitchen and food delivery concepts.\nAccess to diverse suppliers, skilled culinary professionals, and multicultural ingredients supports authentic cuisine development and menu innovation.\nSuccessful food concepts in Austin can easily expand regionally or serve as testing grounds for national restaurant chains and food brands.",
+      "foodServiceMarket": "$12.8B",
+      "deliveryGrowth": "23%",
+      "ghostKitchenROI": "32%",
+      "startupCost": "$45K"
+    }
+  }
 }

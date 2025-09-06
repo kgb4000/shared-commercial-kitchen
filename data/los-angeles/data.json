@@ -24,7 +24,10 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJO4ZPSamXwoARDbFygF2lq5Q",
-      "categories": ["Shared-use commercial kitchen", "Kitchen supply store"],
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Kitchen supply store"
+      ],
       "fid": "0x80c297a9494f863b:0x94aba55d8072b10d",
       "cid": "10712837959636398349",
       "imagesCount": 17,
@@ -203,7 +206,10 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJf_qKF9idwoARVU_GUVSHekI",
-      "categories": ["Shared-use commercial kitchen", "Kitchen supply store"],
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Kitchen supply store"
+      ],
       "fid": "0x80c29dd8178afa7f:0x427a875451c64f55",
       "cid": "4790289949880897365",
       "reviewsCount": 37,
@@ -293,7 +299,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJtQs7gJa5woARLYiNjfANMw8",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x80c2b996803b0bb5:0xf330df08d8d882d",
       "cid": "1095234461199337517",
       "reviewsCount": 9,
@@ -375,7 +383,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJH4isq96XwoARwm0OdgCGkdQ",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x80c297deabac881f:0xd4918600760e6dc2",
       "cid": "15317171144202546626",
       "reviewsCount": 4,
@@ -668,7 +678,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJ8V0NH72VwoARIoyHZSuuPIs",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x80c295bd1f0d5df1:0x8b3cae2b65878c22",
       "cid": "10033085571284831266",
       "reviewsCount": 0,
@@ -813,7 +825,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJq6ouqivGwoARPj7ftPcHg6I",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x80c2c62baa2eaaab:0xa28307f7b4df3e3e",
       "cid": "11710212216566267454",
       "reviewsCount": 3,
@@ -901,7 +915,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJEWX1mGa5woARaKnalqR1JwU",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x80c2b96698f56511:0x52775a496daa968",
       "cid": "371394844047354216",
       "reviewsCount": 1,
@@ -1176,7 +1192,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJtYLbp2PHwoAR-oiU2Bya8XE",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x80c2c763a7db82b5:0x71f19a1cd89488fa",
       "cid": "8210513044356499706",
       "reviewsCount": 0,
@@ -1260,7 +1278,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJGWMSFrefwoARJXOvfV1YFx0",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x80c29fb716126319:0x1d17585d7daf7325",
       "cid": "2096241310128108325",
       "reviewsCount": 0,
@@ -1342,7 +1362,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJayaB6o6XwoARsZBJId0BigU",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x80c2978eea81266b:0x58a01dd214990b1",
       "cid": "399133566233579697",
       "reviewsCount": 0,
@@ -1491,7 +1513,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJcykCmGO7woAR4rqjynK4elg",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x80c2bb6398022973:0x587ab872caa3bae2",
       "cid": "6375611025661868770",
       "reviewsCount": 1,
@@ -1586,7 +1610,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJsf7bYOadwoARKOWH10-8F88",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x80c29de660dbfeb1:0xcf17bc4fd787e528",
       "cid": "14922602941419873576",
       "reviewsCount": 0,
@@ -1661,7 +1687,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJN7i6ROudwoARxZ-dMuSX9FI",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x80c29deb44bab837:0x52f497e4329d9fc5",
       "cid": "5977569611785019333",
       "reviewsCount": 37,
@@ -1754,7 +1782,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": true,
       "placeId": "ChIJUVAa3SOVwoARiuJHvHeSLBg",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x80c29523dd1a5051:0x182c9277bc47e28a",
       "cid": "1741928198843130506",
       "reviewsCount": 0,
@@ -1906,7 +1936,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJhcnc5GHFwoARnAjixXJi3EA",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x80c2c561e4dcc985:0x40dc6272c5e2089c",
       "cid": "4673718758389450908",
       "reviewsCount": 0,
@@ -1995,7 +2027,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJB1UckebBwoARKBMt4kocy5c",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x80c2c1e6911c5507:0x97cb1c4ae22d1328",
       "cid": "10937867227947143976",
       "reviewsCount": 0,
@@ -2052,7 +2086,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJL4TBJs7FwoARm8aTWE5VcrY",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x80c2c5ce26c1842f:0xb672554e5893c69b",
       "cid": "13146664057229788827",
       "reviewsCount": 0,
@@ -2134,7 +2170,10 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJc3iT5C7HwoARRP9ObhCYfso",
-      "categories": ["Shared-use commercial kitchen", "Restaurant"],
+      "categories": [
+        "Shared-use commercial kitchen",
+        "Restaurant"
+      ],
       "fid": "0x80c2c72ee4937873:0xca7e98106e4eff44",
       "cid": "14591267039064555332",
       "reviewsCount": 69,
@@ -2243,7 +2282,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJgbP7gkrHwoARUhySPyHDzUY",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x80c2c74a82fbb381:0x46cdc3213f921c52",
       "cid": "5101948500448517202",
       "reviewsCount": 3,
@@ -2342,7 +2383,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJq6panOy6woARdM6M5eysKo8",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x80c2baec9c5aaaab:0x8f2aacece58cce74",
       "cid": "10316248029909012084",
       "reviewsCount": 0,
@@ -2380,5 +2423,54 @@
       "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Os9ZBH8qDaLjqsTnqm0muw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=203.70192&pitch=0&thumbfov=100",
       "kgmid": "/g/11hy9ns19k"
     }
-  ]
+  ],
+  "insights": {
+    "residents": {
+      "count": "3.8M",
+      "description": "Los Angeles's diverse population creates exceptional opportunities for food entrepreneurs serving multicultural communities and busy families.\nThis demographic diversity reflects modern America's changing food preferences, with residents increasingly seeking authentic cuisines and convenient meal solutions.\nResearch shows that 60% of Los Angeles consumers order takeout or delivery at least once a week, driven by busy lifestyles and dual-income households.\nThe city's residential patterns create distinct neighborhoods where food delivery thrives, especially during evening hours when families need convenient dinner solutions.\nYoung professionals and established families both value high-quality, convenient meal options that save time while providing variety and authentic flavors.\nHome ownership rates indicate stable communities with established dining habits and disposable income for food services.\nThe growing preference for delivery over dining out, particularly among suburban families, creates consistent demand for ghost kitchen and meal delivery concepts.",
+      "driveTime": "15 min",
+      "homeowners": "45%",
+      "medianHomeValue": "$185K",
+      "diversity": "50+",
+      "hispanicPopulation": "25%"
+    },
+    "workforce": {
+      "count": "2M",
+      "description": "Los Angeles's dynamic workforce drives significant demand for convenient, high-quality meal options during busy workdays and corporate meetings.\nThe concentration of professional services, healthcare, and business operations creates a large population of time-conscious workers who value meal delivery services.\nAverage commute times and office-based work schedules create predictable lunch and dinner rush periods that food businesses can optimize around.\nThe rise of remote and hybrid work arrangements has expanded delivery opportunities to residential areas during traditional business hours.\nCorporate culture increasingly includes food benefits and catered meetings, providing opportunities for bulk catering and corporate accounts.\nBusiness lunch meetings remain important for relationship building, creating demand for professional-quality group meal orders and presentation-ready packaging.\nHigher-income professionals represent a premium market segment willing to pay for convenience, quality ingredients, and unique culinary experiences.",
+      "driveTime": "15 min",
+      "workFromHome": "12%",
+      "averageCommute": "25 min",
+      "highIncome": "22%",
+      "businessLunch": "65%"
+    },
+    "students": {
+      "count": "1.1M",
+      "description": "Los Angeles's educated population and student community drive innovation in food trends and represent early adopters of new delivery platforms and concepts.\nCollege students and recent graduates combine adventurous food preferences with strong digital engagement habits and regular delivery app usage.\nUCLA + USC + others creates a constant influx of young adults who view food delivery as an essential part of their lifestyle rather than a luxury service.\nStudents and young professionals often work irregular hours, creating demand for late-night delivery options and weekend meal services.\nThis educated demographic actively seeks out diverse cuisines, sustainable food options, and restaurants that align with their values and social media presence.\nGraduate students, medical residents, and young professionals have limited cooking time but sufficient income to prioritize convenient, nutritious meal options.\nThe concentration of educated consumers makes Los Angeles an ideal testing ground for innovative food concepts before expanding to other markets.",
+      "driveTime": "15 min",
+      "bachelors": "660K",
+      "advanced": "440K",
+      "foodDelivery": "35%",
+      "avgSpend": "$25"
+    },
+    "income": {
+      "median": "$69.8K",
+      "description": "Los Angeles's income diversity creates opportunities for food businesses to serve multiple market segments through strategic pricing and menu offerings.\nThe substantial middle-income population balances budget consciousness with willingness to pay for convenience during busy periods and special occasions.\nHigher-income households demonstrate different ordering behaviors, ordering delivery more frequently and spending more per order than average consumers.\nIncome distribution patterns reveal distinct market segments that can be served with different brands, pricing strategies, or menu offerings from the same commercial kitchen.\nProfessional services and established industries create seasonal income fluctuations that smart food entrepreneurs can capitalize on with targeted offerings.\nThe city's cost of living relative to income means residents have discretionary spending power for dining and delivery services.\nEconomic stability and employment growth in key industries support sustained demand for food services and premium dining experiences.",
+      "under50k": "38%",
+      "over100k": "28%",
+      "deliveryFrequency": "2.1x",
+      "avgOrderValue": "$38"
+    },
+    "foodScene": {
+      "title": "Los Angeles's Growing Food Scene",
+      "description": "Los Angeles boasts a vibrant and evolving culinary landscape that reflects both local traditions and innovative dining trends.\nThe city's food scene combines established favorites with emerging concepts, creating opportunities for entrepreneurs to both honor local preferences and introduce new ideas.\nFrom food trucks to fine dining establishments, Los Angeles offers diverse dining experiences that demonstrate consumer openness to culinary innovation.\nLocal food festivals, farmers markets, and culinary events showcase the community's appreciation for quality ingredients and creative preparation.\nThe city's food critics and social media influencers actively champion new restaurants and concepts, providing valuable marketing opportunities for new businesses.\nEstablished food culture creates a knowledgeable customer base that appreciates quality while remaining open to new flavors and concepts.\nThe growing food scene attracts food tourists and creates buzz that benefits all local food businesses through increased visibility and foot traffic."
+    },
+    "businessOpportunity": {
+      "title": "Why Start a Food Business in Los Angeles",
+      "description": "Los Angeles presents excellent opportunities for food entrepreneurs due to its diverse population, stable economy, and strong demand for convenient dining options.\nCalifornia's business-friendly environment includes favorable tax policies, streamlined permitting processes, and supportive small business resources.\nThe $15.2B California food service market continues expanding at 18% annually, driven by population growth and changing consumer preferences.\nCommercial kitchen rental costs in Los Angeles remain competitive compared to major metropolitan areas, allowing entrepreneurs to test concepts with manageable overhead.\nThe city's established delivery infrastructure and tech-savvy population create ideal conditions for ghost kitchen and food delivery concepts.\nAccess to diverse suppliers, skilled culinary professionals, and multicultural ingredients supports authentic cuisine development and menu innovation.\nSuccessful food concepts in Los Angeles can easily expand regionally or serve as testing grounds for national restaurant chains and food brands.",
+      "foodServiceMarket": "$15.2B",
+      "deliveryGrowth": "18%",
+      "ghostKitchenROI": "32%",
+      "startupCost": "$45K"
+    }
+  }
 }
