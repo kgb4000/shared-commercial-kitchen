@@ -22,10 +22,9 @@ import {
 import Image from 'next/image'
 import Link from 'next/link'
 import BusinessInsights from './BusinessInsights'
-import SearchBar from './SearchBar'
 import BackButton from './BackButton'
-import AdSenseAd from './AdSenseAd'
-import OptimizedImage from './OptimizedImage'
+import AdSenseAd from '@/component/AdSenseAd'
+import OptimizedImage from '@/component/OptimizedImage'
 
 // Helper functions
 function formatPhoneNumber(phone) {
@@ -553,7 +552,7 @@ function ImageGallery({ images, kitchenName }) {
       <div className="mb-8">
         <h3 className="text-xl font-semibold mb-4">Kitchen Photos</h3>
         <div className="relative w-full h-96 rounded-lg overflow-hidden shadow-lg">
-          {/* <OptimizedImage
+          <OptimizedImage
             src={mainPhoto.url}
             alt={`${safeKitchenName} - Kitchen view`}
             width={800}
@@ -561,7 +560,7 @@ function ImageGallery({ images, kitchenName }) {
             className="w-full h-full object-cover"
             fallbackSrc="/images/kitchen-placeholder.svg"
             priority={true}
-          /> */}
+          />
           {mainPhoto.attribution && (
             <div className="absolute bottom-2 right-2 bg-black bg-opacity-50 text-white px-2 py-1 rounded text-xs">
               Photo by {safeRender(mainPhoto.attribution)}

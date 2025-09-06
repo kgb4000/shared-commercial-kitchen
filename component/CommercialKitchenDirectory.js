@@ -28,9 +28,9 @@ import {
   Users,
   MapIcon,
 } from 'lucide-react'
-import BreadCrumbs from './BreadCrumbs'
-import AdSenseAd from './AdSenseAd'
-import OptimizedImage from './OptimizedImage'
+import BreadCrumbs from '@/component/BreadCrumbs'
+import AdSenseAd from '@/component/AdSenseAd'
+import OptimizedImage from '@/component/OptimizedImage'
 
 const CommercialKitchenDirectory = ({
   city = { city },
