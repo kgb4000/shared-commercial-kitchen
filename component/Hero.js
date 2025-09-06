@@ -1,7 +1,7 @@
 'use client'
 
 import { Search } from 'lucide-react'
-import SearchBar from './SearchBar'
+import SearchBar from '@/component/SearchBar'
 
 export default function Hero({ city, state }) {
   return (

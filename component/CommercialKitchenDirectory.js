@@ -1,7 +1,7 @@
 'use client'
 
 import React, { useState, useEffect } from 'react'
-import Hero from './Hero'
+import Hero from '@/component/Hero'
 import Link from 'next/link'
 import { slugify } from '@/lib/slugify'
 

@@ -21,8 +21,8 @@ import {
 } from 'lucide-react'
 import Image from 'next/image'
 import Link from 'next/link'
-import BusinessInsights from './BusinessInsights'
-import BackButton from './BackButton'
+import BusinessInsights from '@/component/BusinessInsights'
+import BackButton from '@/component/BackButton'
 import AdSenseAd from '@/component/AdSenseAd'
 import OptimizedImage from '@/component/OptimizedImage'
 
