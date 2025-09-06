@@ -400,7 +400,7 @@ const CommercialKitchenDirectory = ({
               </p>
             </div>
             <div className="my-8">
-              <p>More Ads</p>
+              <p>Ads</p>
               <AdSenseAd />
             </div>
           </div>
