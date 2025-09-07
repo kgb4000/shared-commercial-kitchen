@@ -455,6 +455,12 @@ export default async function CommercialKitchenDetailPage({ params }) {
   const cityName = city ? city.replace(/-/g, ' ') : kitchen.city
   const stateName = state ? state.toUpperCase() : kitchen.state
   const formattedCity = capitalizeCityName(cityName)
+  
+  // Safe variables for JSX
+  const kitchenName = kitchen.title || kitchen.name || 'Commercial Kitchen'
+  const safeKitchenName = kitchenName
+  const location = `${formattedCity}, ${stateName}`
+  const safeLocation = location || `${formattedCity || city}, ${stateName || state}`
 
   return (
     <>
