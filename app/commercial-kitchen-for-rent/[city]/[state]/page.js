@@ -11,8 +11,8 @@ function formatCityName(slug) {
     .join(' ')
 }
 
-// Prevent dynamic routes not in generateStaticParams from being generated
-export const dynamicParams = false
+// Allow dynamic routes that aren't in generateStaticParams
+export const dynamicParams = true
 
 // Generate static params for valid city/state combinations
 export async function generateStaticParams() {

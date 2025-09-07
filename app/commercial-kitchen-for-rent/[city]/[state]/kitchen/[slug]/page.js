@@ -162,8 +162,8 @@ function generateSlug(name) {
     .trim()
 }
 
-// Prevent dynamic routes not in generateStaticParams from being generated
-export const dynamicParams = false
+// Allow dynamic routes that aren't in generateStaticParams
+export const dynamicParams = true
 
 // Generate static params to prevent invalid route generation
 export async function generateStaticParams() {
