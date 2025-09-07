@@ -13,8 +13,8 @@ export function normalizeKitchenData(kitchen) {
   }
 
   return {
-    ...kitchen,
-
+    // Only include safe, normalized fields (no spread to avoid complex objects)
+    
     // Standardize place ID fields (most important for Google Places API)
     placeId:
       kitchen.placeId ||
@@ -110,15 +110,27 @@ export function normalizeKitchenData(kitchen) {
     openingHours:
       kitchen.openingHours || kitchen.opening_hours || kitchen.hours || null,
 
-    // Standardize description
-    description:
-      kitchen.description || kitchen.about || kitchen.summary || null,
+    // Standardize description (handle case where about is an object)
+    description: (() => {
+      if (kitchen.description && typeof kitchen.description === 'string') {
+        return kitchen.description
+      }
+      if (kitchen.about) {
+        if (typeof kitchen.about === 'string') {
+          return kitchen.about
+        }
+        if (typeof kitchen.about === 'object' && kitchen.about !== null) {
+          return null // Don't use complex objects as descriptions
+        }
+      }
+      return kitchen.summary || null
+    })(),
 
     // Standardize tags/categories
     tags: kitchen.tags || kitchen.categories || kitchen.types || [],
 
-    // Keep original data for debugging
-    _originalData: process.env.NODE_ENV === 'development' ? kitchen : undefined,
+    // Keep original data for debugging (removed to prevent object rendering errors)
+    // _originalData: process.env.NODE_ENV === 'development' ? kitchen : undefined,
   }
 }
 
@@ -193,9 +205,9 @@ export function mergeKitchenWithGoogleData(kitchen, googlePlace) {
     isOpenNow: googlePlace.isOpenNow,
     googleMapsUri: googlePlace.googleMapsUri,
 
-    // Keep both sources for reference
-    _kitchenSource: kitchen,
-    _googleSource: googlePlace,
+    // Keep both sources for reference (removed to prevent object rendering errors)
+    // _kitchenSource: kitchen,
+    // _googleSource: googlePlace,
   }
 }
 
