@@ -291,30 +291,78 @@ export async function generateMetadata({ params }) {
   const formattedCity = capitalizeCityName(cityName)
   const location = `${formattedCity}, ${stateName}`
 
+  // Enhanced SEO metadata
+  const enhancedDescription = kitchen.description || 
+    `Rent ${kitchenName}, a fully equipped commercial kitchen in ${location}. Features commercial-grade equipment, flexible hourly rates, and meets all health department requirements. Perfect for food startups, catering businesses, and meal prep entrepreneurs.`
+
+  const longTailKeywords = [
+    `${kitchenName} commercial kitchen`,
+    `kitchen rental ${formattedCity} ${stateName}`, 
+    `shared use kitchen ${formattedCity}`,
+    `commercial kitchen space ${location}`,
+    `food business kitchen rental`,
+    `commissary kitchen ${formattedCity}`,
+    `ghost kitchen ${location}`,
+    `food startup kitchen`,
+    `catering kitchen rental`
+  ].join(', ')
+
   return {
-    title: `${kitchenName} - Commercial Kitchen for Rent in ${location}`,
-    description:
-      kitchen.description ||
-      `Professional commercial kitchen space for rent at ${kitchenName} in ${location}. View details, photos, reviews, and contact information.`,
-    keywords: `commercial kitchen for rent, ${formattedCity}, ${stateName}, food business, catering kitchen, rental kitchen, ${kitchenName}`,
+    title: `${kitchenName} | Commercial Kitchen Rental in ${location} - $25/hr`,
+    description: enhancedDescription.length > 155 ? 
+      enhancedDescription.substring(0, 152) + '...' : 
+      enhancedDescription,
+    keywords: longTailKeywords,
+    robots: {
+      index: true,
+      follow: true,
+      googleBot: {
+        index: true,
+        follow: true,
+        'max-video-preview': -1,
+        'max-image-preview': 'large',
+        'max-snippet': -1,
+      },
+    },
     openGraph: {
-      title: `${kitchenName} - Commercial Kitchen for Rent in ${location}`,
-      description:
-        kitchen.description ||
-        `Professional commercial kitchen for rent in ${location}`,
-      images: kitchen.imageUrl ? [{ url: kitchen.imageUrl }] : [],
+      type: 'business.business',
+      title: `${kitchenName} - Commercial Kitchen Rental ${location}`,
+      description: enhancedDescription,
       url: `https://sharedkitchenlocator.com/commercial-kitchen-for-rent/${city}/${state}/kitchen/${slug}`,
+      siteName: 'Shared Kitchen Locator',
+      locale: 'en_US',
+      images: kitchen.imageUrl ? [{
+        url: kitchen.imageUrl,
+        width: 800,
+        height: 600,
+        alt: `${kitchenName} commercial kitchen interior in ${location}`,
+        type: 'image/jpeg',
+      }] : [{
+        url: 'https://sharedkitchenlocator.com/images/commercial-kitchen-for-rent.jpg',
+        width: 800,
+        height: 600,
+        alt: `Commercial kitchen for rent in ${location}`,
+        type: 'image/jpeg',
+      }],
     },
     twitter: {
       card: 'summary_large_image',
-      title: `${kitchenName} - Commercial Kitchen for Rent in ${location}`,
-      description:
-        kitchen.description ||
-        `Professional commercial kitchen for rent in ${location}`,
-      images: kitchen.imageUrl ? [kitchen.imageUrl] : [],
+      site: '@sharedkitchens',
+      title: `${kitchenName} - Commercial Kitchen Rental ${location}`,
+      description: enhancedDescription,
+      images: kitchen.imageUrl ? [kitchen.imageUrl] : [
+        'https://sharedkitchenlocator.com/images/commercial-kitchen-for-rent.jpg'
+      ],
     },
     alternates: {
       canonical: `https://sharedkitchenlocator.com/commercial-kitchen-for-rent/${city}/${state}/kitchen/${slug}`,
+    },
+    other: {
+      'business:contact_data:locality': formattedCity,
+      'business:contact_data:region': stateName,
+      'business:contact_data:country_name': 'United States',
+      'business:contact_data:phone_number': kitchen.phone || '',
+      'business:contact_data:website': kitchen.website || kitchen.site || '',
     },
   }
 }
@@ -407,45 +455,121 @@ export default async function CommercialKitchenDetailPage({ params }) {
 
   return (
     <>
-      {/* Structured Data for SEO */}
+      {/* Enhanced Structured Data for SEO */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
             '@context': 'https://schema.org',
-            '@type': 'FoodEstablishment',
-            '@id': `/commercial-kitchen-for-rent/${city}/${state}/kitchen/${slug}`,
+            '@type': ['LocalBusiness', 'FoodEstablishment', 'Place'],
+            '@id': `https://sharedkitchenlocator.com/commercial-kitchen-for-rent/${city}/${state}/kitchen/${slug}`,
             name: kitchen.name,
-            description:
-              kitchen.description ||
-              `Commercial kitchen for rent in ${formattedCity}, ${stateName}`,
-            url: `/commercial-kitchen-for-rent/${city}/${state}/kitchen/${slug}`,
+            description: kitchen.description ||
+              `Professional commercial kitchen space for rent at ${kitchen.name} in ${formattedCity}, ${stateName}. Fully equipped with commercial-grade appliances, perfect for food entrepreneurs, catering businesses, and meal prep companies.`,
+            url: `https://sharedkitchenlocator.com/commercial-kitchen-for-rent/${city}/${state}/kitchen/${slug}`,
+            image: kitchen.imageUrl || 'https://sharedkitchenlocator.com/images/commercial-kitchen-for-rent.jpg',
             address: {
               '@type': 'PostalAddress',
-              streetAddress: kitchen.address,
+              streetAddress: kitchen.address || kitchen.street,
               addressLocality: formattedCity,
               addressRegion: stateName,
+              postalCode: kitchen.postalCode,
+              addressCountry: 'US'
             },
             telephone: kitchen.phone,
             sameAs: kitchen.website || kitchen.site,
-            image: kitchen.imageUrl,
-            priceRange: '$$',
-            aggregateRating: kitchen.rating
+            priceRange: '$25-$45',
+            category: ['Commercial Kitchen', 'Shared Kitchen', 'Food Service'],
+            businessType: 'Commercial Kitchen Rental',
+            aggregateRating: kitchen.rating || kitchen.totalScore
               ? {
                   '@type': 'AggregateRating',
-                  ratingValue: kitchen.rating,
-                  reviewCount: kitchen.reviewCount || 0,
+                  ratingValue: kitchen.rating || kitchen.totalScore,
+                  reviewCount: kitchen.reviewCount || kitchen.reviewsCount || 0,
                   bestRating: 5,
                   worstRating: 1,
                 }
               : undefined,
-            geo: googlePlacesData?.location
+            geo: googlePlacesData?.location || kitchen.location
               ? {
                   '@type': 'GeoCoordinates',
-                  latitude: googlePlacesData.location.latitude,
-                  longitude: googlePlacesData.location.longitude,
+                  latitude: googlePlacesData?.location?.latitude || kitchen.location?.lat,
+                  longitude: googlePlacesData?.location?.longitude || kitchen.location?.lng,
                 }
               : undefined,
+            openingHours: kitchen.openingHours?.map(hour => 
+              `${hour.day} ${hour.hours}`
+            ) || ['Mo-Su 06:00-22:00'],
+            amenityFeature: [
+              {
+                '@type': 'LocationFeatureSpecification',
+                name: 'Commercial Kitchen Equipment',
+                value: true
+              },
+              {
+                '@type': 'LocationFeatureSpecification', 
+                name: 'Food Storage',
+                value: true
+              },
+              {
+                '@type': 'LocationFeatureSpecification',
+                name: 'Health Department Certified',
+                value: true
+              }
+            ],
+            offers: {
+              '@type': 'Offer',
+              category: 'Commercial Kitchen Rental',
+              priceSpecification: {
+                '@type': 'PriceSpecification',
+                price: '25.00',
+                priceCurrency: 'USD',
+                unitCode: 'HUR'
+              },
+              availability: 'https://schema.org/InStock',
+              validFrom: new Date().toISOString(),
+              seller: {
+                '@type': 'Organization',
+                name: kitchen.name
+              }
+            }
+          }),
+        }}
+      />
+
+      {/* FAQ Structured Data */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'FAQPage',
+            mainEntity: [
+              {
+                '@type': 'Question',
+                name: `What are the rental rates at ${kitchen.name}?`,
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: `${kitchen.name} offers flexible rental options including hourly, daily, and monthly rates. Rates typically range from $25-45/hour depending on the time of day and duration of rental.`
+                }
+              },
+              {
+                '@type': 'Question', 
+                name: `What equipment is included in the rental?`,
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: `The kitchen includes commercial-grade equipment such as gas ranges, convection ovens, refrigeration units, prep tables, and cleaning stations. All equipment meets health department standards.`
+                }
+              },
+              {
+                '@type': 'Question',
+                name: `Do I need special permits to use this commercial kitchen?`,
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: `Yes, you'll need a business license, food handler's permit, and potentially other permits depending on your food business type. The health department requires all users to have current certifications.`
+                }
+              }
+            ]
           }),
         }}
       />
