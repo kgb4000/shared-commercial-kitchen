@@ -21,6 +21,9 @@ export const metadata = {
   alternates: {
     canonical: 'https://sharedcommercialkitchenlocator.com',
   },
+  other: {
+    'google-adsense-account': 'ca-pub-2967132781692430',
+  },
 }
 
 export default function RootLayout({ children }) {
