@@ -45,7 +45,12 @@ const OptimizedImage = ({
   const shouldUseFallback = imageError || !optimizedSrc
 
   const handleError = () => {
-    console.warn('Image failed to load:', src)
+    console.warn('Image failed to load:', {
+      src,
+      optimizedSrc,
+      retryCount: retryCount.current,
+      fallbackSrc
+    })
     
     // Try once more with original URL if optimization failed
     if (retryCount.current === 0 && !optimizedSrc && src) {
@@ -72,7 +77,7 @@ const OptimizedImage = ({
           alt={alt}
           className={className}
           style={{ objectFit }}
-          onError={() => setImageError(true)}
+          onError={() => console.warn('Fallback image also failed:', fallbackSrc)}
           {...props}
         />
       )
