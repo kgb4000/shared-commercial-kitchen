@@ -148,16 +148,22 @@ async function fetchKitchenData(slug) {
         
         // Look for kitchen with matching slug
         const kitchen = kitchens.find(k => {
-          const kitchenSlug = generateSlug(k.title || k.name)
+          const kitchenName = k.title || k.name || ''
+          if (!kitchenName) return false
+          const kitchenSlug = generateSlug(kitchenName)
           return kitchenSlug === slug
         })
         
         if (kitchen) {
-          console.log(`✅ Found kitchen "${kitchen.title}" in ${cityFolder}`)
+          const kitchenName = kitchen.title || kitchen.name || 'Commercial Kitchen'
+          console.log(`✅ Found kitchen "${kitchenName}" in ${cityFolder}`)
           return {
             ...kitchen,
+            // Ensure we have a valid name
+            title: kitchen.title || kitchen.name || 'Commercial Kitchen',
+            name: kitchen.name || kitchen.title || 'Commercial Kitchen',
             foundInCity: cityFolder,
-            state: cityData.state
+            state: cityData.state || 'Unknown'
           }
         }
       } catch (cityError) {
@@ -176,14 +182,17 @@ async function fetchKitchenData(slug) {
 
 // Helper function to generate URL-friendly slug from a name
 function generateSlug(name) {
-  if (!name) return 'unknown-kitchen'
+  if (!name || typeof name !== 'string') return 'unknown-kitchen'
 
-  return name
+  const slug = name
     .toLowerCase()
     .replace(/[^\w\s-]/g, '') // Remove special characters
     .replace(/\s+/g, '-') // Replace spaces with hyphens
     .replace(/-+/g, '-') // Replace multiple hyphens with single
+    .replace(/^-+|-+$/g, '') // Remove leading/trailing hyphens
     .trim()
+  
+  return slug || 'unknown-kitchen'
 }
 
 // Allow dynamic routes that aren't in generateStaticParams
