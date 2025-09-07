@@ -20,7 +20,7 @@ const CityInsights = ({ cityData, cityName, stateName }) => {
   // Default data structure
   const defaultInsights = {
     residents: {
-      count: 'Data available upon request',
+      count: 'Data available upon request for sure',
       description: `${cityName} residents increasingly prefer convenient food options, with takeout and delivery becoming integral parts of daily life. This creates opportunities for food entrepreneurs to serve busy families and professionals.`,
       driveTime: '15 min',
     },
