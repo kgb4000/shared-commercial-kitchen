@@ -558,7 +558,7 @@ function ImageGallery({ images, kitchenName }) {
             width={800}
             height={600}
             className="w-full h-full object-cover"
-            fallbackSrc="/images/kitchen-placeholder.svg"
+            fallbackSrc="/images/commercial-kitchen-for-rent.jpg"
             priority={true}
           />
           {mainPhoto.attribution && (
@@ -583,7 +583,7 @@ function ImageGallery({ images, kitchenName }) {
               width={400}
               height={300}
               className="w-full h-full object-cover"
-              fallbackSrc="/images/kitchen-placeholder.svg"
+              fallbackSrc="/images/commercial-kitchen-for-rent.jpg"
             />
 
             {images.length > 1 && (
@@ -632,7 +632,7 @@ function ImageGallery({ images, kitchenName }) {
                 width={120}
                 height={90}
                 className="w-full h-full object-cover hover:scale-105 transition-transform"
-                fallbackSrc="/images/kitchen-placeholder.svg"
+                fallbackSrc="/images/commercial-kitchen-for-rent.jpg"
               />
             </button>
           </div>

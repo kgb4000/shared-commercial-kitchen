@@ -270,7 +270,7 @@ const CommercialKitchenDirectory = ({
                       className={`w-full object-cover group-hover:scale-105 transition-transform duration-300 ${
                         viewType === 'list' ? 'h-full' : 'h-56'
                       }`}
-                      fallbackSrc="/images/kitchen-placeholder.svg"
+                      fallbackSrc="/images/commercial-kitchen-for-rent.jpg"
                     />
                     <div className="absolute top-4 right-4 flex gap-2">
                       <button className="p-2 bg-white/90 backdrop-blur-sm rounded-full hover:bg-white transition-colors">
