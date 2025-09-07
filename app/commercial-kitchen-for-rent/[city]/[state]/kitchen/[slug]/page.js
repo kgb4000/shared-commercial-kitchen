@@ -291,24 +291,27 @@ export async function generateMetadata({ params }) {
   const formattedCity = capitalizeCityName(cityName)
   const location = `${formattedCity}, ${stateName}`
 
-  // Enhanced SEO metadata
+  // Enhanced SEO metadata with safe fallbacks
+  const safeKitchenName = kitchenName || 'Commercial Kitchen'
+  const safeLocation = location || `${formattedCity || city}, ${stateName || state}`
+  
   const enhancedDescription = kitchen.description || 
-    `Rent ${kitchenName}, a fully equipped commercial kitchen in ${location}. Features commercial-grade equipment, flexible hourly rates, and meets all health department requirements. Perfect for food startups, catering businesses, and meal prep entrepreneurs.`
+    `Rent ${safeKitchenName}, a fully equipped commercial kitchen in ${safeLocation}. Features commercial-grade equipment, flexible hourly rates, and meets all health department requirements. Perfect for food startups, catering businesses, and meal prep entrepreneurs.`
 
   const longTailKeywords = [
-    `${kitchenName} commercial kitchen`,
-    `kitchen rental ${formattedCity} ${stateName}`, 
-    `shared use kitchen ${formattedCity}`,
-    `commercial kitchen space ${location}`,
+    `${safeKitchenName} commercial kitchen`,
+    `kitchen rental ${formattedCity || city} ${stateName || state}`, 
+    `shared use kitchen ${formattedCity || city}`,
+    `commercial kitchen space ${safeLocation}`,
     `food business kitchen rental`,
-    `commissary kitchen ${formattedCity}`,
-    `ghost kitchen ${location}`,
+    `commissary kitchen ${formattedCity || city}`,
+    `ghost kitchen ${safeLocation}`,
     `food startup kitchen`,
     `catering kitchen rental`
   ].join(', ')
 
   return {
-    title: `${kitchenName} | Commercial Kitchen Rental in ${location} - $25/hr`,
+    title: `${safeKitchenName} | Commercial Kitchen Rental in ${safeLocation} - $25/hr`,
     description: enhancedDescription.length > 155 ? 
       enhancedDescription.substring(0, 152) + '...' : 
       enhancedDescription,
@@ -463,17 +466,17 @@ export default async function CommercialKitchenDetailPage({ params }) {
             '@context': 'https://schema.org',
             '@type': ['LocalBusiness', 'FoodEstablishment', 'Place'],
             '@id': `https://sharedkitchenlocator.com/commercial-kitchen-for-rent/${city}/${state}/kitchen/${slug}`,
-            name: kitchen.name,
+            name: safeKitchenName,
             description: kitchen.description ||
-              `Professional commercial kitchen space for rent at ${kitchen.name} in ${formattedCity}, ${stateName}. Fully equipped with commercial-grade appliances, perfect for food entrepreneurs, catering businesses, and meal prep companies.`,
+              `Professional commercial kitchen space for rent at ${safeKitchenName} in ${formattedCity || city}, ${stateName || state}. Fully equipped with commercial-grade appliances, perfect for food entrepreneurs, catering businesses, and meal prep companies.`,
             url: `https://sharedkitchenlocator.com/commercial-kitchen-for-rent/${city}/${state}/kitchen/${slug}`,
             image: kitchen.imageUrl || 'https://sharedkitchenlocator.com/images/commercial-kitchen-for-rent.jpg',
             address: {
               '@type': 'PostalAddress',
-              streetAddress: kitchen.address || kitchen.street,
-              addressLocality: formattedCity,
-              addressRegion: stateName,
-              postalCode: kitchen.postalCode,
+              streetAddress: kitchen.address || kitchen.street || '',
+              addressLocality: formattedCity || city || '',
+              addressRegion: stateName || state || '',
+              postalCode: kitchen.postalCode || '',
               addressCountry: 'US'
             },
             telephone: kitchen.phone,
@@ -530,7 +533,7 @@ export default async function CommercialKitchenDetailPage({ params }) {
               validFrom: new Date().toISOString(),
               seller: {
                 '@type': 'Organization',
-                name: kitchen.name
+                name: safeKitchenName
               }
             }
           }),
@@ -547,10 +550,10 @@ export default async function CommercialKitchenDetailPage({ params }) {
             mainEntity: [
               {
                 '@type': 'Question',
-                name: `What are the rental rates at ${kitchen.name}?`,
+                name: `What are the rental rates at ${safeKitchenName}?`,
                 acceptedAnswer: {
                   '@type': 'Answer',
-                  text: `${kitchen.name} offers flexible rental options including hourly, daily, and monthly rates. Rates typically range from $25-45/hour depending on the time of day and duration of rental.`
+                  text: `${safeKitchenName} offers flexible rental options including hourly, daily, and monthly rates. Rates typically range from $25-45/hour depending on the time of day and duration of rental.`
                 }
               },
               {

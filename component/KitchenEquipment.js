@@ -2,9 +2,9 @@
 
 import { CheckCircle, Users, Square, Utensils, Refrigerator, Flame } from 'lucide-react'
 
-const KitchenEquipment = ({ kitchen, specifications }) => {
-  // Extract or generate equipment data
-  const equipment = specifications?.equipment || kitchen.equipment || [
+const KitchenEquipment = ({ kitchen = {}, specifications }) => {
+  // Extract or generate equipment data with safe fallbacks
+  const equipment = specifications?.equipment || kitchen?.equipment || [
     'Commercial Gas Ranges',
     'Convection Ovens', 
     'Walk-in Refrigerator',
@@ -16,10 +16,10 @@ const KitchenEquipment = ({ kitchen, specifications }) => {
   ]
 
   const specs = specifications || {
-    squareFootage: kitchen.squareFootage || '1200 sq ft',
-    capacity: kitchen.capacity || '8-12 people',
-    parkingSpaces: kitchen.parking || '6 spaces',
-    accessibility: kitchen.accessibility !== false
+    squareFootage: kitchen?.squareFootage || '1200 sq ft',
+    capacity: kitchen?.capacity || '8-12 people',
+    parkingSpaces: kitchen?.parking || '6 spaces',
+    accessibility: kitchen?.accessibility !== false
   }
 
   const categories = {

@@ -2,10 +2,10 @@
 
 import { MapPin, TrendingUp, Users, DollarSign, Utensils, Star } from 'lucide-react'
 
-const NeighborhoodGuide = ({ kitchen, cityInsights }) => {
-  const neighborhood = kitchen.neighborhood || kitchen.city
-  const city = kitchen.city
-  const state = kitchen.state
+const NeighborhoodGuide = ({ kitchen = {}, cityInsights = {} }) => {
+  const neighborhood = kitchen?.neighborhood || kitchen?.city || 'Local Area'
+  const city = kitchen?.city || 'City'
+  const state = kitchen?.state || 'State'
 
   // Generate neighborhood-specific insights
   const neighborhoodData = {

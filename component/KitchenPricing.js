@@ -2,14 +2,14 @@
 
 import { DollarSign, Clock, Calendar, Shield } from 'lucide-react'
 
-const KitchenPricing = ({ kitchen, pricing }) => {
-  // Extract or generate pricing data
+const KitchenPricing = ({ kitchen = {}, pricing }) => {
+  // Extract or generate pricing data with safe fallbacks
   const pricingInfo = pricing || {
-    hourly: kitchen.hourlyRate || 'Contact for pricing',
-    daily: kitchen.dailyRate || 'Available',
-    monthly: kitchen.monthlyRate || 'Available',
-    deposit: kitchen.deposit || 'Required',
-    cleaningFee: kitchen.cleaningFee || 'Included'
+    hourly: kitchen?.hourlyRate || 'Contact for pricing',
+    daily: kitchen?.dailyRate || 'Available',
+    monthly: kitchen?.monthlyRate || 'Available',
+    deposit: kitchen?.deposit || 'Required',
+    cleaningFee: kitchen?.cleaningFee || 'Included'
   }
 
   return (

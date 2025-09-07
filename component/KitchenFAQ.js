@@ -3,12 +3,12 @@
 import { useState } from 'react'
 import { ChevronDown, ChevronUp, HelpCircle } from 'lucide-react'
 
-const KitchenFAQ = ({ kitchen }) => {
+const KitchenFAQ = ({ kitchen = {} }) => {
   const [openIndex, setOpenIndex] = useState(null)
 
-  const kitchenName = kitchen.title || kitchen.name || 'this kitchen'
-  const city = kitchen.city
-  const state = kitchen.state
+  const kitchenName = kitchen?.title || kitchen?.name || 'this kitchen'
+  const city = kitchen?.city || 'the city'
+  const state = kitchen?.state || 'the state'
 
   const faqs = [
     {
@@ -84,14 +84,16 @@ const KitchenFAQ = ({ kitchen }) => {
 
       <div className="mt-6 p-4 bg-blue-50 rounded-lg">
         <p className="text-sm text-blue-700">
-          <strong>Have more questions?</strong> Contact {kitchenName} directly at{' '}
-          {kitchen.phone && (
-            <a href={`tel:${kitchen.phone}`} className="font-medium hover:underline">
-              {kitchen.phone}
-            </a>
+          <strong>Have more questions?</strong> Contact {kitchenName} directly{' '}
+          {kitchen?.phone && (
+            <>
+              at <a href={`tel:${kitchen.phone}`} className="font-medium hover:underline">
+                {kitchen.phone}
+              </a>
+            </>
           )}
-          {kitchen.phone && kitchen.website && ' or '}
-          {kitchen.website && (
+          {kitchen?.phone && kitchen?.website && ' or '}
+          {kitchen?.website && (
             <a 
               href={kitchen.website} 
               target="_blank" 
@@ -101,7 +103,7 @@ const KitchenFAQ = ({ kitchen }) => {
               visit their website
             </a>
           )}
-          {!kitchen.phone && !kitchen.website && 'through their contact information listed above'}
+          {!kitchen?.phone && !kitchen?.website && 'through their contact information listed above'}
           .
         </p>
       </div>
