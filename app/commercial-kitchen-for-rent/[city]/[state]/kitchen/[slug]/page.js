@@ -116,34 +116,58 @@ async function fetchGooglePlaceDetails(placeId) {
   }
 }
 
-// Server-side function to fetch kitchen data
+// Server-side function to fetch kitchen data directly from files
 async function fetchKitchenData(slug) {
   try {
-    console.log('🍳 Fetching kitchen data for slug:', slug)
-
-    // Use absolute URL for server-side fetch
-    const baseUrl = process.env.BASE_URL
-      ? `https://${process.env.BASE_URL}`
-      : 'http://localhost:3000'
-
-    const response = await fetch(`${baseUrl}/api/kitchens/${slug}`, {
-      next: { revalidate: 300 }, // Cache for 5 minutes
-    })
-
-    if (!response.ok) {
-      console.error('❌ Kitchen data fetch failed:', response.status)
-      const errorData = await response.json().catch(() => ({}))
-      console.log('📋 API Error Details:', errorData)
-      return null
+    console.log('🍳 Loading kitchen data directly for slug:', slug)
+    
+    const fs = await import('fs')
+    const path = await import('path')
+    
+    const dataDir = path.join(process.cwd(), 'data')
+    const cityFolders = fs.readdirSync(dataDir, { withFileTypes: true })
+      .filter(dirent => dirent.isDirectory())
+      .map(dirent => dirent.name)
+    
+    // Search through all cities for the kitchen
+    for (const cityFolder of cityFolders) {
+      try {
+        const cityDataPath = path.join(dataDir, cityFolder, 'data.json')
+        if (!fs.existsSync(cityDataPath)) continue
+        
+        const rawData = fs.readFileSync(cityDataPath, 'utf8')
+        const cityData = JSON.parse(rawData)
+        
+        // Get kitchens array
+        let kitchens = []
+        if (Array.isArray(cityData)) {
+          kitchens = cityData
+        } else if (cityData.kitchens && Array.isArray(cityData.kitchens)) {
+          kitchens = cityData.kitchens
+        }
+        
+        // Look for kitchen with matching slug
+        const kitchen = kitchens.find(k => {
+          const kitchenSlug = generateSlug(k.title || k.name)
+          return kitchenSlug === slug
+        })
+        
+        if (kitchen) {
+          console.log(`✅ Found kitchen "${kitchen.title}" in ${cityFolder}`)
+          return {
+            ...kitchen,
+            foundInCity: cityFolder,
+            state: cityData.state
+          }
+        }
+      } catch (cityError) {
+        console.warn(`⚠️ Error processing city ${cityFolder}:`, cityError.message)
+      }
     }
-
-    const kitchen = await response.json()
-    console.log(
-      '✅ Kitchen data fetched successfully:',
-      kitchen.name || kitchen.title
-    )
-
-    return kitchen
+    
+    console.log(`❌ Kitchen not found for slug: ${slug}`)
+    return null
+    
   } catch (error) {
     console.error('💥 Kitchen data fetch error:', error)
     return null
