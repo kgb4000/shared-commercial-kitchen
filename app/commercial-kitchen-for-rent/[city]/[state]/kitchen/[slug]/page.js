@@ -340,7 +340,7 @@ export async function generateMetadata({ params }) {
       },
     },
     openGraph: {
-      type: 'business.business',
+      type: 'website',
       title: `${kitchenName} - Commercial Kitchen Rental ${location}`,
       description: enhancedDescription,
       url: `https://sharedkitchenlocator.com/commercial-kitchen-for-rent/${city}/${state}/kitchen/${slug}`,
