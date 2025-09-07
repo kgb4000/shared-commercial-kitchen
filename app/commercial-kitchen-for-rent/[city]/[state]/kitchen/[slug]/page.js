@@ -198,6 +198,9 @@ function generateSlug(name) {
 // Allow dynamic routes that aren't in generateStaticParams
 export const dynamicParams = true
 
+// Force dynamic rendering to avoid static generation issues during build
+export const dynamic = 'force-dynamic'
+
 // Generate static params to prevent invalid route generation
 export async function generateStaticParams() {
   const staticParams = []

@@ -129,6 +129,17 @@ export function normalizeKitchenData(kitchen) {
     // Standardize tags/categories
     tags: kitchen.tags || kitchen.categories || kitchen.types || [],
 
+    // Ensure other expected fields are safe (prevent complex object rendering)
+    additionalInfo: null, // Complex object - don't include
+    location: kitchen.location && typeof kitchen.location === 'object' && kitchen.location.lat && kitchen.location.lng 
+      ? { lat: kitchen.location.lat, lng: kitchen.location.lng } 
+      : null,
+    openingHours: Array.isArray(kitchen.openingHours) ? kitchen.openingHours.filter(h => typeof h === 'string') : null,
+    
+    // Safe primitive fields that might be expected
+    neighborhood: typeof kitchen.neighborhood === 'string' ? kitchen.neighborhood : null,
+    postalCode: kitchen.postalCode || kitchen.postal_code || kitchen.zipCode || null,
+    
     // Keep original data for debugging (removed to prevent object rendering errors)
     // _originalData: process.env.NODE_ENV === 'development' ? kitchen : undefined,
   }
