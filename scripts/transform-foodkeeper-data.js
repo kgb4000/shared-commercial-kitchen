@@ -9,7 +9,7 @@ const fs = require('fs')
 const path = require('path')
 
 async function transformFoodKeeperData() {
-  const inputPath = path.join(process.cwd(), 'public', 'foodkeeper-data.json')
+  const inputPath = path.join(process.cwd(), 'public', 'foodkeeper-data-original.json')
   const outputPath = path.join(process.cwd(), 'public', 'foodkeeper-data-transformed.json')
 
   console.log('🔄 Starting FoodKeeper data transformation...')
@@ -99,6 +99,19 @@ async function transformFoodKeeperData() {
           StorageTips: product.DOP_Refrigerate_tips || product.Refrigerate_tips || '',
           ProductDescription: `Refrigeration guidance for ${transformedProduct.ProductName}`
         })
+      } else if (product.Refrigerate_Metric && product.Refrigerate_Metric.includes('use-by')) {
+        // Handle special case for products that use package date (like milk)
+        if (product.Name && product.Name.toLowerCase().includes('milk')) {
+          transformedProduct.FoodStorage.push({
+            StorageType: 'Refrigerate',
+            StorageLife: '4-7 days past sell-by date',
+            DOP_Refrigerate_Min: 4,
+            DOP_Refrigerate_Max: 7,
+            DOP_Refrigerate_Metric: 'Days',
+            StorageTips: 'Check sell-by date. Milk typically stays fresh 4-7 days past the sell-by date when properly refrigerated.',
+            ProductDescription: `Refrigeration guidance for ${transformedProduct.ProductName}`
+          })
+        }
       }
 
       // Add Freeze storage if available

@@ -458,6 +458,15 @@
       "Keywords": "Milk,plain,flavored,flavor",
       "FoodStorage": [
         {
+          "StorageType": "Refrigerate",
+          "StorageLife": "4-7 days past sell-by date",
+          "DOP_Refrigerate_Min": 4,
+          "DOP_Refrigerate_Max": 7,
+          "DOP_Refrigerate_Metric": "Days",
+          "StorageTips": "Check sell-by date. Milk typically stays fresh 4-7 days past the sell-by date when properly refrigerated.",
+          "ProductDescription": "Refrigeration guidance for Milk (plain or flavored)"
+        },
+        {
           "StorageType": "Freeze",
           "StorageLife": "3-3 Months",
           "DOP_Freeze_Min": 3,
@@ -7453,6 +7462,24 @@
       ]
     },
     {
+      "ProductID": 421,
+      "ProductName": "Soy milk",
+      "CategoryName": "Dairy Products & Eggs",
+      "SubcategoryName": null,
+      "Keywords": "Soy milk,soy,milk",
+      "FoodStorage": [
+        {
+          "StorageType": "Refrigerate",
+          "StorageLife": "4-7 days past sell-by date",
+          "DOP_Refrigerate_Min": 4,
+          "DOP_Refrigerate_Max": 7,
+          "DOP_Refrigerate_Metric": "Days",
+          "StorageTips": "Check sell-by date. Milk typically stays fresh 4-7 days past the sell-by date when properly refrigerated.",
+          "ProductDescription": "Refrigeration guidance for Soy milk"
+        }
+      ]
+    },
+    {
       "ProductID": 422,
       "ProductName": "Yams/sweet potatoes",
       "CategoryName": "Produce",
@@ -7512,6 +7539,60 @@
           "DOP_Pantry_Metric": "Years",
           "StorageTips": "",
           "ProductDescription": "Storage guidance for Quinoa (uncooked)"
+        }
+      ]
+    },
+    {
+      "ProductID": 427,
+      "ProductName": "Almond milk",
+      "CategoryName": "Dairy Products & Eggs",
+      "SubcategoryName": null,
+      "Keywords": "Almond milk,milk,almond",
+      "FoodStorage": [
+        {
+          "StorageType": "Refrigerate",
+          "StorageLife": "4-7 days past sell-by date",
+          "DOP_Refrigerate_Min": 4,
+          "DOP_Refrigerate_Max": 7,
+          "DOP_Refrigerate_Metric": "Days",
+          "StorageTips": "Check sell-by date. Milk typically stays fresh 4-7 days past the sell-by date when properly refrigerated.",
+          "ProductDescription": "Refrigeration guidance for Almond milk"
+        }
+      ]
+    },
+    {
+      "ProductID": 428,
+      "ProductName": "Rice milk",
+      "CategoryName": "Dairy Products & Eggs",
+      "SubcategoryName": null,
+      "Keywords": "Rice milk,rice,milk",
+      "FoodStorage": [
+        {
+          "StorageType": "Refrigerate",
+          "StorageLife": "4-7 days past sell-by date",
+          "DOP_Refrigerate_Min": 4,
+          "DOP_Refrigerate_Max": 7,
+          "DOP_Refrigerate_Metric": "Days",
+          "StorageTips": "Check sell-by date. Milk typically stays fresh 4-7 days past the sell-by date when properly refrigerated.",
+          "ProductDescription": "Refrigeration guidance for Rice milk"
+        }
+      ]
+    },
+    {
+      "ProductID": 429,
+      "ProductName": "Coconut milk",
+      "CategoryName": "Dairy Products & Eggs",
+      "SubcategoryName": null,
+      "Keywords": "Coconut milk,coconut,milk",
+      "FoodStorage": [
+        {
+          "StorageType": "Refrigerate",
+          "StorageLife": "4-7 days past sell-by date",
+          "DOP_Refrigerate_Min": 4,
+          "DOP_Refrigerate_Max": 7,
+          "DOP_Refrigerate_Metric": "Days",
+          "StorageTips": "Check sell-by date. Milk typically stays fresh 4-7 days past the sell-by date when properly refrigerated.",
+          "ProductDescription": "Refrigeration guidance for Coconut milk"
         }
       ]
     },
@@ -9426,8 +9507,8 @@
   ],
   "metadata": {
     "source": "USDA FoodKeeper Database",
-    "transformedAt": "2025-09-07T22:16:26.378Z",
-    "totalProducts": 420,
+    "transformedAt": "2025-09-07T23:56:14.149Z",
+    "totalProducts": 424,
     "originalFormat": "Excel sheets",
     "targetFormat": "USDA API"
   }
