@@ -15,6 +15,13 @@ export const metadata = {
     title: 'Commercial Kitchen for Rent — 43 Cities, 380+ Kitchens',
     description: 'Find commercial kitchens for rent across 43 US cities.',
     type: 'website',
+    images: [{ url: 'https://sharedkitchenlocator.com/images/commercial-kitchen-for-rent.jpg', width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Commercial Kitchen for Rent — 43 Cities, 380+ Kitchens',
+    description: 'Find commercial kitchens for rent across 43 US cities.',
+    images: ['https://sharedkitchenlocator.com/images/commercial-kitchen-for-rent.jpg'],
   },
 }
 

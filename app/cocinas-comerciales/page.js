@@ -12,6 +12,13 @@ export const metadata = {
     title: 'Cocinas Comerciales en Renta — 43 Ciudades, 380+ Cocinas',
     description: 'Encuentra cocinas comerciales en renta en Estados Unidos.',
     type: 'website',
+    images: [{ url: 'https://sharedkitchenlocator.com/images/commercial-kitchen-for-rent.jpg', width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Cocinas Comerciales en Renta — 43 Ciudades, 380+ Cocinas',
+    description: 'Encuentra cocinas comerciales en renta en Estados Unidos.',
+    images: ['https://sharedkitchenlocator.com/images/commercial-kitchen-for-rent.jpg'],
   },
 }
 

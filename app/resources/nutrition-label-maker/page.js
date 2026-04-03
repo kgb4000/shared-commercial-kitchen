@@ -15,6 +15,13 @@ export const metadata = {
     description:
       'Create FDA-compliant nutrition labels and nutrition facts panels for free. Professional food label maker — no signup required.',
     type: 'website',
+    images: [{ url: 'https://sharedkitchenlocator.com/images/commercial-kitchen-for-rent.jpg', width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Free Nutrition Label Maker & Generator — FDA Compliant',
+    description: 'Create FDA-compliant nutrition labels and nutrition facts panels for free. Professional food label maker — no signup required.',
+    images: ['https://sharedkitchenlocator.com/images/commercial-kitchen-for-rent.jpg'],
   },
 }
 

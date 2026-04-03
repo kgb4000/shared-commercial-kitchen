@@ -5,6 +5,17 @@ export const metadata = {
   description:
     'Guides, tips, and resources for renting commercial kitchens, starting food businesses, and navigating food licensing requirements.',
   alternates: { canonical: 'https://sharedkitchenlocator.com/blog' },
+  openGraph: {
+    title: 'Commercial Kitchen Blog — Guides for Food Entrepreneurs',
+    description: 'Guides, tips, and resources for renting commercial kitchens, starting food businesses, and navigating food licensing requirements.',
+    images: [{ url: 'https://sharedkitchenlocator.com/images/commercial-kitchen-for-rent.jpg', width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Commercial Kitchen Blog — Guides for Food Entrepreneurs',
+    description: 'Guides, tips, and resources for renting commercial kitchens, starting food businesses, and navigating food licensing requirements.',
+    images: ['https://sharedkitchenlocator.com/images/commercial-kitchen-for-rent.jpg'],
+  },
 }
 
 const posts = [

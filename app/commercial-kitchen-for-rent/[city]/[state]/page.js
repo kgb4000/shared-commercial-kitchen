@@ -71,6 +71,13 @@ export async function generateMetadata({ params }) {
       title: `Commercial Kitchen for Rent in ${formattedCity}, ${formattedState}`,
       description: `Browse verified commercial kitchen rentals in ${formattedCity}. Commissary kitchens, shared-use spaces, and ghost kitchens available.`,
       type: 'website',
+      images: [{ url: 'https://sharedkitchenlocator.com/images/commercial-kitchen-for-rent.jpg', width: 1200, height: 630 }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `Commercial Kitchen for Rent in ${formattedCity}, ${formattedState}`,
+      description: `Browse verified commercial kitchen rentals in ${formattedCity}. Commissary kitchens, shared-use spaces, and ghost kitchens available.`,
+      images: ['https://sharedkitchenlocator.com/images/commercial-kitchen-for-rent.jpg'],
     },
   }
 }
