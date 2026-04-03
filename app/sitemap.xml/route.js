@@ -12,11 +12,17 @@ export async function GET() {
   const staticPages = [
     { url: '', priority: '1.0', changefreq: 'daily' }, // Homepage
     { url: '/browse-kitchens', priority: '0.9', changefreq: 'daily' },
-    { url: '/resources', priority: '0.7', changefreq: 'weekly' },
-    { url: '/resources/nutrition-label-maker', priority: '0.6', changefreq: 'monthly' },
-    { url: '/resources/food-expiration-date-checker', priority: '0.6', changefreq: 'monthly' },
-    { url: '/resources/recipe-cost-tracker', priority: '0.6', changefreq: 'monthly' },
+    { url: '/commercial-kitchen-for-rent', priority: '0.9', changefreq: 'weekly' },
+    { url: '/blog', priority: '0.7', changefreq: 'weekly' },
+    { url: '/blog/how-much-to-rent-a-commercial-kitchen', priority: '0.7', changefreq: 'monthly' },
+    { url: '/blog/commissary-kitchen-requirements', priority: '0.7', changefreq: 'monthly' },
+    { url: '/blog/ghost-kitchen-guide', priority: '0.7', changefreq: 'monthly' },
+    { url: '/resources', priority: '0.8', changefreq: 'weekly' },
+    { url: '/resources/nutrition-label-maker', priority: '0.8', changefreq: 'monthly' },
+    { url: '/resources/recipe-cost-tracker', priority: '0.7', changefreq: 'monthly' },
+    { url: '/resources/food-expiration-date-checker', priority: '0.7', changefreq: 'monthly' },
     { url: '/resources/food-expiration-database', priority: '0.6', changefreq: 'monthly' },
+    { url: '/cocinas-comerciales', priority: '0.6', changefreq: 'weekly' },
     { url: '/food-licensing-guides', priority: '0.7', changefreq: 'weekly' },
   ]
 
