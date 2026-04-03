@@ -37,7 +37,7 @@ export default function BrowseKitchens({ cities = [] }) {
   const featured = cities.slice(0, 8)
 
   return (
-    <div style={{ background: 'var(--cream)' }}>
+    <main style={{ background: 'var(--cream)' }}>
       {/* Hero */}
       <section className="py-20" style={{ background: 'var(--espresso)' }}>
         <div className="max-w-5xl mx-auto px-4 text-center">
@@ -293,6 +293,6 @@ export default function BrowseKitchens({ cities = [] }) {
           </button>
         </div>
       </section>
-    </div>
+    </main>
   )
 }

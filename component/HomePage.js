@@ -56,7 +56,7 @@ const HomePage = () => {
   ]
 
   return (
-    <div style={{ background: 'var(--cream)' }}>
+    <main style={{ background: 'var(--cream)' }}>
 
       {/* ─── HERO ─── */}
       <section className="relative overflow-hidden grain" style={{ background: 'var(--espresso)', minHeight: '85vh' }}>
@@ -378,7 +378,7 @@ const HomePage = () => {
           </div>
         </div>
       </section>
-    </div>
+    </main>
   )
 }
 

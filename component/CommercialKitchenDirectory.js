@@ -56,7 +56,7 @@ const CommercialKitchenDirectory = ({
       : []
 
   return (
-    <div style={{ background: 'var(--cream)' }}>
+    <main style={{ background: 'var(--cream)' }}>
       <BreadCrumbs city={city} state={state} />
 
       {/* Header */}
@@ -381,7 +381,7 @@ const CommercialKitchenDirectory = ({
           </div>
         </div>
       </div>
-    </div>
+    </main>
   )
 }
 

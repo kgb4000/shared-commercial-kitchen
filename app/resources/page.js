@@ -98,7 +98,7 @@ const guides = [
 
 export default function ResourcesPage() {
   return (
-    <div style={{ background: 'var(--cream)' }}>
+    <main style={{ background: 'var(--cream)' }}>
       {/* Hero */}
       <section className="py-20" style={{ background: 'var(--espresso)' }}>
         <div className="max-w-5xl mx-auto px-4 text-center">
@@ -314,6 +314,6 @@ export default function ResourcesPage() {
           </Link>
         </div>
       </section>
-    </div>
+    </main>
   )
 }
