@@ -1,247 +1,318 @@
-import {
-  Calculator,
-  Clock,
-  Tag,
-  ArrowRight,
-  CheckCircle,
-  Users,
-  TrendingUp,
-} from 'lucide-react'
+import Link from 'next/link'
+import { ArrowRight } from 'lucide-react'
+
+export const metadata = {
+  title: 'Free Tools for Food Entrepreneurs — Nutrition Labels, Cost Tracking, Expiration Dates',
+  description:
+    'Free tools for food businesses: FDA-compliant nutrition label maker, recipe cost tracker, food expiration checker, and food licensing guides.',
+  alternates: {
+    canonical: 'https://sharedkitchenlocator.com/resources',
+  },
+}
+
+const tools = [
+  {
+    href: '/resources/nutrition-label-maker',
+    title: 'Nutrition Label Maker',
+    tag: 'Most Popular',
+    description:
+      'Create FDA-compliant nutrition facts labels instantly. Standard vertical, horizontal, linear, and tabular formats. English and Spanish.',
+    features: [
+      'FDA-compliant formatting',
+      'Multiple layout options',
+      'English & Spanish labels',
+      'Download as image',
+    ],
+    stat: 'Save $300-800 per product on labeling services',
+    cta: 'Create Labels',
+  },
+  {
+    href: '/resources/recipe-cost-tracker',
+    title: 'Recipe Cost Tracker',
+    tag: 'Calculator',
+    description:
+      'Calculate exact ingredient costs per serving, track inventory usage, and set profitable pricing for your food products.',
+    features: [
+      'Ingredient cost per serving',
+      'Profit margin analysis',
+      'Inventory tracking',
+      'Production batch logging',
+    ],
+    stat: 'Know your true cost per plate',
+    cta: 'Track Costs',
+  },
+  {
+    href: '/resources/food-expiration-date-checker',
+    title: 'Food Expiration Checker',
+    tag: 'Database',
+    description:
+      'USDA FoodKeeper database for shelf life and storage guidelines. Look up any food item for refrigerator, freezer, and pantry storage times.',
+    features: [
+      'USDA FoodKeeper data',
+      'Fridge, freezer & pantry times',
+      'Safety guidelines',
+      'Commercial kitchen compliance',
+    ],
+    stat: 'Reduce food waste and stay compliant',
+    cta: 'Check Dates',
+  },
+  {
+    href: '/resources/food-expiration-database',
+    title: 'Food Expiration Database',
+    tag: 'Reference',
+    description:
+      'Browse the complete USDA food storage database. Search by category for detailed shelf life information on hundreds of food items.',
+    features: [
+      'Full USDA database',
+      'Category browsing',
+      'Detailed storage methods',
+      'Printable reference charts',
+    ],
+    stat: 'Comprehensive food safety reference',
+    cta: 'Browse Database',
+  },
+]
+
+const guides = [
+  {
+    href: '/blog/how-much-to-rent-a-commercial-kitchen',
+    title: 'Commercial Kitchen Pricing Guide',
+    description: 'Hourly, daily, and monthly rates across US cities.',
+  },
+  {
+    href: '/blog/commissary-kitchen-requirements',
+    title: 'Commissary Kitchen Requirements',
+    description: 'Permits, certifications, and compliance checklist.',
+  },
+  {
+    href: '/blog/ghost-kitchen-guide',
+    title: 'How to Start a Ghost Kitchen',
+    description: 'Step-by-step guide to launching a delivery-only restaurant.',
+  },
+  {
+    href: '/food-licensing-guides',
+    title: 'Food Licensing Guides',
+    description: 'State-by-state food business licensing requirements.',
+  },
+]
 
 export default function ResourcesPage() {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
-      {/* Header Section */}
-
-      {/* Hero Section */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-        <div className="text-center mb-16">
-          <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-            Free Tools to Grow Your
-            <span className="text-emerald-600 block">Food Business</span>
+    <div style={{ background: 'var(--cream)' }}>
+      {/* Hero */}
+      <section className="py-20" style={{ background: 'var(--espresso)' }}>
+        <div className="max-w-5xl mx-auto px-4 text-center">
+          <p
+            className="text-sm font-medium tracking-widest uppercase mb-5"
+            style={{ color: 'var(--amber)', letterSpacing: '0.15em' }}
+          >
+            Free tools & guides
+          </p>
+          <h1
+            className="font-editorial text-4xl md:text-5xl lg:text-6xl mb-6"
+            style={{ color: 'var(--cream)' }}
+          >
+            Everything you need to
+            <br />
+            <span className="italic" style={{ color: 'var(--amber)' }}>
+              run your food business
+            </span>
           </h1>
-          <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-8">
-            Essential resources designed specifically for shared kitchen
-            entrepreneurs. Save time, reduce costs, and ensure compliance with
-            our professional-grade tools.
+          <p className="text-lg max-w-xl mx-auto" style={{ color: '#8C8279' }}>
+            Professional-grade tools for nutrition labeling, cost tracking, food safety, and business planning. All free.
           </p>
-          <div className="flex flex-wrap justify-center gap-8 text-sm text-gray-500">
-            <div className="flex items-center gap-2">
-              <Users className="w-4 h-4" />
-              <span>Used by 10,000+ food entrepreneurs</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <CheckCircle className="w-4 h-4" />
-              <span>100% Free to use</span>
-            </div>
-            <div className="flex items-center gap-2">
-              <TrendingUp className="w-4 h-4" />
-              <span>Proven to increase profitability</span>
-            </div>
+        </div>
+      </section>
+
+      {/* Tools Grid */}
+      <section className="py-20" style={{ background: 'var(--cream)' }}>
+        <div className="max-w-7xl mx-auto px-4">
+          <div className="mb-12">
+            <p
+              className="text-sm font-medium tracking-widest uppercase mb-3"
+              style={{ color: 'var(--terracotta)', letterSpacing: '0.15em' }}
+            >
+              Tools
+            </p>
+            <h2
+              className="font-editorial text-3xl lg:text-4xl"
+              style={{ color: 'var(--espresso)' }}
+            >
+              Free tools for food entrepreneurs
+            </h2>
+          </div>
+
+          <div className="grid md:grid-cols-2 gap-6">
+            {tools.map((tool) => (
+              <Link
+                key={tool.href}
+                href={tool.href}
+                className="group rounded-2xl p-8 hover-lift"
+                style={{
+                  background: 'var(--light-warm)',
+                  border: '1px solid var(--border-warm)',
+                }}
+              >
+                <div className="flex items-start justify-between mb-4">
+                  <span
+                    className="inline-block text-xs font-medium tracking-wider uppercase px-3 py-1 rounded-full"
+                    style={{
+                      background: 'var(--cream)',
+                      color: 'var(--warm-gray)',
+                      letterSpacing: '0.08em',
+                    }}
+                  >
+                    {tool.tag}
+                  </span>
+                  <ArrowRight
+                    className="w-5 h-5 opacity-0 group-hover:opacity-100 group-hover:translate-x-1 transition-all"
+                    style={{ color: 'var(--terracotta)' }}
+                  />
+                </div>
+
+                <h3
+                  className="font-editorial text-2xl mb-3"
+                  style={{ color: 'var(--espresso)' }}
+                >
+                  {tool.title}
+                </h3>
+                <p
+                  className="leading-relaxed mb-6"
+                  style={{ color: 'var(--warm-gray)' }}
+                >
+                  {tool.description}
+                </p>
+
+                <ul className="space-y-2 mb-6">
+                  {tool.features.map((feature) => (
+                    <li
+                      key={feature}
+                      className="flex items-center gap-2.5 text-sm"
+                    >
+                      <span style={{ color: 'var(--sage)' }}>&#10003;</span>
+                      <span style={{ color: 'var(--warm-brown)' }}>
+                        {feature}
+                      </span>
+                    </li>
+                  ))}
+                </ul>
+
+                <div
+                  className="rounded-lg px-4 py-3 mb-6"
+                  style={{
+                    background: 'var(--cream)',
+                    border: '1px solid var(--border-warm)',
+                  }}
+                >
+                  <p
+                    className="text-sm font-medium"
+                    style={{ color: 'var(--sage)' }}
+                  >
+                    {tool.stat}
+                  </p>
+                </div>
+
+                <span
+                  className="inline-flex items-center gap-2 font-medium text-sm"
+                  style={{ color: 'var(--terracotta)' }}
+                >
+                  {tool.cta}{' '}
+                  <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                </span>
+              </Link>
+            ))}
           </div>
         </div>
+      </section>
 
-        {/* Resources Grid */}
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
-          {/* Nutrition Label Maker */}
-          <article className="bg-white rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 border border-gray-100 overflow-hidden group">
-            <div className="p-8">
-              <div className="flex items-center gap-4 mb-6">
-                <div className="p-3 bg-gray-50 rounded-xl group-hover:bg-gray-100 transition-colors">
-                  <Tag className="w-8 h-8 text-emerald-600" />
-                </div>
-                <h2 className="text-xl font-bold text-gray-900">
-                  Nutrition Label Maker
-                </h2>
-              </div>
+      {/* Guides */}
+      <section className="py-20" style={{ background: 'var(--light-warm)' }}>
+        <div className="max-w-7xl mx-auto px-4">
+          <div className="mb-12">
+            <p
+              className="text-sm font-medium tracking-widest uppercase mb-3"
+              style={{ color: 'var(--sage)', letterSpacing: '0.15em' }}
+            >
+              Guides
+            </p>
+            <h2
+              className="font-editorial text-3xl lg:text-4xl"
+              style={{ color: 'var(--espresso)' }}
+            >
+              Business guides & articles
+            </h2>
+          </div>
 
-              <p className="text-gray-600 mb-6 leading-relaxed">
-                Create FDA-compliant nutrition labels for your food products
-                instantly. Perfect for shared kitchen entrepreneurs selling
-                packaged foods.
-              </p>
-
-              <div className="mb-6">
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  Key Features:
-                </h3>
-                <ul className="space-y-2">
-                  <li className="flex items-start gap-2 text-sm text-gray-600">
-                    <CheckCircle className="w-4 h-4 text-emerald-500 mt-0.5 flex-shrink-0" />
-                    <span>FDA-compliant formatting</span>
-                  </li>
-                  <li className="flex items-start gap-2 text-sm text-gray-600">
-                    <CheckCircle className="w-4 h-4 text-emerald-500 mt-0.5 flex-shrink-0" />
-                    <span>Automatic nutrient calculations</span>
-                  </li>
-                  <li className="flex items-start gap-2 text-sm text-gray-600">
-                    <CheckCircle className="w-4 h-4 text-emerald-500 mt-0.5 flex-shrink-0" />
-                    <span>Multiple serving size options</span>
-                  </li>
-                  <li className="flex items-start gap-2 text-sm text-gray-600">
-                    <CheckCircle className="w-4 h-4 text-emerald-500 mt-0.5 flex-shrink-0" />
-                    <span>Print-ready PDF exports</span>
-                  </li>
-                </ul>
-              </div>
-
-              <div className="bg-emerald-50 border border-emerald-200 rounded-lg p-4 mb-6">
-                <p className="text-emerald-800 font-medium text-sm">
-                  💰 Save $200+ on labeling services
-                </p>
-              </div>
-
-              <a
-                href="/resources/nutrition-label-maker"
-                className="w-full bg-gradient-to-r from-emerald-600 to-emerald-700 hover:from-emerald-700 hover:to-emerald-800 text-white font-semibold py-3 px-6 rounded-lg transition-all duration-200 flex items-center justify-center gap-2 group"
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-5">
+            {guides.map((guide) => (
+              <Link
+                key={guide.href}
+                href={guide.href}
+                className="group rounded-2xl p-6 hover-lift"
+                style={{
+                  background: 'var(--cream)',
+                  border: '1px solid var(--border-warm)',
+                }}
               >
-                Create Nutrition Label
-                <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-              </a>
-            </div>
-          </article>
-
-          {/* Food Expiration Checker */}
-          <article className="bg-white rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 border border-gray-100 overflow-hidden group">
-            <div className="p-8">
-              <div className="flex items-center gap-4 mb-6">
-                <div className="p-3 bg-gray-50 rounded-xl group-hover:bg-gray-100 transition-colors">
-                  <Clock className="w-8 h-8 text-blue-600" />
-                </div>
-                <h2 className="text-xl font-bold text-gray-900">
-                  Food Expiration Date Checker
-                </h2>
-              </div>
-
-              <p className="text-gray-600 mb-6 leading-relaxed">
-                Reduce food waste and ensure safety with our comprehensive
-                expiration date database. Essential for shared kitchen food
-                safety compliance.
-              </p>
-
-              <div className="mb-6">
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  Key Features:
+                <h3
+                  className="font-semibold mb-2 group-hover:translate-x-0.5 transition-transform"
+                  style={{ color: 'var(--espresso)' }}
+                >
+                  {guide.title}
                 </h3>
-                <ul className="space-y-2">
-                  <li className="flex items-start gap-2 text-sm text-gray-600">
-                    <CheckCircle className="w-4 h-4 text-emerald-500 mt-0.5 flex-shrink-0" />
-                    <span>1000+ food items database</span>
-                  </li>
-                  <li className="flex items-start gap-2 text-sm text-gray-600">
-                    <CheckCircle className="w-4 h-4 text-emerald-500 mt-0.5 flex-shrink-0" />
-                    <span>Storage condition guidelines</span>
-                  </li>
-                  <li className="flex items-start gap-2 text-sm text-gray-600">
-                    <CheckCircle className="w-4 h-4 text-emerald-500 mt-0.5 flex-shrink-0" />
-                    <span>Safety alerts and notifications</span>
-                  </li>
-                  <li className="flex items-start gap-2 text-sm text-gray-600">
-                    <CheckCircle className="w-4 h-4 text-emerald-500 mt-0.5 flex-shrink-0" />
-                    <span>Batch tracking capabilities</span>
-                  </li>
-                </ul>
-              </div>
-
-              <div className="bg-emerald-50 border border-emerald-200 rounded-lg p-4 mb-6">
-                <p className="text-emerald-800 font-medium text-sm">
-                  💰 Reduce food waste by up to 30%
+                <p
+                  className="text-sm leading-relaxed mb-4"
+                  style={{ color: 'var(--warm-gray)' }}
+                >
+                  {guide.description}
                 </p>
-              </div>
-
-              <a
-                href="#"
-                className="w-full bg-gradient-to-r from-emerald-600 to-emerald-700 hover:from-emerald-700 hover:to-emerald-800 text-white font-semibold py-3 px-6 rounded-lg transition-all duration-200 flex items-center justify-center gap-2 group"
-              >
-                Check Expiration Dates
-                <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-              </a>
-            </div>
-          </article>
-
-          {/* Recipe Cost Tracker */}
-          <article className="bg-white rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 border border-gray-100 overflow-hidden group">
-            <div className="p-8">
-              <div className="flex items-center gap-4 mb-6">
-                <div className="p-3 bg-gray-50 rounded-xl group-hover:bg-gray-100 transition-colors">
-                  <Calculator className="w-8 h-8 text-purple-600" />
-                </div>
-                <h2 className="text-xl font-bold text-gray-900">
-                  Recipe Cost Tracker
-                </h2>
-              </div>
-
-              <p className="text-gray-600 mb-6 leading-relaxed">
-                Calculate exact recipe costs and set profitable pricing for your
-                shared kitchen business. Track ingredient costs and profit
-                margins.
-              </p>
-
-              <div className="mb-6">
-                <h3 className="font-semibold text-gray-900 mb-3">
-                  Key Features:
-                </h3>
-                <ul className="space-y-2">
-                  <li className="flex items-start gap-2 text-sm text-gray-600">
-                    <CheckCircle className="w-4 h-4 text-emerald-500 mt-0.5 flex-shrink-0" />
-                    <span>Ingredient cost calculation</span>
-                  </li>
-                  <li className="flex items-start gap-2 text-sm text-gray-600">
-                    <CheckCircle className="w-4 h-4 text-emerald-500 mt-0.5 flex-shrink-0" />
-                    <span>Profit margin analysis</span>
-                  </li>
-                  <li className="flex items-start gap-2 text-sm text-gray-600">
-                    <CheckCircle className="w-4 h-4 text-emerald-500 mt-0.5 flex-shrink-0" />
-                    <span>Bulk pricing optimization</span>
-                  </li>
-                  <li className="flex items-start gap-2 text-sm text-gray-600">
-                    <CheckCircle className="w-4 h-4 text-emerald-500 mt-0.5 flex-shrink-0" />
-                    <span>Menu pricing recommendations</span>
-                  </li>
-                </ul>
-              </div>
-
-              <div className="bg-emerald-50 border border-emerald-200 rounded-lg p-4 mb-6">
-                <p className="text-emerald-800 font-medium text-sm">
-                  💰 Increase profit margins by 15-25%
-                </p>
-              </div>
-
-              <a
-                href="/resources/recipe-cost-tracker"
-                className="w-full bg-gradient-to-r from-emerald-600 to-emerald-700 hover:from-emerald-700 hover:to-emerald-800 text-white font-semibold py-3 px-6 rounded-lg transition-all duration-200 flex items-center justify-center gap-2 group"
-              >
-                Track Recipe Costs
-                <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-              </a>
-            </div>
-          </article>
+                <span
+                  className="flex items-center gap-1 text-sm font-medium"
+                  style={{ color: 'var(--terracotta)' }}
+                >
+                  Read{' '}
+                  <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-1 transition-transform" />
+                </span>
+              </Link>
+            ))}
+          </div>
         </div>
+      </section>
 
-        {/* CTA Section */}
-        <section className="bg-slate-50 rounded-2xl p-8 md:p-12 text-center text-black">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">
-            Ready to Launch Your Food Business?
+      {/* CTA */}
+      <section
+        className="py-20 text-center relative overflow-hidden grain"
+        style={{ background: 'var(--terracotta)' }}
+      >
+        <div
+          className="absolute inset-0 opacity-10"
+          style={{
+            background:
+              'radial-gradient(ellipse at 50% 50%, rgba(255,255,255,0.2), transparent 70%)',
+          }}
+        />
+        <div className="relative max-w-3xl mx-auto px-4">
+          <h2
+            className="font-editorial text-3xl lg:text-4xl mb-4"
+            style={{ color: 'var(--cream)' }}
+          >
+            Ready to find your kitchen?
           </h2>
-          <p className="text-xl text-black mb-8 max-w-2xl mx-auto">
-            Find the perfect shared kitchen space near you and start building
-            your culinary empire today.
+          <p
+            className="text-lg mb-8"
+            style={{ color: 'rgba(250,246,240,0.7)' }}
+          >
+            Browse 380+ verified commercial kitchens across 43 cities.
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a
-              href="/find-kitchens"
-              className="bg-white text-emerald-600 hover:bg-gray-50 font-semibold py-3 px-8 rounded-lg transition-colors"
-            >
-              Find Shared Kitchens
-            </a>
-            <a
-              href="#"
-              className="border border-white text-white hover:bg-white hover:text-emerald-600 font-semibold py-3 px-8 rounded-lg transition-all"
-            >
-              Read Success Guide
-            </a>
-          </div>
-        </section>
+          <Link
+            href="/browse-kitchens"
+            className="inline-flex items-center gap-2 px-8 py-4 rounded-full font-medium text-lg transition-all hover:scale-105"
+            style={{ background: 'var(--cream)', color: 'var(--espresso)' }}
+          >
+            Browse All Kitchens{' '}
+            <ArrowRight className="w-5 h-5" />
+          </Link>
+        </div>
       </section>
     </div>
   )
