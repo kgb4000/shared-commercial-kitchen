@@ -1040,31 +1040,36 @@ const NutritionLabelMaker = () => {
   }
 
   return (
-    <div className="min-h-screen bg-gray-50 py-8 px-4">
-      <div className="max-w-7xl mx-auto">
-        <div className="text-center mb-12">
-          <h1 className="text-4xl font-bold text-gray-900 mb-4">
-            Free Nutrition Label maker
-          </h1>
-          <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-            Create FDA-compliant nutrition labels for your food products
-            instantly. Save $300-800 per product with our professional-grade
-            label generator.
+    <div style={{ background: 'var(--cream)' }}>
+      {/* Hero */}
+      <section className="py-16" style={{ background: 'var(--espresso)' }}>
+        <div className="max-w-5xl mx-auto px-4 text-center">
+          <p className="text-sm font-medium tracking-widest uppercase mb-4" style={{ color: 'var(--amber)', letterSpacing: '0.15em' }}>
+            Free tool
           </p>
-          <div className="mt-6 flex justify-center space-x-4 text-sm text-gray-500">
+          <h1 className="font-editorial text-4xl md:text-5xl mb-4" style={{ color: 'var(--cream)' }}>
+            Nutrition Label Maker
+          </h1>
+          <p className="text-lg max-w-2xl mx-auto mb-6" style={{ color: '#8C8279' }}>
+            Create FDA-compliant nutrition labels for your food products instantly. Save $300-800 per product.
+          </p>
+          <div className="flex justify-center space-x-4 text-sm" style={{ color: 'var(--amber)' }}>
             <span className="flex items-center">
               <Info className="w-4 h-4 mr-1" />
               FDA Compliant
             </span>
-            <span>•</span>
+            <span style={{ color: '#8C8279' }}>•</span>
             <span>Free Download</span>
-            <span>•</span>
+            <span style={{ color: '#8C8279' }}>•</span>
             <span>Instant Generation</span>
           </div>
         </div>
+      </section>
+
+      <div className="max-w-7xl mx-auto px-4 py-12">
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-          <div className="bg-white rounded-lg shadow-lg p-6">
+          <div className="rounded-2xl p-6" style={{ background: 'var(--light-warm)', border: '1px solid var(--border-warm)' }}">
             <div className="flex items-center justify-between mb-6">
               <h2 className="text-2xl font-semibold text-gray-900">
                 Enter Nutrition Information
@@ -1079,7 +1084,7 @@ const NutritionLabelMaker = () => {
             </div>
 
             <div className="space-y-6">
-              <div className="bg-gray-50 p-4 rounded-lg">
+              <div className="p-4 rounded-xl" style={{ background: 'var(--cream)', border: '1px solid var(--border-warm)' }}>
                 <h3 className="font-semibold text-gray-900 mb-3">
                   Basic Information
                 </h3>
@@ -1094,7 +1099,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('servings', e.target.value)
                       }
-                      className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
                     />
                   </div>
                   <div>
@@ -1107,13 +1112,13 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('servingSize', e.target.value)
                       }
-                      className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
                     />
                   </div>
                 </div>
               </div>
 
-              <div className="bg-gray-50 p-4 rounded-lg">
+              <div className="p-4 rounded-xl" style={{ background: 'var(--cream)', border: '1px solid var(--border-warm)' }}>
                 <h3 className="font-semibold text-gray-900 mb-3">Calories</h3>
                 <div className="w-full max-w-xs">
                   <input
@@ -1122,12 +1127,12 @@ const NutritionLabelMaker = () => {
                     onChange={(e) =>
                       handleInputChange('calories', e.target.value)
                     }
-                    className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                    className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
                   />
                 </div>
               </div>
 
-              <div className="bg-gray-50 p-4 rounded-lg">
+              <div className="p-4 rounded-xl" style={{ background: 'var(--cream)', border: '1px solid var(--border-warm)' }}>
                 <h3 className="font-semibold text-gray-900 mb-3">
                   Macronutrients
                 </h3>
@@ -1142,7 +1147,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('totalFat', e.target.value)
                       }
-                      className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
                     />
                   </div>
                   <div>
@@ -1155,7 +1160,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('saturatedFat', e.target.value)
                       }
-                      className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
                     />
                   </div>
                   <div>
@@ -1168,7 +1173,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('transFat', e.target.value)
                       }
-                      className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
                     />
                   </div>
                   <div>
@@ -1181,7 +1186,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('cholesterol', e.target.value)
                       }
-                      className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
                     />
                   </div>
                   <div>
@@ -1194,7 +1199,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('sodium', e.target.value)
                       }
-                      className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
                     />
                   </div>
                   <div>
@@ -1207,7 +1212,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('totalCarbs', e.target.value)
                       }
-                      className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
                     />
                   </div>
                   <div>
@@ -1220,7 +1225,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('dietaryFiber', e.target.value)
                       }
-                      className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
                     />
                   </div>
                   <div>
@@ -1233,7 +1238,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('totalSugars', e.target.value)
                       }
-                      className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
                     />
                   </div>
                   <div>
@@ -1246,7 +1251,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('addedSugars', e.target.value)
                       }
-                      className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
                     />
                   </div>
                   <div>
@@ -1259,13 +1264,13 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('protein', e.target.value)
                       }
-                      className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
                     />
                   </div>
                 </div>
               </div>
 
-              <div className="bg-gray-50 p-4 rounded-lg">
+              <div className="p-4 rounded-xl" style={{ background: 'var(--cream)', border: '1px solid var(--border-warm)' }}>
                 <h3 className="font-semibold text-gray-900 mb-3">
                   Vitamins & Minerals
                 </h3>
@@ -1280,7 +1285,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('vitaminD', e.target.value)
                       }
-                      className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
                     />
                   </div>
                   <div>
@@ -1293,7 +1298,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('calcium', e.target.value)
                       }
-                      className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
                     />
                   </div>
                   <div>
@@ -1306,7 +1311,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('iron', e.target.value)
                       }
-                      className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
                     />
                   </div>
                   <div>
@@ -1319,7 +1324,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('potassium', e.target.value)
                       }
-                      className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
                     />
                   </div>
                 </div>
@@ -1327,14 +1332,15 @@ const NutritionLabelMaker = () => {
             </div>
           </div>
 
-          <div className="bg-white rounded-lg shadow-lg p-6">
+          <div className="rounded-2xl p-6" style={{ background: 'var(--light-warm)', border: '1px solid var(--border-warm)' }}">
             <div className="flex items-center justify-between mb-6">
               <h2 className="text-2xl font-semibold text-gray-900">
                 Label Preview
               </h2>
               <button
                 onClick={downloadLabel}
-                className="flex items-center bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700 transition-colors"
+                className="flex items-center px-5 py-2.5 rounded-full font-medium transition-all hover:scale-105"
+                style={{ background: 'var(--espresso)', color: 'var(--cream)' }}
               >
                 <Download className="w-4 h-4 mr-2" />
                 Download PNG
@@ -1351,7 +1357,7 @@ const NutritionLabelMaker = () => {
                     key={layout.id}
                     className={`flex items-center p-3 border rounded-lg cursor-pointer transition-colors ${
                       selectedLayout === layout.id
-                        ? 'border-blue-500 bg-blue-50'
+                        ? 'border-[#C8963E] bg-[#FAF6F0]'
                         : 'border-gray-200 hover:border-gray-300'
                     }`}
                   >
@@ -1381,14 +1387,14 @@ const NutritionLabelMaker = () => {
           </div>
         </div>
 
-        <div className="mt-16 bg-white rounded-lg shadow-lg p-8 mb-20">
+        <div className="mt-16 rounded-2xl p-8" style={{ background: 'var(--light-warm)', border: '1px solid var(--border-warm)' }} mb-20">
           <h2 className="text-3xl font-bold text-center text-gray-900 mb-8">
             Why Use Our Nutrition Label Generator?
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="text-center">
-              <div className="bg-blue-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
-                <span className="text-2xl font-bold text-blue-600">$0</span>
+              <div className="rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4" style={{ background: 'var(--light-warm)' }}>
+                <span className="text-2xl font-bold text-[#BD5B3C]">$0</span>
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">
                 Completely Free
@@ -1399,7 +1405,7 @@ const NutritionLabelMaker = () => {
               </p>
             </div>
             <div className="text-center">
-              <div className="bg-green-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
+              <div className="bg-[#F0EBE3] rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
                 <span className="text-2xl">✓</span>
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">
@@ -1411,7 +1417,7 @@ const NutritionLabelMaker = () => {
               </p>
             </div>
             <div className="text-center">
-              <div className="bg-purple-100 rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
+              <div className="bg-[#F0EBE3] rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-4">
                 <span className="text-2xl">⚡</span>
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">
