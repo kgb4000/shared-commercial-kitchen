@@ -1453,86 +1453,14 @@ export default function KitchenDetail({
                           </div>
                         </div>
 
-                        {/* Current Status & Additional Info */}
+                        {/* Booking Information */}
                         <div>
-                          <h3 className="text-lg font-medium text-gray-900 mb-4">
-                            Current Status
+                          <h3 className="text-lg font-medium text-gray-900 mb-4 flex items-center">
+                            <Phone className="w-5 h-5 mr-2 text-blue-600" />
+                            Booking Information
                           </h3>
-
-                          {/* Open/Closed Status */}
                           <div className="space-y-4">
-                            {initialGoogleData?.currentOpeningHours?.openNow !==
-                            undefined ? (
-                              <div
-                                className={`p-4 rounded-lg border-2 ${
-                                  initialGoogleData.currentOpeningHours.openNow
-                                    ? 'bg-green-50 border-green-200'
-                                    : 'bg-red-50 border-red-200'
-                                }`}
-                              >
-                                <div className="flex items-center">
-                                  <div
-                                    className={`w-3 h-3 rounded-full mr-3 ${
-                                      initialGoogleData.currentOpeningHours
-                                        .openNow
-                                        ? 'bg-green-500'
-                                        : 'bg-red-500'
-                                    }`}
-                                  ></div>
-                                  <span
-                                    className={`font-semibold ${
-                                      initialGoogleData.currentOpeningHours
-                                        .openNow
-                                        ? 'text-green-800'
-                                        : 'text-red-800'
-                                    }`}
-                                  >
-                                    {initialGoogleData.currentOpeningHours
-                                      .openNow
-                                      ? 'Open Now'
-                                      : 'Currently Closed'}
-                                  </span>
-                                </div>
-
-                                {/* Next opening/closing time if available */}
-                                {initialGoogleData.currentOpeningHours
-                                  .periods && (
-                                  <p
-                                    className={`text-sm mt-2 ${
-                                      initialGoogleData.currentOpeningHours
-                                        .openNow
-                                        ? 'text-green-700'
-                                        : 'text-red-700'
-                                    }`}
-                                  >
-                                    {initialGoogleData.currentOpeningHours
-                                      .openNow
-                                      ? 'Kitchen is currently available for booking'
-                                      : 'Kitchen will reopen during business hours'}
-                                  </p>
-                                )}
-                              </div>
-                            ) : (
-                              <div className="p-4 bg-gray-50 border border-gray-200 rounded-lg">
-                                <div className="flex items-center">
-                                  <Clock className="w-4 h-4 text-gray-500 mr-2" />
-                                  <span className="text-gray-700 font-medium">
-                                    Status Unknown
-                                  </span>
-                                </div>
-                                <p className="text-sm text-gray-600 mt-1">
-                                  Contact kitchen directly for current
-                                  availability
-                                </p>
-                              </div>
-                            )}
-
-                            {/* Booking Information */}
                             <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
-                              <h4 className="font-medium text-blue-900 mb-2 flex items-center">
-                                <Phone className="w-4 h-4 mr-2" />
-                                Booking Information
-                              </h4>
                               <div className="space-y-2 text-sm">
                                 {kitchen.minimumBooking && (
                                   <p className="text-blue-800">
@@ -1559,7 +1487,7 @@ export default function KitchenDetail({
                                   </p>
                                 )}
                                 <p className="text-blue-700 font-medium">
-                                  📞 Call{' '}
+                                  Call{' '}
                                   {kitchen.phone
                                     ? formatPhoneNumber(kitchen.phone)
                                     : 'for availability'}{' '}
