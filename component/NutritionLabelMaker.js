@@ -148,31 +148,31 @@ const NutritionLabelMaker = () => {
   }
 
   const renderStandardVertical = () => (
-    <div className="max-w-sm mx-auto bg-white border-2 border-black font-mono text-black">
-      <div className="px-2 py-1 border-b-8 border-black">
-        <div className="text-3xl font-bold text-center">Nutrition Facts</div>
-        <div className="text-sm mt-1">
+    <div className="max-w-sm mx-auto bg-white border-2 border-black font-mono text-black leading-tight">
+      <div className="px-2 pt-1 pb-0.5 border-b-8 border-black">
+        <div className="text-3xl font-bold text-center leading-none">Nutrition Facts</div>
+        <div className="text-sm leading-snug">
           {formData.servings} servings per container
         </div>
-        <div className="text-sm font-bold">
+        <div className="text-sm font-bold leading-snug">
           Serving size{' '}
           <span className="float-right">{formData.servingSize}</span>
         </div>
       </div>
 
-      <div className="px-2 py-1 border-b-4 border-black">
-        <div className="text-sm">Amount per serving</div>
-        <div className="text-4xl font-bold">
+      <div className="px-2 pt-0.5 pb-0.5 border-b-4 border-black">
+        <div className="text-xs leading-snug">Amount per serving</div>
+        <div className="text-3xl font-bold leading-none">
           Calories <span className="float-right">{formData.calories}</span>
         </div>
       </div>
 
-      <div className="px-2 py-1 border-b border-black">
+      <div className="px-2 py-0.5 border-b border-black">
         <div className="text-sm font-bold text-right">% Daily Value*</div>
       </div>
 
-      <div className="px-2 text-sm">
-        <div className="py-1 border-b border-black">
+      <div className="px-2 text-sm leading-snug">
+        <div className="py-0.5 border-b border-black">
           <div className="font-bold">
             Total Fat {formData.totalFat}g
             <span className="float-right font-bold">
@@ -181,7 +181,7 @@ const NutritionLabelMaker = () => {
           </div>
         </div>
 
-        <div className="py-1 border-b border-black">
+        <div className="py-0.5 border-b border-black">
           <div className="ml-4">
             Saturated Fat {formData.saturatedFat}g
             <span className="float-right font-bold">
@@ -194,11 +194,11 @@ const NutritionLabelMaker = () => {
           </div>
         </div>
 
-        <div className="py-1 border-b border-black">
+        <div className="py-0.5 border-b border-black">
           <div className="ml-4 italic">Trans Fat {formData.transFat}g</div>
         </div>
 
-        <div className="py-1 border-b border-black">
+        <div className="py-0.5 border-b border-black">
           <div className="font-bold">
             Cholesterol {formData.cholesterol}mg
             <span className="float-right font-bold">
@@ -207,7 +207,7 @@ const NutritionLabelMaker = () => {
           </div>
         </div>
 
-        <div className="py-1 border-b border-black">
+        <div className="py-0.5 border-b border-black">
           <div className="font-bold">
             Sodium {formData.sodium}mg
             <span className="float-right font-bold">
@@ -216,7 +216,7 @@ const NutritionLabelMaker = () => {
           </div>
         </div>
 
-        <div className="py-1 border-b border-black">
+        <div className="py-0.5 border-b border-black">
           <div className="font-bold">
             Total Carbohydrate {formData.totalCarbs}g
             <span className="float-right font-bold">
@@ -225,7 +225,7 @@ const NutritionLabelMaker = () => {
           </div>
         </div>
 
-        <div className="py-1 border-b border-black">
+        <div className="py-0.5 border-b border-black">
           <div className="ml-4">
             Dietary Fiber {formData.dietaryFiber}g
             <span className="float-right font-bold">
@@ -238,11 +238,11 @@ const NutritionLabelMaker = () => {
           </div>
         </div>
 
-        <div className="py-1 border-b border-black">
+        <div className="py-0.5 border-b border-black">
           <div className="ml-4">Total Sugars {formData.totalSugars}g</div>
         </div>
 
-        <div className="py-1 border-b border-black">
+        <div className="py-0.5 border-b border-black">
           <div className="ml-8">
             Includes {formData.addedSugars}g Added Sugars
             <span className="float-right font-bold">
@@ -251,11 +251,11 @@ const NutritionLabelMaker = () => {
           </div>
         </div>
 
-        <div className="py-1 border-b-4 border-black">
+        <div className="py-0.5 border-b-4 border-black">
           <div className="font-bold">Protein {formData.protein}g</div>
         </div>
 
-        <div className="py-1 border-b border-black">
+        <div className="py-0.5 border-b border-black">
           <div>
             Vitamin D {formData.vitaminD}mcg
             <span className="float-right">
@@ -264,7 +264,7 @@ const NutritionLabelMaker = () => {
           </div>
         </div>
 
-        <div className="py-1 border-b border-black">
+        <div className="py-0.5 border-b border-black">
           <div>
             Calcium {formData.calcium}mg
             <span className="float-right">
@@ -273,7 +273,7 @@ const NutritionLabelMaker = () => {
           </div>
         </div>
 
-        <div className="py-1 border-b border-black">
+        <div className="py-0.5 border-b border-black">
           <div>
             Iron {formData.iron}mg
             <span className="float-right">
@@ -282,7 +282,7 @@ const NutritionLabelMaker = () => {
           </div>
         </div>
 
-        <div className="py-1 border-b-4 border-black">
+        <div className="py-0.5 border-b-4 border-black">
           <div>
             Potassium {formData.potassium}mg
             <span className="float-right">
