@@ -1,10 +1,12 @@
 'use client'
 
-import React, { useState } from 'react'
+import React, { useState, useRef } from 'react'
+import html2canvas from 'html2canvas'
 
 import { Download, RefreshCw, Info } from 'lucide-react'
 
 const NutritionLabelMaker = () => {
+  const labelRef = useRef(null)
   const [formData, setFormData] = useState({
     servings: 8,
     servingSize: '2/3 cup (55g)',
@@ -127,8 +129,22 @@ const NutritionLabelMaker = () => {
     })
   }
 
-  const downloadLabel = () => {
-    alert('Download functionality would be implemented here')
+  const downloadLabel = async () => {
+    if (!labelRef.current) return
+    try {
+      const canvas = await html2canvas(labelRef.current, {
+        scale: 3,
+        backgroundColor: '#ffffff',
+        useCORS: true,
+      })
+      const link = document.createElement('a')
+      link.download = `nutrition-label-${selectedLayout}.png`
+      link.href = canvas.toDataURL('image/png')
+      link.click()
+    } catch (err) {
+      console.error('Download failed:', err)
+      alert('Download failed. Please try again.')
+    }
   }
 
   const renderStandardVertical = () => (
@@ -1359,7 +1375,9 @@ const NutritionLabelMaker = () => {
                 ))}
               </div>
             </div>
-            {renderNutritionLabel()}
+            <div ref={labelRef}>
+              {renderNutritionLabel()}
+            </div>
           </div>
         </div>
 
