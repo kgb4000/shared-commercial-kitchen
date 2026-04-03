@@ -1625,41 +1625,17 @@ export default function KitchenDetail({
                   <AdSenseAd />
                 </div>
 
-                {/* Quick Actions */}
-                <div className="bg-white border border-[#E5DFD6] rounded-lg p-6">
-                  <h3 className="text-lg font-semibold mb-4">Quick Actions</h3>
-                  <div className="space-y-3">
-                    <a
-                      href={`https://www.google.com/maps/place/?q=place_id:${
-                        kitchen.placeId || ''
-                      }`}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="block w-full border border-gray-300 text-gray-700 px-4 py-3 rounded-lg text-center font-medium hover:bg-[#F0EBE3] transition-colors"
-                    >
-                      🗺️ Get Directions
-                    </a>
-
-                    <button className="block w-full border border-gray-300 text-gray-700 px-4 py-3 rounded-lg text-center font-medium hover:bg-[#F0EBE3] transition-colors">
-                      ⭐ Save Kitchen
-                    </button>
-
-                    <button className="block w-full border border-gray-300 text-gray-700 px-4 py-3 rounded-lg text-center font-medium hover:bg-[#F0EBE3] transition-colors">
-                      📤 Share Kitchen
-                    </button>
-                  </div>
-                </div>
-
-                {/* Kitchen Stats */}
-                <div className="bg-white border border-[#E5DFD6] rounded-lg p-6">
-                  <h3 className="text-lg font-semibold mb-4">
+                {/* Kitchen Stats - only show if there's unique data */}
+                {(kitchen.capacity || kitchen.squareFootage || kitchen.pricePerHour) && (
+                <div className="rounded-2xl p-6" style={{ background: 'var(--light-warm)', border: '1px solid var(--border-warm)' }}>
+                  <h3 className="font-editorial text-lg mb-4" style={{ color: 'var(--espresso)' }}>
                     Kitchen Details
                   </h3>
                   <div className="space-y-3">
                     {kitchen.capacity && (
                       <div className="flex justify-between">
-                        <span className="text-gray-600">Capacity</span>
-                        <span className="font-medium">
+                        <span style={{ color: 'var(--warm-gray)' }}>Capacity</span>
+                        <span className="font-medium" style={{ color: 'var(--espresso)' }}>
                           {safeRender(kitchen.capacity)} people
                         </span>
                       </div>
@@ -1667,8 +1643,8 @@ export default function KitchenDetail({
 
                     {kitchen.squareFootage && (
                       <div className="flex justify-between">
-                        <span className="text-gray-600">Size</span>
-                        <span className="font-medium">
+                        <span style={{ color: 'var(--warm-gray)' }}>Size</span>
+                        <span className="font-medium" style={{ color: 'var(--espresso)' }}>
                           {safeRender(kitchen.squareFootage)} sq ft
                         </span>
                       </div>
@@ -1676,24 +1652,15 @@ export default function KitchenDetail({
 
                     {kitchen.pricePerHour && (
                       <div className="flex justify-between">
-                        <span className="text-gray-600">Rate</span>
-                        <span className="font-medium">
+                        <span style={{ color: 'var(--warm-gray)' }}>Rate</span>
+                        <span className="font-medium" style={{ color: 'var(--espresso)' }}>
                           ${safeRender(kitchen.pricePerHour)}/hour
                         </span>
                       </div>
                     )}
-
-                    <div className="flex justify-between">
-                      <span className="text-gray-600">Rating</span>
-                      <span className="font-medium">{rating.score} ⭐</span>
-                    </div>
-
-                    <div className="flex justify-between">
-                      <span className="text-gray-600">Reviews</span>
-                      <span className="font-medium">{rating.count}</span>
-                    </div>
                   </div>
                 </div>
+                )}
               </div>
             </div>
           </div>
