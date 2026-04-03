@@ -126,12 +126,18 @@ export default async function CityKitchenPage({ params }) {
     console.error(`❌ Error loading data for ${city}-${state}:`, error.message)
   }
 
+  // Return 404 if no kitchens found (invalid city/state combo)
+  if (!cityData?.kitchens || cityData.kitchens.length === 0) {
+    const { notFound } = await import('next/navigation')
+    notFound()
+  }
+
   return (
     <div>
       <CommercialKitchenDirectory
         city={formattedCity}
         state={formattedState}
-        kitchens={cityData?.kitchens || []}
+        kitchens={cityData.kitchens}
         relatedCities={relatedCities}
       />
       <CityInsights
