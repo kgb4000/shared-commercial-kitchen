@@ -1,12 +1,7 @@
 'use client'
 
 import React, { useState } from 'react'
-import {
-  ChevronDown,
-  Shield,
-  ExternalLink,
-  DollarSign,
-} from 'lucide-react'
+import { ChevronDown, ArrowRight, MapPin } from 'lucide-react'
 import SearchBar from '@/component/SearchBar'
 import Link from 'next/link'
 
@@ -15,553 +10,374 @@ const HomePage = () => {
 
   const faqs = [
     {
-      question:
-        "What's the difference between shared-use and commissary kitchens?",
-      answer:
-        'Shared-use kitchens are rented by the hour for immediate preparation, while commissary kitchens offer longer-term storage and wholesale food preparation with monthly agreements.',
-    },
-    {
-      question: 'Can I store my ingredients overnight?',
-      answer:
-        'Most kitchens offer cold storage options for an additional fee. Check individual kitchen policies for overnight storage availability and pricing.',
+      question: "What's the difference between shared-use and commissary kitchens?",
+      answer: 'Shared-use kitchens are rented by the hour for immediate preparation, while commissary kitchens offer longer-term storage and wholesale food preparation with monthly agreements.',
     },
     {
       question: 'How much does it cost to rent a commercial kitchen?',
-      answer:
-        'Prices vary by location and amenities, but most shared kitchens charge $15-50 per hour. Monthly memberships range from $500-3,000 depending on the city and level of access.',
+      answer: 'Prices vary by location and amenities, but most shared kitchens charge $15-50 per hour. Monthly memberships range from $500-3,000 depending on the city and level of access.',
     },
     {
       question: 'Do I need a food handler permit to use a shared kitchen?',
-      answer:
-        'Yes, most shared kitchens require a valid food handler certification (such as ServSafe) and a business license before you can book time. Requirements vary by state and city.',
+      answer: 'Yes, most shared kitchens require a valid food handler certification (such as ServSafe) and a business license before you can book time. Requirements vary by state and city.',
     },
     {
       question: 'Can I use a shared kitchen for a food truck business?',
-      answer:
-        'Absolutely. Most health departments require food truck operators to have a commissary kitchen for prep, storage, and cleaning. Many kitchens on our platform cater specifically to food truck operators.',
+      answer: 'Absolutely. Most health departments require food truck operators to have a commissary kitchen for prep, storage, and cleaning. Many kitchens on our platform cater specifically to food truck operators.',
     },
     {
       question: 'What equipment is typically included?',
-      answer:
-        'Most commercial kitchens include commercial ovens, ranges, fryers, mixers, prep tables, walk-in coolers/freezers, dishwashing stations, and dry storage. Specialty equipment varies by facility.',
+      answer: 'Most commercial kitchens include commercial ovens, ranges, fryers, mixers, prep tables, walk-in coolers/freezers, dishwashing stations, and dry storage. Specialty equipment varies by facility.',
+    },
+    {
+      question: 'Can I store my ingredients overnight?',
+      answer: 'Most kitchens offer cold storage options for an additional fee. Check individual kitchen policies for overnight storage availability and pricing.',
     },
   ]
 
   const popularCities = [
-    { name: 'Chicago', state: 'IL', slug: 'chicago/il' },
-    { name: 'Los Angeles', state: 'CA', slug: 'los-angeles/ca' },
-    { name: 'New York', state: 'NY', slug: 'new-york/ny' },
-    { name: 'Houston', state: 'TX', slug: 'houston/tx' },
-    { name: 'Atlanta', state: 'GA', slug: 'atlanta/ga' },
-    { name: 'Miami', state: 'FL', slug: 'miami/fl' },
-    { name: 'Denver', state: 'CO', slug: 'denver/co' },
-    { name: 'Seattle', state: 'WA', slug: 'seattle/wa' },
+    { name: 'Chicago', state: 'IL', slug: 'chicago/il', tagline: 'Deep-dish & beyond' },
+    { name: 'Los Angeles', state: 'CA', slug: 'los-angeles/ca', tagline: 'West coast flavors' },
+    { name: 'New York', state: 'NY', slug: 'new-york/ny', tagline: 'The city that eats' },
+    { name: 'Houston', state: 'TX', slug: 'houston/tx', tagline: 'Southern heat' },
+    { name: 'Atlanta', state: 'GA', slug: 'atlanta/ga', tagline: 'Soul food capital' },
+    { name: 'Miami', state: 'FL', slug: 'miami/fl', tagline: 'Latin fusion hub' },
+    { name: 'Denver', state: 'CO', slug: 'denver/co', tagline: 'Mountain fresh' },
+    { name: 'Seattle', state: 'WA', slug: 'seattle/wa', tagline: 'Pacific Northwest' },
+  ]
+
+  const solutions = [
+    { title: 'Catering', desc: 'Large-capacity equipment, ample prep areas, and storage for serving materials.' },
+    { title: 'Food Trucks', desc: 'Prep space and storage for mobile operations. Meet commissary requirements.' },
+    { title: 'Bakeries', desc: 'Professional ovens, mixers, and temperature-controlled storage for artisan goods.' },
+    { title: 'Ghost Kitchens', desc: 'Delivery-optimized spaces for virtual brands and high-volume fulfillment.' },
+    { title: 'Meal Prep', desc: 'Hourly kitchen access for personal chef operations and subscription meals.' },
+    { title: 'Food Producers', desc: 'Manufacturing space for sauces, snacks, and FDA-compliant packaged goods.' },
   ]
 
   return (
-    <div className="min-h-screen bg-gray-50">
-      <section className="bg-gradient-to-br from-blue-50 via-white to-purple-50 py-16">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-12">
-            <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6 max-w-2xl mx-auto">
-              Find Commercial Kitchen Spaces for Rent in Your City
-            </h1>
-            <p className="text-xl text-gray-600 mb-8 max-w-xl mx-auto">
-              Discover verified shared-use, ghost, and commissary kitchens.
-              Flexible pricing, and professional amenities.
+    <div style={{ background: 'var(--cream)' }}>
+
+      {/* ─── HERO ─── */}
+      <section className="relative overflow-hidden grain" style={{ background: 'var(--espresso)', minHeight: '85vh' }}>
+        <div className="absolute inset-0 opacity-20" style={{
+          background: 'radial-gradient(ellipse at 30% 50%, rgba(200, 150, 62, 0.4), transparent 70%), radial-gradient(ellipse at 70% 80%, rgba(189, 91, 60, 0.3), transparent 60%)'
+        }} />
+        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-24 pb-20 flex flex-col justify-center" style={{ minHeight: '85vh' }}>
+          <div className="max-w-3xl">
+            <p className="animate-fade-up text-sm font-medium tracking-widest uppercase mb-6" style={{ color: 'var(--amber)', letterSpacing: '0.15em' }}>
+              380+ kitchens across 43 cities
             </p>
-
-            <div className="max-w-2xl mx-auto mb-8">
-              <div className="relative">
-                <SearchBar />
-              </div>
-            </div>
-
-            {/* Social Proof */}
-            <div className="flex flex-wrap justify-center gap-8 text-gray-600">
-              <div className="text-center">
-                <div className="text-2xl font-bold text-gray-900">380+</div>
-                <div className="text-sm">Verified Kitchens</div>
-              </div>
-              <div className="text-center">
-                <div className="text-2xl font-bold text-gray-900">43</div>
-                <div className="text-sm">Cities</div>
-              </div>
-              <div className="text-center">
-                <div className="text-2xl font-bold text-gray-900">Free</div>
-                <div className="text-sm">To Search</div>
-              </div>
+            <h1 className="animate-fade-up animation-delay-100 font-editorial text-5xl sm:text-6xl lg:text-7xl leading-[1.05] mb-8" style={{ color: 'var(--cream)' }}>
+              Find the kitchen
+              <br />
+              <span className="italic" style={{ color: 'var(--amber)' }}>your food business</span>
+              <br />
+              deserves.
+            </h1>
+            <p className="animate-fade-up animation-delay-200 text-lg mb-10 max-w-xl leading-relaxed" style={{ color: '#B8AFA5' }}>
+              Verified shared-use, commissary, and ghost kitchens with flexible hourly, daily, and monthly rates. Start cooking today.
+            </p>
+            <div className="animate-fade-up animation-delay-300 max-w-xl">
+              <SearchBar />
             </div>
           </div>
         </div>
       </section>
 
-      {/* Popular Cities */}
-      <section className="py-12 bg-white">
+      {/* ─── CITY CARDS ─── */}
+      <section className="py-20" style={{ background: 'var(--cream)' }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl font-bold text-gray-900 mb-6 text-center">
-            Browse Kitchens by City
-          </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-            {popularCities.map((city) => (
+          <div className="flex items-end justify-between mb-12">
+            <div>
+              <p className="text-sm font-medium tracking-widest uppercase mb-3" style={{ color: 'var(--amber)', letterSpacing: '0.15em' }}>
+                Popular Markets
+              </p>
+              <h2 className="font-editorial text-4xl lg:text-5xl" style={{ color: 'var(--espresso)' }}>
+                Browse by city
+              </h2>
+            </div>
+            <Link href="/browse-kitchens" className="hidden md:flex items-center gap-2 text-sm font-medium" style={{ color: 'var(--warm-brown)' }}>
+              All 43 cities <ArrowRight className="w-4 h-4" />
+            </Link>
+          </div>
+
+          <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
+            {popularCities.map((city, i) => (
               <Link
                 key={city.slug}
                 href={`/commercial-kitchen-for-rent/${city.slug}`}
-                className="border-2 border-gray-200 rounded-xl p-4 text-center hover:border-blue-400 hover:shadow-md transition-all"
+                className="group relative rounded-2xl overflow-hidden hover-lift"
+                style={{ aspectRatio: '4/3' }}
               >
-                <div className="font-bold text-gray-900">{city.name}</div>
-                <div className="text-sm text-gray-500">{city.state}</div>
+                <div className="absolute inset-0" style={{
+                  background: [
+                    'linear-gradient(135deg, #2C1810 0%, #5C3D2E 100%)',
+                    'linear-gradient(135deg, #1E3A2F 0%, #4A6B5D 100%)',
+                    'linear-gradient(135deg, #2A1F3D 0%, #5A4B6B 100%)',
+                    'linear-gradient(135deg, #3D2B1F 0%, #7A5C45 100%)',
+                    'linear-gradient(135deg, #1F2E3D 0%, #4B6A7A 100%)',
+                    'linear-gradient(135deg, #3D1F2B 0%, #7A4555 100%)',
+                    'linear-gradient(135deg, #2B3D1F 0%, #5A7A45 100%)',
+                    'linear-gradient(135deg, #1F2A3D 0%, #455A7A 100%)',
+                  ][i]
+                }} />
+                <div className="absolute inset-0 bg-black/10 group-hover:bg-black/0 transition-all duration-300" />
+                <div className="relative h-full flex flex-col justify-end p-5">
+                  <div className="flex items-center gap-1.5 mb-1">
+                    <MapPin className="w-3.5 h-3.5" style={{ color: 'var(--amber)' }} />
+                    <span className="text-xs font-medium uppercase tracking-wider" style={{ color: 'rgba(250,246,240,0.6)' }}>
+                      {city.state}
+                    </span>
+                  </div>
+                  <h3 className="font-editorial text-2xl" style={{ color: 'var(--cream)' }}>
+                    {city.name}
+                  </h3>
+                  <p className="text-xs mt-1" style={{ color: 'rgba(250,246,240,0.5)' }}>
+                    {city.tagline}
+                  </p>
+                </div>
               </Link>
             ))}
           </div>
-          <div className="text-center mt-6">
-            <Link
-              href="/browse-kitchens"
-              className="text-blue-600 font-medium hover:text-blue-700"
-            >
-              View all 43 cities &rarr;
+
+          <div className="md:hidden text-center mt-6">
+            <Link href="/browse-kitchens" className="text-sm font-medium flex items-center justify-center gap-2" style={{ color: 'var(--warm-brown)' }}>
+              View all 43 cities <ArrowRight className="w-4 h-4" />
             </Link>
           </div>
         </div>
       </section>
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        {/* Additional Sections */}
-        <div className="mt-20 space-y-16">
-          {/* What is the Shared Commercial Kitchens Locator */}
-          <section className="py-10">
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-              <h2 className="text-3xl lg:text-5xl font-bold mb-10 text-center max-w-4xl mx-auto">
-                Shared Commercial Kitchens
-              </h2>
-              <p className="py-4 text-center max-w-4xl mx-auto leading-relaxed text-xl text-gray-700">
-                Whether you're a chef launching a catering business, a baker
-                starting a specialty bakery, or a food truck owner seeking
-                commissary kitchen space, we help you find the perfect{' '}
-                <strong>shared-use commercial kitchen</strong> to legally
-                operate and grow your food business.
-              </p>
-              <p className="py-4 text-center max-w-4xl mx-auto leading-relaxed text-xl text-gray-700">
-                Our curated network of{' '}
-                <strong>FDA-approved commissary kitchens</strong> and{' '}
-                <strong>licensed commercial kitchen spaces</strong> ensures you
-                can focus on what you do best – creating amazing food – while we
-                handle finding you the right culinary workspace.
-              </p>
-            </div>
-          </section>
-
-          {/* Three Feature Cards */}
-          <section className="py-10">
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-              <div className="grid md:grid-cols-3 gap-10">
-                <div className="border-2 border-gray-200 p-8 rounded-3xl hover:shadow-lg transition-shadow">
-                  <h3 className="text-2xl font-bold mb-4 text-gray-900">
-                    Find Commercial Kitchen Rentals
-                  </h3>
-                  <p className="leading-relaxed text-lg text-gray-700">
-                    Connect with commissary kitchen spaces and shared commercial
-                    kitchens available for hourly, daily, or monthly rental.
-                    Perfect for chefs, caterers, bakers, food trucks, and food
-                    entrepreneurs seeking licensed kitchen space.
-                  </p>
-                </div>
-                <div className="border-2 border-gray-200 p-8 rounded-3xl hover:shadow-lg transition-shadow">
-                  <h3 className="text-2xl font-bold mb-4 text-gray-900">
-                    Licensed & Health Code Compliant
-                  </h3>
-                  <p className="leading-relaxed text-lg text-gray-700">
-                    All kitchens meet commercial kitchen health codes and
-                    licensing requirements, helping you stay compliant with
-                    local regulations and avoid costly shutdowns or fines.
-                  </p>
-                </div>
-                <div className="border-2 border-gray-200 p-8 rounded-3xl hover:shadow-lg transition-shadow">
-                  <h3 className="text-2xl font-bold mb-4 text-gray-900">
-                    Professional Kitchen Equipment & Storage
-                  </h3>
-                  <p className="leading-relaxed text-lg text-gray-700">
-                    Access commercial-grade kitchen equipment, walk-in coolers,
-                    freezers, dry storage, and cleaning supplies without the
-                    massive upfront investment of building your own facility.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </section>
-
-          {/* Understanding Shared-Use Commercial Kitchens */}
-          <section className="py-20">
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-              <h2 className="text-3xl lg:text-5xl font-bold mb-10 text-center max-w-4xl mx-auto">
-                Understanding Shared-Use Commercial Kitchens
-              </h2>
-              <div className="grid md:grid-cols-2 gap-14 mb-20">
-                <div>
-                  <h3 className="text-2xl font-bold mb-4 text-gray-900">
-                    What is a Commissary Kitchen?
-                  </h3>
-                  <p className="py-2 leading-relaxed text-lg text-gray-700">
-                    A <strong>commissary kitchen</strong> (also called a{' '}
-                    <strong>shared-use commercial kitchen</strong>) is a
-                    professionally licensed facility where multiple food
-                    businesses can prepare, cook, and package their products.
-                    These <strong>commercial kitchen rentals</strong> provide
-                    all the equipment, storage, and workspace needed to operate
-                    a food business legally.
-                  </p>
-                  <p className="py-2 leading-relaxed text-lg text-gray-700">
-                    Unlike home kitchens, commissary kitchens meet strict health
-                    department regulations and FDA guidelines, allowing you to
-                    sell your products to the public, supply restaurants, or
-                    operate a food truck business.
-                  </p>
-                </div>
-                <div>
-                  <h3 className="text-2xl font-bold mb-4 text-gray-900">
-                    Who Uses Commercial Kitchen Space?
-                  </h3>
-                  <div className="space-y-3">
-                    <p className="leading-relaxed text-lg text-gray-700">
-                      <strong>Bakeries and pastry chefs</strong> creating
-                      specialty desserts
-                    </p>
-                    <p className="leading-relaxed text-lg text-gray-700">
-                      <strong>Food truck operators</strong> preparing mobile
-                      menu items
-                    </p>
-                    <p className="leading-relaxed text-lg text-gray-700">
-                      <strong>Caterers</strong> handling events and corporate
-                      dining
-                    </p>
-                    <p className="leading-relaxed text-lg text-gray-700">
-                      <strong>Specialty food producers</strong> making
-                      sauces, snacks, and packaged goods
-                    </p>
-                    <p className="leading-relaxed text-lg text-gray-700">
-                      <strong>Personal chefs</strong> preparing meal prep
-                      services
-                    </p>
-                    <p className="leading-relaxed text-lg text-gray-700">
-                      <strong>Ghost kitchen operators</strong> running
-                      delivery-only restaurants
-                    </p>
-                  </div>
-                </div>
-              </div>
-
-              {/* Comparison Box */}
-              <div className="border-2 border-gray-200 p-14 rounded-3xl bg-gray-50">
-                <h3 className="text-3xl font-bold mb-10 text-center max-w-md mx-auto text-gray-900">
-                  Commercial Kitchen Rental vs. Building Your Own
-                </h3>
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-14 max-w-4xl mx-auto">
-                  <div>
-                    <h4 className="text-2xl font-bold mb-6 text-gray-900">
-                      Building Your Own Kitchen
-                    </h4>
-                    <div className="space-y-3">
-                      <p className="leading-relaxed text-lg text-gray-700">
-                        $150,000+ initial investment
-                      </p>
-                      <p className="leading-relaxed text-lg text-gray-700">
-                        6-12 months construction time
-                      </p>
-                      <p className="leading-relaxed text-lg text-gray-700">
-                        Permits, inspections, licensing
-                      </p>
-                      <p className="leading-relaxed text-lg text-gray-700">
-                        Equipment maintenance costs
-                      </p>
-                      <p className="leading-relaxed text-lg text-gray-700">
-                        Utilities, insurance, taxes
-                      </p>
-                    </div>
-                  </div>
-                  <div>
-                    <h4 className="text-2xl font-bold mb-6 text-gray-900">
-                      Renting Kitchen Space
-                    </h4>
-                    <div className="space-y-3">
-                      <p className="leading-relaxed text-lg text-gray-700">
-                        Start cooking immediately
-                      </p>
-                      <p className="leading-relaxed text-lg text-gray-700">
-                        Pay only for time used
-                      </p>
-                      <p className="leading-relaxed text-lg text-gray-700">
-                        Professional equipment included
-                      </p>
-                      <p className="leading-relaxed text-lg text-gray-700">
-                        Maintenance handled by facility
-                      </p>
-                      <p className="leading-relaxed text-lg text-gray-700">
-                        Compliance assistance provided
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </section>
-
-          {/* Why Choose Shared-Use Kitchens */}
-          <section className="bg-slate-50 py-20">
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-              <h2 className="text-3xl lg:text-5xl font-bold mb-10 text-center max-w-4xl mx-auto text-gray-900">
-                Why Choose Shared-Use Kitchens?
-              </h2>
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                <div className="border-2 border-gray-200 p-8 rounded-3xl text-center bg-white hover:shadow-lg transition-shadow">
-                  <h3 className="text-2xl font-bold mb-4 text-gray-900">
-                    Lower Costs
-                  </h3>
-                  <p className="leading-relaxed text-lg text-gray-700">
-                    No equipment purchases, maintenance, or utility bills to
-                    worry about.
-                  </p>
-                </div>
-                <div className="border-2 border-gray-200 p-8 rounded-3xl text-center bg-white hover:shadow-lg transition-shadow">
-                  <h3 className="text-2xl font-bold mb-4 text-gray-900">
-                    Community
-                  </h3>
-                  <p className="leading-relaxed text-lg text-gray-700">
-                    Network with fellow food entrepreneurs and share knowledge.
-                  </p>
-                </div>
-                <div className="border-2 border-gray-200 p-8 rounded-3xl text-center bg-white hover:shadow-lg transition-shadow">
-                  <h3 className="text-2xl font-bold mb-4 text-gray-900">
-                    Fast Start
-                  </h3>
-                  <p className="leading-relaxed text-lg text-gray-700">
-                    Start cooking immediately without lengthy setup processes.
-                  </p>
-                </div>
-                <div className="border-2 border-gray-200 p-8 rounded-3xl text-center bg-white hover:shadow-lg transition-shadow">
-                  <h3 className="text-2xl font-bold mb-4 text-gray-900">
-                    Scale Easily
-                  </h3>
-                  <p className="leading-relaxed text-lg text-gray-700">
-                    Grow your business with flexible space and incubator
-                    programs.
-                  </p>
-                </div>
-                <div className="border-2 border-gray-200 p-8 rounded-3xl text-center bg-white hover:shadow-lg transition-shadow">
-                  <h3 className="text-2xl font-bold mb-4 text-gray-900">
-                    Stay Compliant
-                  </h3>
-                  <p className="leading-relaxed text-lg text-gray-700">
-                    Professionally managed kitchens ensure health code
-                    compliance.
-                  </p>
-                </div>
-                <div className="border-2 border-gray-200 p-8 rounded-3xl text-center bg-white hover:shadow-lg transition-shadow">
-                  <h3 className="text-2xl font-bold mb-4 text-gray-900">
-                    Pro Equipment
-                  </h3>
-                  <p className="leading-relaxed text-lg text-gray-700">
-                    Access commercial-grade equipment maintained by
-                    professionals.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </section>
-
-          {/* Mid-page CTA */}
-          <section className="py-12 text-center">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">
-              Ready to Find Your Kitchen?
-            </h2>
-            <p className="text-lg text-gray-600 mb-6">
-              Browse 380+ verified commercial kitchens across 43 cities.
-            </p>
-            <Link
-              href="/browse-kitchens"
-              className="inline-block bg-blue-600 text-white px-8 py-4 rounded-lg font-medium text-lg hover:bg-blue-700 transition-colors"
-            >
-              Browse All Kitchens
-            </Link>
-          </section>
-
-          {/* Commercial Kitchen Solutions */}
-          <section className="py-20">
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-              <h2 className="text-3xl lg:text-5xl font-bold mb-10 text-center max-w-4xl mx-auto text-gray-900">
-                Commercial Kitchen Solutions for Every Food Business
-              </h2>
-              <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-                <div className="border-2 border-gray-200 p-8 rounded-3xl hover:shadow-lg transition-shadow">
-                  <h3 className="text-2xl font-bold mb-4 text-gray-900">
-                    Catering Companies
-                  </h3>
-                  <p className="leading-relaxed text-lg text-gray-700">
-                    Find commercial kitchen space for catering with
-                    large-capacity equipment, ample prep areas, and storage for
-                    serving materials. Perfect for wedding caterers, corporate
-                    dining, and special event food service.
-                  </p>
-                </div>
-                <div className="border-2 border-gray-200 p-8 rounded-3xl hover:shadow-lg transition-shadow">
-                  <h3 className="text-2xl font-bold mb-4 text-gray-900">
-                    Food Truck Operators
-                  </h3>
-                  <p className="leading-relaxed text-lg text-gray-700">
-                    Access commissary kitchen space for food trucks with the
-                    prep space and storage needed for mobile food operations.
-                    Meet health department requirements for food truck
-                    licensing.
-                  </p>
-                </div>
-                <div className="border-2 border-gray-200 p-8 rounded-3xl hover:shadow-lg transition-shadow">
-                  <h3 className="text-2xl font-bold mb-4 text-gray-900">
-                    Bakeries & Pastry Shops
-                  </h3>
-                  <p className="leading-relaxed text-lg text-gray-700">
-                    Find commercial baking kitchen rentals with professional
-                    ovens, mixers, and temperature-controlled storage for
-                    artisan breads, cakes, and specialty pastries.
-                  </p>
-                </div>
-                <div className="border-2 border-gray-200 p-8 rounded-3xl hover:shadow-lg transition-shadow">
-                  <h3 className="text-2xl font-bold mb-4 text-gray-900">
-                    Specialty Food Producers
-                  </h3>
-                  <p className="leading-relaxed text-lg text-gray-700">
-                    Rent commercial kitchen space for manufacturing sauces,
-                    snacks, beverages, and packaged goods. Access co-packing
-                    services and FDA-compliant production facilities.
-                  </p>
-                </div>
-                <div className="border-2 border-gray-200 p-8 rounded-3xl hover:shadow-lg transition-shadow">
-                  <h3 className="text-2xl font-bold mb-4 text-gray-900">
-                    Ghost Kitchens
-                  </h3>
-                  <p className="leading-relaxed text-lg text-gray-700">
-                    Launch delivery-only restaurants and virtual brands with
-                    flexible commercial kitchen rentals designed for high-volume
-                    order fulfillment and multi-brand operations.
-                  </p>
-                </div>
-                <div className="border-2 border-gray-200 p-8 rounded-3xl hover:shadow-lg transition-shadow">
-                  <h3 className="text-2xl font-bold mb-4 text-gray-900">
-                    Personal Chefs & Meal Prep
-                  </h3>
-                  <p className="leading-relaxed text-lg text-gray-700">
-                    Book commercial kitchen space by the hour for meal
-                    preparation services, personal chef operations, and
-                    subscription meal businesses.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </section>
-
-          {/* Tools & Resources — linked to real pages */}
-          <section>
-            <h2 className="text-3xl font-bold text-gray-900 mb-8">
-              Tools & Resources for Food Entrepreneurs
-            </h2>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              <Link
-                href="/resources/nutrition-label-maker"
-                className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-all group"
-              >
-                <div className="w-12 h-12 bg-blue-100 rounded-xl flex items-center justify-center mb-4 group-hover:bg-blue-200 transition-colors">
-                  <Shield className="w-6 h-6 text-blue-600" />
-                </div>
-                <h3 className="font-bold text-gray-900 mb-2">
-                  Nutrition Label Maker
-                </h3>
-                <p className="text-gray-600 text-sm mb-3">
-                  Generate FDA-compliant nutrition labels for free.
-                </p>
-                <span className="text-blue-600 font-medium text-sm">
-                  Create Labels &rarr;
-                </span>
-              </Link>
-
-              <Link
-                href="/resources/recipe-cost-tracker"
-                className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-all group"
-              >
-                <div className="w-12 h-12 bg-green-100 rounded-xl flex items-center justify-center mb-4 group-hover:bg-green-200 transition-colors">
-                  <DollarSign className="w-6 h-6 text-green-600" />
-                </div>
-                <h3 className="font-bold text-gray-900 mb-2">
-                  Recipe Cost Tracker
-                </h3>
-                <p className="text-gray-600 text-sm mb-3">
-                  Calculate ingredient costs and track your margins.
-                </p>
-                <span className="text-blue-600 font-medium text-sm">
-                  Track Costs &rarr;
-                </span>
-              </Link>
-
-              <Link
-                href="/resources/food-expiration-date-checker"
-                className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-all group"
-              >
-                <div className="w-12 h-12 bg-purple-100 rounded-xl flex items-center justify-center mb-4 group-hover:bg-purple-200 transition-colors">
-                  <ExternalLink className="w-6 h-6 text-purple-600" />
-                </div>
-                <h3 className="font-bold text-gray-900 mb-2">
-                  Food Expiration Checker
-                </h3>
-                <p className="text-gray-600 text-sm mb-3">
-                  Check USDA food safety guidelines and shelf life data.
-                </p>
-                <span className="text-blue-600 font-medium text-sm">
-                  Check Dates &rarr;
-                </span>
-              </Link>
-            </div>
-          </section>
-        </div>
-
-        {/* FAQ Section */}
-        <section className="mt-16">
-          <h2 className="text-3xl font-bold text-gray-900 mb-8">
-            Frequently Asked Questions
+      {/* ─── EDITORIAL INTRO ─── */}
+      <section className="py-24" style={{ background: 'var(--light-warm)' }}>
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <p className="text-sm font-medium tracking-widest uppercase mb-6" style={{ color: 'var(--terracotta)', letterSpacing: '0.15em' }}>
+            How it works
+          </p>
+          <h2 className="font-editorial text-4xl lg:text-5xl mb-8 leading-tight" style={{ color: 'var(--espresso)' }}>
+            Skip the $150k buildout.
+            <br />
+            <span className="italic" style={{ color: 'var(--terracotta)' }}>Start cooking this week.</span>
           </h2>
-          <div className="space-y-4">
-            {faqs.map((faq, index) => (
-              <div
-                key={index}
-                className="bg-stone-100 rounded-lg overflow-hidden"
-              >
-                <button
-                  onClick={() =>
-                    setExpandedFaq(expandedFaq === index ? null : index)
-                  }
-                  className="w-full px-6 py-6 text-left flex items-center justify-between hover:bg-stone-200 transition-colors"
-                >
-                  <h3 className="font-bold text-gray-900 text-lg pr-4">
-                    {faq.question}
-                  </h3>
-                  <div className="flex-shrink-0">
-                    <ChevronDown
-                      className={`w-6 h-6 text-gray-700 transition-transform ${
-                        expandedFaq === index ? 'rotate-180' : ''
-                      }`}
-                    />
-                  </div>
-                </button>
-                {expandedFaq === index && (
-                  <div className="px-6 pb-6 bg-white">
-                    <div className="pt-4 border-t border-gray-200">
-                      <p className="text-gray-700 leading-relaxed">
-                        {faq.answer}
-                      </p>
-                    </div>
-                  </div>
-                )}
+          <p className="text-lg leading-relaxed max-w-2xl mx-auto mb-16" style={{ color: 'var(--warm-gray)' }}>
+            Shared-use commercial kitchens give food entrepreneurs licensed, fully-equipped space to cook, prep, and package food legally — without the massive upfront investment of building your own facility.
+          </p>
+
+          <div className="grid md:grid-cols-3 gap-8 text-left">
+            {[
+              { num: '01', title: 'Search', text: 'Browse verified kitchens in your city. Filter by hourly rate, equipment, and availability.' },
+              { num: '02', title: 'Connect', text: 'Request pricing directly from kitchen owners. Get tour availability and booking details.' },
+              { num: '03', title: 'Cook', text: 'Show up, cook, and grow your food business. All equipment, storage, and compliance handled.' },
+            ].map((step) => (
+              <div key={step.num} className="p-8 rounded-2xl" style={{ background: 'var(--cream)' }}>
+                <span className="font-editorial text-5xl block mb-4" style={{ color: 'var(--border-warm)' }}>
+                  {step.num}
+                </span>
+                <h3 className="text-xl font-semibold mb-3" style={{ color: 'var(--espresso)' }}>
+                  {step.title}
+                </h3>
+                <p className="leading-relaxed" style={{ color: 'var(--warm-gray)' }}>
+                  {step.text}
+                </p>
               </div>
             ))}
           </div>
-        </section>
-      </div>
+        </div>
+      </section>
+
+      {/* ─── COMPARISON ─── */}
+      <section className="py-24" style={{ background: 'var(--cream)' }}>
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <p className="text-sm font-medium tracking-widest uppercase mb-3" style={{ color: 'var(--sage)', letterSpacing: '0.15em' }}>
+              The smart choice
+            </p>
+            <h2 className="font-editorial text-4xl lg:text-5xl" style={{ color: 'var(--espresso)' }}>
+              Build vs. Rent
+            </h2>
+          </div>
+
+          <div className="grid md:grid-cols-2 gap-6">
+            {/* Build */}
+            <div className="rounded-2xl p-10" style={{ background: 'var(--light-warm)', border: '1px solid var(--border-warm)' }}>
+              <h3 className="font-editorial text-2xl mb-8" style={{ color: 'var(--warm-gray)' }}>
+                Building Your Own
+              </h3>
+              <div className="space-y-5">
+                {[
+                  '$150,000+ initial investment',
+                  '6-12 months construction',
+                  'Permits, inspections, licensing',
+                  'Equipment maintenance',
+                  'Utilities, insurance, taxes',
+                ].map((item) => (
+                  <div key={item} className="flex items-start gap-3">
+                    <span className="text-lg mt-0.5" style={{ color: 'var(--warm-gray)' }}>&#8212;</span>
+                    <span className="text-lg" style={{ color: 'var(--warm-gray)' }}>{item}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            {/* Rent */}
+            <div className="rounded-2xl p-10" style={{ background: 'var(--espresso)' }}>
+              <h3 className="font-editorial text-2xl mb-8" style={{ color: 'var(--amber)' }}>
+                Renting Kitchen Space
+              </h3>
+              <div className="space-y-5">
+                {[
+                  'Start cooking immediately',
+                  'Pay only for time used',
+                  'Professional equipment included',
+                  'Maintenance handled for you',
+                  'Built-in compliance',
+                ].map((item) => (
+                  <div key={item} className="flex items-start gap-3">
+                    <span className="text-lg mt-0.5" style={{ color: 'var(--amber)' }}>&#10003;</span>
+                    <span className="text-lg" style={{ color: 'var(--cream)' }}>{item}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* ─── SOLUTIONS ─── */}
+      <section className="py-24" style={{ background: 'var(--espresso)' }}>
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <p className="text-sm font-medium tracking-widest uppercase mb-3" style={{ color: 'var(--amber)', letterSpacing: '0.15em' }}>
+              For every food business
+            </p>
+            <h2 className="font-editorial text-4xl lg:text-5xl" style={{ color: 'var(--cream)' }}>
+              Kitchen solutions
+            </h2>
+          </div>
+
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
+            {solutions.map((sol) => (
+              <div key={sol.title} className="rounded-2xl p-8 group transition-all duration-300" style={{ background: 'rgba(250,246,240,0.06)', border: '1px solid rgba(250,246,240,0.08)' }}>
+                <h3 className="font-editorial text-2xl mb-3" style={{ color: 'var(--cream)' }}>
+                  {sol.title}
+                </h3>
+                <p className="leading-relaxed" style={{ color: '#8C8279' }}>
+                  {sol.desc}
+                </p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ─── MID CTA ─── */}
+      <section className="py-24 relative overflow-hidden grain" style={{ background: 'var(--terracotta)' }}>
+        <div className="absolute inset-0 opacity-10" style={{
+          background: 'radial-gradient(ellipse at 50% 50%, rgba(255,255,255,0.2), transparent 70%)'
+        }} />
+        <div className="relative max-w-4xl mx-auto px-4 text-center">
+          <h2 className="font-editorial text-4xl lg:text-5xl mb-6" style={{ color: 'var(--cream)' }}>
+            Ready to start cooking?
+          </h2>
+          <p className="text-lg mb-10 max-w-xl mx-auto" style={{ color: 'rgba(250,246,240,0.75)' }}>
+            Browse 380+ verified commercial kitchens across 43 cities. From hourly pop-ups to monthly leases.
+          </p>
+          <Link
+            href="/browse-kitchens"
+            className="inline-flex items-center gap-2 px-8 py-4 rounded-full text-lg font-medium transition-all hover:scale-105"
+            style={{ background: 'var(--cream)', color: 'var(--espresso)' }}
+          >
+            Browse All Kitchens <ArrowRight className="w-5 h-5" />
+          </Link>
+        </div>
+      </section>
+
+      {/* ─── TOOLS ─── */}
+      <section className="py-24" style={{ background: 'var(--cream)' }}>
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="mb-12">
+            <p className="text-sm font-medium tracking-widest uppercase mb-3" style={{ color: 'var(--sage)', letterSpacing: '0.15em' }}>
+              Free tools
+            </p>
+            <h2 className="font-editorial text-4xl lg:text-5xl" style={{ color: 'var(--espresso)' }}>
+              Resources for food entrepreneurs
+            </h2>
+          </div>
+
+          <div className="grid md:grid-cols-3 gap-6">
+            {[
+              { href: '/resources/nutrition-label-maker', title: 'Nutrition Label Maker', desc: 'Generate FDA-compliant nutrition facts labels for free. English and Spanish.', tag: 'Most Popular' },
+              { href: '/resources/recipe-cost-tracker', title: 'Recipe Cost Tracker', desc: 'Calculate ingredient costs per serving and track your profit margins.', tag: 'Calculator' },
+              { href: '/resources/food-expiration-date-checker', title: 'Food Expiration Checker', desc: 'USDA food safety guidelines and shelf life data for commercial kitchens.', tag: 'Database' },
+            ].map((tool) => (
+              <Link
+                key={tool.href}
+                href={tool.href}
+                className="group rounded-2xl p-8 hover-lift"
+                style={{ background: 'var(--light-warm)', border: '1px solid var(--border-warm)' }}
+              >
+                <span className="inline-block text-xs font-medium tracking-wider uppercase px-3 py-1 rounded-full mb-4" style={{ background: 'var(--cream)', color: 'var(--warm-gray)', letterSpacing: '0.08em' }}>
+                  {tool.tag}
+                </span>
+                <h3 className="font-editorial text-2xl mb-3 group-hover:translate-x-1 transition-transform" style={{ color: 'var(--espresso)' }}>
+                  {tool.title}
+                </h3>
+                <p className="leading-relaxed mb-4" style={{ color: 'var(--warm-gray)' }}>
+                  {tool.desc}
+                </p>
+                <span className="flex items-center gap-1.5 text-sm font-medium" style={{ color: 'var(--terracotta)' }}>
+                  Try it free <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                </span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ─── FAQ ─── */}
+      <section className="py-24" style={{ background: 'var(--light-warm)' }}>
+        <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-12">
+            <h2 className="font-editorial text-4xl" style={{ color: 'var(--espresso)' }}>
+              Common questions
+            </h2>
+          </div>
+
+          <div className="space-y-3">
+            {faqs.map((faq, index) => (
+              <div
+                key={index}
+                className="rounded-xl overflow-hidden"
+                style={{ background: 'var(--cream)', border: '1px solid var(--border-warm)' }}
+              >
+                <button
+                  onClick={() => setExpandedFaq(expandedFaq === index ? null : index)}
+                  className="w-full px-6 py-5 text-left flex items-center justify-between transition-colors"
+                >
+                  <h3 className="font-medium pr-4" style={{ color: 'var(--espresso)' }}>
+                    {faq.question}
+                  </h3>
+                  <ChevronDown
+                    className={`w-5 h-5 shrink-0 transition-transform duration-300 ${expandedFaq === index ? 'rotate-180' : ''}`}
+                    style={{ color: 'var(--warm-gray)' }}
+                  />
+                </button>
+                <div
+                  className="overflow-hidden transition-all duration-300"
+                  style={{ maxHeight: expandedFaq === index ? '200px' : '0' }}
+                >
+                  <div className="px-6 pb-5">
+                    <p className="leading-relaxed" style={{ color: 'var(--warm-gray)' }}>
+                      {faq.answer}
+                    </p>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
     </div>
   )
 }

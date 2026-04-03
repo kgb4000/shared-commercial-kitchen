@@ -38,7 +38,7 @@ export default function SearchBar() {
         .toLowerCase()
         .includes(val.toLowerCase())
     )
-    setSuggestions(filtered.slice(0, 5)) // Limit suggestions
+    setSuggestions(filtered.slice(0, 5))
   }
 
   const handleSuggestionClick = (city, state) => {
@@ -49,28 +49,39 @@ export default function SearchBar() {
 
   return (
     <div className="relative">
-      <Search className="absolute left-4 top-1/2 transform -translate-y-1/2 text-gray-400 w-5 h-5" />
+      <Search className="absolute left-5 top-1/2 transform -translate-y-1/2 w-5 h-5" style={{ color: 'rgba(250,246,240,0.4)' }} />
       <input
         type="text"
         value={query}
         onChange={handleInputChange}
+        onKeyDown={(e) => e.key === 'Enter' && handleSearch()}
         placeholder="Search by city..."
-        className="w-full pl-12 pr-4 py-4 border border-gray-200 rounded-2xl text-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 shadow-sm"
+        className="w-full pl-14 pr-32 py-4 rounded-full text-lg focus:outline-none focus:ring-2 transition-all"
+        style={{
+          background: 'rgba(250,246,240,0.1)',
+          color: 'var(--cream)',
+          border: '1px solid rgba(250,246,240,0.15)',
+          focusRingColor: 'var(--amber)',
+        }}
       />
       <button
         onClick={handleSearch}
-        className="absolute right-2 top-2 bottom-2 px-6 bg-blue-600 text-white rounded-xl hover:bg-blue-700 transition-colors font-medium"
+        className="absolute right-2 top-2 bottom-2 px-6 rounded-full font-medium text-sm transition-all hover:scale-105"
+        style={{ background: 'var(--amber)', color: 'var(--espresso)' }}
       >
         Search
       </button>
 
       {suggestions.length > 0 && (
-        <ul className="absolute z-50 mt-2 w-full bg-white border border-gray-200 rounded-xl shadow-md max-h-60 overflow-auto">
+        <ul className="absolute z-50 mt-2 w-full rounded-xl shadow-2xl max-h-60 overflow-auto" style={{ background: 'var(--cream)', border: '1px solid var(--border-warm)' }}>
           {suggestions.map((s, i) => (
             <li
               key={i}
               onClick={() => handleSuggestionClick(s.city, s.state)}
-              className="px-4 py-3 text-gray-700 hover:bg-gray-100 cursor-pointer text-sm"
+              className="px-5 py-3 cursor-pointer text-sm transition-colors"
+              style={{ color: 'var(--warm-brown)' }}
+              onMouseEnter={e => e.target.style.background = 'var(--light-warm)'}
+              onMouseLeave={e => e.target.style.background = 'transparent'}
             >
               {s.city
                 .replace(/-/g, ' ')
