@@ -385,7 +385,7 @@ export default function FoodExpirationDatabase() {
         let foodKeeperData
 
         try {
-          const response = await fetch('./foodkeeper-data.json')
+          const response = await fetch('/foodkeeper-data.json')
           if (response.ok) {
             foodKeeperData = await response.json()
             console.log('Successfully loaded from local JSON file')
