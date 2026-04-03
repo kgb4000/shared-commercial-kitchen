@@ -255,48 +255,6 @@
       "verified": false
     },
     {
-      "title": "OAKLAND SHARED KITCHEN",
-      "price": null,
-      "categoryName": "Commercial kitchen",
-      "address": "1014 Fruitvale Ave, Oakland, CA 94601, USA",
-      "neighborhood": "",
-      "street": "",
-      "city": "Oakland",
-      "postalCode": "",
-      "state": "CA",
-      "countryCode": "US",
-      "website": "",
-      "phone": "(857) 301-6829",
-      "phoneUnformatted": "8573016829",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 37.7757179,
-        "lng": -122.2266049
-      },
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJl5kmb_OGj4ARHnOpaiqO5Yc",
-      "categories": [
-        "Commercial kitchen"
-      ],
-      "imagesCount": 0,
-      "imageCategories": [],
-      "scrapedAt": "2026-04-03T04:02:53.940Z",
-      "openingHours": [],
-      "additionalInfo": {},
-      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJl5kmb_OGj4ARHnOpaiqO5Yc",
-      "reviews": 3,
-      "rating": 4.3,
-      "totalScore": 4.3,
-      "reviewsCount": 3,
-      "isAdvertisement": false,
-      "imageUrl": "https://places.googleapis.com/v1/places/ChIJl5kmb_OGj4ARHnOpaiqO5Yc/photos/AU_ZVEEAoiMjIUAxmWHSrfKM0cV8sZ1RsyNohDf0nzihnT0LMKcUlHAFVNOgRtxnevXjBNFF86EqLUsvZJZHljhELiDzn4FKyLM7neIfJcO7GQem07RFhNv3jqqonxrJzcxwMEmG05sMS11N3eN05x3_D7rADUVCy91VXPjh4OC4sR44dwBelQyyzKFcwKY9Hw9HNRaQltQJX1T02zldzlWZLEBxjptp9IkgQh7ZiQRvQBjdZ88sAQg7V5csvX25g0K1IP2U90OWtdR8gyD_nWVUTcci0zy5huvrpf_WfcMv54x1hw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
-      "images": [
-        "https://places.googleapis.com/v1/places/ChIJl5kmb_OGj4ARHnOpaiqO5Yc/photos/AU_ZVEEAoiMjIUAxmWHSrfKM0cV8sZ1RsyNohDf0nzihnT0LMKcUlHAFVNOgRtxnevXjBNFF86EqLUsvZJZHljhELiDzn4FKyLM7neIfJcO7GQem07RFhNv3jqqonxrJzcxwMEmG05sMS11N3eN05x3_D7rADUVCy91VXPjh4OC4sR44dwBelQyyzKFcwKY9Hw9HNRaQltQJX1T02zldzlWZLEBxjptp9IkgQh7ZiQRvQBjdZ88sAQg7V5csvX25g0K1IP2U90OWtdR8gyD_nWVUTcci0zy5huvrpf_WfcMv54x1hw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
-      ],
-      "verified": false
-    },
-    {
       "title": "Passione Kitchen",
       "price": null,
       "categoryName": "Commercial kitchen",

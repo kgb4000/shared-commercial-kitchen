@@ -1912,57 +1912,6 @@
       "verified": false
     },
     {
-      "title": "Hudson Bend Commercial Kitchen",
-      "price": null,
-      "categoryName": "Commercial kitchen",
-      "address": "1501 Ranch Rd 620 N, Austin, TX 78734, USA",
-      "neighborhood": "",
-      "street": "",
-      "city": "Austin",
-      "postalCode": "",
-      "state": "TX",
-      "countryCode": "US",
-      "website": "http://www.hudsonbendcommercialkitchen.com/",
-      "phone": "(512) 650-8095",
-      "phoneUnformatted": "5126508095",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 30.378652399999996,
-        "lng": -97.9453557
-      },
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJT7C8JuYwW4YRgdiYIcciVww",
-      "categories": [
-        "Commercial kitchen"
-      ],
-      "imagesCount": 0,
-      "imageCategories": [],
-      "scrapedAt": "2026-04-03T03:59:44.271Z",
-      "openingHours": [],
-      "additionalInfo": {},
-      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJT7C8JuYwW4YRgdiYIcciVww",
-      "reviews": 3,
-      "rating": 5,
-      "totalScore": 5,
-      "reviewsCount": 3,
-      "isAdvertisement": false,
-      "imageUrl": "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEEbGMU7S0YH3fslNMXvsy5FlHYm0xxLySJn0wwzkDJiLJC_zk2bkM2OqzAcmOwOmkpBYZFeCGWBw5a8R2Q5-KTLhNLlQQd2lYHkzBeAx8W09sVMG_58Q3MmAWN9xSen1vM8_oWUtpOue7YAG9aHNPxTeR-PTYtkZ7B2Lwnwgfe_IVp7-TBLOgx4Pz_urw9Nk2gojkVjAo1IzY_Ti99jMCwa7MYvQIsy-BUQaXn1jBocKeas9VwJgg-YvDugVEXOKEXvqOrJ3GrtZ6r0szjxe-ILOFjKttDTVCRSmhiHdZrLvA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
-      "images": [
-        "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEEbGMU7S0YH3fslNMXvsy5FlHYm0xxLySJn0wwzkDJiLJC_zk2bkM2OqzAcmOwOmkpBYZFeCGWBw5a8R2Q5-KTLhNLlQQd2lYHkzBeAx8W09sVMG_58Q3MmAWN9xSen1vM8_oWUtpOue7YAG9aHNPxTeR-PTYtkZ7B2Lwnwgfe_IVp7-TBLOgx4Pz_urw9Nk2gojkVjAo1IzY_Ti99jMCwa7MYvQIsy-BUQaXn1jBocKeas9VwJgg-YvDugVEXOKEXvqOrJ3GrtZ6r0szjxe-ILOFjKttDTVCRSmhiHdZrLvA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
-        "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEEIcQp595uigZIO_vb4aVpJyiYEOM9hjeD5sGY_mkeFtmVVcuq3i4rDtUf01GIieh240qcvTEsVgV6XkSti3h5gn9TV9p3ocsNCybjlYEfKrqDjkSTM1ftK8EqzIbHMc4hIMqHmCFp_SmBgfJ__sb5NGXY-xmOYk1DvBALLWzJE8ELKvB57FWJTbTqWDIT-rY7Xb6xM6TrHikbYnw_BfG6bQz5ga9WTuTJOVIXwqGzze3t3kUkABKorxxet35B6XtB4TWYZWO4UaypMI_QT2ljJx84DZmyt-H1She4tfksYew/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
-        "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEH2uorYaAPNKioeBAdm1USpM192SAanXXF0neKs9cuCUibPdykE5r_9p32lLza2CzXGewUDcWwDvRA0RQgWlvRB_hllOnrpc7jePYz7CYWv2-CztLgjqZZFzVKkVKQLTJRspuaWRDceWQa6EOtBMk7ODHWQsMBDRbkOMv4vYOwwwHWq9FB50QFgm71L22LG5bRzyXA7VwDd8vI6Pkf-Cokazv_h3Fqfbx9iiy2KCgRdZlvRWAJ5onENHMRWk4DwJW4UKAa38J7KWC8ITCMpiGRIDoHJ5KaUs5p5vcarQWWt7w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
-        "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEFRBxPFv3BamBpexVs30jMnk0_bIBOVLAw3RTCQD5R4mNLVeWt7bSa_vh5FUe7W8hCUsPdZuAH1qGMceQXh30bkp2cwdQR-VTBFzID1MxvLoGRkI6MtFC-U80f_Y9v4lUvqTKyjQtBIGfFKei9ziJNnqy8kA7_QI1aw32V0XxBvYrhL2A5lXoEnQ3_RkiXFC15rxvp3-3T6azA3OAegiC3wsZj480JFG2Y2IKOQEsLc4LAj5kNZLGcZaBoW7upCOGVxAUJ06MkGygxJ-mlaJdVZVjBBIM8NTli2keIDeR843Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
-        "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEHrvWcZE7n_eScwHflaXTPhR9lAmfjT2Aoq_eN_GMaEh-P9g9SJyu9kX5SN6pEfvnRU__-QSTix-WAxxaerrZRjMqEFI62YJdymmJ_s9WQZ-Z4MsFqbi38p0YOFWVudBHY_fkLQQtJvYq1kq0xjZZvJ3yjtr5uhpcjfF5TzAPo6TklDrbee0grNGc6S1u_UV7kEMGaGlu4a6IovDYsagj1DfFdU-glApDNeurMvnf8s_McFl514uoLlPPXrw5iTjflYGZ9AeIoEI4iTj3aLojnLsKLQy79TZLRaV8C1vC86Vw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
-        "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEHfliq_k6pfttDdTUudC8UymNzgDKrq6GMWmTbK62ep1cNwROdAIFDPddTjIj1whZWylaknJ3Mzs3QdahkN7UPv1rcyWYe4Vpptukk3EM4CCd20faFTxvOQnPjZ73vRmi18NYJeAs-grXh3qC-aKtGayoNaU8c0dCwo_KmaHKENBdJGE_gqwgCt11OT6H_9YCRI8sS9AU94zsfqgwn4Mk-1r_Hkb2aV29tD7xtSE9Ny1qb3yzwyZjhVEVaVdrPLyfDLRXG8UJhr36KkMLlSB0wUt-q1i38Smjp2bp0i2StQ4A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
-        "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEEJY1epV84w_x-mknLSDkJr5FN04kE1wnZEL9ElmRsbcOTNQo6se7FuB_s7fLlBAnYxsl0KGCe6jOUoJnYZXDqEnfPqOVYSdpsRfi3zs9hZJ9vBUinbNI8r4INEx3ZQC572xcdVOxcpWg7QmUL4p6UASo-YNjahXgbIp3NnGYs8VnaI7e5ivvRxJa-AfNrbyta9YOXJVjAUXPg3-PA9o4w3vu6CYaYn-ExvneqSQFJNTcKYs5Dcev5XkSuLN3eSo1Vm3RX_wA7x9sJR6IM9VSDaN-nrPGrEJkgZEqMDcb94sw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
-        "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEEQQEcCi-RaJvmSNRLhDv74Gn4hngOKIaeVTzip4WAu8ziJdWptgTsLNQOZ3RZlJswHNlxxNTJ2VhDliE6ZaPYw18vObJOeKFKNI-s8K9qzla7q9DQx-ebBkX5hc4Uk148ntNCM-bWIYULAZ8QJj0T9m-3rh_WSWpHdMGSGDNCjbXB5d_taoc2UrhjREgODw1QRsUVWaPdY9BJ5ffUGcnEf_CzS0l46uOyLykAA6dhZBwyD4zQ2XjEdHdJ_9TJtboXC7ssnj1A28GX0-kVBVfPCgBt2_fZj2it4Jrvu1jHV8w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
-        "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEFh_pnvTf7ynqYbO1shNiBtha3H3KnP71P0FIHu_viBx9chie-4bDjkfak10jINv0A-IsBTvu7ya0ZAdY46u0G8zqpXpKEJ1NlGaqw5Y0O34xDP-NRnD9x4EAv1RhCKEYIkHQEOmUg0IursSeoSBnvmP2joimyA8SvtFckO3AunI4aZfIgx6-CsFkwXDaCWRTDO4zoiCyzW_UVi5Rc1lMtI6sqWs3HmX2LK49m7v2YS5XiZFGo3wUNePltuXPHVkUC9Q3QYvAepLd7AOVQJLJQPsGsN4xAqpPa8fxkNPleH9kscKhWHb1YoITAvJjCstnirRlDTpgYrskbgMKxe-fzb4mF86MlpQTYLBQcXb2t_4gqTbQ3W2gojHkL5gAun39QVg60Pnxb4zsSj6tmE3JSNi-aXxgcWj7k0yZrqKNK1TVsL/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
-        "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEHxNAMVH2TWWd7pVNkAnF1BsbUzLkOgKIrokVF5P0kca1YlzsMn97HaOEONOSFNMtQo4rY4B7yy_Vl5xJg8lyIyWjnyKMcGNmMqMq6_PFKfhOfCaYYefLsurBkdDaLE3EzSzj7TLIBfsphW_weaHA5DB2_zhW41hMg3Yac7qi7si3m4bYX0hZSHPecTEjNp75i2Us6zdiGDNJbGofOZNHwjtAOOHCrChg5n3qZ7YGMMjJ55i0KxjVn2JupsDa_7LaoIUJUePSPRiQrkYyDIODiObEFgzx2N92c5tbR-EEXq5Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
-      ],
-      "verified": false
-    },
-    {
       "title": "TheCoKitchen",
       "price": null,
       "categoryName": "Commercial kitchen",
