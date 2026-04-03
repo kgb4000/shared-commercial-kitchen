@@ -86,6 +86,13 @@ async function searchKitchens(city, state) {
           'restaurant improvement', 'restaurant depot',
           'grocery', 'supermarket', 'bodega',
           'brewery', 'winery', 'distillery',
+          'bistro', 'chef services', 'chef service', 'personal chef', 'private chef',
+          'kitchenlift', 'kitchen lift', 'interior design', 'home staging',
+          'salon', 'beauty', 'photography', 'photo studio',
+          'temple', 'mosque', 'church',
+          'gym ', 'fitness', 'yoga',
+          'auto ', 'car wash', 'mechanic',
+          'dry clean', 'laundry',
         ]
         if (rejectNames.some((r) => name.includes(r))) return false
 
