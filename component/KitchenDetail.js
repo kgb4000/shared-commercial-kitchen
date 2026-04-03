@@ -904,6 +904,63 @@ function KitchenAmenities({ kitchen, placeDetails }) {
   )
 }
 
+function generateUniqueDescription(kitchen, cityName, stateName, rating) {
+  const name = kitchen.title || kitchen.name || 'This kitchen'
+  const category = kitchen.categoryName || 'Commercial kitchen'
+  const neighborhood = kitchen.neighborhood || ''
+  const address = kitchen.address || ''
+  const categories = kitchen.categories || []
+  const hours = kitchen.openingHours || []
+  const accessibility = kitchen.additionalInfo?.Accessibility || []
+
+  const is24h = hours.some(h => h.hours === 'Open 24 hours')
+  const hasWeekendHours = hours.some(h =>
+    (h.day === 'Saturday' || h.day === 'Sunday') && h.hours !== 'Closed'
+  )
+
+  const accessFeatures = accessibility
+    .flatMap(a => Object.entries(a).filter(([, v]) => v).map(([k]) => k))
+
+  const paragraphs = []
+
+  // Paragraph 1: What this kitchen is (always unique due to name + location + category)
+  paragraphs.push(
+    `${name} is a ${category.toLowerCase()} located at ${address}${neighborhood ? ` in the ${neighborhood} area` : ''}. ` +
+    (rating.score > 0
+      ? `Rated ${rating.score} out of 5 based on ${rating.count} review${rating.count !== 1 ? 's' : ''}, this facility serves food entrepreneurs, caterers, and culinary professionals in ${cityName}${stateName ? `, ${stateName}` : ''}.`
+      : `This facility serves food entrepreneurs, caterers, and culinary professionals in ${cityName}${stateName ? `, ${stateName}` : ''}.`)
+  )
+
+  // Paragraph 2: Hours and access (unique per kitchen)
+  if (is24h) {
+    paragraphs.push(
+      `${name} offers 24-hour access, giving food business operators the flexibility to prep, cook, and package on their own schedule — ideal for bakers with early morning production runs or food truck operators prepping for late-night service.`
+    )
+  } else if (hours.length > 0) {
+    const weekdayHours = hours.find(h => h.day === 'Monday')
+    paragraphs.push(
+      `Operating hours include ${weekdayHours ? `${weekdayHours.day}: ${weekdayHours.hours}` : 'standard business hours'}${hasWeekendHours ? ', with weekend availability' : ''}. Contact the kitchen directly to confirm current availability and book your preferred time slots.`
+    )
+  }
+
+  // Paragraph 3: Categories and use cases (unique per kitchen's category mix)
+  if (categories.length > 0) {
+    const categoryList = categories.slice(0, 3).join(', ')
+    paragraphs.push(
+      `Categorized as a ${categoryList.toLowerCase()} facility, ${name} is suitable for food truck operators needing a commissary base, caterers preparing for events, bakers producing artisan goods, meal prep services, and specialty food producers manufacturing packaged products.`
+    )
+  }
+
+  // Paragraph 4: Accessibility (if available)
+  if (accessFeatures.length > 0) {
+    paragraphs.push(
+      `Accessibility features include ${accessFeatures.map(f => f.toLowerCase()).join(' and ')}.`
+    )
+  }
+
+  return paragraphs
+}
+
 // Main KitchenDetail Component
 export default function KitchenDetail({
   kitchen,
@@ -1200,22 +1257,13 @@ export default function KitchenDetail({
                         {safeRender(initialGoogleData.editorialSummary.text)}
                       </p>
                     ) : (
-                      <>
-                        <p className="text-gray-700 leading-relaxed mb-4">
-                          This professional commercial kitchen space in{' '}
-                          {extractNeighborhood(kitchen.address)} offers
-                          state-of-the-art facilities for food entrepreneurs,
-                          caterers, and culinary businesses.
-                        </p>
-                        <p className="text-gray-700 leading-relaxed">
-                          {rating.score &&
-                            `With a ${rating.score}-star rating from ${rating.count} satisfied customers, `}
-                          this location provides all the equipment and space you
-                          need to launch or grow your food business in{' '}
-                          {cityName}
-                          {stateName && `, ${stateName}`}.
-                        </p>
-                      </>
+                      <div className="space-y-4">
+                        {generateUniqueDescription(kitchen, cityName, stateName, rating).map((paragraph, i) => (
+                          <p key={i} className="text-gray-700 leading-relaxed">
+                            {paragraph}
+                          </p>
+                        ))}
+                      </div>
                     )}
 
                     {/* Kitchen specifications and details */}

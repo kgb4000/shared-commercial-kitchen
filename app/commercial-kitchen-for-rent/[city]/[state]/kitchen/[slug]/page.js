@@ -307,8 +307,11 @@ export async function generateMetadata({ params }) {
   const safeKitchenName = kitchenName || 'Commercial Kitchen'
   const safeLocation = location || `${formattedCity || city}, ${stateName || state}`
   
-  const enhancedDescription = kitchen.description || 
-    `Rent ${safeKitchenName}, a fully equipped commercial kitchen in ${safeLocation}. Features commercial-grade equipment, flexible hourly rates, and meets all health department requirements. Perfect for food startups, catering businesses, and meal prep entrepreneurs.`
+  const category = kitchen.categoryName || 'commercial kitchen'
+  const ratingText = kitchen.totalScore ? `Rated ${kitchen.totalScore}/5 from ${kitchen.reviewsCount || 0} reviews. ` : ''
+  const hoursText = kitchen.openingHours?.some(h => h.hours === 'Open 24 hours') ? '24-hour access available. ' : ''
+  const enhancedDescription = kitchen.description ||
+    `${safeKitchenName} is a ${category.toLowerCase()} for rent in ${safeLocation}. ${ratingText}${hoursText}Book hourly, daily, or monthly for food prep, catering, baking, food truck commissary, and meal prep services.`
 
   const longTailKeywords = [
     `${safeKitchenName} commercial kitchen`,
