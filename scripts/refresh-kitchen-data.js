@@ -35,7 +35,7 @@ async function searchKitchens(city, state) {
           'Content-Type': 'application/json',
           'X-Goog-Api-Key': API_KEY,
           'X-Goog-FieldMask':
-            'places.id,places.displayName,places.formattedAddress,places.location,places.rating,places.userRatingCount,places.nationalPhoneNumber,places.websiteUri,nextPageToken',
+            'places.id,places.displayName,places.formattedAddress,places.location,places.rating,places.userRatingCount,places.nationalPhoneNumber,places.websiteUri,places.types,nextPageToken',
         },
         body: JSON.stringify(body),
       }
@@ -48,7 +48,30 @@ async function searchKitchens(city, state) {
 
     const data = await res.json()
     if (data.places) {
-      results.push(...data.places)
+      const filtered = data.places.filter((place) => {
+        const name = (place.displayName?.text || '').toLowerCase()
+        const types = place.types || []
+
+        // Reject businesses that aren't actual kitchens for rent
+        const rejectTypes = [
+          'furniture_store', 'home_goods_store', 'hardware_store',
+          'cleaning_service', 'event_venue', 'wedding_venue',
+          'real_estate_agency', 'moving_company', 'storage',
+          'restaurant_supply', 'appliance_store',
+        ]
+        if (types.some((t) => rejectTypes.includes(t))) return false
+
+        // Reject by name patterns
+        const rejectNames = [
+          'equipment', 'supply', 'supplies', 'cleaners', 'cleaning',
+          'repair', 'installation', 'accelerator space', 'event space',
+          'wedding', 'furniture', 'appliance', 'real estate',
+        ]
+        if (rejectNames.some((r) => name.includes(r))) return false
+
+        return true
+      })
+      results.push(...filtered)
     }
 
     pageToken = data.nextPageToken

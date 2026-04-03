@@ -6,7 +6,7 @@
       "title": "Feel Good Kitchen LB",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",
-      "address": "714 Orange Ave, Long Beach, CA 90813",
+      "address": "714 Orange Ave, Long Beach, CA 90813, USA",
       "neighborhood": "Eastside",
       "street": "714 Orange Ave",
       "city": "Long Beach",
@@ -29,10 +29,10 @@
       ],
       "fid": "0x80dd31d90efddfe9:0x912557af065b3c81",
       "cid": "10458862118875380865",
-      "reviewsCount": 42,
+      "reviewsCount": 44,
       "imagesCount": 24,
       "imageCategories": [],
-      "scrapedAt": "2025-07-16T13:38:27.565Z",
+      "scrapedAt": "2026-04-03T04:01:49.521Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [
@@ -98,14 +98,30 @@
       "language": "en",
       "rank": 1,
       "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOsqY-KGx3RC76V_JONg_ei2X-xopzpDIzjMhp-=w408-h306-k-no",
-      "kgmid": "/g/11h53ms0vc"
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJ6d_9Dtkx3YARgTxbBq9XJZE/photos/AU_ZVEFpsMfsSv_YcpIAWH8DgyPxKuMTwwiZInyJUecDB5kKE-D3lDEorLs7shS28EQPLaxPClf9onq1iseR5KjeL_j6QolhC3DoCGIecHEzhWpqZSRZzK2ltS47FV_vcutZ675pzG4e7go7MS2FgpFkvpdJ8BnVrLfoEdiVDvsr6ku_iAaUmy4-LbEq678eLtEp7vQmyiov47z4RJm_sP2dRLZWwo0JVBokOIYPZJb1cc02ZUTbWWmL63DT_6STOJgOcJg3VozcUEq4eQWX_IaFwu6Ihs3OUKo17sS7PWPerhlvMQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "kgmid": "/g/11h53ms0vc",
+      "rating": 5,
+      "reviews": 44,
+      "phone": "(424) 224-9868",
+      "phoneUnformatted": "4242249868",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJ6d_9Dtkx3YARgTxbBq9XJZE/photos/AU_ZVEFpsMfsSv_YcpIAWH8DgyPxKuMTwwiZInyJUecDB5kKE-D3lDEorLs7shS28EQPLaxPClf9onq1iseR5KjeL_j6QolhC3DoCGIecHEzhWpqZSRZzK2ltS47FV_vcutZ675pzG4e7go7MS2FgpFkvpdJ8BnVrLfoEdiVDvsr6ku_iAaUmy4-LbEq678eLtEp7vQmyiov47z4RJm_sP2dRLZWwo0JVBokOIYPZJb1cc02ZUTbWWmL63DT_6STOJgOcJg3VozcUEq4eQWX_IaFwu6Ihs3OUKo17sS7PWPerhlvMQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ6d_9Dtkx3YARgTxbBq9XJZE/photos/AU_ZVEHbJVW8pvNn2ma8fY9_aA41-00gsZW5U1sjmXBmBe_hk7Mrhf8OSVC4-jnFAZt9oN2_wfJJEFxEW36jo_ix0iLmeGBC0_JzhG_dg5f2TA1n3eyw3awBF7tvH0HR2QWAp7M6FbYhJeppeUn8X5kMqlmRyvmZiibKM1HRnunVN7OeaI6lKFJVTVgsbUMsm-yXtvRGwXusyyJgYkyDGYi9VN2q3ktGmAoAgfC2FQptQKPLrPY20bFoeCN-qAdYoKcmuYLS4S7FdiruzIv_T8lOHj-d6CPh1ILakEircRBaU5kO3A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ6d_9Dtkx3YARgTxbBq9XJZE/photos/AU_ZVEHXuPjqN-suLQ9eMTSqWAjf__uXdcJRzNP3kWBfrGokREx9JUNBTlwaRz2kH2sUIfSrnsKH8Ch1j00X4kzpbzPapfaSDkBPyJFzAUtFLiRoTxPsecNGUBKxJbucM5esTPAHvaiZluDnSGBMmGTA9Sfbe-VJtJ8vXy7VT-bD59lrH0wkEFhBDFnOn50V44ReUBWi8TFIb6nHnoU2BWvuVIL0Si-tXz8v3_hyg-T5mbfDfe1GH_XGIcDexLOA_QomicHoNtdO2wCsVGtr7n3y437DN1q2CWzY7BPdVOJGruGP9g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ6d_9Dtkx3YARgTxbBq9XJZE/photos/AU_ZVEE_jtJCOByC019g6xRhw2gc8xRuiwVb95l6iMG2h5a7GMeqeFtg978JSmTgLPotI97-l9pj6mUxrmY7gyjS7s5KfbCH_tNqZJ0yMcj7re1eswj0G2b6Tbz78RQ1yg_bVBIV8O4XNulAxKUP9-aMQ-C4d2f4IIXW7KH2xfxLw0v04sF-mnkyg9M9skTcTGWyTUmFsU8Uiit-7skjGiEfxXkSE1wCpvUJTRy4wXzLviDZTCKORs8RuP2nrzWGKfO0k8zP6Qzm0vmupL90HvoWfbI7i1aUiuwB-5g2DTHKdVS-FQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ6d_9Dtkx3YARgTxbBq9XJZE/photos/AU_ZVEE8SwmYsQLbwHRhOZDmEuyz425g-Nch3QLTVhLykw_P6Jh-sAi-H5VUS6rNJqdF65Y4NrcRve2sAz4X5KRNw7vgejig4RyzXrKV9472ffcsUv7_zRVuzzgXEHr9JO46kgqCZdZmK4I-mrGTkVWeZs3jta60JNLjJiKoOkxQ_Tcq-EpW3QvyDp8IiaJ0ErBFXuX-eRWaG8eu1SqVX7kxXc0pVwkWwE0dreEsxWSb3ff0Zb-K1wHaj_a-Rcl49IYvj90QtIRtgrN2QWN8frPBRxnrM31iKIcAcJ4cEu77aHqH-Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ6d_9Dtkx3YARgTxbBq9XJZE/photos/AU_ZVEFkedu-yGjf7e53HN4Eg5YmTQoCyQnAgxXYkhS79afiGIxQukUmb4IPQInuxCRLb_4W44rPncp-qv71wGklSh9XuaSKeFdDKBShAXn1YLEjlJm6nl3MPq9mOM7DsS3-H7_c3247A2WQkuX4SPCSk3HL3WhUPlahTVJmawUOBS5DA67m54SKlApnudVSZA7GFmOLUd16VqFglOBKcuPFzBTnb4Kghy3LSwWo1caWKNcDjrNeFPfx8QSgg6Qz9LZ12DlT95Ir2Qex8-AnY_eAHOy4G1-6D3PezQbP4bNNeoSQIg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ6d_9Dtkx3YARgTxbBq9XJZE/photos/AU_ZVEFUgVPryKyETdEBq5v6D-mueS8IxVOpx7qg9C3HwJhEBRmzDN3HGPwSacIBDXGSZf0u3oNxI5WhiRwhrUB-QXJWh0jAs-qNbEyCI86_pJqccv85qgx1HfHa2JBvH90jt3OwckddMK_DAJZHGYPL_7BaasYPRhXsdvGQgap75hHZougL-dw5GrU6rUJdWVEvpvJSsoTToOLjUPewcKzZCdWvMEtNOwEWaQQVfYoDTVKwBKtIf9UNXSxWiSQXsmkzl0p-1oM3JtC5mvefs0VSdinHSn6-2SJ6koo3YMtUYN--D4ARB7u5plU7XfJmnreJv1TdSGMMAff1onrHEBv1pSckjLu2CxBsU29l4pWOWltzJHU3X56CAzx8niPlZ8FTVSttDL8t8vdykbxGqKbB-5IO_1CHfS0147xAZfSQU-APju1B/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ6d_9Dtkx3YARgTxbBq9XJZE/photos/AU_ZVEHhN7JG-WVKUiZsC2OuQJLLwMbP99E3qwZjykt9-FZC-9L_RfCD0-Q85zTRuI806Q5r03vJFD4O-R5W5LxMcSrqw7WPjzKNVA3NT0K4sIKBHa9OKMjQr38AoJj1_HTtupmgOCWYKDtd2cL-Q6g6vO5U71nnhs84FwGRaxEiAUfRPgzZoaYIMxA5Zz4ujCYbhPM0fQJpq-0t7QuC686arVMFxdb0ptqlgEZnIBlo8c5TsZ5N7lMZ8g2fgQFiEr_Sj8OdK7g0eIjwFNaYjIWlahK_-WMYQ4XF0piELU2BLXv8gw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ6d_9Dtkx3YARgTxbBq9XJZE/photos/AU_ZVEExtxJ3osmOTeejldRI7HGWyV1oZrRxBA4jb7XE2TADrgwSKi2CQQTY_sgjV9KILP0Mz5h4bCrUBWDkutxAwXd3GUBFD_S_LgMXcub7pnfO_7a8wr8IGMhuP2UyRKN9T2Yzj286OY1qwXidORV70GRdU8GBu3FFQ_27WpcX9tsGrpplbHWjIgme5_aXy1M7X5MLn5sBx5v4x_HSVquJKwwCSvwJ65161oFBlmsNzxJCsBM2nCle38RQxcwsKSPV1fi3eOUyEBrAgLsYHw6SZU2g6k9HHU9Qb3WoEp7UReMG5UwM774-Qr1V22yHTgZx0EWnIBHWu2fQTHbtxZEsf7g--A95CUe9FJbh1cVOCheKQqZqv0qFKYNRZa4CayhBpMPeODik3VO8LasYbLpnnoCbS38Q-UgMbHx5hoZOYIaMwYK9/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ6d_9Dtkx3YARgTxbBq9XJZE/photos/AU_ZVEE5cu10MYgBhZiQ_TSaokSYvAaNoshJ3kikJtIQVnMZ_9AUPHE3qRzRmkPxN4w9e1yH-IWZ2Jdnazly_Gu7DlCR8dM6T6xLc5uLRAZIN0hJIeXVD3XL3k-zaRfJWRSpd93Uh_zuFvXrEMRVE8BJWWUmXNVgnzoZ4H5ElUgP7OjuTQBzLP_FXhAS4lc4Rrk6PKB4UFbK6kPUBjGA1vRuO4dB76ZoPefwgzzp1tlv3YYNcQCaanyraW2qootsrk6sg3qj6Cil1o1lmGmoQdjSqhKtoeRkHELTpYiVgFh-Hd3I1w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ]
     },
     {
       "title": "Partake Collective Food Hall and Commercial Kitchens",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",
-      "address": "456 Elm Ave k9, Long Beach, CA 90802",
+      "address": "456 Elm Ave k9, Long Beach, CA 90802, USA",
       "neighborhood": "Downtown",
       "street": "456 Elm Ave k9",
       "city": "Long Beach",
@@ -113,12 +129,12 @@
       "state": "California",
       "countryCode": "US",
       "website": "https://www.partakecollective.com/",
-      "phone": "(562) 317-1577",
-      "phoneUnformatted": "+15623171577",
+      "phone": "(562) 668-3829",
+      "phoneUnformatted": "5626683829",
       "claimThisBusiness": false,
       "location": {
         "lat": 33.7727542,
-        "lng": -118.1872822
+        "lng": -118.18728219999998
       },
       "totalScore": 4.5,
       "permanentlyClosed": false,
@@ -131,40 +147,40 @@
       ],
       "fid": "0x80dd3150c59d60b5:0xf433281d4c780c1",
       "cid": "1099778267210547393",
-      "reviewsCount": 38,
+      "reviewsCount": 41,
       "imagesCount": 78,
       "imageCategories": [],
-      "scrapedAt": "2025-07-16T13:38:27.566Z",
+      "scrapedAt": "2026-04-03T04:01:49.814Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [
         {
           "day": "Monday",
-          "hours": "11 AM to 10 PM"
+          "hours": "11:00 AM – 10:00 PM"
         },
         {
           "day": "Tuesday",
-          "hours": "11 AM to 10 PM"
+          "hours": "11:00 AM – 10:00 PM"
         },
         {
           "day": "Wednesday",
-          "hours": "11 AM to 10 PM"
+          "hours": "11:00 AM – 10:00 PM"
         },
         {
           "day": "Thursday",
-          "hours": "11 AM to 10 PM"
+          "hours": "11:00 AM – 10:00 PM"
         },
         {
           "day": "Friday",
-          "hours": "11 AM to 10:30 PM"
+          "hours": "11:00 AM – 10:30 PM"
         },
         {
           "day": "Saturday",
-          "hours": "12 to 10:30 PM"
+          "hours": "12:00 – 10:30 PM"
         },
         {
           "day": "Sunday",
-          "hours": "12 to 10:30 PM"
+          "hours": "12:00 – 10:30 PM"
         }
       ],
       "additionalOpeningHours": {
@@ -402,14 +418,28 @@
       "language": "en",
       "rank": 2,
       "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOJtYn4IKDkamuT7XGimbOYbQPLGiXJ-Wc4MjM7=w408-h272-k-no",
-      "kgmid": "/g/11sh4ydkj1"
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJtWCdxVAx3YARwYDH1IEyQw8/photos/AU_ZVEFfcHgUirDIGYGZKvD84tvlNkOM2eoUUudG33S_56nrHXU3rD0erRCJAxQIckErDfbJ1xxtAIsZ-DLSJ1avHCZtRq_oPQtU23_hlTlkRoYflWztXszjLVzf8EnAbV_uUTrpz5TNcxuiUa5cTuXMgmCpxt9qXaTIPE1hUl-OmRLfBHzTIhQjApnRfS5NMRaZYb1oHe2_kBZibGqQ_JrV90q0sbvUP3Kb-mvkDwxgvFwoMuogxSpqc-Pr0yiKVKJyVG_8jey26EI1PyMdVAb2KoOEWj27PmCsBfaUzwGJVts9Wg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "kgmid": "/g/11sh4ydkj1",
+      "rating": 4.5,
+      "reviews": 41,
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJtWCdxVAx3YARwYDH1IEyQw8/photos/AU_ZVEFfcHgUirDIGYGZKvD84tvlNkOM2eoUUudG33S_56nrHXU3rD0erRCJAxQIckErDfbJ1xxtAIsZ-DLSJ1avHCZtRq_oPQtU23_hlTlkRoYflWztXszjLVzf8EnAbV_uUTrpz5TNcxuiUa5cTuXMgmCpxt9qXaTIPE1hUl-OmRLfBHzTIhQjApnRfS5NMRaZYb1oHe2_kBZibGqQ_JrV90q0sbvUP3Kb-mvkDwxgvFwoMuogxSpqc-Pr0yiKVKJyVG_8jey26EI1PyMdVAb2KoOEWj27PmCsBfaUzwGJVts9Wg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJtWCdxVAx3YARwYDH1IEyQw8/photos/AU_ZVEGTsR_EUqomR7sG-gu6HGelqH9aXJAHjmSoNhx7RofSVsY_rhdrGE6cPZsVZuQICQ-cinkYY6GCeHowspA6zTxNWcn84he0ORx96in-cmG-KIgYFSw7nzpIvdsF8UdXW-VKARHRBRuE5xjK4ga4_bajO5bQLOlFLvJP1eRCH7T5B75TrMFpvvbOMS-WON0arlMpLcMBG8NH0jFTRh5VGimMkVKRWApMPf7rIF012GhBjMC-4W_gcr2FEvkfnBUVD0KhcLD3nkKryg2Zwvw3gJOj9HAaqZAOiX_DUR4jw38ZGw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJtWCdxVAx3YARwYDH1IEyQw8/photos/AU_ZVEF03mRGu3OPiHNxYKuUFJU_NZT6bGJTXI9XKq6Od7GOADUAe6ZpyYqnZqCJUNjSTh6R19zRsWpfUqBT6od91Sjt-McnrBuOOjjMS7kkx-smyvW5L4dUyXkSOZPCWb9j3L_ZE-xkOiRI40OAIKWDu4YVkZ0CZXIGAC7OYcHc5G49wNaN1VFf10xfVuuy_U4HeLcPwsJXizU0cJutk82w0DtFtdDbxX84DjQVvN89LIo1VctL-bfAq3PmuN1P4H7cpfR1bn2YY0u55kd4ezUPy4_wqo2lejMbJSvSxaMi6_Kcag/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJtWCdxVAx3YARwYDH1IEyQw8/photos/AU_ZVEHDsuRQak2mE-eFgjTv10qiYnap4h9fYfgO4ni_ijUsqcqZoTuQOlWbxsyiiIfKbTx77kKzTx7jxKc6XqGUfE_noW-nd7IkinfqCZQxOhifpThoLM649T-ydpiQtokS3yOBpCUYSHN-ht5rmbth3AAfn3JXh12ZApTN_NsuOQTuywKVqZAaswO-ivSKCjT9sCkNIua7RAyCAnPzsY1ywg-U1Lx1mDT8fH1gJ04X0G1kub5RzW6sq3Ba2Xkqb_ttR6qZZ0_5nY2IFEMpBY6YlX1elH-mCmNaJHDIcrVVBJZCLw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJtWCdxVAx3YARwYDH1IEyQw8/photos/AU_ZVEHcRDIiGwViAAgWK5_kRgep1FVTAVzLoK6oq5iBdVLLfNMEKEz1QHuPX2hRmfU4lQTr8Popl2RKecQHNSwu33Zygku62usRaLsPXvbsasP8TzrfzR_E9kNpZBMBVMUm5KAkfqFZtsKWldyxj116Om5y1w2r5ZlclGXPTAdpvoUz1p901QqEXbTyCpAsfz4owdZniQpXgzjILxhR-XVlU9561cvLvFHpcjUzyuxXHSpSE0LIJdf__UyKA9Y9ZO-0qlQ2ANNkudtBn8jcIjEzrrV7xthGmOtsHQtvDb5TeR0Xyg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJtWCdxVAx3YARwYDH1IEyQw8/photos/AU_ZVEHjbtx9qMYeFov-AFne5gT4GiYAfGWx8R5BCV6_AApSSLfMxJWGKWsLL0lW28a9ZOT6jJ14Citrxs5seRYIOcUYRciSQ03yaIvBM3X_0f2icWk7KxY--b9LNYBI-JLMjk_vLx8tdfyrCd8Ms706Vx2L8jRndyalRREcrnz8IbowDmzU_DhlKN4LvfMTivfWJ7nSP5SSdDkPQYCQJQAT0qABh5CvHzBMN8R9eAi25wgV439fCoh3nGcoeK8zBmyqzFjZmcmKdG7kDPivgeh4lLVvD5zN60KdFS0IatqOmm8cig/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJtWCdxVAx3YARwYDH1IEyQw8/photos/AU_ZVEH4XEJaWVOe0nJ1y8oJIOjPq-PpzEzdi4BRn5XlCR4ly75-9DM-KyM05TSVrC4Tgx3pT2F43jOUQEemVdehuCkjq7jaU-fPlg5C_Zu1jnHjPdstCnamF5tKuKlUeHcDglHWRr41nO9-sO3RvbJvewwJPP78WiagA4N2Uvd0P95nv8Y5VRE8cABXURgWFV8UOew8A3EqLv0M2D4tXXqlhZviSiBU1XMfhyoMNyM0L6KXvPuIkc8DArAaPQBDfwqIwKWlhrWJdBKpiUjAZ_B-Ug4R14N9Aj4bbImUnkGr8P-wYA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJtWCdxVAx3YARwYDH1IEyQw8/photos/AU_ZVEGGyKCPBzLTY3gRh3qcibDK1ex9EzikK4yMLD-jQ6xOSREOxtKmY1nQ5DW4IDhyGIR6Jl-OcbfmUSVMEz22udX6kpAnKMjHikF4ugg0IZpiHAeMirsULswGfOAj_0B8ubtddDI_OKyjnb96lDqAVVhJI2CSvXF-Jlh2dKVCotv8a6J_Lrs_TiJ_3y48q94cdfs1CadOO7iEsq6a25SFUTY8fUm5VQpQVKyR-XOdql7ONaw1xaMjZZh3gX8IZvy4D3mVUb8IPEuMrJxvhQvpBUlQzOhTyJnGZQ7bymJ_vsLqzSIo7Au8HyXlCqWpBrZOKuyCIM_KSa8CdTS49ei3pY8qe_pPFJ2cafun4nSLRVr0ule81O2JhTLJycqttJMQZdD5cMj1Wb3FQBVD2-3qX9_nDjuNe5RiDmuFHexPUh2eqUfyHlTCvVuYAa3MJOH_/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJtWCdxVAx3YARwYDH1IEyQw8/photos/AU_ZVEH5aUDX3NuSgO0JSY_s0842Xu-7bEXFWXVmHWpbJwqU5EwFXiso7_iH0oOAdI9T8urzAJFcaRLU8r19HxCoKtMDnfHcQ4bw0dfYM6LT3P6745I8ylljqBi7Ack_xZXOs114EF2DakEqJ5AT37iuXdz5gNK4wMR_uHmEatp-x1quQpA8oOsbZmQRks_1oWA62wO0pmQW6D_LJCjiyuksQsoVFCm-hqtBebNc_5hjXoUAhl8VkWGMraKqOG2eL0hKMQZnWSXSs63UQQoC3Cd74fNPtnVxr9UtQRbTV9jv1u1CVh-cZdhy0aDT_qOe4fjJEWQmPxHlsrblHWKpsBtQTn2CfwGXJP9CsFEzBuHOkowuUm2cfNop5noMTMoY0zmZok4ehd-k1MzHB1WM8o0I8wPWOHuDV7vrxgjWwUK3SBLZrTpo-kIrB1Q2s80QOKoM/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJtWCdxVAx3YARwYDH1IEyQw8/photos/AU_ZVEE3agw8Rvafayb6d1zaEJmQMLbVg_KXHHlkRBxk9QNCnCt3I6pwA0pCyoOKYlOHDm_57_UWzpCCGR1hC1kXqp0OQ2QU_jRIl6Uygqm2ddvlvuru028ghX92ih8ggTeUfTL8Srrk0lFJeBte3C3nknBuR504wiq4O-m411_BEzf6zJBVVZ7bzSInXshcUQrnXemFlmoCvqkbgQWUQ0W5Pfq9pwYifBFPJzqsGqAj2bE0dd_FEl4ApRXUHv4-xdRa2VKcQdq6wMZnDZ8AXf4bHVz0CO1lyeACKsN6F4abvgZyzvNH8BMSm14_Dw73xitQAH07xoZZ-qDhDo0nv4OGJJeKLCCuoBaadCtmACuJO1RG36L3pncHCPhNCjc_VbHISqGJnrEPSaP83ua8-_jxitEjtGbCiea-aF_4KzrsGKMoMg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ]
     },
     {
       "title": "LBC Food Co",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",
-      "address": "1388 Daisy Ave, Long Beach, CA 90813",
+      "address": "1388 Daisy Ave, Long Beach, CA 90813, USA",
       "neighborhood": "Washington",
       "street": "1388 Daisy Ave",
       "city": "Long Beach",
@@ -420,7 +450,7 @@
       "claimThisBusiness": true,
       "location": {
         "lat": 33.7837592,
-        "lng": -118.1991964
+        "lng": -118.19919639999999
       },
       "totalScore": 4.3,
       "permanentlyClosed": false,
@@ -434,29 +464,29 @@
       "reviewsCount": 4,
       "imagesCount": 49,
       "imageCategories": [],
-      "scrapedAt": "2025-07-16T13:38:33.084Z",
+      "scrapedAt": "2026-04-03T04:01:50.076Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [
         {
           "day": "Monday",
-          "hours": "8 AM to 4:30 PM"
+          "hours": "8:00 AM – 4:30 PM"
         },
         {
           "day": "Tuesday",
-          "hours": "8 AM to 4:30 PM"
+          "hours": "8:00 AM – 4:30 PM"
         },
         {
           "day": "Wednesday",
-          "hours": "8 AM to 4:30 PM"
+          "hours": "8:00 AM – 4:30 PM"
         },
         {
           "day": "Thursday",
-          "hours": "8 AM to 4:30 PM"
+          "hours": "8:00 AM – 4:30 PM"
         },
         {
           "day": "Friday",
-          "hours": "8 AM to 4:30 PM"
+          "hours": "8:00 AM – 4:30 PM"
         },
         {
           "day": "Saturday",
@@ -493,7 +523,1030 @@
       "rank": 17,
       "isAdvertisement": false,
       "imageUrl": "http://t1.gstatic.com/images?q=tbn:ANd9GcTD12djfrKnToSICE5RB70fatj7bmAMyKp7s8HwgWrkwktnlEdz",
-      "kgmid": "/g/11rcsm7tg7"
+      "kgmid": "/g/11rcsm7tg7",
+      "rating": 4.3,
+      "reviews": 4
+    },
+    {
+      "title": "Commercial Kitchen OC",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "17290 Newhope St, Fountain Valley, CA 92708, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Long Beach",
+      "postalCode": "",
+      "state": "CA",
+      "countryCode": "US",
+      "website": "http://www.commercialkitchenoc.com/",
+      "phone": "(949) 295-6097",
+      "phoneUnformatted": "9492956097",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.7124625,
+        "lng": -117.9263741
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJqfF1iH0n3YARCNS58SI2fyA",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:01:50.360Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJqfF1iH0n3YARCNS58SI2fyA",
+      "reviews": 1,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJqfF1iH0n3YARCNS58SI2fyA/photos/AU_ZVEFpZvaSMKywX4OCAvZVqjuhzHnrQWtXpNOVXRIqGUpfppTDYCu10k8qg_Xs8F_E2BEHZuRk1MKRX-Zzq5Y_u2AT6iZnwk3Nqy3HGIJEAkVf6agk9yfPYrAaQmJktKFqEq1Y_xRIqolsUsMBtmzqWCSGFMXHD7ctdimVgY6_dappGSAv9TYOw6Qu-TaNENjU-E9tC5gbNwoJJ991HFaailQfSOH7Yyv31MPrJUMAvk3OYA8El1dIU9GH-XP6tvKrApKE94pF92CB5orOh-SrM80vrpknQ7UPzPz2aaT1Vd9GVw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJqfF1iH0n3YARCNS58SI2fyA/photos/AU_ZVEFpZvaSMKywX4OCAvZVqjuhzHnrQWtXpNOVXRIqGUpfppTDYCu10k8qg_Xs8F_E2BEHZuRk1MKRX-Zzq5Y_u2AT6iZnwk3Nqy3HGIJEAkVf6agk9yfPYrAaQmJktKFqEq1Y_xRIqolsUsMBtmzqWCSGFMXHD7ctdimVgY6_dappGSAv9TYOw6Qu-TaNENjU-E9tC5gbNwoJJ991HFaailQfSOH7Yyv31MPrJUMAvk3OYA8El1dIU9GH-XP6tvKrApKE94pF92CB5orOh-SrM80vrpknQ7UPzPz2aaT1Vd9GVw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJqfF1iH0n3YARCNS58SI2fyA/photos/AU_ZVEFrvhMsKcj77XXAoho7q_PkSLn6Dvx0E4gTTUDHRZnhZxj2Q-Gw7xCJV7it4sZp9dtpqkeKTwvXGiaRMpayoKBmYdNGWm-W6OoQAP8AKby-YTjKeMeemC2qDHM7Azh7v2jKu3tz9lRMVbbzh9WegUNywAnhpiAXryjHnO9jacB3irKpYHPHkzmU9gMdsryqXUXqdgHDloOKYQjNPGsIVxFBXNRFthfT3yMOmcTIofQk4zPos-RU0Sud1sIH215NIiq3hSuZO3TXWPr0cBDYz3QFKcyxXLhWtaG0StOfv1-qaw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJqfF1iH0n3YARCNS58SI2fyA/photos/AU_ZVEExloal-p43KBErrH0YudKk4OA8cA4u-QcaJ8GIWUt2nNwBSGHSHbUIes6NQ4SHWZA7ZNQSzyipfnIZDesxP8fUe1vBgpSBqYEjNwfvA_slEQCaF5u_4QQSCBpVN4sZJyzbMkY75oZhRpRp2as18PlDCSsPfvzyP8o_dtnR3uX6pNybNaImLVR_fteCHehataj1AL1oUGt3oiYG4aT_cHJINe4R82L6jCSy3sNJhGopuRsEgAJjigKQgv6L9DFxVxb5OP4TgBMa4yuccWYgbrS57eKDPf1vGchZaMUkVzrY6g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJqfF1iH0n3YARCNS58SI2fyA/photos/AU_ZVEH8CqY6ZG6uw12mX5SlOLS_vfVzTxhwS8qyzHTNvaQBy4wUVVAH4FC3bvROezqrwotZ4WPrnT6rQI5BEzsy_rNbvI8rBff7Hj4ImyavjFrJWv_Slv3z3LNDsDeMXFqScXJ36jMHUUUr_NdClSlEJa7qTYD6BDEl4RHxAUKEiOk6M1ZbyUCtzoTRI1dcUPV9kKuNnLunbi6Ceyr-PWrNiErUO7a_WQrYxP5DVZwULCUy-Nhv_YKElDrunPL_MLEhtm-AgurQI1ijlGS9dWxDFlEy430LSGiYQLUCJJRYic5Fbg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJqfF1iH0n3YARCNS58SI2fyA/photos/AU_ZVEEWvpXNlfWZMBdOydqWR5Ryq2J9f7GgZADgiG2Vn5HuNIhB9EWMrjnuRhsRgJSooAMxWmGOuzdU21Ao9PHbzx0rQuJcHQLaqxvTWpWgNF7E2r9IY51AcnNsDU8XO3YmRzDqUE9NP0MyalxGSY5rjc5W13TrersxclJIrdnXcwtaW3tL1et7onRuuJPHECQ1BnycNGcofxdARk_fHGCb5r9ZubQ_zCRVZTXwt301Qmm2IsCK6pFUPbv385Lby-fwgVtcvTpsTpiikftNkNfGSl-2T1skpE84AbiK5RMAqNe-Kg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJqfF1iH0n3YARCNS58SI2fyA/photos/AU_ZVEGkLE-dClatD_8WpCrAmaeUo_RjBcEEfmwsM1606W96irNXM3R7xJl3U06Mmu5v_YcnSl-q2vgbbK0HCDxucCR7NcCQowm-bzMG6UjatCWmwQEKBR1XVQrGxmFOC4KEUpBEUl3kInGjsIalqUVnzupuC3tMkelGLHGsPqPBpKrnZFoLjGDGqOS-SEC9bi6d8tgBh2Ug2_3kWiwcgcbGdvQMwC6v9dX-l7lw4bcijqd3vVIEEbHZp5jXBUWnuG7hkuvQeoqBya78udU64DrnjBSvjd3KXZCKF9CgIieSDgWhFQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJqfF1iH0n3YARCNS58SI2fyA/photos/AU_ZVEHDRAxeTUHXoR12K97jgyCU6XQsSUXqe28D1ANo3NltsG4ITDO4000LEnSKl1ReXd0WDLsImr7m5LrPB-Va76GEkH-UW8110pxa9vIKVLLlm8MnuqefBxvXouXh5d2vSliLD5PPzgvIi-6wBekGZ9FROUeVVIybv36fr31feRljPGAouvZgPk_oA-bGJQBNdenGE6mGDDNldejiguI7KgKCTu0Ve25C7cDXKnOkN_8vqFJssntEkp4Soazjh-uTu8iuDqk2vsQ1OCbDa4x_77w5GuTB10KLWvol8uEAd63YzA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJqfF1iH0n3YARCNS58SI2fyA/photos/AU_ZVEG1wThuSsmAtdkul_9Km5Z_yoRIcOalarCOriJUV8mLGklMdpJU17y0TvrCzWFfeFbdLUOqRGS39o7wXuvRfyV-_lTTqjO7LV7a41cQoaPfvw74Mc-8B-9PSC6q6ZZ5kju1EiEAZp311b186K3-a0-DOET2qND0MR1Uw83D2LGQTPR0BtBM8OowGbFAcrcRw6e3MFjiBQ6CVt1WFZaenssM4WacRww8c7WpVIl0p_A2qjCpo7JLUzD2hAaU4YyUd5jBLYGcGpAURAldrPu7KyaTUd61pQdG7qw6Knom6tgZzw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJqfF1iH0n3YARCNS58SI2fyA/photos/AU_ZVEGS1irbtvg0V0WqBmwOFpGoog_cm9sgfIwTm7nEgxibBe_c9-8Uducmj7dlsRjnRRCPrlb-DEXxiGg05f2jlYjKtyRAU3gDyKF5GhbdCDZBMd2xoaWx7rmxv3Oe6DIo8eCthktJuXXwcFaqbR92C4bY7-z-ocBVNQ9n4XCpKQ9CTheEoXRAWfB8hAJhOFaAbW61xbfCnHQSw6_7hyg2SmOyYWNs2P_FeArnyS_jdhEvJt6SEugDWViZCnFoYS2sIgGqr_6MBYVo5LeRkaEShaexMwsh6BNY5CDKuQJXVDlksA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJqfF1iH0n3YARCNS58SI2fyA/photos/AU_ZVEEW9-_Zz_COIJFQbgkhLroR0ROaBakvkr9-P9JiVnJDmJDzIvYEkrrB3MIduk8YI1MCGT7QrbMpifyZCswLkPTfvVafcmbPRS7y4MLTSPoHSShrgVefSU_D0aXxHU9MUkBZdH6ZcN7_4hrDd6rXFMfNtSD508q52-wQDGyt_3ueUJwdlwqqIkEdEuwy2gswd-9PkBxdRIW42eWdWnddQsNG5jd42wE4kaj-IMRxESVFeNorXeB8sV2-PebKzDmTjpFyeDHOqU0Dmvu9CMArBq0g6kx5d9xydT_KHitPPnyaVMkmNPM7Y1TyHdk74x6nZBWRgyCASU2PgLeOt4FFuIsRtmvh9LoXJiKzODnHjiNvTKj_8sUP1QX-D6mobOgFVq-4mhPzM8_jMnCrbMVYYl1yTroHtV4_06LD1oysaJTiig/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "UR Kitchen - Private commercial kitchens for lease",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "222 E 10th St, Long Beach, CA 90813, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Long Beach",
+      "postalCode": "",
+      "state": "CA",
+      "countryCode": "US",
+      "website": "https://sites.google.com/coolerdepotusa.com/ghostkitchen-longbeach/home",
+      "phone": "(626) 800-7215",
+      "phoneUnformatted": "6268007215",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.7785692,
+        "lng": -118.19028720000001
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJXelMG64x3YARthan7FVQ_HE",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:01:50.665Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJXelMG64x3YARthan7FVQ_HE",
+      "reviews": 1,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJXelMG64x3YARthan7FVQ_HE/photos/AU_ZVEHgq4T5AqCF5XokEcJk-au4pgnV6FOiu5pOwZaCuW9SEiAhlfdFxBeIQnStGIu-i7-VdNkMEJjanPv0aFPBOosXD0VFqoQljUektPjmq927lARSKw2d9pp5qDxXDbjiuSucTRxBVnXivUc2kyAOYyB936Xkm6bJH6N0fivAe1sxQKRtIYlHRPnyOBaKdsAn9xyC7HtnrFjCATAVelNGxPn_Qpb4lXvwgxTQHsUsHOX2bB4BkJP_3xZEmZoyC4mSL6AusdwqVYhURT5W6y8dgTvYHhzbatq1weQxnP2SjZpUeg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJXelMG64x3YARthan7FVQ_HE/photos/AU_ZVEHgq4T5AqCF5XokEcJk-au4pgnV6FOiu5pOwZaCuW9SEiAhlfdFxBeIQnStGIu-i7-VdNkMEJjanPv0aFPBOosXD0VFqoQljUektPjmq927lARSKw2d9pp5qDxXDbjiuSucTRxBVnXivUc2kyAOYyB936Xkm6bJH6N0fivAe1sxQKRtIYlHRPnyOBaKdsAn9xyC7HtnrFjCATAVelNGxPn_Qpb4lXvwgxTQHsUsHOX2bB4BkJP_3xZEmZoyC4mSL6AusdwqVYhURT5W6y8dgTvYHhzbatq1weQxnP2SjZpUeg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJXelMG64x3YARthan7FVQ_HE/photos/AU_ZVEFpKahSVHgXqyGp6RTcjAK3tuutD4IYkA5V8YE3qvspVvUYw_yo_JmuV2KMNOCZt5BrgAVvgZwGbWwuawxqoUbjnY1q9hDrBwDIh6GqoyAA4vfdExK2m4FU6Vdh_6jPqrUpnHWPUtUy0Fgahmc1xbJLQ9fFyo-XUWMMKQtUvK4rhqKiBuSPvKEBz3Z5QUuZ4BM5OXefwPxMTeIj5hHLyAWDLaw1wgvqjcyCGdlw1cHmpZ0WjljEuQJLjKFV2l0-d3l8ikSPGqH4EPh7WsdYQgb99dRH1-Np-RZyoxLcZ28R7A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJXelMG64x3YARthan7FVQ_HE/photos/AU_ZVEH09zaRG02SeYmwJlElerKaq2Qz11idNDg3SjsCUNG5_19DKRhB9n92oUR5X6xa1Rrk9LEcfN9kcf0Lsk8EUBZ6UpOp1tCnn0ocPmwb1D8RtPtwzmOWryIoxMoNRLbkwdddFYou3crcS88nbZDSJcG4A6IIlvEg5xETuC6K-NOuIUwXyQYJ3UQf-hzpvMwwp8UtwkCljMuUE7bOpzlNyRgC6iRlt_VvS1XFsvgU3ZjgGvyUocCxSxEg_UMotR4qBrW9fkZqKbK4OVLCCw0OVBPwUAMvvpFYktJWNTAvgFU6xw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJXelMG64x3YARthan7FVQ_HE/photos/AU_ZVEHEH6veHHtN0Z06H4kQosoWtIEmsaYzfGkIiT1Fp9u6C7Nux4cRIrgFe6v_VBPpOb5_UPs_WRly-TQTa9G3vOqWhprbDl4AcyxozrgySaXgsWa1POMrS-yZu6SF-mZnWaXtLheTdOYifBCz08WEpigiIQ1KiOBbWY31NMJmZCSDDOjRYyv-2ImjImti1hgUGm4Da1BEr_sKm3NruDtaqbmJ56PxWEFF74dfNGaHjE4bkCld_cYk836F1oKKlDf86TXdznJvLfZUNq27h5kuyDHTy3KNzwJlLfjivLpY2mnp3Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJXelMG64x3YARthan7FVQ_HE/photos/AU_ZVEGHxhZdh56ERCnctjF2SSl3pJge6_yTv_pcT_oJENs7XjR-6nrFJw9IGyNEfE9OO9CaeiklfNuiSKc85Pg9Rg_J0M309YfBwoz7c80myGDbnJ9D2rW0BYLxy3YzPI4zR5_KYdb84XiV9FsJNI0SazS1y8MRKhx0p-j-dmj3eJkGUzGvhaKWMlAgqQz7VbkQQq9Os2zzckqIurA71c4y0GxqXwjyDOTuUGoPSUAhNhz7b9nu-9w3G-4gSZtwDhNgEvrftnGgk4rzss5zXlnJbdGvgxrB0LPuTINTGU73HZ1czQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJXelMG64x3YARthan7FVQ_HE/photos/AU_ZVEHT_2vHkWl3zmd16SPkhu9K2u09RPFQWa-ZjjUlA9pkwAWirIk-JSMPZ-6bvGVxZoHYrW2DuWH_291xRFaBu1ekoObtvF4FiMSvapqbgSeE0vXM7Ancfvn2c9brDPiSmgy5CFrNq2OXOpyJbLpkU32M15PjyNqky7LdwZO8jz4mq9ruJ2rBISwo6n526CE8240Bmf1wn5jkqURIS5-fTuyL23YtWH6qIS-CRrf9Ey8I5Q-PDPKCfzkmR7SpIQERZr-fhxIix6qBXYipVq_NL2MepeyEFx0OxRVZiA1EDn5jVQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJXelMG64x3YARthan7FVQ_HE/photos/AU_ZVEEk2wuhi4hBqFlSjxCp_3YaZRtinwR2fdneAoSUdW7RSh1ZAzNXgEulaCTDpIJZn2NpEBLQD_qvv7RUUgIpilZk1AK7d5JykaZmSdblUWsDaAEIESVBSDNYtIAEu9Cik7824av7vpgIFE5gDDGryklTKfiPj0eQo0dO6MEeJIixoepZwmtlgQVyFr9txHLKIZTgrAz1Cnhxr5grtAoiyhTKnRVsh63ASUjttdF6uf0z6v5Z2PpFwgpZ-X6olBnj4NYBq1QYBrm0AgAB_FejCgTniUj05IV9pOkMw7pzuWDAYA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJXelMG64x3YARthan7FVQ_HE/photos/AU_ZVEET3CPNmGJZXZ39y8xQwkK4OeTqu8vD0Z4GtlYNm9XSv1fszcmJlVyR2VghrYGjQ_UtofHAvH1c7Nr_7vmW-jBdEyWmOgqH2okAFpceWTx-8oPuLWPZTjLByjJVtyzXAOrxMM_3kvSVNfASvDtUtS0s7D58IWiSklIq_EuLzlhJWopdwZELF22P89_sDVRm2z1pKyBK4nHPyQ-f4AQsVTsZpUw1tfrAWe3BoNMWY2A4WEDht_QqNk8D_mzbbwEwAk60tRTzkNzl-A0YoHFILsb908DfK30YdJR4hXuffinloA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Crafted Kitchen",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "672 S Santa Fe Ave, Los Angeles, CA 90021, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Long Beach",
+      "postalCode": "",
+      "state": "CA",
+      "countryCode": "US",
+      "website": "https://craftedkitchenla.com/",
+      "phone": "(213) 477-1127",
+      "phoneUnformatted": "2134771127",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.035967299999996,
+        "lng": -118.23016059999998
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJkYp-HCLGwoARbfBvOmCmj4Y",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:01:50.902Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "4:00 AM – 4:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "5:00 AM – 12:00 PM"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJkYp-HCLGwoARbfBvOmCmj4Y",
+      "reviews": 34,
+      "rating": 4.7,
+      "totalScore": 4.7,
+      "reviewsCount": 34,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJkYp-HCLGwoARbfBvOmCmj4Y/photos/AU_ZVEHjCA2Sw_9KHGDV7QROaoQQ-CestCFo-AxL1_69nK3uAxotR6FmQssNYmcguvVYXbr23_uuKp-4aSPvH4VUurfOTmhdS2J2MQhv9pd4mgJrofFYeCCkW641QwCSEZ8tXh_v-LqIXzNEhDGyDZUXNSq8-JzYPxm_Eemo3mNQerbA4lc-hTKG9muHz9E5Yd8s_S66ZDnA8LV_cHuxlq5-4ls51Qo9XA4hetD5SfC4nFoj-_GQotqjcpcBJeDn2Zr6Pllmcg4jeGoQacn2iCd8ZIcZiu0NyNEOmYpXpkIRxv_rww/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJkYp-HCLGwoARbfBvOmCmj4Y/photos/AU_ZVEHjCA2Sw_9KHGDV7QROaoQQ-CestCFo-AxL1_69nK3uAxotR6FmQssNYmcguvVYXbr23_uuKp-4aSPvH4VUurfOTmhdS2J2MQhv9pd4mgJrofFYeCCkW641QwCSEZ8tXh_v-LqIXzNEhDGyDZUXNSq8-JzYPxm_Eemo3mNQerbA4lc-hTKG9muHz9E5Yd8s_S66ZDnA8LV_cHuxlq5-4ls51Qo9XA4hetD5SfC4nFoj-_GQotqjcpcBJeDn2Zr6Pllmcg4jeGoQacn2iCd8ZIcZiu0NyNEOmYpXpkIRxv_rww/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJkYp-HCLGwoARbfBvOmCmj4Y/photos/AU_ZVEFSleQrce1MuGSWaa4bi3lGL271hqqexfAPaJBzDwC_DasOWlZ6_pP4JdsnAwfpMLcGhyvWMUGHo7bzXBkoAAJ9BWskcqOpy7PLAhuSychE9NHrJ5KJM9G-ysuVlFeuli9MAOL7Di9Z8swUPFfBO3xLJGqGyvgORH7Ao0T7Cm8ycHbze4mmufsqqEnwnyL5yeBGCiFgHHqx87KDonve6fWP5HxyfeyWEBhuznO7ik5WSTQoikR4DQrelzl1Q2Owq34d4dXrRzlA4bwazBpJ14ITi1Fz91j81lH8adHW9eMokg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJkYp-HCLGwoARbfBvOmCmj4Y/photos/AU_ZVEFZ9Cg6Duum9rfEILxLF54bBCKtpOdyMdMFPO6DzYEcJZoTVimszM57Yn4qPRfk6e79Hkk-q_9-g4eJU2n1Rc61Gzto-OXCzo7HHsVd5msy1DRfeYEwOev_2BAQNCnc_XbcCnAnU0cStnB5gsMwmxiiCxu-d95SZUwShiRLBqcZNYAHy6Kte33wLBpUwNq2PYHJ2cciUvBOjc1cWFGOUZCVS5fvh5sVnK9NejgtKakCzPu8b5wXngXUFczy8HcFCGfR7xadvo4mgTQj5p6MaZ0KdySmOns-osGOrc43xVpqQg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJkYp-HCLGwoARbfBvOmCmj4Y/photos/AU_ZVEFZ52ddySKAGXHcmrndL0eSmOyAXH2v5Kh4fKfYMH4PB7U6VS5g-601KX4puefUavg3QlHzMxk93taMIGv9b8MmYkRTTE_FqKY4M6E61Imu0pxX25afLkVU87E7aDs5_ViSiuIboUnaNnB7BBnjJd7c8ZkcycEay5XHZIqPiCV9q1SOpeFAgKYxrZgdcsPLUU7b8XaQFSzxJ7-P6xvVVgofKvyT2hlDvktnzwaSZvgKW19wZ0ZTBaUuaaKCscJWO37fG_vMxfo_LxwYXqf0qEppD-9AnBoab73NUEwsRSmYWA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJkYp-HCLGwoARbfBvOmCmj4Y/photos/AU_ZVEGto7xAdN3_ATqZ-lUqeN0E0BX-O9-WzGa80Ju75G4Gl1y3N9GQfVIh6ZXFwuYObk5-FUK11MVBH0TCBo_QcV4fB3qbA1rqN10LuyzRgrq_FnESwQ0SUP6x2J0B4lMoyM0qBvexs1vHWX8vyp8dDADDyOZDZV4ui7EJqmQ9soYkLZg5iS4RaiJUimpXowkcbuERzN7qgyV6Pen6QeGw4ne4cE1zysupeH-YaaOubVBq8QX_Am80-Blgo61rl9WcSgQN3hpSUCJR1fMLT60yKYL9csIeeY6V5TI629cU4uGjgo1XX_pZCBJ_QmGCfF__rrFADwAvi2_C8lzU7yph5uVBij2ElCWzWcWi6A3xhaovdOXWjy7MjT8a5guK-bXY0xO3zir6nSS_cb22-7_Gysv5fEiEapq0ud0KuOd8nCbYODXG/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJkYp-HCLGwoARbfBvOmCmj4Y/photos/AU_ZVEFADCBT7s4iePFc2gxx-mPcGsXaVy4frP27wLqRs7gwlurJS2Bkm01Kj2b7JqKeDdN1O7Vfo0DlrToYy1wdvDHDd62c6PdXlbMr1GQ30BZhDuqWehiIpH-S1dbB_KWYh3zDcA_-ltpkKwnHzy-rcPrKOYTCPFOqcwwytKy1GvknxnoAz0krqhSOFRV4D71HsIpnnLHf9W77IH_0GBpgqp_wUzRby0POo_6LG0DKTD047uDOKyUob-iQxkGu2O6JV8q3qKRrN5fMJ2d-1ePy2PSaMnO0yoFTbq7aNCTdlo-rXQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJkYp-HCLGwoARbfBvOmCmj4Y/photos/AU_ZVEFRfxb0ep5h7zobpnT-Lk35hEPcVTA3fGMDzwj3HRGOHiYg5cElPsHfa05U9jII63neNLrfQhErKSwDDa9pm_5jsfUbdPVQlb5yBiLERxlqyJUfAqAPI_hKox7hvB2gKhEewyEAJE_LTtXFnpOvB3vrWzHo_Y6qbyMPYfHe9P9K-f9eVJcOrLygYmGoyyUI74q2aHgzWx5OQNGiqEoQ1XwrxG4r_KiN6ZXi8tqweQJbjllfdyF64TR9G1AlVdU3c_-GWxvpE_H-EER8COTLSqVW9GfIo1A7LC94nlkK7dchKA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJkYp-HCLGwoARbfBvOmCmj4Y/photos/AU_ZVEGNBJN5aSQcgmUyr-7NIYpV0wZrsrfk_onDPlhYD3zuN0zeh7yyqE09obzeLZvIZ9IBN-TvjFvnymJV1_hiJzWaoaXeXalOaeEsnaoMwRUDdHKoQjEcHe1Maio5sKtZhGQ038K84o732XliNj8mCxen1KFUd11Lc-dcq_PxazMoPqOS6R8uf-sF5ME4-8iiM4ohQok8vG497MeMpZqyMeO2c0qt5lSf548Dh7j0lOukch-gCUW_PXviJNNC9kosgFFXyxNQZlKi-jpGYEhMMIuEF8kFD1CsKINE7vZwUbppF1Bst-cMkB2Xad6HXYhIZnDjXN2kahscf-3w2D4duynO5pYnqK7e6t8Y8pqFO75i3nnj14QeLDzbmVGPztT-Ta1t7jo3xqFQzipCuyKSvJk-waizMCl9L9ooiAHs8aYaIjvR/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJkYp-HCLGwoARbfBvOmCmj4Y/photos/AU_ZVEE2ZQlYfnBD4fmdhTXJwd9CfptXY5xdla9FW7MF_00Wtb8jN0oR9d_PviQLx5l5nbISPvH2ZSg0YK1rGPjNSuZJD8BatVr0RFg_EP-RnFwd01NZSWiu4G1GCM_C4bNTZHxKF_vKOWjk8eFFJA9jBR1I7uHKC0fOhsrVT-QVUuMVZUTXCWtIctso0xK3igG857gCLvE1vk5H6yWrjBlrSjDZWIVyZB8ed3MzLwz9GHBibSFds_PHDdo5O8v3CuOsixvUNsSn_jv8zGQa_IpptezuDh38s9MamLdQX_vLeP0hhw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJkYp-HCLGwoARbfBvOmCmj4Y/photos/AU_ZVEHsHKiSllSzx12B0cXdDj_bTZzSiHkkBPwZKLFYXSjsYCtP88LIejWwGwqIiUSKLBDGxXkZOLpegcwT6a6Pa2akAvJtFY5_m7in7LvcadjwqXbgz2yeSGWfyNgFPbR6QDjxtr7cbJlm3ML6FPhc1mY2xId83_LwHSyPoudSZ0u6YkVJpRwZo5_4S5OLBjIFR9uIGc2DphQrad4QR3P1-ZhyHhp269URZQPNPgyPuW1IChwIB1-h3SdXojoEyQKE3BMmAOFH52VnZKlvoFZ2gtx6QeFpVTxPPL4ZUvQgp9mF9jTTmvZf_5YY4zKPydTHvNTrQRHcW_Uofkx3Cvka27WTOYQHxxna7ze5HHWuivnKdfKIftDurFhR8j0Ek_nNgNf6RfNJJTbFYW4gEGq5HhMS02lZoEvv6wQgyt-qhw0u2GP1/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "The Kitchen Terminal",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "2617 Manhattan Beach Blvd, Redondo Beach, CA 90278, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Long Beach",
+      "postalCode": "",
+      "state": "CA",
+      "countryCode": "US",
+      "website": "http://www.thekitchenterminal.com/",
+      "phone": "(424) 297-0409",
+      "phoneUnformatted": "4242970409",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.8882628,
+        "lng": -118.36476940000001
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJswJRkUO0woARFyHKBYL49KA",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:01:51.133Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJswJRkUO0woARFyHKBYL49KA",
+      "reviews": 26,
+      "rating": 4.4,
+      "totalScore": 4.4,
+      "reviewsCount": 26,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJswJRkUO0woARFyHKBYL49KA/photos/AU_ZVEGLSVOyLu4RZKhcafNUHS2hAoY7tK5w8wXQU0QucSIAy2avSHJDB63OZ0rSRo_pkk2aTZiTCFFoZwDWotfh0fJtdA-Tdk9a_feUDbMMw8bJ7Dc_WMtnaIYFxP-kJ4Vo02Y64zO5nFnx3oPwrhYZUmzeUBQxZ6nNFcxivF1SVsL24iUPE7QJ5U-3NRxfyLd0492R9MMkjEZD--BgqVsLfofrbdm3cmZAjdZqVdliZmcrNMGnoJ36op1Tf8bOWtywNBX57HHk7OCmotdrt02t5ZwNXeKrIOnedpqKBwsz83mqVg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJswJRkUO0woARFyHKBYL49KA/photos/AU_ZVEGLSVOyLu4RZKhcafNUHS2hAoY7tK5w8wXQU0QucSIAy2avSHJDB63OZ0rSRo_pkk2aTZiTCFFoZwDWotfh0fJtdA-Tdk9a_feUDbMMw8bJ7Dc_WMtnaIYFxP-kJ4Vo02Y64zO5nFnx3oPwrhYZUmzeUBQxZ6nNFcxivF1SVsL24iUPE7QJ5U-3NRxfyLd0492R9MMkjEZD--BgqVsLfofrbdm3cmZAjdZqVdliZmcrNMGnoJ36op1Tf8bOWtywNBX57HHk7OCmotdrt02t5ZwNXeKrIOnedpqKBwsz83mqVg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJswJRkUO0woARFyHKBYL49KA/photos/AU_ZVEHMTw_qiiPs3JcFewvUzo7IIsz_CrDo3ZgyMltZeF5DOz7dyj59v6eqEb5wxmJcNCuyj1-xpe-KKBXTJLjCISG5q4wNyo5gEIdbqmK0CqBNjrpG8vwlMolUBqw-4oq0Tv6EkKEgq4FKNxizOf2G18LL1B6TdPQNx6SYB5Ppql-EhgJEZBXqJMGMJfpSwLjnqF8ArWDTInhwXgywcqkxpo9c6uep4ebhSScLd5FJIr-5ryW2mrENGYrrL7XGUKdsWjYZHHEJdmyJ_fatEUmtMlbg2JtvX-n8Jf28YS86c7HWDQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJswJRkUO0woARFyHKBYL49KA/photos/AU_ZVEE8KJemm1IxeNzprt5ioIVd6GnonoP_fztRy27ufjauSpiFwXpZMMCxuElUVpCQHNWB8_YXkgbKbqvqxKoD8pIKwDS23FKcDeLLnKhWi-CNZoRuoUmJxTq1Rzg4rMXxb6uE3c9prcPbKWwEmIrXFtdQgffhwNeu1Hl77MawgL46n4jm9IawRXUlxVABp-blw-_mXWaVR8MzaNsFPBdiUBnCTyTGIhLrV_jXUn6-u5c9W3U6-s1AcgpPVW4uOmmP22T5belAefnx427Xf6mtOzf3J6_a2lvRe-6b-ZlPqGsdXw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJswJRkUO0woARFyHKBYL49KA/photos/AU_ZVEG9Bs7qCFc5M_ueY5IBYYi05yC1zagUg4C0LWXHBm5o_aAQFvYRagP9o4wRFgIEzHYbbLdYY4yeOTaqd5d5GIDHHWJeEuVjxM5U6XIc8mBfU2cO326GE8DWaEhSvUyVQMZYk_6EFPtpsC3koS2ihsYN5wfAxkHLrvcEJqecZb9BlwjMEmNDHp8lQiCwWUvvtc7QQxTE0K2oVdzYVKzNJGH2O_DcYFQ4IaLNp3XI59sVUT_NYTVyupMOG04nCGkpWusjttP11qM8x0FOdnFJl9GoOt_iqmJ9080LoPONE9Dnuc4cMm_P2TanCKRh4Mw5DH2JTVXAEH1L4k8xeO2igOVxJrH5DQFR2bnIapWhl7eqK-hUzB90yCGFYL-OIFf7YwLpY7Kukjl1Xucf9mJ-Fuut1nVDEe7BJMieaagCHFiV9th9/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJswJRkUO0woARFyHKBYL49KA/photos/AU_ZVEE1vQSX7_oUr4uH3D8qnzCjYLNQHc9YFh1isxMVcVzPFiDDbx5joiP9BpfdwJYZfwuJ-HIj_0lEtbiQDUbG4P3I3DtwFvhX3HDLtt76Ry5QtOJOB2jyzidHOPzkzG1BEBA0X3ZWiWs43bgLx2lauez-VLMVePHR39a0JflblWn_rlRx4cBH_QMuIuehrU2LQJtVfqqqk9AvLoPcVSvjxDmMXLLI-fj6Za7Jcx_MWhOwFjLyTEODGqmrav9f5jCmkJoPIQXVEZNcJZXTjeI1v5M8lU7ShkXGYF293pvhvuslnqoyXEzzW0lHqJxGS2_00NLQFGsgddoAnCCGltGFpYay1YWw2QUGpmSlzHRrxxYn3w6n8TRanK1f4_atid7KbcgGM-WapxfYkr4Blgx9lcUFEEOcgp-wTeTvS7yW-XSjCr0/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJswJRkUO0woARFyHKBYL49KA/photos/AU_ZVEG8Qehfv0JsyvMD6PdNwb3uUglTUNNl7KZtMZ0c3zLxw0LWrieLRM9RHyn_GT2gyigCUhx9DoAmhoncaUQBdI8Qv4eVc69VgWeI6Eju0P9paiEKf-CQme4UCVESZGiAoFgLK1sxTCdWTljAea6qStQoNC7-FZrpyraSajxJKnGdmUZ28RR64WaKOoLaJHwIJrYaEsWzQREkWkiEM2cJSfkQ2B4EvYK5ewbwG_zpipDc8mnKr6YVf5PzAUfyzPUYvhTTfEyWtcFWTyPicyfHkPmzS1NBsVCITt4QxM_NRHkiNX_pqyoXDdZbJgEQzssBPMSejCTIGdeSqy9fzZKJXnlRCD1w9ipY2fYjqAJUXfxskrm3VoNr6EQbrp74uhDkp7eij4jR4qqYYIiPbSS02RcI3Mv4x6uSSi9GmITJRqtNKw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJswJRkUO0woARFyHKBYL49KA/photos/AU_ZVEE_-HRoX1A8rcx7GNu6rXfhKGvhRSIzMgOfaEAuGdbOERLJNbdq2Jy1R_lh5DLup0u6eLcsWslTNlrxl1uVdethfeR6E8Nlc-4AKoCv4iY0WzhVZq6MjhERtOlQWcl0jfrXCGzg6mvcomZQ5aTo40PTDGbRAAe-ULHW96lISXzMDzA_SQ55lW2yvwv_3ktUSHnQtDm9CrtxBTefSZtze7aAucsiB7gkhZ4PoVWYgiZwupmm7XfSe66vVNkTbvpSOpnJAt6AwvON3Ae0BjX0t-_RqhqQ2XROADtirPzXYNNNpPfyo9Awxs2RLC8mgBkz5Bz4xfRhQOMnOOu5Ukqoh_AbDjm9-12CVfm-neQ9UjT54oETXBFbetucmb1P34eWbjANddP9VMX_AsP9fhXAXcaBGumR5UN6JoTOL8YqYs8/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJswJRkUO0woARFyHKBYL49KA/photos/AU_ZVEGL0vBxRekW0rPPSjqKlg93Lv5uY4Fq9GX_QfiefJ-sCWC4l0mZ7GB6FkOLQCkdkMgrBQXUuYvEFIYOlwiRmMt6uDSyWn1gBUNIPueIZv_qPQf_q2stMl2SB3FZTDOMMMVKTPFVCIE6t0wSCrxEP8dNaNlBQM1WXGOgZvDR09W7gL2vi8OUf-HrcbrEUBehMvgFj1Rzx8QQW_CwnkaOgxfwjByeuOe5mLpktOarCm2I-lTra-wXp9KTaYl5NJ_U6JXy2ZIgreX93PfernrcneUF-bI9tQpPtB2JRyogAMSWZhKxwPZZ4QX-zxtMhWqcGyOT8-uCXFQf51WNEBq9Ok_PZZVMugBAVgUs-laSZ79Wn128E0JysSTsjuJdGhS6wo1DkQHu2hsyulgjPXUDPp4evC2XROENg5WJARfZB5j6cE2S/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJswJRkUO0woARFyHKBYL49KA/photos/AU_ZVEHjlvR_aMpMqmtkW0nVhdWuT7ltDJojHpzd0EI9dXV-W-wV1teC-ukbOFPj0hwG8KA_XWkHAG_iObKojsDiZpxjh0wQEoK9mwEup9PLdvJZNeh10JjAqM9GU_BUEk387vVi-BGVO0jDUZ-4O1Ky7okywvNvwWE8DKXgwqImnunJwWXPFuPtfg7fRkFDzQj2tGBjnqCuzTuWOQACl21jRflcMuYbVPgrFVENrfkLuInmu_NRblXo3gndcT8Q5WxTvBCWZgLNrrvKIxrOhKhrNr4gou8AWyQMf4bTiwdpPpOuSA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJswJRkUO0woARFyHKBYL49KA/photos/AU_ZVEH2hUhrx-nuK3YBWQMP0t3k_8vl0DKSKITV2NshM4y7aAY1wkZSoK5m-GvJ6LahPCfwp1TUCHyiYN5XY-T2ja3HXN8I3SZ_WBdhA0m4CBmjsxX9F8T2KJMxMByt5CnPNy8PtpK3UBBAyqKY6SV27UOg0AVa56U5ZbWCKrJGzQjL2YGyL1sHHWjpLi1AU6Tc564fX0xF4XZaDFhZpG2gYi4GY4ZoZ7xq9ds54zRAVTKIGdq2QtFpsHsd2_l4K_fA5sDB6Oj_rEEUorxYaaJkvlArQapJ6b_-ghJYNjruR_8wvQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Onkitchens",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "15136 Stagg St, Van Nuys, CA 91405, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Long Beach",
+      "postalCode": "",
+      "state": "CA",
+      "countryCode": "US",
+      "website": "https://www.onkitchens.com/",
+      "phone": "(844) 435-1255",
+      "phoneUnformatted": "8444351255",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.2119976,
+        "lng": -118.46333179999998
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJO4ZPSamXwoARDbFygF2lq5Q",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:01:51.404Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJO4ZPSamXwoARDbFygF2lq5Q",
+      "reviews": 28,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 28,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJO4ZPSamXwoARDbFygF2lq5Q/photos/AU_ZVEHVNYIFc0NWQrqWssk67gQ45Kel9aLJ7LOpI7PlWjFKqXdGY25AnHdV4Ih97szfQDovt3HehWDAAVt9qaF5R4h9suSiZ1ogaJ7JUu9WqQzgNCXAQoozSobSj64KPWwHjf2cmYmpQxihkolbqNjvTPW79HSBAtXtIlT56rQHEmvqiZeAAVw9YolM9LucxQH1dG_-uVjDy0opX7r_D7C4p8hG39WzywOYakTMaVPqcjieG1YSNioDYE5SpW0aLL2FIWH6-SM_Yhvzy0A9G2lJFi9he19Rblg5pTNCaqGLzQruSLYN64EKnDOJhFpTDDC1G2NtnZOBB0F0XC0PYVB9vJF7l90iAKVKMVjMMfrBuS34T8nSv1eZ-ACQb8xzUnpzn0xqVhQYZPeUlGGA10TUQZWNME9LSS76naM0qwqdH05qDKU/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJO4ZPSamXwoARDbFygF2lq5Q/photos/AU_ZVEHVNYIFc0NWQrqWssk67gQ45Kel9aLJ7LOpI7PlWjFKqXdGY25AnHdV4Ih97szfQDovt3HehWDAAVt9qaF5R4h9suSiZ1ogaJ7JUu9WqQzgNCXAQoozSobSj64KPWwHjf2cmYmpQxihkolbqNjvTPW79HSBAtXtIlT56rQHEmvqiZeAAVw9YolM9LucxQH1dG_-uVjDy0opX7r_D7C4p8hG39WzywOYakTMaVPqcjieG1YSNioDYE5SpW0aLL2FIWH6-SM_Yhvzy0A9G2lJFi9he19Rblg5pTNCaqGLzQruSLYN64EKnDOJhFpTDDC1G2NtnZOBB0F0XC0PYVB9vJF7l90iAKVKMVjMMfrBuS34T8nSv1eZ-ACQb8xzUnpzn0xqVhQYZPeUlGGA10TUQZWNME9LSS76naM0qwqdH05qDKU/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJO4ZPSamXwoARDbFygF2lq5Q/photos/AU_ZVEEjzdUGp2RjFSF7dHqM4TrCnPnLmITOUC6ZLCfVaC8WQ96AnLjM365DxLM8oVth6X7b9oiSHP0s-fsdWqXl64WqFWPg25FKkL_1z1T3QgYaXNCexUdcDl5ilYXiK_Kwefo2SYHZb6Pd3wuQnDKJIwqYEpCGgBWYYS5QfhNpbk0levj2rCOJUJIWjmCcnIuRdYOTwxSbop7QNuHI0t5DRTrZwG0WwkQm7qi1ry03iuoRF9qZlRqG4wiUk5Aq6_qnAxpF3MNf9wPAlG6xaW1Y0qrPpR0D91zqsGUshUjmO74DUr0sGGBjXRgJpcD4MmRnnSWCMBjPT2T9AfLJtWy5A4E2ZSHJ2R7j_GmXiwRLXKHr1Rt0bgHMaGxwO39pDSyG14T_1OKzk0EufRdHpemkgZtp8-35hNFEAOoFMon6RI7-zcsk/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJO4ZPSamXwoARDbFygF2lq5Q/photos/AU_ZVEFEYiG6GOMi75UzQLeNxIkbuehoHfTUzeYLunUEfeZToH06O3DDM3PP4K0LA_CQz7k9JX0U0xSrs9WavURF6L10NVGtLqE5aoJ28GZkveQUHmG7QgSHI5JsXF88JMN0qgIjMRMlR8bfylAgD9ZJfkAiBGhnItyEXk9qzfytTtGfgJgLimoXkmGbjJooIhtCZJKR0dPIHkVHDFsasUqStGxy_nWgGPLmVSxq0rVYTP23OQx43Jyjm1NwJJI534xwefPxxnaa3aQ0MMoaFWjC07k3Br1NzuGguco0-FFilDpdm0N2kZFc1DHkOTpxl12CX_IMBPhGHwquHQOulGlJifyNsWEQ9hHdsB4pVQARaTh_hAUhhwiAEMFDw31weY5xGZoYSKzK2UhZd41pj4KITD9uBG5WpzG5bIqtvGfFq5kMmw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJO4ZPSamXwoARDbFygF2lq5Q/photos/AU_ZVEGKJ5aoBd2LjXvlB7qlyMKkyroq9JsanDt5jo_gR0o1m4HXE5U32jCqyqC5YIi38qTmv2Dqbmrx7zwQ9PyE2a01qyrHNyFdWdGTzQJCeJKRzp7oik--0ZjAshAcuWi-MQcyzwZEP2bd_84xk3Szw31YKhUf8kR0x1rVo6VNoydAAPGbcmwzAYFVLoKoTJ0cWXCeGE91Bt54rQywdgWg2ky_BsA7hTJGHvpbK6PB922BZfbtz1Fu52u72YSfe94-V6uz7DCTphqvJpPNMg8TGETBB5qAK5V47q3PsjqmCRMxjIhY8PvRc8q2WWZnCviUPc5bwt97nhyB1KA86LIbdYNSWWVs6R_dfC8WheesVPNbnF_U9hOupbGmCJ91oRreMhG5M1uLm_kNHm9hr4vCN5aTYfpMIqHMEwDHJCSFT4B3Pw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJO4ZPSamXwoARDbFygF2lq5Q/photos/AU_ZVEGpkv-sCon76leWwZB1dVNyp4jzIsU85GG9lMmIvHiPGEIEQfoKwWV65t0cqGipanYppxCCwJY1crYkoZvCqdnpBs5ZDIGdHJlXxUYM7hD5Y5XqcOAkpzfKMEZG9xhPe8rhRqdwmGsnu94NxFOr_K3pxkYvYdyDPGw0JNGMKITHviOB01USzJPrOeBmpJ-_GRo2Po4WhM2flvMY9F1nH76zeFmxh_xumvJw_YY7095lcqFkK9JUtqwdwSIcS7HFlGDAMeFbxZ8Xpb3iBT3vCuymtz4ssUHmWh0ZJRsL8Nbo1k1qgom-wg2OSow235fJFwzr6TQTKxer5Ab7yjNzqygj70w3Dt0k9EJIFfSQBxxdDpyWhfGIsBCOSUICbv6pJssMMz69nJ1KqTXaYrYPnBN-cVwdRfOSyCn1FaWT7ymR5Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJO4ZPSamXwoARDbFygF2lq5Q/photos/AU_ZVEHKXuCLcETx3bBDCm42QysB7DoBKgOFQDGus4-5RKH7C55SZy65NcFG1VsuH9d8xyzcKWjfvVbn11zzt1APKMY4HDd6pjxR3IE1CpTIAHk-HuyqWRrVri8fT-AJT4Z5ye-TtItGgvsKgcXJZeZheJIXYvMAhd26oaAyHIlmWo7ltiUwJf7ykZtETHwu96YzUC-dEroijGlhNW9vPrKZuu9N0nyf9WVxdXnzO08-9D314iNMN8Dg9KTmxIpHotv1VcwLsv7JL15QKmx7Jzv8SYIRiNY1xxjqqgZmCEQNu663q7eQptJN_u9_28FtvC_4Uev9vU5pRK_y4atHkApusjt7gHd40yI_UljS88Z3Rd3RZX5xg7D3RnXZ1iiz3E2GqL3r-GoYqXj51QIlNYBbf3jPePQGDaubblLTpN0ej-jTcg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJO4ZPSamXwoARDbFygF2lq5Q/photos/AU_ZVEEUKaEDr5HlSUsrv6YdmJvtRsjU2A_59H4L0bV0yi93u_FAC3udKMyXwB8hFtduBKNe1U75ZZpzaX-C6D2_kgtoDSOWJKaNgbb2XcB1kWMZ1WtE7gcSvNIKZMcyHtIjqRjjCC97zuoy8iP_IV9-3DzhwHz_hwtJQn-DH0g6O2_U-PL44yItE6_MaHrNWqETt65fLhMDhh_GrDFd5yWsVkrpeBCS2FQMwnPb89S2f9A0Er4aRxLCYkqpzZtJ85JdPgbwPwwZ-2U6JJIA72PrtIId8gvzMpR6KRrk8bd9Uif78vkS6sXWaqp5rPs43R4JTPOT5tprOlMeFbKyMgRiJU4edf_PcCgXDa_W4QgWVrGIQxLDeVTX899mpi5HlYorrq341i0Tv09g3OhfpWJySp_JMyUGCncOdCOAgVxbtcz2GRU/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJO4ZPSamXwoARDbFygF2lq5Q/photos/AU_ZVEH8HrO5xCffkF0iAeGtW2UpOOQLvxr3jrZg67R39aIJG_JYQZ5hY1i0MVUAXs3--5Q3Ner7JMSeVlRMPyVf9cLn0trMBGLjzzRMznezDOa0hXMveSV9fV--BryUh1h-E4IFIXxXyoQzao9y3N5p-W5lMKxW32bGOsbTnovNybBY6CgDRTUFcElktt8VYciPl4-omukyH4oXbe04HJ5_IdeMwLrZ6jka_sgJY86vu6tglWCtiwVuynUKnx43n_DPOsUU0vVOdN6xD6-XSwNnkqpR3tmYKz4X7uCfPbRabSDoMdYyV0BdR-mNAhIhZanWDJbOpWKULRD8bSFmDWf1GXB9bRAR9eN2izVxKLCTb8p9C7tT4x5NXrhY-86DmaAGdhL88x0l7UIhRpo2kMLM8JwihBQaFFeX35K_R6ZYd8Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJO4ZPSamXwoARDbFygF2lq5Q/photos/AU_ZVEHw891aOXNxxom5xllPulmCAcuefYQmWAQpSNIQUfWNMt51wAied8KArkD17iz4OEUrTbX4h45w6Ve0z-GAjDis0ISh5aLuoh5id0D1Q0J8Sk7UO2VulVD0sjBJ40S5-gBqvi7NxWqy-ct6eALnSmoASIogqTFL32sRH7xXvc_QepnsZ2cQpGs61Bk8jGwsb_aKgpHuAfAqq97oh5xZrzx0wziAVrmUMXVMy0ZkChulaZLKcwEhG7rVr8-e2DjV2sjo5oBDHjbM_j4J_rhInECUrAwkfLJJq2-wI5SNRDcM5Tj9SLrCA68DhrXB3cSiON1cWDuk7rDhuInR1IdZCy_YByJYbGHBeWF_E3V_U41u8gRt5QSu0NA1D-VL7MYouZUBL5KNA8ctF-CawCYwy6Yu_hxpeo5rikLyFCGTFjFJh3HU/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJO4ZPSamXwoARDbFygF2lq5Q/photos/AU_ZVEHMUtmXcByjAKWAxBa78-MxHEC4i_WR56Y2_PAy-S9AlXvwhzXbG0qTLBa7WkgUu5vgPJ04YklBEwIfG2o_yH2zC3bIyfbvplBgzAoqKJWWevM1lI1e6_Q-SeOhNGY0j8xl3kbG3ceI_0F6lRAt4U9f8aNz8qYNSygIh9eoiybfVc-UoZAvolVBbFK5yWJ4Pcsxj8hTgXzD70iDgLgw1VBPgfXvGuCO3ShhVH5w7reWp8ZZUnugRGgcTHLDQA_cDjCccxGhADUF71FBIejzYC2AJ4IE5L35kUffQmpoh5mqAYPqeu_xzrffuWOhb7p7egzK8eilnlABkdpMK4yEFsmfrT3ZStzTwZOSFx5T7e3B6UY3Q3DGfCSV_ryLpnfBvetK_O0YjVaKUIyh4VdlofcGsE7agRRX-TmRfrE7iI0/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Fallbrook Kitchen Rentals",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "560 Industrial Way STE D, Fallbrook, CA 92028, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Long Beach",
+      "postalCode": "",
+      "state": "CA",
+      "countryCode": "US",
+      "website": "https://www.fallbrookkitchenrentals.com/",
+      "phone": "",
+      "phoneUnformatted": "",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.38633130000001,
+        "lng": -117.23761920000001
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJZxsjd89_3IARaX5s_4oipYA",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:01:51.711Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJZxsjd89_3IARaX5s_4oipYA",
+      "reviews": 2,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJZxsjd89_3IARaX5s_4oipYA/photos/AU_ZVEFctDFcdafsQ8kQZIdx9XYVlJLrJ5xZwG--B4Iixi6UzkwFioY9DuGZRskkjw85dlkDymxL7rnzP-MuxSjjw2XsmoJ0YvFZtoaZLeduMkKbDC8BLU9qHv8IrzjvQnem6cJhYrmAQwdnKom1wl-0xCWIcZ_Hf74RpD3gX4KadLr_TxptKdIaHWQaepO3gyxPMBuJqLZInvOS0463dxmgCkGg_rgIMeAc3iu7oATyt4340lwUh8o_KqI23gyFTr0PlmKCxbuADpCMW_LBI2T_oSBfwfiqsAjszFXXQDBw6uIxxw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJZxsjd89_3IARaX5s_4oipYA/photos/AU_ZVEFctDFcdafsQ8kQZIdx9XYVlJLrJ5xZwG--B4Iixi6UzkwFioY9DuGZRskkjw85dlkDymxL7rnzP-MuxSjjw2XsmoJ0YvFZtoaZLeduMkKbDC8BLU9qHv8IrzjvQnem6cJhYrmAQwdnKom1wl-0xCWIcZ_Hf74RpD3gX4KadLr_TxptKdIaHWQaepO3gyxPMBuJqLZInvOS0463dxmgCkGg_rgIMeAc3iu7oATyt4340lwUh8o_KqI23gyFTr0PlmKCxbuADpCMW_LBI2T_oSBfwfiqsAjszFXXQDBw6uIxxw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJZxsjd89_3IARaX5s_4oipYA/photos/AU_ZVEEQhLKkm1iPGas6C9qJP6XXlqo9V7T8C_VeTxOVbyhDAzHjP7dz17_itZmyqUQrcdXlx2KfnBSgGSPiiupLuWwPDs2lz7PesNf7BHnJ7K9ckd2lAxXjMPNOyumsOkOxprqItsBZFiOw_nBSEdqJB7C1lxRqX2C-0aiIrCYFhmbHlHeTehpEhz0mweB8f1QEX8Os8vpiuRTKjyfqRmr9bLP_lX-GOImdXlVDv1eqCnVE0eRQDIYayGXtk3FP8Ly0lSTaDMDTyfAeb7hYhPW-DgxkIQ_ZGRP8TYeWGBsXsaqzNw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJZxsjd89_3IARaX5s_4oipYA/photos/AU_ZVEHCjNxSFDtfMyUyRwuHo3jkBvNWtKz6hD5AJHHs0ciEL-WySkSLjhE_HSlZmOdRXmzvgcSV0P3_tVX6hsgUKfTUKcFLb8U4YdoNpBZUIpRloLrShbKSS8fw6f0l88SVoMq2sXTN417N8r0mum4eB4g_EUUbJN3pNWsoyZfitG5ooC-V3HF6KlBv6EFpgA_FLtiss9H3kAs5-AonJTiYsxdldHnkGJFJeULJ5gNhzkDdCQnrC_fOOzM0Utb9XgrYxcU2wm3bh1LEm0_bJASmqG1hlKJ4rl5NXmtbJpJQT7UYsQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJZxsjd89_3IARaX5s_4oipYA/photos/AU_ZVEFzvsUHeNVCKItKANun0cI_v39xHKcd93jN3dn80MHIHw-tb1x427tOWViJPmrs5O5Ft5a2jWKbKypvMKyPD1IjTAOa8vexQx-TxRwd0p1PAPeXTsv_-HYcIgvUfHfXrOpl0vcoi7G4810K7A4tlddw06h3DNATeZ01SZug144m6Mks9CAEZ09w7ulvKlPFhjpRWV17rNxC0-uX410qvW6Oh2lazkgjTaAQZTLp503t1fGsMKnxvGENirvQKu0Ic50MZyr7jZaUb6Xa2B1w4rkBOcUxTGt0v2ocwteMU439GQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJZxsjd89_3IARaX5s_4oipYA/photos/AU_ZVEHR3rGbfkhg8bNqsnjeAwizfv7kV_z2GwJWraFIbxGGx_bqzWdzncLJ0NyXhFzQbhiX3UMyOc5GvXpHcC4dh4lm-luH9Gls_qFsewWDpok1TauKK8dIuEA5HoqH4teeCe99BXwTV88mKaQpdLT1OYSIwOJTTGzkiTtuGYg_jkAx3SiUkC-gadi6QFZ89viOk0Hp4QwfWxYNUgFBDwiowMhhPADWW_Cj6-oeCi6nNl4f4zANUTLsKiiZW5a5a1zotlNl5DfZ7x2BB_Zks3i_MZlrUNfFMa7SNDvEQIV6x7sFOQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJZxsjd89_3IARaX5s_4oipYA/photos/AU_ZVEHV65VEhyqu2aLOlvLQ0Dy4kg-mHcyU2Z1yBjBe8IiqzBp0I1N0FUhgccPf2WOyc55UJ-aOlJFxX58fm-8KfvJcqCGdxjxz_yTSRhp4x945avd5c9IuP8x75DBUCb1uSTcvYe2XvmwWlUIlV6nOoPQELRTRUKrZT1xBou0VHL3XfvOxE6OptOX2zdVUrSkXAl3aS9nZUwk3EKoalv-dubYK4Ur3dthjf1v_aqSySQKpTCMUnZUaOq5hyIqpYlD74Ry3rr2vX4t-uM8lwwy6WJ0V_iqnIQURKvbsWtPnzvxUdA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJZxsjd89_3IARaX5s_4oipYA/photos/AU_ZVEGdi0VfZivXoXVMUXtlg3X8AXJG-lMW9YffJpjRqWyUcfQrPXvCgMgUDcAFrBXpGf-9PrvLjZiGGdrSYvkEzFZDjjEF1WAbAGyblM6eGX9G3S_Wcqyc9WzL9_Ypgyp2CGlX9u8iXuVM6jTbv5Fu9TC7kb02Yv8e-oN0nfPGYSdUeV6NV7N4zoOxb4Hzv05Z7n20DF2BTDGJbOb5RaDn6dCmhl_iCCVSEGECedTyN9EnSMaJMxy2qUKwPQolJysTZDcBhhcCcOWSwm0Hz9jXCJ8pku9ZAXlUHrSYJUV8G3AkBw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJZxsjd89_3IARaX5s_4oipYA/photos/AU_ZVEE12kI9l5qDVOl5YFkN78N-OVL9zarSm-cKSY7iKzc9XNOZR7mEytpnyldARsf8LuuCQBWdSTCm_NKn81PQWAwcV38GD3_dRqpbjEkyzkYqsaEn8iNNxHbhfmCAJ9aQXrtTtM0SFGnA1ZH7nZsqptKpDpyKw4ymGVzKitvzfXY1pQsXoNZsdvwNLbIWxHv7k46a9SgPd4tXsY0OGziduIPSfTbrJvzvRITSA2LlFSzQHyY9Ul14pSe8ynifz9YrWc1dm-Hs-NL2b09hsh1gMzrfba-qkLwN_DZoUYkbgbpMnA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJZxsjd89_3IARaX5s_4oipYA/photos/AU_ZVEHFHGlhl4f1ht27vQ7A5n-rFlRsuXerOAv8BElfIFnL1I3-gaSMTGdAqIxfy65xpj_0dr4yvHv13iyS5UxtVvI8Ty9rw5Q3qas4DINoAN8_bK4Jf8mUyEbe_7Viy7f-8haXto5_APdrLCRhXeNu-iufKxogOTwXlK6oVAUY7ZWLf1M8NDZNZYK5UhADG90UAnCuN0tr8mjh_Y-EuvZsn6I3u6TB2n5fAukjfjfqzUpChh2YTvQ89O_NXf1ukKPpjbikvYhQl9pYM9Zc7j3hH57OOCjnmdRADhRvFh8mfDyU8g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJZxsjd89_3IARaX5s_4oipYA/photos/AU_ZVEGqfWk_jtAGMeLg_LYVSxkYQlclv9i4HmF1FA7ZL5TRIpNIyBq5tpPbYcoKZbY86NOeHGoHJuynZOxq860yevtzjnzbNQGWnzoqnU4ylmTfue_CCaKw7EXfEHuzj4L5btozsZas7KqE9u646hPsJIBeenfMWf6vUAOxaNiGM-55L-ptf2dfq5UNduwzDoA4-XqIgp82wIFQ8Kxbg7ltGiUNT-2BV-0ca8EiHW6CwguoZadxyPmWWQfloZ8BrEQh81XRCe5bC2pqf05Pwh6b9y9CLnfWIXtTTcNU2iEvT0ve3A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "DTLA Kitchens - Commercial kitchen Rental",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "3212 E Olympic Blvd, Los Angeles, CA 90023, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Long Beach",
+      "postalCode": "",
+      "state": "CA",
+      "countryCode": "US",
+      "website": "https://updatemint.com/",
+      "phone": "(310) 461-8200",
+      "phoneUnformatted": "3104618200",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.0195119,
+        "lng": -118.2098723
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJPTKFUEvJwoAR4tbd3vQbLlE",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:01:51.937Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9:00 AM – 6:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9:00 AM – 6:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9:00 AM – 6:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9:00 AM – 6:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9:00 AM – 6:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJPTKFUEvJwoAR4tbd3vQbLlE",
+      "reviews": 10,
+      "rating": 4.2,
+      "totalScore": 4.2,
+      "reviewsCount": 10,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJPTKFUEvJwoAR4tbd3vQbLlE/photos/AU_ZVEHmiwXlC0dUL7hgLOSI-YV-hsrSvtX4NrRcUtupTIE4FHRdfxogWGeSxjZ66FIIWr69ZHP-0tyoePFbSiQLYbnoBxZ3TYNi93B6zBY3aNOT7L3tXrMXAvWi0Z0dAIFPDZu621NBUJ0q_DC-OusLuuGHlqS5rCwGILiyO0tJJPfA1IWiAXr7Ul4nTERJHqCesCZ1qr2v57EM5zqJsJT9vrMHsaBuToIaP91I8x_S17V0qCmB9rYciEsM9sQ5R8c3qeK04M3yEshHtItpqpxx9ZR6JAoX9OTYlq4XBJw9CCUIhw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJPTKFUEvJwoAR4tbd3vQbLlE/photos/AU_ZVEHmiwXlC0dUL7hgLOSI-YV-hsrSvtX4NrRcUtupTIE4FHRdfxogWGeSxjZ66FIIWr69ZHP-0tyoePFbSiQLYbnoBxZ3TYNi93B6zBY3aNOT7L3tXrMXAvWi0Z0dAIFPDZu621NBUJ0q_DC-OusLuuGHlqS5rCwGILiyO0tJJPfA1IWiAXr7Ul4nTERJHqCesCZ1qr2v57EM5zqJsJT9vrMHsaBuToIaP91I8x_S17V0qCmB9rYciEsM9sQ5R8c3qeK04M3yEshHtItpqpxx9ZR6JAoX9OTYlq4XBJw9CCUIhw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJPTKFUEvJwoAR4tbd3vQbLlE/photos/AU_ZVEFqi9FdWdHd0Vxex4_3efi9FYuG3kq3s-GEDDm-hGU7IjbkXJKZo5P31F7kJMjb2vD4z0or3YsNK_vluvlaBEMf1C3U5EQtxvqIfHbKy4npZnddx7XFKEuwQqvqtXKuDg_LemHFTenqnnJw1G_9OCK3pawb-ZQNPKh6fUxrTVjYCxx5AcvpMQ1HrWcs2C1aP0jO6-HkfN-BEOxohvHGC4ijIofjUkBj_qE1EZ3FtmVi2uffjpl72QTPe77eW5DWUsuJkyECvCcRwuQrJ7NUWrqQYywLsPq0RFQssNF9A8vVqQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJPTKFUEvJwoAR4tbd3vQbLlE/photos/AU_ZVEGNPKcPkCIu16NjDIPMhugksw-LRctvdRC6wZCHC6YoKEV6G5-WY5wjCk17ghDycOah9o4KE52DlN6KyNAkKmMN1HodGRlVVcMbEzKdeMs-4l77uYKSuM0Bw2s_6W2yB-IabpOPT5aWG9aTg34HGRoIRwrAbuEgGXcVY6SS8_jlDlMuqV0nSV5WWOTJu7SXxdmpTzSZqRvT4OLh4KrcpTvZO3BHeBoCZk83B738Tp5N2Uar60gXQ_PeLz8SsoYAg-72ieuYCJ7y_PtwnngYla7DD0Mo0AbuMpcmsj76vS3IRQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJPTKFUEvJwoAR4tbd3vQbLlE/photos/AU_ZVEGab3g98onheQtORHg6LLlE7ZkHrGjtC_jCfjoa57UxI9-bnzJucAvFyjCI7p_ezt21OJrVNZWVXyooSm4_r1c6A2C9HEk3EDejSk1F26HEgAS-aug9TTJg2UgcLslnhQV5e2NWmEAqePsoNeEYNWEmx7qfGx4t1Kd3Euu6EmaRtqB4oZDeoofBvPw02Yw-9OTHXZSDRmRwlSl4ouqczgRFvUHQuSnJWFOrf12pTlVU4HuRExnwynkX6S8Me7AkiWoAtxiHWafmtitvEEMNGaq_smd_Z-1NNkoMhAxy6-wniQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJPTKFUEvJwoAR4tbd3vQbLlE/photos/AU_ZVEETd9qT08S4NlnPhDxZNGMvtuo7R-_kLcULboflY8SkRcfc8DoY0Rn4wAXPRy03uC7K0r5WhIlofnsHrTOpSs9qGiMV00fCn34bf2t3P8N_rSdTKpaFJo9A4ICEubPloFaYcmLnKO-6NZVliujTx1L4HkYwlKxjYL9oXU6VJXK3hmfEr1e6drKfdv7pZk7N2UH6d1dcAVVwIat-DfWBmyHjQzcUxXruu8KX2no2m2cCTIEMqQPBz2iuwokxQHOMPymq30QEo991naRZ3mIdiBj5e8D5ey7EQdIos89am0nQNw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJPTKFUEvJwoAR4tbd3vQbLlE/photos/AU_ZVEGYpuFVyBh_Q6Vtf1ytlt5aK9qQ8Z2ZwBnOAhZoc7FckUiX2a5l95RE6M1RYOSEOCUx5UOKCsp3q6FhxcsbCFJWU-HRbZdy45jI1wqIHiPffDJYLgNxNXGbnWn-4-WH2tnLG9-3S-YXxGctpzKRThGHX-3Uom71P0HSUcNnu9Ce10SwW0_MKpvlgUwntH4BhW7xiAkbnIQkU8B-Ew02XdYe273IIGHh8ZJ-2y1zKT5jDaYy798rP9VrmeA0qGQtsAvPqBNAmOFJFC4Z0UDj9Bn_tye5Q8nV9I_qgBB59_y5Iw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJPTKFUEvJwoAR4tbd3vQbLlE/photos/AU_ZVEG2AEDuelsfy3ejeSTxn0cHB14f9xcNeErsiNJAO3JHEre0aTH4gAnGrgbwYC_vrrLnmmCXOP4oY7Z6hfdwvjSfyKQ5MrhMis6-WMChLdg1wg6wCSVHf_LIhP1zbs9ZwdDRXfU-oKJGBHq1R4kVJoIkCYlgRjFDZ525iOO_CxUqbm-kY6j4k951dJQ_CMcNzToijP0KD9IJKCGt7begnaOEVKWzevL2BHcDaJ2xQKdAF5TFIHDPLQ6iGnweeGNqnVx1a_elZhH9T34Owiq4sH_fISJJDxRP2g6Qw1-lFLaxUg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJPTKFUEvJwoAR4tbd3vQbLlE/photos/AU_ZVEEbCyByczYaYn9JXg89zJLHAmlca5i3_l92j_Lc0nWYTvyRIeBwuRznK6Z2toHSv9J80TLO5lKwjXFtLgCNeh1iWuoen3Qb74on4kmAKqwbNkzHTicu37p9SiT2X-V3u6YwqSjJiygRws0O6w3RFjILD1-BSdq_ptAfBI0ZRAE08XWYtWeOS2WG5cexcf482B3HFh0hUsQa3S0VrW1-I8Dh89rCavSAlQLn6Redd5fkxEnIV4HtLKyyyGgiNmMG7LQ3vKtLGatEf6UL9Qf5BexFpj0umiP0SkrcU51H-vq0fw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJPTKFUEvJwoAR4tbd3vQbLlE/photos/AU_ZVEHvgfX0ZRZmLxpKCMMjWGHQVnleioniFvtgeM0VYlEB5uMS74B5qooKrLGDRDe_G4VYWcz4LZZ2_PakGtFh2swqmJHzA5_Cu6b_10GDQKh7uptGR_DVPZx4NhMli-wo9LbfzeFJF3kFUuAsGW4btjJGwM6UvWqjGSTEFBDyhH1id9lMG9XMTKWlrtXw-c8rSmgjOmaHwXSr8CcQJ4vOBez1Y9QZ91ThJKf-iLpBv67AKt9PE5GcIu_Yba0DutTRPeJ3-MAiRZ_poC7Mxir5GD5HZ9cfIK-9-Yii0LWExC7suZRgQhX9VlHUlmWVSQiVTh40ZTPvKu1UoJzpaw0Vx-FhULfFhGhgT5z6H0cKPMk_HCywFzFrEqooU46XDaSRkuv1OavjuddjlBzSJENHTV9Sj0phiDrWAlF-rx6EkQAPkA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJPTKFUEvJwoAR4tbd3vQbLlE/photos/AU_ZVEFeShK64GWxEA7-h_ZzPB24nchOLNAnN-OCzG2e_1b0NPu2ki2zivKtxuGAftlpoO4XvhMKf3XxsQ-czkHpBCJimABSr4ygN4opASCr0nF4x7OuzzUKJEmSb7nZbnlezqW73kH687Fi9lIEAQhuPdQXSy0r3ZQjmg1CiflV0o4xvSFyUskjqWBmIin8Z7bzRUv0icnciTHh_Mq9Lk9oHsnC4_1pIx737PScuxwtOR3SagLPIhZwshZS0-TtAKRnRuqSzj1CQgMHEb7QD1tnoMtasqUk95AYXPClofdClMZP3g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Oceanside Commercial Kitchen",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "3830 Oceanic Drive #411, 3800 Oceanic Dr #118, Oceanside, CA 92056, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Long Beach",
+      "postalCode": "",
+      "state": "CA",
+      "countryCode": "US",
+      "website": "http://www.osidekitchen.com/contact/",
+      "phone": "(760) 200-7137",
+      "phoneUnformatted": "7602007137",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.206137399999996,
+        "lng": -117.3033854
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ__9PjA1x3IARmVJcWZYGsXg",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:01:52.166Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJ__9PjA1x3IARmVJcWZYGsXg",
+      "reviews": 4,
+      "rating": 3,
+      "totalScore": 3,
+      "reviewsCount": 4,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJ__9PjA1x3IARmVJcWZYGsXg/photos/AU_ZVEGA-FUqcJpmBhEAT_a9oJh1ta7nfC93kYOJaqvNOCXe-Cx1_-mqRrJLTlon7ouRBQTWZ9SmbKRUSZV5qDZgsj6sr_-oH2NdlCE8YEjyW331Tn1JR61p4SHLJJPtwGR1ppK0unNxbPoit28swivYdj0iw8no4J1zW_cSYdpFDaYDxacHn19_w6UyZFFk3L-eJSObkoaSmSWnTfywUmo0YdCgKiWm7CmZ7_FcXJce2Uytms4GbF5IsLnakAscHaOxuhWYqLZM31DuNlrsAhjvtCrbJVHQuE6Jc0awdllrFGNa_Rbux4ChFJb42ZLnF0ays6uJL8np44SZ32xIdxBVs4TjbI36ibkW8gsRj7LUiUsu30gdPot2q2MtZZVQQg8CShCQQJR08vPGYWR0uMle27ll2kx9MZwTiyzkPlKQk2WitiY/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJ__9PjA1x3IARmVJcWZYGsXg/photos/AU_ZVEGA-FUqcJpmBhEAT_a9oJh1ta7nfC93kYOJaqvNOCXe-Cx1_-mqRrJLTlon7ouRBQTWZ9SmbKRUSZV5qDZgsj6sr_-oH2NdlCE8YEjyW331Tn1JR61p4SHLJJPtwGR1ppK0unNxbPoit28swivYdj0iw8no4J1zW_cSYdpFDaYDxacHn19_w6UyZFFk3L-eJSObkoaSmSWnTfywUmo0YdCgKiWm7CmZ7_FcXJce2Uytms4GbF5IsLnakAscHaOxuhWYqLZM31DuNlrsAhjvtCrbJVHQuE6Jc0awdllrFGNa_Rbux4ChFJb42ZLnF0ays6uJL8np44SZ32xIdxBVs4TjbI36ibkW8gsRj7LUiUsu30gdPot2q2MtZZVQQg8CShCQQJR08vPGYWR0uMle27ll2kx9MZwTiyzkPlKQk2WitiY/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ__9PjA1x3IARmVJcWZYGsXg/photos/AU_ZVEHgqtm0XIvm7_MTd9csEWqxyEduMjHSWybqYscCuKglG12qOhTDE2VzHTvV9HUxPZszERIvxMtvpf_mIyDiczYsgZ7xUk0T-tohpRDcvxS4YJFRatNUsdkrYd_l93aKQ-Nuhp5cTEbHAU5FY1GYhY5RJtKGMNYXuFIV-5tywS9s05U3IsToEivEMjKyimyB_XxumdSrwvZYZd9HEvYze8_Eii5PMXbDG6u7fbtwYpyaaUqmNEpYyI95wN62164kMrqbdOWAIlqrqJmcdLBa28uCOrDly3lkjn0bP896FynPd8-HE_ZDmQPWpG3K2Rm578cxn69rrS4UiaNOZjEp6Ip7SjuAv0cQ500VDKWp_InwqEG-wAofwzo8c8QF873IOrqly7v99Yfsjjw4C-QC4t6itkE0cNVOrX0_ezOIkOunUBg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ__9PjA1x3IARmVJcWZYGsXg/photos/AU_ZVEEm7-dnM8bxj99PiFuYuvY2sIYbGD0bgTgDjRuSaaEfukNhoiWN5wK_T2g3EU9Noje_OswUBv1u8RQ7N5s7G8SUZMAOpDbxhGG7jYAwqAYYnzCMqi4kV6wPjyfHwd3XZAhQeQGuqsP4NSkksJpw6Os066mU8ZiXNZH8axAk9OKQgBfGYseBkt1My5lSn0_VlxoGh5N_UkQEKalVwNIdjQ9inirvHpjCUURKZJna2_vwvFnDjYcQmyZPFO00UZHjFmJmI8biRLWOkqCmSlc8uIrKSdtYmSCtnv2SrLeBJ_JuTKWMwpng8OuodtfexEbxETAsPVEV9tDfEcD7EJ4CQehorCtwtWcy-EtARxh9TVzfJq_d3UaUfo2tQsS6s6FmH8_Dyr2Ve-ctEHEdNkznxrDYFyEMrPqfOX8_W6ccHlymnT4v/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ__9PjA1x3IARmVJcWZYGsXg/photos/AU_ZVEHDQfoTgfP7Qc0pXgJR8bV1zxPg4RkeO-ETC3PJ2pYS7E3kev0HKwM2lHP2cmqV1VtevI_WitqC3XKqASqJEuMBFJ_onehyyfR_3Iet7ubV2ohCsTybWlB0xTwJ-A01cvaCWwvj1m-4P54pvkzLGCMnaZeN1ZFqQoPtiVQi1OZjXRLP5pnOdF4hgyBgRijbOg3QHsUvtNBQ44raoNibtZEHo6ah7wqIu5kLZNQeHOT4prGfFR6n2Hk0Khi2aF8PZSvvFzVQGOHPajfZmuCpOIfK7e8zH6t53Gu8DbgqWYDK8-V0gUNFhTRU-yiqs__n8PV_o0fAlfICUlgtbw6rk7VKHMihCaOqDNOpTKUvX-QdUAmHNuyKUw4UrKFFGnVubQN87VgP924d73AMJlad5Cs53uf3o-cZ1wEwP-9X5FM/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ__9PjA1x3IARmVJcWZYGsXg/photos/AU_ZVEHNU0NYzD9rts-f8dIcClI4ZIu1yCwkBi8BgormyE_xU2j45hmPRhwS6b0O-xrI2uQZOMeWCU2hd5pRGg_ldCpsoXT3gpBmRNU7Zk8Yug2aTOVilp0PIAI430Xd-kGKodKcRc0Mww3YnwuFnqcbiQ7H-zws0sKZJxXbQcIiu89gBX9pUKH0hmbDM8stre2OYX8jkdYz5CiDWL36gvV5flLivsXMauGLC41rymS-mXiVJZhpHEZkAVZYrA8vMJoReZKwQMlhF8GCYU1tMuPLWqSuvlxft1_y99KxupReTv5MnYHSqQ6Lyt8DF8Nxxpxq6UzNY6mfunoU7mX4w9ASyDwuEkt_-cY4-YoYOkM13fgVvHnb5CCE70ccGbfpPXQbU-F1CLA3IYZVZD8bBcudFTCKCRyFNb7Z_tcUP45KduANA1_j/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ__9PjA1x3IARmVJcWZYGsXg/photos/AU_ZVEHSicapr4tF8cAFQJut6_1SFJLFvKkI58isR8I550QyUURFKgg5zH4aV2988qVBwasCfEqtcCm4jxq15e8_nLYZidg0PWnXZdPARrxQTD4ycMLSmESbGPacUI_iOTRB1IjB_DflEFvnuGuVbsesP2gLxjswSHrQzPnk2WTJ0HD8KwlmegChhxye3_5FuqPr2Mq5YnqZHOngT4OAWonJ6jj690lsyeAAQQ4xVLlsaABydF3vI0dq9f0EQd8AyNXGcuFYYXGsNltvPTsYEWPLGazXOpbqQVAEUmsa-TUsuglF1tuLFY4vKnSWHxF0kLlv7MgRSxQiko4Cv8aIs0XK83QDvVnidBxWTgf8RbyEy-UbNtIOm3o-LH57fmFH2H89rBAcT-gWPXjMAX8UKfGf73525Izile915hWgCPHzJk56fA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "SAE KITCHEN",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "2515 Pioneer Ave, Vista, CA 92081, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Long Beach",
+      "postalCode": "",
+      "state": "CA",
+      "countryCode": "US",
+      "website": "https://saekitchen.com/",
+      "phone": "(619) 851-2904",
+      "phoneUnformatted": "6198512904",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.1493551,
+        "lng": -117.2225818
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJt9Ra0MCRmYARr0munmQ_QzA",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:01:52.480Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJt9Ra0MCRmYARr0munmQ_QzA",
+      "reviews": 3,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 3,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJt9Ra0MCRmYARr0munmQ_QzA/photos/AU_ZVEEuerRp3QWc3AL1cPWheLN6-E1s7xhV1A0_1xZHRVc0aHpCfkNA1zZc2eLPqhy7iNBYyPQKCr4F5f50Zk8jqFGNcm_vlu5yzs5Jq5EEeVf4jyWEqlng2RL53Fcz0DBeRS-JKDQoLWhEiGKtimgVElmZazuOszhotsOj2CQjZAaW693JWgB0DZmd7sVC0bKUrnqDJpBauajeJnwke19xYwGihxbZmP3ibxhjgkEDQuX4j6TeZqvegmdrGEowBcd2fBqCayOxKRjEqlkhAdvBiTXOjluu_xBzS3f2pDrMaR7wnQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJt9Ra0MCRmYARr0munmQ_QzA/photos/AU_ZVEEuerRp3QWc3AL1cPWheLN6-E1s7xhV1A0_1xZHRVc0aHpCfkNA1zZc2eLPqhy7iNBYyPQKCr4F5f50Zk8jqFGNcm_vlu5yzs5Jq5EEeVf4jyWEqlng2RL53Fcz0DBeRS-JKDQoLWhEiGKtimgVElmZazuOszhotsOj2CQjZAaW693JWgB0DZmd7sVC0bKUrnqDJpBauajeJnwke19xYwGihxbZmP3ibxhjgkEDQuX4j6TeZqvegmdrGEowBcd2fBqCayOxKRjEqlkhAdvBiTXOjluu_xBzS3f2pDrMaR7wnQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJt9Ra0MCRmYARr0munmQ_QzA/photos/AU_ZVEHRxr180cHruJpJ3o2Fv65ibz45sagtUBlnPRlCIFNltBFgkA1neJDxvWVuxWzWUNA3NixU8DdcaM-1V5dpVao8D_tQFx4SkC7QuYyShEusfBEUi5p8_ohPekmKxz28Zpb3TGGR-hNKMnESidBQ-2RRV1T7Ug7qHzpHRmtdif9eC3c0k8yJjXiQlCgdDam7GCA_fZRtiEjk6XqkHhQzRLMsksw-MfD332xhF-J6AmhNrJrCylAwKwSZLND0LM0ga0UCImMnODtu_SpL0Dp1PBzb2cr9EuS0MlInB4rMSJ1eIg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "CloudKitchens - Long Beach",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "1388 Daisy Ave Room 1, Long Beach, CA 90813, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Long Beach",
+      "postalCode": "",
+      "state": "CA",
+      "countryCode": "US",
+      "website": "https://cloudkitchens.com/locations/los-angeles/long-beach/",
+      "phone": "(213) 329-4100",
+      "phoneUnformatted": "2133294100",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.783775299999995,
+        "lng": -118.19888309999999
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJbyLzSRAx3YARZkkmmGQOfms",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:01:52.764Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8:00 AM – 5:01 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8:00 AM – 5:01 PM"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJbyLzSRAx3YARZkkmmGQOfms",
+      "reviews": 1,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJbyLzSRAx3YARZkkmmGQOfms/photos/AU_ZVEGyRc9VaxayOx3k0nWPr5Wj9hweNaR6PEKccvEWmOc_fHhCc89B7tTChr36eGuhrrJq-ijhJiUdefCHevfds_oRXyQzejEFkD2f7x-f78DOWgpD_iupHO3coHgbFxDTYLAyrgUVVC6_fNKs8WdLhFEa0mrCXORFuTS2i5IqV4rLbNKFbntZpYUZl_UkPpi81Z9J_RgxN4be0ZORV-MkGKcwmFc2P60WSDIkQJdczNPhwSW_olPDhlwAJUdyTZPNgSmMhRcObs_CRC8f7goKYoANPpO9qEmd80L8iF6QGirncA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJbyLzSRAx3YARZkkmmGQOfms/photos/AU_ZVEGyRc9VaxayOx3k0nWPr5Wj9hweNaR6PEKccvEWmOc_fHhCc89B7tTChr36eGuhrrJq-ijhJiUdefCHevfds_oRXyQzejEFkD2f7x-f78DOWgpD_iupHO3coHgbFxDTYLAyrgUVVC6_fNKs8WdLhFEa0mrCXORFuTS2i5IqV4rLbNKFbntZpYUZl_UkPpi81Z9J_RgxN4be0ZORV-MkGKcwmFc2P60WSDIkQJdczNPhwSW_olPDhlwAJUdyTZPNgSmMhRcObs_CRC8f7goKYoANPpO9qEmd80L8iF6QGirncA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJbyLzSRAx3YARZkkmmGQOfms/photos/AU_ZVEFyCgxYAqD7SMFYPt39ViaBlXbKSm9_WhNABQqAg2hCV8r6cUahs7uXg4_MhAOV2_KlyXtHZ-rkNIhAIqNMUiSjl0BjtMJuR5LEk2KC-Yk5kM_scafLC05q-quRKQfgPq976qdkGoqf9AJ3K96f0IcN-NK1ibg8KdC33UPPSqfF4lQuzgE4lnpaCcpK9vlmaOocz-v934e8xbJxu7v00hTcurgCBVN4v2jxyY5rCL-siI7GLpj3uCkYLeaTNSlYgf9rXNua2hjNLjpMVmaWpKmQcXvYBi37t7glzvZTN_ZdgA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJbyLzSRAx3YARZkkmmGQOfms/photos/AU_ZVEG1W8JwqRu5tY2ZyiiregAd38HciiUuPOGN1aBmiLzNhF2hdmhNDapiufi5bKnmuKbMUWPvMCQ_6UEw7eIqsHXYBIQ56UqVwOE4slyE-_d_7kzr8Sx9kK9UNmVYrb4fiiG4CN2E_PP1KxSpqLTx_oyZxgie2aRFsotup21A6LgCrbDjRa7zBSFGFdqIs92qPpSXGt79Y_WB6OqeGWumHrNlW6YtJ4oFaJGeE6JN95wgJpqbFDgYFFtwGSN-U6SMBhBlXwXSc3wVaCNyhN3jz5tys996OiLeXRIv8WNZ4TyFqA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJbyLzSRAx3YARZkkmmGQOfms/photos/AU_ZVEFfcT77afQ6gSlcNuIbrEiYoQ0JVEaB2rOCjkG4qG9aRcvmzZ-Jz2xiEfLgkPkrOvfiin8ehx4FENiB34h8sljTCxYeOk35WLJCQMzCGmb13We59tk8SNFr9t7iRT_Xk9MmQgCubU3HuH7p5NQRIaPMDXOgsKqp-m4ipTnbdE7Nr7lC77qGf4o_uheh_UOmV3-_VnMwSsKcRBtRtYacRj0XId7ChWdCsR_mxScTfCByzRuo41bIJFzSofROsn10nel-iCjCMAd4gaA3UGWMS0-_23R8wHPEYqfoYErksU3xZpyBQzJ7ArbM1BdXeENelZioqq3Ice6ccRIiQYEKsVkKuQSBI60BqMSaZmRP3p3svTLjO2h-CTQ0d3IV0I5X9e7oI6g9Me2kqlxXxdAPBXhjtrmTpxUwkUnljbp20S1vJ-D21K58ygk2-R_e5mtO/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJbyLzSRAx3YARZkkmmGQOfms/photos/AU_ZVEEqVw0ysnB8BF0A_nJdjjTL1YMzSjV6l2ZFty1wmk32gaGFIyozL1JvvT1QDWntX0ji5XxiKM2yIJjYQIuCl0nkhMB5bH8GG1QDWCtzSgpVk8eCH9YhAkJPx5_WvSew00HGydzU_owq0FO88mEadOW_jinArVjhmNLxxakdA7hvOF8k-gvlEmCR3X4yXAeyJcqRSZXYWpVeZ3OAsCedTD9nyJxoc5PSsboaVcUy3K54ARnGRcngQY5kcwRJsLoDS0j5XJ7C2RgmcTrZpPfKf8L2k6lWlv6_JkAnxyLLR6P6sw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "The Hood Kitchen Space",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "350 Clinton St Ste A, Costa Mesa, CA 92626, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Long Beach",
+      "postalCode": "",
+      "state": "CA",
+      "countryCode": "US",
+      "website": "http://thehoodkitchen.com/",
+      "phone": "(714) 549-2430",
+      "phoneUnformatted": "7145492430",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.6683107,
+        "lng": -117.87848530000001
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ_Tvp2wHf3IARYiE1t9vvK2s",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:01:53.004Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "7:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7:00 AM – 5:00 PM"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJ_Tvp2wHf3IARYiE1t9vvK2s",
+      "reviews": 34,
+      "rating": 4.2,
+      "totalScore": 4.2,
+      "reviewsCount": 34,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJ_Tvp2wHf3IARYiE1t9vvK2s/photos/AU_ZVEG-apn41-FpEyirAITaOPMNht_P7_d-2LlfKh4m30Rbx-9iCkuOKYLHUAH_Ipnp2rvUYKDqdHKjUSQ711XrupFhLbjZwEuRfbPHlu-FBIr9iAc74bjINawEhOI1knncTs3CQUXDtw3VePa50yVysBI9faAFEemAa3WS4HwJMELaIcknaUPxl3UmjE0YiujnzT6eKwM68wFb-Uc2eon9FL5yu5rFxsgSXy80Ya5LqjTOS2jC8qsHJP6FnCg_1-gzGloz-mErlRUrsAypgKD0QsDqgan2GRqJCMoUQCGUwO-wVg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJ_Tvp2wHf3IARYiE1t9vvK2s/photos/AU_ZVEG-apn41-FpEyirAITaOPMNht_P7_d-2LlfKh4m30Rbx-9iCkuOKYLHUAH_Ipnp2rvUYKDqdHKjUSQ711XrupFhLbjZwEuRfbPHlu-FBIr9iAc74bjINawEhOI1knncTs3CQUXDtw3VePa50yVysBI9faAFEemAa3WS4HwJMELaIcknaUPxl3UmjE0YiujnzT6eKwM68wFb-Uc2eon9FL5yu5rFxsgSXy80Ya5LqjTOS2jC8qsHJP6FnCg_1-gzGloz-mErlRUrsAypgKD0QsDqgan2GRqJCMoUQCGUwO-wVg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ_Tvp2wHf3IARYiE1t9vvK2s/photos/AU_ZVEHrQ-jDat4pD9bblB3LJorjIzuu8LPQocPAQyd2WcMAPWDF_yFanVQ9NJuT1Qv-DWgz9ys1QRzqus0embI-vkTxhu5dtwDXcFJBNYoyTl03DASdj6JmcSCiLYGcqA19Pa2Ys-HWp0mRNvUcTMMx_JIPGi5FYnVmupvx1ZeXaGudPAJygpNroWqR4RFi-78oTzVbAPdVKL0lu9TJGsdMtFb3jffBtnKb2cMKB2fdt0tqCv-tQRMIJaDHFZ_VTLFWTAWK4MCDNbeDr0QTcS4-8Tf_F_knOKLm5evSdSqvjEj3vGHr7Q9yz5zftGQYTH_qBb0nc0_9PQcuwMzC3rl0uzsGXVWl0FodK3ej1Ovl8KaL3d4PZ-XybrB_YTtywhPzbynn69AU1eCYoHO4Y0EruDXl2XL4XGk-7MyBtlZIcHnTJw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ_Tvp2wHf3IARYiE1t9vvK2s/photos/AU_ZVEGM6v25pjTyxTyfGCcsCyjf2Jp7Mkzg9ceLe0IpeyJrOSPplXjMr3m14WJcoLfDg4mn_qCqAdL3DD2hPwD1mapzaNYOwWaUTfqx_OEiF8Q_uycmeFO78PVzrS5NpVlv7TUuYyJG_Cr_dq3aUulmp1WkdD5WHM-RvhLB4igUyyRfJyZU9mtGP-rBRaEiR1OBD7WvZem1FouWD7GvqOAlE391l4o64xPJX0WQXn0RY4g8eWKiwndY0rbEpzDEtx51JFIqtakfXTs6cZCd5Djmt8cKi3aohJS6OzkXFPF2p-A-jWcjsYd9WhwAafar0CX-KwnQV-_602qjnzLZI9AiffF0ckdcRI7Rq3_jDraPl6SgM749CsrZTZxJIujz4VLkj7zJSR59JJbt9V2vS68lYXDNSLyjWxhG4sJv9Q1cc78u6g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ_Tvp2wHf3IARYiE1t9vvK2s/photos/AU_ZVEEf1pNuOki_5xop0rU6LS2PFqep2X_1DS_4J4rjHzcL3hYrG0p04w8O1Ydbp1fUYSW3wMKqTHkyhbnnUhWB6e1jqAyeVP-aps7XugseaQnvH94AHDQ0JW3XViajQ3yEHBPWycNfsdZJwa42m4JSWLCQ7nsrGIRf9csWD8okbc_khrbjMWm5zWw-fLhIkII_3g7kk3uEHvuBhPVhY4IiOEFreWDnrdPIllCd7_qtEYAmq3XFm_EsWlMyjcd7LuLsf0wD9fvEX-6opJarcu8j_zFQuL4QjsjOmzmqFizJGl8eDe2mmD0ng4bEg-2HaEbuU0I5b9EVoJE5kA6cAgyBK3P6Oj9XdH4bQLpPCQRJY89ELVntNjGO3xuPXkCy0BewrgLXllBZC9hGsiH7O5rNpK7-cV8VSB_bQpPbk_9tIqg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ_Tvp2wHf3IARYiE1t9vvK2s/photos/AU_ZVEEgPkaF67Twx3weCWtIRT-su3sTAov5kzT85Dc3EPlba-SnwkPFxxv8e9cZejPp7bY-uQrCfr560U9jF5t1jdjgs5y9H_iKfNuNWcU_Yz-LkoF2dgsfTSpE2ahb3-wi4N63djkaFGcFBdl8p8RLWzCQ6hnj3o_Zgs4MoXRkhZ0RGRPon-y5x2JN1RObj0HFgvgBH2_tHh2OriLpENKtSaSZLI32hStkKBxm0_VzgKj8T0d25qZQDmVPe0BYBxHLej6FRAKJ47vHBASksWfOtUUB32P7pZiwwMpSEE6jt_g3ZCxQFSjop9tUichqli--oe9vQcbI2w6_zLaMW-qXF90IjoCKtEtOBRzcOxodYheypMJQpAgkP6J-axlRc_eOJVu5izBrXhGDbls5h2w2JxZNZJPwF7hlgHZuUnxnAVNQprLA7td1NS44YaOO3TxT/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ_Tvp2wHf3IARYiE1t9vvK2s/photos/AU_ZVEGwvFA4Djt1O8SyyFQN8ByfM-BXxpYsA5Bvm6RNDwAOAcQZMqirq2-1pZUHvmkWzw2lwjLIsd7R1mjB2DEC897VkkqfeheuTY_XrLRN7TZ0G9ifIAdFQ9Ypa_tu2pL3eqzPnXTdCMXrLI1aNJjysyXvUpm5OjbDfod1k3uUd0VDtLnquYhsvZ-wGsYFOAZ8K4UyAw8BdcM_4CLkJuFuxlJ3nxlq8HTvGzB8PUgM_9AXscdHa21DsSPdxxyn_NMQKy5DYnz7yQtULiog7DeFuCQep6x8vAVtJ2xmu6vDNlHI97bT8P0F9Pm5F38wdDZBpNEA_dunGX1bcD-oOWKYTKvaUSNWmScXfsd-CPJCMrfSPwE99bCaDkqKX0unvi2kE9HKMX-T0oENuW2YsAH27_hdmyRie-hZMMaZePxHds-dYwY/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ_Tvp2wHf3IARYiE1t9vvK2s/photos/AU_ZVEHtu-htm_-PYfYXiAj1JSbdCyCsiMjBdEVSve2F_6z9hlxMyZa6ytB6_UdiNDiB-HTrXZ2xaInULFaUIdbfUM_KyhBPdAXx-l2aO5Av3o5nFtykfE1VKBbpBDrpLJX83RbfD3sVpOESl8A5bXsRpWsNUQjKD2o1ClRH1DYHxstoogt30YrjX42qoQiP5MZQCpzGu16SSlOkpad-ZK2mfseiK2P68f757HFqVmfUBEH3Qe7IZ0X2BamlOp1LU__2tfeGc3CpFNyeQH41XKqvZ2GcQocfRikYZ4yMT65pWpy6OKPPlGUIY_rnhp5c7BXb68JjJSdcKAZUb_zWmOYJrJtuoEPBHL_qNyVkQAnJENlOlhKaUbwRrd7bG6rx4iGF_6gDZXsDz7QrJvgiBi2yJUeGhFn27VkB9iSn7SEXtPJwVN5X_XCxgEwNb1tLvw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ_Tvp2wHf3IARYiE1t9vvK2s/photos/AU_ZVEGOQ05RghLXr9wcLKrJNBoDbykcnwXK9YABlgSfDKjsHWtjMeihyYgymip0fjo-3aLKaQ-WN0lqF1FIM4yXv62Yc6hpn6sHneQ_UC875ejsHmZ4zEGH41aCGWBoTT1-rlNAAem7lbexs68MS6VnOJJ-UooS9mVWS84igpBx9A_SxrV12gAJlQTBy12XpmSAS6ZI4puEywaJvqUI5KxRpPVvcsMxxGKYc_auhagj9OCBVqI7HUgTNBZGrpMCmr5MmIWUrgY54TP0iAeKKb0UPQ6t0l150r56VW7Lt3xeYciYK1djpkB53aCwAOkRFHcH1D_uYclPb-YstGdr8zvmIVHli7FryaQWa5EtA8k4QNMoMtmljbra_BAHkQqfCJLSNUNDvfaSq4kLd7nYqpbCladn1kBImfWVJigYW3va078EE7mZ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ_Tvp2wHf3IARYiE1t9vvK2s/photos/AU_ZVEF3frlF3I6biq2GE38lZyPLdbhw8nNCK3jZg-2MxgR07GTVY4ZWVxQfgUJU_PKt24DPb0mWNaxLPH2mgdsiMzsxbhCPiZdrET5Hmwq5DfJdhB9AnEh9zFM6MMAbaWM9gx6phiYWEgjk4mU01FUxI1bxNPIqVER72KtoMUhfzn0wGEl0nvjlDjUjxuYwBnbXtG5y66ZFokZ4kvCMqkkW4zkl64MDg1amaJ02b_DCCHUFTXCKbVUoIR82CquZtUAGs20t_5MJWE0xrJn8LICLRv91sieauKitGGBwhYCsJ-B-A3VA4JOebW7tZvDtd3ASEC3RtLLqi6c2y7Bq0ZKvmRsuwPrDgos15Q8mq5c_PnzYXGe6SInnVmS6Ax3rqqTSVgUPQ4FVG8a5wjP4voc2_52INMZab-paQZrZ6mHebV-JcA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ_Tvp2wHf3IARYiE1t9vvK2s/photos/AU_ZVEG5c2jf2qCjzi-dZ3mgIhzIrrZv2JbCNOy6BWMChfFHvI6XDa1NzR-MwMLgEKjHXCAItrbI103TjNTtusBfbJ3qxuo8z9JQCHsKhhQXnVaGXA9QfAc_c7ODume9rnCc8dAycWR8dJGLkKnUeVzDH06P3XIj92clx9gGhrlMSWXNsm6RjGfqc2xR2jvGBBmGZDSFIPMaX-Z-fTHoLa3rAIuvAPN_Krftuunxm4XYjU32s5YGktAFMnWFRry9__DzjJJae6uOyH9UhKNrrfQsGJbNez6e-ei6DaOTQ1ei_vm4zXUEKmGMBm_vOcME_hWl-XK_kVBVvXV1qwlMlqTNFeMpxoHIVjO2mDum1wacZ9nEAWAkHwCEiyQiOllck3OirIZWPBXA7S0tg5ppD0G--K7PWjFiysWjLgBTagD_EbFyMeMF/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Kitchen By The Hour",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "2363 Tripaldi Way, Hayward, CA 94545, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Long Beach",
+      "postalCode": "",
+      "state": "CA",
+      "countryCode": "US",
+      "website": "http://www.kitchenbythehour.com/",
+      "phone": "(408) 673-8227",
+      "phoneUnformatted": "4086738227",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 37.614903999999996,
+        "lng": -122.08335100000001
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJL5gvLyiUj4ARXqM9z2iKlXs",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:01:53.282Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "7:00 AM – 11:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7:00 AM – 11:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7:00 AM – 11:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7:00 AM – 11:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7:00 AM – 11:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7:00 AM – 11:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7:00 AM – 11:00 PM"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJL5gvLyiUj4ARXqM9z2iKlXs",
+      "reviews": 22,
+      "rating": 4.9,
+      "totalScore": 4.9,
+      "reviewsCount": 22,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJL5gvLyiUj4ARXqM9z2iKlXs/photos/AU_ZVEHIQJkbGQUhi5ipueqK_0Bd52uEp5FEr6WqMocRnx9TYEldyFPzPV5PtMyr-LNtB2pA_rtpOtk1ZTaB_qgUE6y09KCPJaMNFyla2jNXKr3dSP_yfoCjF39TOYYdvpc3KcCs75Sngk8dPFvhzmI7vaj4lFRb56zG_USlbN1f3gqXuBUlHoiC3yivZcGZZDXPeZLR6eqPKiye0tRmjFmjEpTnQZVminMUq916cG96TKGEj81sp5yhwcjrkqb-P-g51trIhD3QABvRfQRg4bUEWQ4sWwGdeNgXVm5pUd-pQpIqKZWGLOr4GAavmzZLz7ictAhgQ_0oMoHmSL6ilUHCgS3xywnRfV4R15UWBHRlZ617XgyZ6rnphsXmtbgO9q59FfXpFmCtanYkbrb2wx4PG8zvLg-ZJWzASvuHOOms4_jWWNM/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJL5gvLyiUj4ARXqM9z2iKlXs/photos/AU_ZVEHIQJkbGQUhi5ipueqK_0Bd52uEp5FEr6WqMocRnx9TYEldyFPzPV5PtMyr-LNtB2pA_rtpOtk1ZTaB_qgUE6y09KCPJaMNFyla2jNXKr3dSP_yfoCjF39TOYYdvpc3KcCs75Sngk8dPFvhzmI7vaj4lFRb56zG_USlbN1f3gqXuBUlHoiC3yivZcGZZDXPeZLR6eqPKiye0tRmjFmjEpTnQZVminMUq916cG96TKGEj81sp5yhwcjrkqb-P-g51trIhD3QABvRfQRg4bUEWQ4sWwGdeNgXVm5pUd-pQpIqKZWGLOr4GAavmzZLz7ictAhgQ_0oMoHmSL6ilUHCgS3xywnRfV4R15UWBHRlZ617XgyZ6rnphsXmtbgO9q59FfXpFmCtanYkbrb2wx4PG8zvLg-ZJWzASvuHOOms4_jWWNM/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJL5gvLyiUj4ARXqM9z2iKlXs/photos/AU_ZVEFwKh6CwFUIuI4j6Gsj9t_QQBKJW9jrRaAL38jIm742gbnml4sA_34AoHnQV0BnGuw8bu7Po6LJ7q2fy86LtXoZrMtMMh6KXcWeWSvZQvwtnoM70VvVvJYLTnH-Yzd1ODL5oiSWEzG1rwGZ9PlFkdpBq0wyRkt06MMCgPbvKo048XorLm-6hVof8qrGB1rX_gIzwo6HdRJ403bqbXfOG_nZkjhNVOhvITi0dITPh3PeQXsR-BnDTmsprFBCcM27MIxD0fYK4IdReLxqMyXgkvX29XVz7YJe129CtHGFaMe732lyOqC0H_Ot1nA1094hh4N2rh-XLrTFG8Z-jfj1_9uD6Gi78_OVDafzKVqIO-y5Ehm1PRObQ4IWutVBnQ2C_X4gtXfafa7ih-DaIdsOVDFUM3m_EKTdC-F2mAAg_SXgew/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJL5gvLyiUj4ARXqM9z2iKlXs/photos/AU_ZVEGKzuwRr4yWvErRXJqtbnAvJOdgLZPyVG16KkIUAPd6mdZ3XpBKOVP3HLbMEb5tKyJt3jUJsLf0y2uXPd9waH1EzTLjFRejdhJcbvaURgLRuNUgxZOdMJqNB9tVAVppp29rfwPljJgL0Q2FVLDYGIWXz_g2BDXn6HXomunxri_M3oFuyb3UqI88f-EGnQKR9IP145R1wJWeG6pGNKWCSZdqqsMW22vX3nk-Rq7SYY-45PMvNOvoW-HRhtG4VRDtA9fT8eQ01VqJ70SdLIZNG2BmwATk10nxh8UJUIGagMprt6Uwp5wcfD0tgFeugpNhjUY_dqFJVIRkO0uf25_HzHZ-d1K_bjRKRGnWU93M_UKtW0KE03naQ6l1tGw3q8dV-to4OcJ86r0kSuaiXdoLoUZGMPq5lpJzkEg5VEoSYwfllhUX/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJL5gvLyiUj4ARXqM9z2iKlXs/photos/AU_ZVEHZg1OLgJNA6VIFR428BgZis1_lh5K9inpkfAK7gSvG0YvgAcpF2iFoyFpT9RKoswFtaLBTPkBbo6oPawt23SUHUwye1ZYMArmCZ1ZYoKHqBWOW58MrRwvv1NbCDcjD_1V38TvDKD3bcXcWdSA1D14JORm3vy3BXG72lZPmR-vErZXZNxiZ-fdRL2bqxV2oAotRBPmA5TUpoyV-0Tk5Kuv4CryH9fTjXVVjj1xWcwvw2oOFzT73X8LtjLLqEe2nEyUoTj9aK2_sIkVUqXZDMtD-LXxmLK_lsC-H7X68Ogm4OqwtQDLe4WQCSCoSHx3ppXUyTjjCJSGxd02yXF2E8k1RIosRbL9e579NuwXNrlb9DnRPg6WYRk6P_jfKshYf-ipk3eC1OElhwIfoJoEXzBC8sWi7-3vnb05umFq7zDaP1Ok/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJL5gvLyiUj4ARXqM9z2iKlXs/photos/AU_ZVEHuvUAdSBs3ChxgEM2NU6XNyQo_-b_zB3ZLzJs1xRagGLtCatXZvthHtiS5wNOr6i6JKhEhjN52YJekqOzySSMZEJb3a2PVWgPmbTUw3bPsiGs3Rp03Sd0t7IkSHDo44dt4Cve2TwENKIAzDojGZMZa237Xdc7WUMfEbOAGB-VLpLvhuGnRl400aRUyup5HkxuAz2Usuzw-2SlatYqu4EfNOQzR7acn-i8XJpkXi1nKHYcxUL41XAVgnh0bIFf3aPTDIIy1kR-pRuS7cd7Fnv2GNyPi7aLOXiY2aapEx9VEvV5vhG-0cWs_CI44yScrAW11R1LSOwcVnK2946EBKPvzStOLZWfpxVfm_yPveMiGKe7nzCe_PVjPXMNSoNp2BojIasAr9WGFYbslM1eYgwbjmecLQmj4XEZzqhAv3Rbugv4z/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJL5gvLyiUj4ARXqM9z2iKlXs/photos/AU_ZVEFbGz7JdHXhD1PoIC4zjX32DSX8ESBJjZoPcZP47AIF5avVcHucX0njB7u-5NVj37eSDuYQWIIyDVBOF-RzCInDa0H_S73Dnj3f6HW2wzk60DmPl0rWp_hJuXLRnslXR14iQVP336jijiR_rPoKF6vc84nxqjX7Z-RDwKv1KxVuhX8caShOrfaXusfNfl9xYcsNVZp4Q-4IN3eAFqgzdADmN1Wi4eMfK2wA4ZNYZ-FMAwliCc_n9LZ9U-sh2b0G3dZr8Jv5teA1SNHk_W96PEbt7RZGMw2jiMPV5WvuqhBwHptwwrJj3iP8tNckn9yUpH-26yM_2i7WMzuRR4J85JeSmOkqCSWV3AAx1JrS8yF-0v7EHjPJkk0a3YImTWb1am2y6QEb1R-D-fdH6Tfjox6vUtq4Jv856gG_oTDCzZ8grA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJL5gvLyiUj4ARXqM9z2iKlXs/photos/AU_ZVEEa7PLDg7VB_H5Q4ahyLRu_EswC2IE-AZ7mXkv8xhwVV07qVzx_feA8O7YqQOLBFkLwXiZxa-ayfthfj2Ae4NducN4c637TLfcPPYSJcFt_2D_HghKTNIt_3smtD6RW75Nr8ZjxdQfcJomEWAavmzV5eoZVwI9BZA41WZ5DejRtCRDwJO-ZFk0-nTc0Cj2_r6xRKatJ97YRMHb2yvMFveHlVUHGyaQvxUcWVpUEOZhmLaKi-aG8jLCl2uGvRlwoO5tYc-4WFVAlGU9dACARL34IAIhN6iyWVMfA5Flc4TVPtXbXy7grWXqd-GEJmOVFuNR800KwTuzmlEQR2Lkep5mZiTzszzUxYnPSYinBKOON1ov_rrBDrKG13s-W9X6fVhdZheOHEsv7_pAXXBxvmASgWa7Dl_Tuy-uhEu5qCOUfxA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJL5gvLyiUj4ARXqM9z2iKlXs/photos/AU_ZVEGrgAczzj_sBDqAoBoRxCQHt8HUVZ6WNHrPkKfzHmSpEyTYldsRQxv7EgrMyfUIMEWPeJu_vOWp66g-p_blnAo-4849vU4w-MV4n6uxZK50owXEppTFNCoLN0ucFW9J9J7J2x9N2B4Qm-ciTvXkXCnpaYmVRapxbNs6J4ipx2J7c2o0fO-47Z11MATg61YgsvBL01hYA80DUI8aj70stMc8U8-HxHeVcKt0kkFd3oJOtGI5Zbh9cqxv_JsYs0vZOzWNhyNFiaIy7dZ45hlDTiHDubOjJUmv55qsPQPoOcPE7A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJL5gvLyiUj4ARXqM9z2iKlXs/photos/AU_ZVEEn2S2PNSdEc1AhrzDXcshGVTmss4byevaNO5NbM29BmTD6EAcEJ90sik7a1zBJSxpVc0uZAzepLT64qssbNR4QUZHfHnLljLXKfMq0UJxKlxFYpQir-cw1RfG0T8qVJZbiqxlXOmeepbkWCrWCq5VgNtmmhCyRNaYuvR9NeCSmpaHAR1gdZOJ7J6xjCUTT72z_Le4S_marsTuhRa_kFE9bAFzNOKAl8Um3V1IVYuvRbD-V2Dq_MU-xEEOnTsamgCuqW0P6llmEAXGYvCXH8fG7Z9aMjNMq0oKQRi5V1yOVpQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJL5gvLyiUj4ARXqM9z2iKlXs/photos/AU_ZVEGjPj0OnfW8YtVD2ifDdWdZoa6TThAN1rPPcJJKBtJtff9mr2DXIp3dCT5nSTrwaOmQRCxT3QNh5q4i8KRFHUE4bmFGDKUDsNCetHQ58BmtWWxA4GRziDP2XlIih-rK9PeIWwp8JteIONlIcReb1MpiKPl2k3tYd_2aN_CZwTc0CDvDmVPMhCRyzQi1thyUbrw0oSOvENnJSrt4SNmHsBXJGME1g5a3rRUorJxOEddzqCCjlCzKNIld4YVgOsLVUcHkx6cui8eD6ydW4h8Q5jCy5QaOmXyRqU0TEM8tpd2k2A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "California Mobile Kitchens",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "6625 Benton Rd, Paso Robles, CA 93446, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Long Beach",
+      "postalCode": "",
+      "state": "CA",
+      "countryCode": "US",
+      "website": "http://www.californiamobilekitchens.com/",
+      "phone": "(805) 459-1254",
+      "phoneUnformatted": "8054591254",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.6984777,
+        "lng": -120.69775329999999
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJzQ8SS6PNj4ARtkgLs8BnBFY",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:01:53.551Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJzQ8SS6PNj4ARtkgLs8BnBFY",
+      "reviews": 8,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 8,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJzQ8SS6PNj4ARtkgLs8BnBFY/photos/AU_ZVEH9ykf0Nms2rZ2GUBeDqekp3LMUcU3qgqVcMtQiSIeh0xVXj6FYJ-DACmL1SaMFxLqdqqC2kOcYNhHm6vDV9Cm-cCaqhld-yCk7bLDaCELgmaV3FbPLPfAAl6iRrNvPLY5h0Q9v3znDwTwJQOq9CmgCJR74unAPA86g2l7Hp6u-DgbymSplrSh7QxOqG3FhsITTzS0uidjpAen8QbOZN1Dn7kmRK5ymy2aKMma77IB5QgnxQ8g_096AY4JfZAvMRoIBORfcm7K-16hyUGSWCz1bgKKDfLHirxKVwxkrgqCukg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJzQ8SS6PNj4ARtkgLs8BnBFY/photos/AU_ZVEH9ykf0Nms2rZ2GUBeDqekp3LMUcU3qgqVcMtQiSIeh0xVXj6FYJ-DACmL1SaMFxLqdqqC2kOcYNhHm6vDV9Cm-cCaqhld-yCk7bLDaCELgmaV3FbPLPfAAl6iRrNvPLY5h0Q9v3znDwTwJQOq9CmgCJR74unAPA86g2l7Hp6u-DgbymSplrSh7QxOqG3FhsITTzS0uidjpAen8QbOZN1Dn7kmRK5ymy2aKMma77IB5QgnxQ8g_096AY4JfZAvMRoIBORfcm7K-16hyUGSWCz1bgKKDfLHirxKVwxkrgqCukg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJzQ8SS6PNj4ARtkgLs8BnBFY/photos/AU_ZVEEZ-73vIVe-7ACa0aBIQHbWbLqhhL_NoJT9cT2YwPoqRIQkMoHLml2akhUcGzdJOKlCt31w9PiTQQdhR6sAu43nKutTYMF9n7EhRkeTLrYky8rbTmdX2ZEdU3hEsxaDWOuAzJHfiDeIaqdkMOTrCL9vRNV5NtK1On77zDs05l7gQY_9UJ7X1noka72rJ6cQhrKn3ly7nEWgm5UYQMW7aPtakEDm5nLwxwCCahfI1XazsLfnN1-X1fEdipgybRqcdRRKrLnhnJJjss6upl249EOrYJPOmYRRtz9ux81isLFlRQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJzQ8SS6PNj4ARtkgLs8BnBFY/photos/AU_ZVEFsDkALxWDQk-NqPVZAgQUpX4w3X-ep9odv3ejSoYiHNUaouzTKfrdnz8_2kfIHcHmJUvSv1zitASKFDfB7Qwmx2aKlqYpLXrDVEAXB0rq9vvMHhWeVAuQVruoytI-E-vJLKCO03oeRpLDGiGYHmnDN3Yq4gJGeyMHjFx41IjIcREGxa1pw_raXI_1E-izQpDSJZ2KMDmmSGe-LQHNUXYWyGc18nCkrCkjiV2OZW14sqJIy5KffG1TkdJin7yeQRmXiIA8erXJhhSLXURHCQnN4gH1Qtn71Oel8VMjqhA5oFg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJzQ8SS6PNj4ARtkgLs8BnBFY/photos/AU_ZVEEVBCEuE0G4TlJP7W54V_mx6F7vBQeZXOCrT0OLbfGXZDAM7tw_37Fv4w1r4o-FvKIo4qAXnhtaU8FFauOxUiv60bY_K8nvEuoGpfj_anEW9On0xzzWAGG6wf1UPQw6IIzTKzE0cBwutBTAVgnYeAnW557hBaplhtqy510Xq3OyylfcvK8HhW69lhjZdTa2TMaLpg5MCLnDhMSEn073DAJRSu2NgNAao-ez38kz_RqrfrMQUw9yOOgdXP6x3UFgxMv0ZaBPklgBUcDiK0s-weV36MgMkUSAbkWh5Yu8qLz3DA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJzQ8SS6PNj4ARtkgLs8BnBFY/photos/AU_ZVEFbDkTf6FemPQyXOfM3dH86SWiHPCUUMKzhLjxCyzHM3_Ti95Aeut9r2rIWgUA9REdAgyvDxJ5CzDq_INM07D6-COAC4eFmtKK9ASHX73hLCEOO2RYbPVIRr4KaiRl_GtvsnB_UkYSOUThnhxaRbb67Wwm3dDo0YU3le9N3ExvvXATdjbwuuGDPKiB0UL5NYXvQ6-Mn2bY0ww1zIK-eqIsuwhDBuHetbx9ILeh2yq7V93CJBVUdvHSPXnHl85Zd6mQRJdHYyRkpREbJNct_ZfThaYHbuKGg0z7RP33Dvp16Lg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJzQ8SS6PNj4ARtkgLs8BnBFY/photos/AU_ZVEFWP-4dlW0nq5gP06fz8UCL5SKlvqHc8IEH1DcHL0SWpKeLYhO5n4bKAeSR0lJt8V65jmjco1wMR7tdqpPxNM3u3CZJEy8wQIfZRC191nG2W71z3uqBpf24lIzd1yuYhvwpxFhZZYu_qA2DNnop181mD5TEOjh_qPLw3ffhk8l7xiClZlDN7ptmv9neQCe5JO4mif_fJ681ZzahezGJe0nAINHSz0wfc1cQtm9YAEGz7jB1JUbo90ScWnplwon2zJJ2Oe9OGAflt9_AjTPz-2vgFw7uKpTri2I27qgMXfsa25A0cJtG29dlFN6axBefJlsOqyl1cSGP3ja7mRjxF-r-4zoHFaRh0_bJrxwkcz208r_LkB28GX8cNPd9dgbK_5clTRtncub9fvhruXxW7klk8DX2RGUVhBPaz6095_2eF5E/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJzQ8SS6PNj4ARtkgLs8BnBFY/photos/AU_ZVEHQ2SND4H7js3jvQDXKEj4QtZBCZr1akUAFTs-CIwt4ER5ckRDMCS18oRDWOUPsLACfeSIsnyBqKIRCHUNtQ9SryMdwCpn-iQ_e-CGUf53izaRezhtHRJAp28ctgID7-CLPPAXJLBnWgLLuQaU7MWrFuGwUgLU_pcLW9_X9LeMYIcHryUYVldfF4wljTBXjwLbvAU3O0wnBgcx9T3iSaUhHbQ8gMy8zEkaYzmisG1KWCJiehWXYNupVDIe52RQaJHp-e-7a9RrqwsbIB6pCRdfPf-5HA_9RNFeLW7N-ZR0kaw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJzQ8SS6PNj4ARtkgLs8BnBFY/photos/AU_ZVEEXgcebXMHJUKJkhrUK0Qioz6LgmaAHfeXG7o-tRv3WeoyBmI6VDp1_jJFVSecaNpx83YByymp-7PTige58leRqsBUnuMBTeA73zun0rzvAsn74p37gJnUM0gQagbLQ_-i0-mB0ABrqagLHerxFdeQAmiCDkOizkhXq_P1-_fMI-cNaM9bH5q7yREAwxpPjGFopnX640VLQ1Cl6VoQtqizugrKpEBmAG4h-Kg1MvhK2Ycu9UPjFMxcr3A__2RLsLGaja0Nb5732t_tdxwJVn9rw93uuhPIx_YBoaIjs0QD4DvFUHmr8jjscuIgIRYpsVJx5xzd_d5a6xa5acO9ibWqTOsRKZ6xxwJD6Wcso3grhteOr_OJYJ8ef4S_foZHVjsm8HURhvtm7N-2i5Lf14Nn4e7wAH36wu-ayfhR45qttvw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJzQ8SS6PNj4ARtkgLs8BnBFY/photos/AU_ZVEEtqDQoLasuCRGMypRb_whMX93t_PEjU9cSsWYh0EJUnsRt99Rq73vBrtcnckP5mLWKo0Lvx6Ime1Tsq3SFjXjKwm9yWpKMlzCHlgzQlLsIbCrki4UOrUN7miM6Whso0n9KEA_dj-JSLgykzVCAsVx-3HyU7A9fpomVTcePd9e-35nc_ZkjBDG31J6LW9ViixPYujoAvciH2mFkmqdkC5zYMYHWMX4dJ2ky2SX1mvdame2YbXhNiDrMHqAkvWiZ2Y2L3RaYb-c_tazAj-TQgKUo8ElRBXawwRJaN9pd0ZN85g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJzQ8SS6PNj4ARtkgLs8BnBFY/photos/AU_ZVEH9aAqIxzJnXAbkUpDniHbCcOAd9aYB0WSEmKp2LysKj4S4HmCVdPYhS8BzlS3mkug_RP25i2PNTaBAAUTabhhjs9PwqO2KFkZFZsXQ6vwo1_h-i-s1alCTPYcX-YXi-gxIi1PXsICAbDePao3YdxuUUQ83oBgW6zo3vhCtN_JSDtue3T9JUT7pKYBCPDQN8fkuygFloo_xe2YVoH3I7LSIFU9H_fqJAzqKvxthXCkhJTi6cDjbiZj2G6s3B9uo8Gz4OG7fRXRQlWXPOLd7au-PJowdQQKvCQLCVkVK2S212Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
     }
   ],
   "insights": {

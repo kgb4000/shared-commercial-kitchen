@@ -1116,6 +1116,767 @@
       "kgmid": "/g/11j_zl81br",
       "reviews_id": -6496281945077327000,
       "located_google_id": null
+    },
+    {
+      "title": "Atlanta Shared Kitchen",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "6899 Peachtree Industrial Blvd D, Peachtree Corners, GA 30092, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Atlanta",
+      "postalCode": "",
+      "state": "GA",
+      "countryCode": "US",
+      "website": "http://www.atlantasharedkitchen.com/",
+      "phone": "(404) 942-8555",
+      "phoneUnformatted": "4049428555",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.9363282,
+        "lng": -84.2560558
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJsxcAhdCh9YgRn3tCpT2gZf0",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T03:59:32.474Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJsxcAhdCh9YgRn3tCpT2gZf0",
+      "reviews": 35,
+      "rating": 4.8,
+      "totalScore": 4.8,
+      "reviewsCount": 35,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJsxcAhdCh9YgRn3tCpT2gZf0/photos/AU_ZVEHDQ_OMx_UadF2dggSchphmnLAjdcXN2K7lqcgG8GBTZ6Wxi5iOThO7d8NGz4Qn70yQtyleAKMG9ITptDcRihdy_cbgkkCKVE7LpEL8N55Cf-hSdJGV4pHNhaRa3nMaO-BlQLVuEfKCSiMXELLcq9RfTxRZN9RZ-zdofCaXOG0ye7TDWM-8ynjNye0sunovzrMopY9XHTaN5BU2cX8nvvxJLopQkX6XQHHGZ7xQHM_rTkfQn-fTvLCNhIH0NCa8MfCgfUMj53CYxUNQEpjNXxudNzK2BTn4X5L1AYJWv_GBiQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJsxcAhdCh9YgRn3tCpT2gZf0/photos/AU_ZVEHDQ_OMx_UadF2dggSchphmnLAjdcXN2K7lqcgG8GBTZ6Wxi5iOThO7d8NGz4Qn70yQtyleAKMG9ITptDcRihdy_cbgkkCKVE7LpEL8N55Cf-hSdJGV4pHNhaRa3nMaO-BlQLVuEfKCSiMXELLcq9RfTxRZN9RZ-zdofCaXOG0ye7TDWM-8ynjNye0sunovzrMopY9XHTaN5BU2cX8nvvxJLopQkX6XQHHGZ7xQHM_rTkfQn-fTvLCNhIH0NCa8MfCgfUMj53CYxUNQEpjNXxudNzK2BTn4X5L1AYJWv_GBiQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJsxcAhdCh9YgRn3tCpT2gZf0/photos/AU_ZVEFT8MTmLkxceqlKH5Kr-ToYy8zp2qkCYSWk3l95edypNl8lhyYZtFP9ZELYeFTw2n3752xRpr3BL3uJgKtQBVdDdSDioaSN2KNkaQZNDYaYPL2lYdPd7IPpWnpTi4A357xDVBIfScw1A5L7zBrXiMwEmBC87YdG-CGHp5DNs4nlffPE0xXrhRu33i1I2RWWb6WkaQUIls_q54UDIMvU3uX9VaUh-zl5zk4i0hpE4TVM9eL0H5JzJbt0DtskGbD_BB3GXfD72VFV4stkOWUWXMiIdyuYGu7kReAaV_j01WLuEQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJsxcAhdCh9YgRn3tCpT2gZf0/photos/AU_ZVEFOwTKOzw6j4bB7LGnpntWmwpStAvMi_gLoYj7H5TdWYGdZGLl31JbMmKMEvh9mhUo-C4LC2LCE9LDttfqbxVKd-0D0abXW5Bbbq28Sq8zZqixM7AivUhJ49H6IoEuL3Kuou1Ihhe0p7xxpzWdR2q1Nl6JvG6jUjsxARZMQrUT9amKJc_S5pmMyZbtDwrDIuSiqOlcb9YEiCjIvGxFPekmWd9MDgjsXcGaN3hn6b7TI6FvShh_yBM1IlV0Luny4YTP1lzmUSTdvfdcR1Sy4CR0uypGj_GKT1PG-kXdkqtI32A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJsxcAhdCh9YgRn3tCpT2gZf0/photos/AU_ZVEECz3JO9S3_fWeDe8VOFz-WiUREUcinAWt3AafU7Upe55z4Hr6hXTkXL0_NOVyzPC0fdGttk8PhpNpRnYqDl8VwDSO-ta9nUMTGTZSfOpj-Cy5WspRG6FsMGF7bUGuiFlJxfGxmKZb94SxJ2FONyXiF0afIxLJYz85pJsTcIavR5zbRA8Ga0znw7Zv9RQOoM74hKEFFaftJVJeOG2MJtkrPeLYLsCeXiLrf26Im8N7irGfA1T3kSVYl-iVlP4wr9baR99HkekhgIXP7J-5pbVR2hdOse0JhmOMdvaOHS6WDZw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJsxcAhdCh9YgRn3tCpT2gZf0/photos/AU_ZVEGy3ITpsFg3qc-6uS7o6pvlofTCTxZ9MNIfKTAOlzcfmVauXPEm5DXxIZaDuTXXKF_WD8ZsFcS1jEwdnQ_SARQLOFoZdaI8xkAs7wdG84LNgYJTRhTt1u1Ws-L75KYTsArF6revqCJ-XDjdnj-Jqr1_N9dhgBr-HD4CwyKhoLqm_BS06cUc5C8Ob0jbK1lyEYpV7K6DXtl9-OPXtgSBHHmF9bduyCLLpZqGzDLWWpwpKvl0t2DQ-kuG53U5_yBEHd9XbvR7n1nKlAskVMS4ZtJAYBNXKoPPNi0F8mt6I9yEBg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJsxcAhdCh9YgRn3tCpT2gZf0/photos/AU_ZVEFBaEycFrXMP8QA-LwJVS22p43rmxTPoNmFLbtzjSYUsX0YAmFyRbd1ahyOKneMvgO4RBFr0kMUmrpxoolywtxbs0oxgqLMucRpUP5lC4sKfd2WRcv_-jnjxa-X4a-HZN9-g0LLs17LzxbRl2159ETnlNFwnPGwpRIzIHgeK6CsDbzBKaKNa_W9_D4C3TdwxOldttsKWaGvlZFR-8km5AmH_iFb5JfBmxl25cOSoAtlCsXIdsg2hQaEt8JqqNbKqxjXY0sW-fFPS0cE5crGL4Fb5tL7Rxd6hk-8Py4HTb2K_Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJsxcAhdCh9YgRn3tCpT2gZf0/photos/AU_ZVEEajqqirkoRO3eLyiFUpD1GA5UY7fwmx-ABz-FWPJ7_faRsaGMBEk1JMPdlVkilf_MUp1hlIUMHHaLhCeFlNOamwEKOWzHhIp8WdAyaOw7jXyAy1FbBuPg_dNKzpvlyjI1w7kNvHTIWoC1XUoVOFUrH0GR8rbPmvfSoEEfhLcG-YIy2o5yTRPsL3GrYpYFXaeubJK9zXM9HGFMx-FU8Ld82_qDxJ4Sqs5k6wGaZKs4WoLZG3aKOz2mDcnj5OT37VvGo8yVwOHshguzEjz4rzCnt6Iipu3U52axAP-Z8yYkOnw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJsxcAhdCh9YgRn3tCpT2gZf0/photos/AU_ZVEGeg_rO3zLEP5mQCOvz2_dkIqRtrThTu45bwxOI7CIyveAjrxtEJUcgjArHAbabETVeqMHi-cPcSxe0aCY61MTYyyRSP_YKT2XcxNb415lzXN5EXcGNn_piL2bNTDZMs4aMNwT-QzoIXPKf8oFmFWFFpbYJ_tXqUSOCg7P8EMAKjL7Xm-TfWU9DLjrhTJcODvcAKUxzuYsrcFoKdVcbBAFnDqvp4bVKoRYts6_PlmGymVd0vxYhyeVSdf50EHxuIs73GeWfTshv5nd6dy2w7Puv_KLmD6N9uGSvmatcu7OtQw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJsxcAhdCh9YgRn3tCpT2gZf0/photos/AU_ZVEFyIS-JhKmzZbpeRWVy_uVfhgfeNzw07brjbh6HGa5b9bECRCKrudfxwsixa5bBRJaJqvSF1hYTxlcVeBxz4c1as0A8fnzpeVOHvPJf9skBhs3naDefP2_h3Ni0bt6NwAFdKTjSRnEBAkbnmsF4IVEmrZvfpm7g3xo9ti40jNofoLIkQaiV07TAeFe-FXkP0Ks6xSk2wg-boJiF5BPwL3uughW7WOA2nFA__o4gZRaUFMVe6zFKjb4v-p0i5dq6JPSPVH2pcp9rAsE729YLAlsxjqeG4LWo6WsLc8BfaqiLhw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJsxcAhdCh9YgRn3tCpT2gZf0/photos/AU_ZVEElk9yEj_fy4jTyDJrmSlp0mTQ9mWiQ6XBmWVLHZbDjdHrKqOoADrBQOPf2Nh4jc1T0ScabVhJ9nLYInjAEu-pGu-up-xrbCSMU6o3JKKzvABHXmqQ4LGR29JbIkupGVaTUxr1GbUQElG-uURvRjiZxjj8bAVUdQ9A5l3fxVGHaYeK_E9oZoIwMBpaOXhzOr3GltiLodN9ca9x_X-bjwcpc3jQTdPp9Xj3DZIqbnUErwOHD7JD-4SUN8mHdylPSt_BNcOleLSqnBzkfGvE7A1jtZcMAICPSa3wt0hXOsMAEcA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "PREP Kitchens",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "3300 Marjan Dr, Atlanta, GA 30340, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Atlanta",
+      "postalCode": "",
+      "state": "GA",
+      "countryCode": "US",
+      "website": "https://prepkitchens.com/",
+      "phone": "(888) 824-1502",
+      "phoneUnformatted": "8888241502",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.885463,
+        "lng": -84.26468
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJW9cuHIKn9YgR6_toSHs1zFE",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T03:59:32.730Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJW9cuHIKn9YgR6_toSHs1zFE",
+      "reviews": 36,
+      "rating": 4.7,
+      "totalScore": 4.7,
+      "reviewsCount": 36,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJW9cuHIKn9YgR6_toSHs1zFE/photos/AU_ZVEHfp1u8G2F2vvG3XZw008NSU2BoeGwD4v-H4HkCWZ054luUH0aiWDCOVueXbnSjime3fxOcqN2aH6FiC9g0WyGAt8-9ITRvmWuTaq3prrWp-mo0eW9DE6StHIYQdGexRK4lNuw2b000begyIr1tRB3WnxD_qJmuG25_y_q5Nf3K5tr4NQnb4J5PlR8iXog3EQJFMoOBScm-ahbOawlh4QWJSZp23MpAWktyPOGEloCS2enAGMqGc4ZopBMHvJMmRg41JbflCfnHhcuCnM4OZFUUOKhOhBxH13-1kUHpHSeGFg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJW9cuHIKn9YgR6_toSHs1zFE/photos/AU_ZVEHfp1u8G2F2vvG3XZw008NSU2BoeGwD4v-H4HkCWZ054luUH0aiWDCOVueXbnSjime3fxOcqN2aH6FiC9g0WyGAt8-9ITRvmWuTaq3prrWp-mo0eW9DE6StHIYQdGexRK4lNuw2b000begyIr1tRB3WnxD_qJmuG25_y_q5Nf3K5tr4NQnb4J5PlR8iXog3EQJFMoOBScm-ahbOawlh4QWJSZp23MpAWktyPOGEloCS2enAGMqGc4ZopBMHvJMmRg41JbflCfnHhcuCnM4OZFUUOKhOhBxH13-1kUHpHSeGFg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJW9cuHIKn9YgR6_toSHs1zFE/photos/AU_ZVEFDpVwOHn3HSIEvT5V6ngWp-_0qBQr-zB8BYgyjpXTTv5vGj4wr2z9AXohTsYBOZb6Oqsgna8NmREokZqGBemNS0fOhhx7ageVYJggMy_8S7QtH1VXn1_Hbk78o_nVLVRu-wpvDefIzc1LM56SlGRHjTNzAmsGOIEKkXttmPhXHJe3_IpHqnDR-XmBojjzYJewKA8024fXZ1z5TFmoqzKQ70FKkCgCMcym1IquVtadG4lOkjkKVJGKqPRwMELUZhMLgnHfc2fN6p6Jf6u8flQ9hV5edYC7Q6HpriLTTSO7KOg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJW9cuHIKn9YgR6_toSHs1zFE/photos/AU_ZVEFzygsVwEJmGuwE0flnMv5Z79K4EMK0I6lTHu_fmjg4kRAg_zrH5fs6-yvSch8UsEPq-8pVeWdcon_uUT_DdxKBoAO9O0XRBEN-d5n_frT57I52VzdHQO_zQOkq6NGF24RY4mJ6J1WHKoNR8tLraLJyzeNZtoD9Q_cBeL0ZU9xKsiPuEKTacyIICLLuAJe9gkrZID0oQuCQ7mnN_b8ifZzf_EocaMRs2VN5goZxSjF3hJTg3g5OKInxBRRRUUEfeJQB-k-0SFjge4dk7miwCoN5QdkG6K5vcd62zXBw0ueDqQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJW9cuHIKn9YgR6_toSHs1zFE/photos/AU_ZVEFpstbSiR5Q5C_HlCfiCU0IpKm88GIPTxe2QTfjE3NwCeUdKq5KwaoARv0-xG9gAQLHJY2LYq2CQyYibMbXCCV7SVxT0Pr7r4lzn8G2lz_f8TWo-E0vufYfVjqrK2M-LC9uaj-qxBvMZEHTkUf-WAqSHdDLgFpxIwyAQ71pVaOcfuw8N9cNJFiprV238EhcO9_3O0lkCMdTNmiASWdVYDb3_knKKSJ3W1QWuTtvzc9xVD4bEAB8-abY0OiKlrg24klBkBkzYjXKf9q4lqSCm56he4eg_F8stSdtdIXsgwZayQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJW9cuHIKn9YgR6_toSHs1zFE/photos/AU_ZVEH4odZmtukQq_PlDDhUcDjMH5V0bgWhmFFs8fTJ0jSk5IytHCdCMLeixFgq6lhZXiMRDd6FJnvvtcE4yOKj1jcezOci7JZ_CqbXqkhf6e4KqHjxxZQeuZIgo9l5f-Rp63tShT5cEOGFh4xgERmxJP6gaDHJ7XJfPa8AUQYTdRKS65gBdnV4UUnoijddkNiUqNYo486WHRFCc2GK3D1IwNRbhhU1jCvP1w0BoavjFoJH4zaVm2hhpSarPnZgP-VoOGSru-qeC8HiGZTYKkdMBR8sNVIplox9t7FJJyk4HPTabA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJW9cuHIKn9YgR6_toSHs1zFE/photos/AU_ZVEEE_PdylNTnjC6Ju8_wU9motN2djzW2obqO51UK60QSaJgdOX7PX0lbgXMfic9o9T448zOd80exL7rG7AXise-kOUjTrku6MbhQoN9TW7fERio1KeIeTMZPohTBxRR4IfyIjmcKomXs_a3cw5EkbFyhVy4osaVSEHsVe5pt_yhAvf5WhqUntFR4jp6TEOY-TVaiXAHcZa2vSGmXdRfz1UulaSX6zr1cYDLi2C_zCybKWba-FBSETH281hkcQhKxruJjE3XD3nZESYKsOP8aM6Ag9Zvgshc0wPbU5Fj8cyY2uQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJW9cuHIKn9YgR6_toSHs1zFE/photos/AU_ZVEFnpJjmirwT8zhk7l1nY8eujcanXbi0gsGMkjUX1azxHluXAxkhbPM2EJX4_CcYPqbuzZ5BLujcdKvgSdoYUiajefFSQNmUVu_HdiGdzMNgzyecYnXHwer3kR1ruoD4OoAGq1jeaantnF2I2Cm3gS_BZagFPlVHtWhO9ZvPJ8QOE7x00o6LZl-jOJi_Gxw06lmS9S7PO3ZmIIj6-JnueFh5bcSSyRAGNY9SYrBrXd0dsdBDg5j4p4OZUT08n82S24lFW98DtiLgGEBQTr658ztd_Ad2u3cfZArE5WOtWMMYs86evKFdBAd7RIJ1zpiyMA7KnCwd93gbZ9K5ew058yx0zkMWm8BRyQyOFlJjYt7OzEWRRDYVgZNV9IJQ3pWLcCBDHZnUDvSYytYYHVPunLqcVuMY2xBJYd0yj93cvYsrpA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJW9cuHIKn9YgR6_toSHs1zFE/photos/AU_ZVEHLMBEQsghf_rAC_7G0EtSaklIq9-zHgEZrEkcpBUw0HTcWoZQwb6e1wkK_nS8LiAqRzwYKkjr-8ROW2r0OqZNBtv1KgPbKe86fPoTUgabSAr-Xsui-GWZFX5ensfLPWng5uFS6QXujGQIPNSfyV-Y5jIwGddL211yOvgCL_Xzr4zHCWKJSPsbNb_xMu05d6YCE1WG44oAC7K-Ly2Az3sd-wUlSEg1VHNIPmSqXwcu6xh9v2_DIKOnwmdFIm3ai6lGMhLqEsimzm50Z03Qjgkefgcg5Icqb41PXZ4fBLKBJcg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJW9cuHIKn9YgR6_toSHs1zFE/photos/AU_ZVEFSx5T_mWrOCenfWDORtkTXcA9hK6II3FjvOaB4PM6AhTbiy4ZEfTQ2yCCh7fsd9n0c8e1bWe-ES1v5uEeTE1J-88ONVlnuzDlwUIp0f64oSP3mKq8v2x75hx8MFooG-K_roioE183x6p_4v_UT9r2klWw6h4cTIrA1Kn9febHdCgygW-WmNg3DqBDaOTiOyXWT8BUtsiJfm0_uLu4DkrHPCYAGzmNLB3eNS58JHkYfVvqtnvnYL8dTSfPTrtbRMegvCdJRQi1KVWg_RXShc0Uqbz2F4WW2Z7NHgiVWAelNwQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJW9cuHIKn9YgR6_toSHs1zFE/photos/AU_ZVEHJmkjmPSTsM6xDN3WY3ztPnVzHFI70NYoUUfFipneeFtHILLMnObkWYMgZ_soIm_anNIC5BDIca4ZjttYsXMOLWpThBh1smOI72-Z9SrsE50p93nd-YsAsvO1HlsLWsnySCrVSQo4zXdBwbdeWm4Pzrs5oRYwYhdQRuCPv0eSmdbuC5iv2RpQzJzHc5EP6yyPpKlHq5brNiZaf7Qvgf0vLVEKPdgW_H4psg7YUX5caJQbmZl-m8eoq7-nkFLxNqGEIwL603Fcv6yom59hNMat1z7Z-R9eJ7Rq9Lr-E7ltV0w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Leaven: A Collaborative Kitchen and Resource Center",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "215 Laredo Dr Suite 100, Decatur, GA 30030, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Atlanta",
+      "postalCode": "",
+      "state": "GA",
+      "countryCode": "US",
+      "website": "http://www.leavenkitchen.com/",
+      "phone": "(404) 946-5864",
+      "phoneUnformatted": "4049465864",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.78127610000001,
+        "lng": -84.2686193
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJP4_6_d-p9YgRNJKTT-d47v8",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T03:59:33.007Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9:00 AM – 10:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9:00 AM – 10:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9:00 AM – 10:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9:00 AM – 10:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9:00 AM – 10:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9:00 AM – 10:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9:00 AM – 10:00 PM"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJP4_6_d-p9YgRNJKTT-d47v8",
+      "reviews": 16,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 16,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJP4_6_d-p9YgRNJKTT-d47v8/photos/AU_ZVEF6i5q1ercLLi6qhwYVJ1mPzh_gMZKswaJW70wrqqqzsqqs68CgwtF0_RRYEqL3FZbJDBfUvXpYK9hf6s_aJMcy8lJK31U2CcbrOmtc7NFPCdlzvTmeWUhsOmoK1TZbD4nSEQFr0NejH7eD-5EfYwHyAGA_ekUBrcN5lHBjc4vpO9bbGgLYb2h5V6onFRlDbnnA8GdMl9K9kqjqTNb_Vy4XB06_-gRFXI-35hzDHREMbk6CJSTrldYDQHOUUz0cmQu-Ykx3vaoGrGHSRTCh2bEP6NkB4fymr49zSaQ95Fof2g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJP4_6_d-p9YgRNJKTT-d47v8/photos/AU_ZVEF6i5q1ercLLi6qhwYVJ1mPzh_gMZKswaJW70wrqqqzsqqs68CgwtF0_RRYEqL3FZbJDBfUvXpYK9hf6s_aJMcy8lJK31U2CcbrOmtc7NFPCdlzvTmeWUhsOmoK1TZbD4nSEQFr0NejH7eD-5EfYwHyAGA_ekUBrcN5lHBjc4vpO9bbGgLYb2h5V6onFRlDbnnA8GdMl9K9kqjqTNb_Vy4XB06_-gRFXI-35hzDHREMbk6CJSTrldYDQHOUUz0cmQu-Ykx3vaoGrGHSRTCh2bEP6NkB4fymr49zSaQ95Fof2g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJP4_6_d-p9YgRNJKTT-d47v8/photos/AU_ZVEEWMiSN60Sg_wM8IgFCQMeS2KQF_tuCFd2Za3jjudJdYa9_1m86BtzvTs_lwGBAxcHfdt6yJyPsBcFL_vcRs9DSZrhJlRKwmtPdoaNafVsd67eUI4-lO9MOP9rwh_yHBihofHdXKvOHA8vbtfFd3Z4PEGYU045PbNWobMaG6Gg8E77_g8dpYrd5t8ZOxqEXec_eOmqdvZ5gVIfEOfVWI-rbHv6PORRynVjXrVh9P2ngZwuVgp1TyBbmJVV6HmsbcbL4mv_5nNHU1xQ_r6SR1GmA5MvIcOQKIAcPMQwAytRuxA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJP4_6_d-p9YgRNJKTT-d47v8/photos/AU_ZVEEPmmOrNpAr6JFK99cUpGnRrLEwNwZjMpawkPruEauQtx7jMTshdrqKj2A1B4SeP6-gJGSu8Ve2Fz26pBZMyjqrjaUPk3GTYNMdMzqUXng92kMEuEbD8KTkBMQekfsJpH5Ujw1H-U1WA2wyigWe2Pmy1lFEoHhyireQa5Vs6rE_oZytKqoYMcTirdbKLIvtura6UcX8AS82aVU9tfow-VCHu9DOWf5It1y5fWbwgqYNptqZayzTTq-Km3SPMuEm_9nciT_GmNWw6vb_fSw_ofSPbP07xzYUQgUXzpbm3Moqkg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJP4_6_d-p9YgRNJKTT-d47v8/photos/AU_ZVEEWN5bsg-XXDOqsXEul9wwNfoL7pyn4TcuwE4OparvLNN6L_n7edeiWbR5KxQYvMt0uuI8drS-Rg83peyvnOWiJI8712Dwe2ejuJKTESjVcdX0MOoOhfz56e0eVxlEwCAUG0pdAhqYDeOBxJoMbvT9RF7wfQ7rY9f3gxyngPHd5m9OnujA9lrFgWkf8peNCa4NITHasa8ui5jk6QAJVakU54MBjmQG5R-wg2KHYwG2m_N6RID2oKAYr58AflyOmR4G5vUd-BJAd7UVhjjtodOCa1o0syBnLq7Q9UgQB3AlGTgaNz-8_mA-rO1Q9RMjiK55N--8MOsCk5HyMouIeMxQqJcclN6-omuODNkjdiBLyHEgyJLgDWjhe6nZDHltLzl7qizMh_6kLwdwylV4uf65GV0zuRBIfC6dYdDIJa6n21rHL/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJP4_6_d-p9YgRNJKTT-d47v8/photos/AU_ZVEEDgtggWEzI6BnvgqBnAnkB8JFp_dUvDcEYaQ0F48xZMVkIy6tRTWyj2QaE-tTKZv6mx1pMn0wzidxjJDbwtb-1n_megvojN8XwQmUR-1KitVECM0vkrslArlphx4AIt5CuDrfyCR972YiBfpE2Ut9TWa1y-Ry7OjsLNLKuFENf2ivPho_l0cgMfFwhhaOedI66Tc3661aMFLAAajxjk2zZ2vO62-H7f1mvulDQqEJPLC9YouqGZbqS7oJ7pJMBlV-ZK5mM5juYirwqArTdRlSbzRZuEdbWkR2U587VpXdS19pm4ZZfyXY30a-YWC7vAp0xvL-D1gY_eg1kNoEe9vZfhvq7KV0_jTvOx7g_bHdXxV48xLX5_D1UAjaQ91vYqsIlDZNcwbMF7vX_N0oDbgEGY8VCQwNXj8sW92M-u0COLw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJP4_6_d-p9YgRNJKTT-d47v8/photos/AU_ZVEHZibpLvMexvlXLgVQPCeyJLp2tK3sKk9iIRMlV-F7gBY3HLXKNHzUC9m7ZYUgvzFc7KRIBQmrjKLpSmCE349sd76s7r61ndi9ojgmHo8QWsG_B6P31LxGSe8IeL9f8NiM1JTPpFixNCfLkcqkm-nEvE6Du25fN6RAVz5EPHP4Bve75KWCgcy9qcS9tMBBUtsSqlwnwYuKPYV-wvhDn6hHGlz9LkN8nQIPmZaM0NcncefcDusKiZ6Fj80LgUb5H_pObv3mNGjROL6iAuxHxKm1p4TpHHa82pR5aL32R8SUzKbrhbJlviTSYGeF2bVsm8NhEGLMUnyKTdv16kJ9xLgyL0ILKQElp4mgIyxo8mMFust0Dmtl0v6C1StcpPjaSvjOVXWibbTy1KXaAkXsuUMCPXSQXiixN3dTa-tdKmvH1sdDd/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Our Village Kitchens",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "676 Highland Ave NE, Atlanta, GA 30312, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Atlanta",
+      "postalCode": "",
+      "state": "GA",
+      "countryCode": "US",
+      "website": "https://www.ourvillagekitchens.com/?page_id=612",
+      "phone": "(404) 635-6212",
+      "phoneUnformatted": "4046356212",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.7614866,
+        "lng": -84.36517169999999
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ8wHILucF9YgR_dxhvg5Q_ds",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T03:59:33.311Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJ8wHILucF9YgR_dxhvg5Q_ds",
+      "reviews": 6,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 6,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJ8wHILucF9YgR_dxhvg5Q_ds/photos/AU_ZVEHYoWmFWPHpKi3Q0FFxT23szoef7BSee4XA-m12iFLTqNRNhIM0yGVuRyxsaz5XUQSp48ee2-zc8iHqtdM4JEK3K5YeHIyMCXjVerp5Bv_OcSg5RHc7Xtw6m7wOi3KmbCFsY4210pj8Ji2uZexSS2J80OvBOfYK7jLJvgh7cC7eOkUwK62zFsPmLbxMv-pAPkBMA1ag9_u_0RR_DLFmj9H3RLVIhJP8MeKSp2aRyrgcz2LNK_WbtZh9MHMfut30x5v1-69-0JIti0Ld0BT7aweafxVslgl-C6mHpNAnM5d2x7HPmc2Cn3TnZpworuMn22xUz6Bcn2GLdBrzexLH-CRYGcGOw8_NhmOKZVbWvhp5FdDqnHHrqqF2ljspq0bn4LGNOYISFRF4AMC5Th6T1KCXbzw4W4cY9KkoFWDQ0qK-CA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJ8wHILucF9YgR_dxhvg5Q_ds/photos/AU_ZVEHYoWmFWPHpKi3Q0FFxT23szoef7BSee4XA-m12iFLTqNRNhIM0yGVuRyxsaz5XUQSp48ee2-zc8iHqtdM4JEK3K5YeHIyMCXjVerp5Bv_OcSg5RHc7Xtw6m7wOi3KmbCFsY4210pj8Ji2uZexSS2J80OvBOfYK7jLJvgh7cC7eOkUwK62zFsPmLbxMv-pAPkBMA1ag9_u_0RR_DLFmj9H3RLVIhJP8MeKSp2aRyrgcz2LNK_WbtZh9MHMfut30x5v1-69-0JIti0Ld0BT7aweafxVslgl-C6mHpNAnM5d2x7HPmc2Cn3TnZpworuMn22xUz6Bcn2GLdBrzexLH-CRYGcGOw8_NhmOKZVbWvhp5FdDqnHHrqqF2ljspq0bn4LGNOYISFRF4AMC5Th6T1KCXbzw4W4cY9KkoFWDQ0qK-CA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "24-7 Shared Kitchen",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "245 Scenic Hwy S, Lawrenceville, GA 30046, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Atlanta",
+      "postalCode": "",
+      "state": "GA",
+      "countryCode": "US",
+      "website": "https://www.wearebuddys.com/",
+      "phone": "(404) 484-4588",
+      "phoneUnformatted": "4044844588",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.9436916,
+        "lng": -83.9912212
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJZ4QRY-m-9YgR_NHySgiv0J4",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T03:59:33.558Z",
+      "openingHours": [],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJZ4QRY-m-9YgR_NHySgiv0J4",
+      "reviews": 17,
+      "rating": 4.2,
+      "totalScore": 4.2,
+      "reviewsCount": 17,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJZ4QRY-m-9YgR_NHySgiv0J4/photos/AU_ZVEEgIo-Y9J_1G-6Ll2aIJWw0kCN3Qk9pvZZUgPhGmMe5rdncAaw_rPg2MhkAiFSzaLJgKxkz5ABqjzr1KrMtzRjydQAeQWJ1XmzG6K8S50lR2FfAF5o1tRSMC4Hi7B54GI2FM6ymI2yA0gG3FKgygKVg_k8lvh1mV2xRb8kZWdkkVYGMTwaLGR2l0ac8JPgu9DNgGBBFEOpAas8uLvjgtsC3d8VR0eR2brTxIfoe3fdDMcCrTDIVdeNBgmnB7ty1rYc8nvG4Fj5XF5ORx6LePWSmrGmE-uMWYmRql48BDgTFiXEXAbNoRxNUJ9FoRXvnnC6-xYqyVrF8xlMd9K__E_uRuO2YBwCe_pVWtRRdGpfw3ekjWE8-fO_RjxO6CptlzPqQRh9JRXFam6ALd2TbhWkOkRLsTj89cD-g-dev1KUGJRTe4OdC5iy6SBNjDsmk/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJZ4QRY-m-9YgR_NHySgiv0J4/photos/AU_ZVEEgIo-Y9J_1G-6Ll2aIJWw0kCN3Qk9pvZZUgPhGmMe5rdncAaw_rPg2MhkAiFSzaLJgKxkz5ABqjzr1KrMtzRjydQAeQWJ1XmzG6K8S50lR2FfAF5o1tRSMC4Hi7B54GI2FM6ymI2yA0gG3FKgygKVg_k8lvh1mV2xRb8kZWdkkVYGMTwaLGR2l0ac8JPgu9DNgGBBFEOpAas8uLvjgtsC3d8VR0eR2brTxIfoe3fdDMcCrTDIVdeNBgmnB7ty1rYc8nvG4Fj5XF5ORx6LePWSmrGmE-uMWYmRql48BDgTFiXEXAbNoRxNUJ9FoRXvnnC6-xYqyVrF8xlMd9K__E_uRuO2YBwCe_pVWtRRdGpfw3ekjWE8-fO_RjxO6CptlzPqQRh9JRXFam6ALd2TbhWkOkRLsTj89cD-g-dev1KUGJRTe4OdC5iy6SBNjDsmk/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJZ4QRY-m-9YgR_NHySgiv0J4/photos/AU_ZVEHJReiGlPZWqZb49_TKLJaMU9hF4PhgjbJ-iOA9ph7_t-kVa1pyf_-j7dbp0UdUQKqMfb9xOCav6x8ZiL7uYCpHPwxGvNg8yzG_NhVf4TsJ5ujikcpkReIGr07668QCALqE1P6a76p1_Cd1cj1cpt0bEh9T7r39e5OCzULyV6KsHt2Kt6UuOZaW79xaHxhwcE9kLD9SzOVYfxC0_qdJ3JUZMjxl8kUPJLiCHJJupUDuwCWmHRwyq4PiTD1AOu0LRohizOk7w3I5B0AlyOlBWvTXI4nXqDKMksVTHQNv7sopaUNVTzGiA4CVFATi33oGvCB9D9NyJRC5a3NdFXcNyh0NpGbKuGTTOwcxNaMRq75jnRUb0hbKxEA4X8hDLQINxnShnnCtRrf9z87fmQWi34U29_PcHASs2uVWV7JhFs2T5Xfo/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "PREP Kitchens ATL South",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "1990 Perkerson Rd SW, Atlanta, GA 30310, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Atlanta",
+      "postalCode": "",
+      "state": "GA",
+      "countryCode": "US",
+      "website": "https://prepkitchens.com/locations/",
+      "phone": "(404) 920-4150",
+      "phoneUnformatted": "4049204150",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.700111899999996,
+        "lng": -84.4168152
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJndpG1A4D9YgRr1JGpk1cJaI",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T03:59:33.786Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJndpG1A4D9YgRr1JGpk1cJaI",
+      "reviews": 6,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 6,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJndpG1A4D9YgRr1JGpk1cJaI/photos/AU_ZVEFiityTI_agsLJbmauvvh1kDrinnJ2WrAeYYdTPD26KPgvtAFxs8-xgGmK82FSH6tH14eLjTukGdB41vDND99LDfiKj1f80dO4zSvfDVsrRt7l3WwhJoVirY5OpkDdHJbzp35zfIdIvJ9VEtxx5QD-fO0hyh0lS8HeF9XL7Unoj1LOighrDjYD131CHmY5BOLnBqWjojsQwwgG7s8U_kch4nCgiAx3ZdjPlR5LtD6cvPU9lcj7thn9eURwqkiZnlDBe-ECUg2orrPdmAtRJAmJusI6iO-Yz39vq2iD11kRShw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJndpG1A4D9YgRr1JGpk1cJaI/photos/AU_ZVEFiityTI_agsLJbmauvvh1kDrinnJ2WrAeYYdTPD26KPgvtAFxs8-xgGmK82FSH6tH14eLjTukGdB41vDND99LDfiKj1f80dO4zSvfDVsrRt7l3WwhJoVirY5OpkDdHJbzp35zfIdIvJ9VEtxx5QD-fO0hyh0lS8HeF9XL7Unoj1LOighrDjYD131CHmY5BOLnBqWjojsQwwgG7s8U_kch4nCgiAx3ZdjPlR5LtD6cvPU9lcj7thn9eURwqkiZnlDBe-ECUg2orrPdmAtRJAmJusI6iO-Yz39vq2iD11kRShw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJndpG1A4D9YgRr1JGpk1cJaI/photos/AU_ZVEGrakKYAZqJtllqRnkFIeIuzT77keqwuOnGpTra2Gclh9bODjR6TfslvSz8gpcCjmORBNkUl8KED6r6Fu8fkNMVlbn35182beKcj2jNgsEIVe-JQzEHNw6Cn-BhH3_5Qhbq6wHj9tuL1tJpQCBfTRbpGikUbtj1sucW_XWV7lDt6nnC2MastNU4Gsn_JVAz0fp_PmtEGCygZWmzKFMbdXkYIGE0QNSMNMeUjGXceS8qEl-1JLvT8dK27v-zouap25pzOCq2gavklrlgnnso-IAsm05YyuQ95vOEK-yesTmjfA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJndpG1A4D9YgRr1JGpk1cJaI/photos/AU_ZVEESJgC7b5Ef2OuvlLMCCPSOijqxQ0aGF3xrvR8319t7wXgBuDo-Jhp7KFMicjE2nJG4N--190nxIWcFGM3n8crPdJdvfNgsVZLQAGABE_l430Ge5sA3S_2ABkySYeYkybj_J_G3CrWugOkn4IlhckzTC4ubvfJI4XgddkGc3dOY7xB_axFjngWLvtrR4q7u1xrr7fMxgryu9k363ahL3uGjXRdht0_kvpa1bnT8BjFc0lZBi6GvQvGVX70GBUpdZ2x2kjqA_vkKd1CLD1KG-RBueXEXnlZG4bPpTt4utMu4jw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJndpG1A4D9YgRr1JGpk1cJaI/photos/AU_ZVEGep6SFl2Xi8onFlxc_KUsoSPAu-g_CtLRydvRS2l0zvruWry9AZqzWLL0HwgPDjDVn-UkDdACAMdgmrvkbcojkQ7MgBQS7Zh-vqxVIgdak--5lmgE31bGLEuvnhgTEqb7wfP0lmOLC-gOrVLn-ued9ZrdAInCmlvUpbJKYWKkhzRJCZYQQhVC_8d9LUU3CTZAy0XIvtBNrGtXGO9DBcp9ICozxyRjimXulAyKVlf8gdn9uOrQYXx7-hJjEGO2HQ6RgCdoR5LFrsIVoSWideixzt7KYgULlrfHBlpa5vKpA_Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJndpG1A4D9YgRr1JGpk1cJaI/photos/AU_ZVEEINPGNVeqjxh2BsfaWwhhbe1bzx7oNR8oS4ZNn0cwDZlDTg4v8eOogSRcYxLH7lFPPeE4XF6Os3FTB-FiXrOZz5WOzIMv7Q-pSkpZOPZbWLeYOB-_XIstOXS1E--e5cPTCK7DAaXYCUJPR-gDflPaRpR6vF4iL5mUII0syNT9VlH2c9wpf5P8h1Pz9e9H7p633B2sef2KIo-Zg8NUOWCVxWrE2F8c_Wo6WRmhlEys1YoY1WhKPGyCmBy-uef3o7vN6KwVC5ceZbFNv2jdeZAi8zbn-AoGT0b72FdrVoPnbsW4DP-QqsVySra-HW5lQB-0SjQwM2YENd59xQqtZyX-ghx0ogcyu0EU3NxfEhU3tFQ7V1tfDebmGO87OgvEANf4-uAuzwONiCsn7fvLDLDmVP4dR9IXu0YdEEALf321tG9Tq_oZvl7N40zzd-oMQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJndpG1A4D9YgRr1JGpk1cJaI/photos/AU_ZVEG7iTJbsp-9A7gcFw5gf5CowlY7kDawhph6lUzWAEE_0ReuPw9K34biSWgnmSmxd-HGeEQ_nINBW9CYdaGNyP0wIhhoU8UBezZ-JsW8ywxzQCjo986dU2ltbNROtRRx_pMgnBbcwABAPNPwLwd6pLC6QgeDksdzHp6L_YPnf514AIORAnAMgyk3lSDqSNrtYwxq3f-33Fm3JkzKWHG799W5_mcDmLgnHvc-z66hm4J53NOrGVjuVUqu0RqPn1TspSKKwCJaRHVKxBsRv27NG7NrlxgVsEM2cOuGbUNhVGnDwA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJndpG1A4D9YgRr1JGpk1cJaI/photos/AU_ZVEGU3OdLMPMhKukOmg8-7Nt4mKr_4aoO9Vojd6ZCBy2nkeiejj_d6bXWw1QB7FP1JktKx7HFVM5DdQl2Lcmr0m3ka-HUqrGeS9xLjrUiQV3sThYs7LrBhLRFcwPwdw0X-jc_l-HvrHsH52yNyxzinp7w-fz9PPgARcvctPf9y8Ex7KcxgFNOiCiUA4u6Sf0LIiSNnkf9U-FkQzrDdw54zl7WLBkjrr7k5g4iC6Xqe5EznuWNtVlx7Yce-S8roBAgICNvcsa6ZuNX8MJ5cD_Sfo2TjupfoSawkc3WwzpBy_w-CGag4OcK_0-FhXhd6LsycGFViRmGcBpOeXJW1sJ67rVgM3Y_FhZ0JXfV5PfKf95XBotQlNhfsr1pPlQt3WVjbD8XRGkzF8kPz_qUih1IYfX71iIjglJh_-NirOu1YPmXZTFHG1_TtqMGsMm_wW2I/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJndpG1A4D9YgRr1JGpk1cJaI/photos/AU_ZVEH8ergvNNn9fEs5dPGMe9xdrbq5p8DX0agqAxfvhucy-ZItyVzlPFMzLxAnijEhz_DTTNh4UV94G0zCFV2uX38a-4Dxz4fe8EFUzsEpIbnmLesKzLXQfW3IUqxr1ohMf-_d9BlTd3cxX87SOVVqAV8JkCRccxDfno00493GB_R9naGbODqsyXCzzrN892XjVYDJTZUho_taGzdwElvJUGbXOWlY1fLmJOWx-gGTqIInITbCU3H0v3ay0wmcTSFuZJW4onR5ZDMbGeOKW0pOw8u-3sIBlG70Sxkp4wcRVV_4AQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJndpG1A4D9YgRr1JGpk1cJaI/photos/AU_ZVEFOAcD3ltWhHKJ9fnlXY2bqa9s9jUJeNCTN-kr6z9NS56D3CGzp3js6J12vi8W6mz0CfYKdUAHezE9sqaptmEhnyu5TW1v1HF1mBccL87HwZyVcvl_eLkS9tDnI7hx74z1jjifyy-cZ0qIgg4rNDAlupp2UgXtrZBSWd_ISrk0XxdUJfaFkaRiKND2jGTCJ0x9JSvUY5aG4X1aTCPL2vApnaBxZh7YFvDQ3m6HCXHQhGPK1Jr2Uqul70WZu1HbqwWNOM-AejgkCpfUPj43PJhD0u9v8qJ2AQE8V6_sMA9nw4Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJndpG1A4D9YgRr1JGpk1cJaI/photos/AU_ZVEGxGsj5u9quqF_e1oR2geHz2iaL1XDR1QBA1QCXlB5omia4aEYIxlUJb2wQTzTO8Ei-8iyA1eX9UVORCBnq2C4hMo0I_ipF8f4bplsOnY6eb5qNf8D1zDQleiF997eL0GS4per0ic1AChW8MtB0SLvHicwiBeba4qFiR7g1sDVi-lJraImdMfi7hdN0O2M096qTZcIb-qqQMznllgNVWFfK7CLsVrDZYrAX3pxVpTOSJNidAgLP-c74ysWoFvC79KjTuifPB3yM4J3-LAu9mQS_9sj4_yeYgMEuVjk46AxlHA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Out of the Pan",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "2481 Claude St NW, Atlanta, GA 30318, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Atlanta",
+      "postalCode": "",
+      "state": "GA",
+      "countryCode": "US",
+      "website": "https://www.otpmobilekitchenservice.com/",
+      "phone": "",
+      "phoneUnformatted": "",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.81182,
+        "lng": -84.46978680000001
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJYaFN1j84N2ERn8GRUsAgQqY",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T03:59:34.051Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJYaFN1j84N2ERn8GRUsAgQqY",
+      "reviews": 1,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 1,
+      "isAdvertisement": false,
+      "imageUrl": "",
+      "images": [],
+      "verified": false
+    },
+    {
+      "title": "Marietta Commissary Kitchen - Appointments Only - No Walkins",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "1592 Atlanta Rd SE STE 130, Marietta, GA 30060, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Atlanta",
+      "postalCode": "",
+      "state": "GA",
+      "countryCode": "US",
+      "website": "",
+      "phone": "(404) 509-4938",
+      "phoneUnformatted": "4045094938",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.914183799999996,
+        "lng": -84.5376588
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJU3u6rDcX9YgRLVAFKQ7xnsA",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T03:59:34.361Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJU3u6rDcX9YgRLVAFKQ7xnsA",
+      "reviews": 2,
+      "rating": 4.5,
+      "totalScore": 4.5,
+      "reviewsCount": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJU3u6rDcX9YgRLVAFKQ7xnsA/photos/AU_ZVEG3eNxO7y9fiS9VZJlu0lAGCIK2lrQQ1PAaMqNYO27IEdhAMcsAMpLALxpuT8icLIyllAh_bZwwYUPfjtYqjpdx2SxZgsjGgW4SY0HWGF73hjyjMo6b-fn9ErWqoOQbpDhrgg3AqWdEce9ULo1ydO7cRO8w29M4m_jQq6PunAbGkeUnY70jfRKGlJJm5ebp5Xc6-uR77mP1RO1l3MP3ZdwIBCD2LEe6p6DxRgriWMPd2ZUte2UTngQUvs5zyRtY7GpAJ3EgBGSNKFJ7IfJ5mqgjM9jGJaeEKB3eUTmYVp-2zw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJU3u6rDcX9YgRLVAFKQ7xnsA/photos/AU_ZVEG3eNxO7y9fiS9VZJlu0lAGCIK2lrQQ1PAaMqNYO27IEdhAMcsAMpLALxpuT8icLIyllAh_bZwwYUPfjtYqjpdx2SxZgsjGgW4SY0HWGF73hjyjMo6b-fn9ErWqoOQbpDhrgg3AqWdEce9ULo1ydO7cRO8w29M4m_jQq6PunAbGkeUnY70jfRKGlJJm5ebp5Xc6-uR77mP1RO1l3MP3ZdwIBCD2LEe6p6DxRgriWMPd2ZUte2UTngQUvs5zyRtY7GpAJ3EgBGSNKFJ7IfJ5mqgjM9jGJaeEKB3eUTmYVp-2zw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJU3u6rDcX9YgRLVAFKQ7xnsA/photos/AU_ZVEEH4EIZPBZw0v7ZsedLOslWBCpi_5p4U2s_9LOSfzkTYY8v4Q988hNOhj1b3ftWGbZWAKs_i_N1F9uoAtvG8UMtQ7BA7IXQ3QfIX4jHQL3fClf5YwXTEBl6LVn3j_qySe3QB1J-2H4NT0SvY0QPWditpeg0YvC-mZOjFPZ3pB48rmjGWMUNwUTK-gktkSNprk0VOsaMsjSBldhc-IT4cZL-g0nH1vVj-FTnjezH3NEqKp81KZIGzAtAtBrB2yS2nspfcbe6KSu0B1Le5tmwyfcH36vTWy4kh-Epqmwe_vm_qg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJU3u6rDcX9YgRLVAFKQ7xnsA/photos/AU_ZVEHpaLx5tTFk2ca-ynIz-F9WZVOz2dwG96064Pel_Vf3LdTqofPEid_sxfD4Piz74IKli1B7IGBLCkdhPkm84Qb181Jx_l0IAIOIgip3WuIgxv3NN-JQiDEHJKnBEgeRGYmmQmOS_InYrzFkILJxDoeQS5uT-8Xmqot1Al3vn0a8J_j9YG_y6YViuJrdXhxgIWmeyy4XrLQx--EZFBYIaE9Tsf-sYig3lPDOFL5d3LF0UUK2rGOVwVLBnUeOoP5i3P55n0u_5N9ONoClqdJj9yHfCKzOCzavsUWIv4VDaSMI2w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJU3u6rDcX9YgRLVAFKQ7xnsA/photos/AU_ZVEGkzvZOA70ZXztbqPZbtVqoMmZVahr12o7nS0_ABfRdSqbCKOWblyli_p6dtTdBXSo3EmxO3XCgDZukmgkq5h7ZQbA0A1LAPF8OYvRiVeKqYpk7otFYpybMKGCFYFoo4IkQixo9EZqRzMwY8bP5SeGWPfp5ksos0L8gfkFS2LWfT7dqJRpp0iz4x1PKiBonj0JGhNqznqA2-XDl07shX-qiIA-0FnJ1IX94z9KHiPq-06WGUmqtdaDb770lr9d8vVuyadshT9XTJ_U41AlFzStipU5LCvAEZPj2lYh14ubh_A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJU3u6rDcX9YgRLVAFKQ7xnsA/photos/AU_ZVEGmRhIpywkxR750eAoaUVWQPeur-2hpWXa9UMrCoT3gBoG1A2A_LJRKOfLlCVMO0hTOoYc5wPSiWyoavzMx3wfhNvjy1f6s0z_q_4BMARXzOcZWlND6-OsrmqmhbqqaNPqsto-_fvAcKOwmJZfjePlgifw1WZWD5J_5fwpfyZCg2zZJw6I-pyZzsgtfnyGz6pkHGz7radtwJ9rBQlBKWDsOOa-gsScqaYw-xRYGsz9JTS5QfJ0fELPhCbceRRICPGkix8bA8204G_ULGanASNO5I_h59lcExx1Mje8VZuIfCg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJU3u6rDcX9YgRLVAFKQ7xnsA/photos/AU_ZVEHhE4EKrfvHt8JwRbcifjFs28OkWReEnU9dwoNMMSPyTpBbJ-GBkhDjhiZILv4VTkh022g0_kmwj8bdvC3Vf5f3OmUlOjIup6O1d121ge9iiXGwc3gIhCbxfqd44HCicktG2VWAtJ_zJFEEqumxA-GbH6PrYfhxOcDWQzj2niPRftt8fijfN-xaScfK_NQoiY5iC3sRWBGJLMjT9zBpsTnii3q-fW_stnglp6IdbqvKpLcQLkYSQiBzKMToupeE8bt8aWFenkj37zh3b94CZ39NPVsgAuuYpqmjvdqJgU-qpg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJU3u6rDcX9YgRLVAFKQ7xnsA/photos/AU_ZVEHK8KXCQPh-6lM_WLyzUdO4bQ0AqFPiDR7clO7910TuC3w_nutcTqxJwb2VI55D93ejefR1HmEKqFUi0aPqtt_zarO6YB4mS_U1gAgdVUblixueBIAaJxfugGGdA6cRidboApOvMZS8fpJPJWHqF6pvaE0QoEKK8tnPMaIZgbHGhxeTenllFgxgSJWG10Qv3X04TLLjt4MvQlA_TyxT8sBeOkOq9Uldkrh6_6_DcJNMTmvmMP5Pt3snVMgd05umxwwpJtI2ieoHIDbLEloDBCya73EfbcYZASb5GQjnQYa_QA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJU3u6rDcX9YgRLVAFKQ7xnsA/photos/AU_ZVEHLyICJe2HukzGmumj5F1cWfWLUFYApUEfzHk_fWkOvNdjvnZr8UhIieqBchvLLN_6ursDx58c63LlRKs3-xNGZSGxwORXSQN471BZuXYYA6L5k922K9nXC9FC-3LZND-XlxNFBbQZH-HqrZ363WEEDQdaZYx5cBqB5QaokjSv4zGkaA4nmk3UsQOURg_1X_6bz9z9ZrjFPxHWQ3i54p-fjioq_IT6sCm4ikDtpa7vx3SHePXbrWtIkruyRPEolS5CSerN7gl2pKm8NZKQnN17oiOEkcMLpFAb6crHIBFVjHA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJU3u6rDcX9YgRLVAFKQ7xnsA/photos/AU_ZVEHzEGkMRVObaZkw8MIAIO3IzyQyioS-6eboRHMk4ApQp2NMaAEEhwkKst52e7o8Znn9UyjSh4OsvhNXZUMbfT1Ho1NPIVawgKswIBb6XkC-xQZs9AUPjwBjYjgV1hFLdgl8iehEs8cGYQvAuhf8ZHuecifjKqiezYsIF_FSZDW9S8jYRArFH6brmswQyMA8c3Cex-TiRTUIRj1SLvNKCGbWBVtIBE9A-f2E3bFnZjrq28dtYyFlf04aZpCpWt55XJ9-0RiCM8uCbH1nQslHnDqzYI7p_cS3VWrGntdxOBmuAg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJU3u6rDcX9YgRLVAFKQ7xnsA/photos/AU_ZVEEagCexdL6Ini9fCpv1UTRfjBmu7DROqlLw46EZN1a1_hagu3KK5PlMjPWV5VfijZcnUq_c7SdTwr0pCn8PhTjBNewgVlLJME1RTBKgs49qqe1bwae4-sZehkPxixDJ34BhVWBGJb8umeg6LbnFM4tvDFiHCLE528kjeu2DYg7rHmW3X3BauDQs0EMhW5bzfE3GLPIkSmY9N-7sR996zhxzxirsBXhRiVlxof5YUflKULVMUL7cduJ81GiO5HB09ENryOo-SUVkpnLwa61dDnDHmAj25tvbwURvJFM1jytXtw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "J's Kitchen Culinary Incubator",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "3996 Pleasantdale Rd Ste 203, Atlanta, GA 30340, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Atlanta",
+      "postalCode": "",
+      "state": "GA",
+      "countryCode": "US",
+      "website": "https://www.jkitchenculinaryincubator.com/",
+      "phone": "(844) 609-4678",
+      "phoneUnformatted": "8446094678",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.8984677,
+        "lng": -84.2444063
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJVzXWNRKn9YgRD8xEg6x-vxk",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T03:59:34.603Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9:00 AM – 6:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9:00 AM – 6:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9:00 AM – 6:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9:00 AM – 6:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9:00 AM – 6:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJVzXWNRKn9YgRD8xEg6x-vxk",
+      "reviews": 28,
+      "rating": 4,
+      "totalScore": 4,
+      "reviewsCount": 28,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJVzXWNRKn9YgRD8xEg6x-vxk/photos/AU_ZVEGRY9D-rd2-sRD3kQGw0OX-a9gTu3RYd7kwCSjKOQKnUaiAUsa_D6jBBUPbU9Jb7fB7S-YEfF3nJP2RD1PH8kfy82KXuAU24ZV6hfeDgknBjzHJz_w6_2qJOjESw8bs3bz8CsewpM8cRSvxYoAQFm-68owICbVTnAS9AuDWjCwNCRzSORolWgu-otyN-KF5GC9StXOXAXjFqzuyTXN2OnI32en8yOEqqrWc7Kw958Dv3-HeEBi40h6BOhAH2zDAIO0mqRMjizdSOJlaJFE076QrHVehy_EwPBYrsfwS-FxbcHvhbpDuVWx-anUI_HgYyXjIN7GT3i_MciJW5GHueJNbBGwVDCdvkjv9Nbjny9FXdVglqEJy2vGMucbzWX-nQl1nJyvu3RoVVCeDGaqYpE4MzVccOhw7gv--xTUd3UO_Tg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJVzXWNRKn9YgRD8xEg6x-vxk/photos/AU_ZVEGRY9D-rd2-sRD3kQGw0OX-a9gTu3RYd7kwCSjKOQKnUaiAUsa_D6jBBUPbU9Jb7fB7S-YEfF3nJP2RD1PH8kfy82KXuAU24ZV6hfeDgknBjzHJz_w6_2qJOjESw8bs3bz8CsewpM8cRSvxYoAQFm-68owICbVTnAS9AuDWjCwNCRzSORolWgu-otyN-KF5GC9StXOXAXjFqzuyTXN2OnI32en8yOEqqrWc7Kw958Dv3-HeEBi40h6BOhAH2zDAIO0mqRMjizdSOJlaJFE076QrHVehy_EwPBYrsfwS-FxbcHvhbpDuVWx-anUI_HgYyXjIN7GT3i_MciJW5GHueJNbBGwVDCdvkjv9Nbjny9FXdVglqEJy2vGMucbzWX-nQl1nJyvu3RoVVCeDGaqYpE4MzVccOhw7gv--xTUd3UO_Tg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Temporary Kitchens 123",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "2727 Paces Ferry Rd SE #750, Atlanta, GA 30339, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Atlanta",
+      "postalCode": "",
+      "state": "GA",
+      "countryCode": "US",
+      "website": "https://bit.ly/2DZIqIg",
+      "phone": "(800) 205-6106",
+      "phoneUnformatted": "8002056106",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.8662511,
+        "lng": -84.4737737
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJwYopUEUR9YgRcP69pJwiYgw",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T03:59:34.831Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "6:00 AM – 9:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6:00 AM – 9:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6:00 AM – 9:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6:00 AM – 9:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6:00 AM – 9:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7:00 AM – 5:00 PM"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJwYopUEUR9YgRcP69pJwiYgw",
+      "reviews": 2,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 2,
+      "isAdvertisement": false,
+      "imageUrl": "",
+      "images": [],
+      "verified": false
+    },
+    {
+      "title": "White Street Community Kitchen at Cultured South",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "1038 White St SW STE C, Atlanta, GA 30310, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Atlanta",
+      "postalCode": "",
+      "state": "GA",
+      "countryCode": "US",
+      "website": "https://www.thekitchendoor.com/kitchen-rental/white-street-community-kitchen-by-cultured-south",
+      "phone": "",
+      "phoneUnformatted": "",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 33.7320109,
+        "lng": -84.4219665
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJeVpp2igD9YgRGa_Wj7pXAmc",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T03:59:35.091Z",
+      "openingHours": [],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJeVpp2igD9YgRGa_Wj7pXAmc",
+      "reviews": 1,
+      "rating": 1,
+      "totalScore": 1,
+      "reviewsCount": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJeVpp2igD9YgRGa_Wj7pXAmc/photos/AU_ZVEF_c9fGZvDWwEba2oEeEa2PS45UzNd9oocx2rtB3V9jp3sGRo7nDaWoswUXuweXIMucLx1wZYQ1kt26cKBo8-9UTXakAd8yzpL1UZk6RPfhV423-J7fJi4z16H5sJf1yKM-WaBQa_D4nQyQF2NC77wcntIIQnn2JzaOfzWb8r0JiUZLaW1knGptxGAbLZvFZBZU1Gb4eJXVfim2rXxu3Ng2ozbJo1Popbef60oK8JiJ7fHD5SKoyob_N9xH9o5GZgQwd1M8u_RjahqgvBnB3gQtY2i_eND0ljl5RGdTT-Lz8DpR5UpIE1gmDPwXTDdq2-42wyoEThWttrDrc-nyJPY33ECbJ2LlXGLkX6n2-VoPf3mtgBuwa9BVx0zqn6YuwixmCk6hMx80z13Ob7mqEgt5hgS9USiEpAg0viwbsk0/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJeVpp2igD9YgRGa_Wj7pXAmc/photos/AU_ZVEF_c9fGZvDWwEba2oEeEa2PS45UzNd9oocx2rtB3V9jp3sGRo7nDaWoswUXuweXIMucLx1wZYQ1kt26cKBo8-9UTXakAd8yzpL1UZk6RPfhV423-J7fJi4z16H5sJf1yKM-WaBQa_D4nQyQF2NC77wcntIIQnn2JzaOfzWb8r0JiUZLaW1knGptxGAbLZvFZBZU1Gb4eJXVfim2rXxu3Ng2ozbJo1Popbef60oK8JiJ7fHD5SKoyob_N9xH9o5GZgQwd1M8u_RjahqgvBnB3gQtY2i_eND0ljl5RGdTT-Lz8DpR5UpIE1gmDPwXTDdq2-42wyoEThWttrDrc-nyJPY33ECbJ2LlXGLkX6n2-VoPf3mtgBuwa9BVx0zqn6YuwixmCk6hMx80z13Ob7mqEgt5hgS9USiEpAg0viwbsk0/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
     }
   ],
   "insights": {

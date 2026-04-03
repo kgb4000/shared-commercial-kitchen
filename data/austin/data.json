@@ -6,7 +6,7 @@
       "name": "Capital Kitchens",
       "price": null,
       "categoryName": "Self-catering accommodation",
-      "address": "1606 W Stassney Ln #1",
+      "address": "1606 W Stassney Ln #1, Austin, TX 78745, USA",
       "neighborhood": "South Manchaca",
       "street": "1606 W Stassney Ln #1",
       "city": "Austin",
@@ -15,11 +15,11 @@
       "countryCode": "US",
       "website": "http://www.capital-kitchens.com/",
       "phone": "(512) 686-4456",
-      "phoneUnformatted": "+15126864456",
+      "phoneUnformatted": "5126864456",
       "claimThisBusiness": false,
       "location": {
         "lat": 30.2136708,
-        "lng": -97.7930876
+        "lng": -97.79308759999999
       },
       "totalScore": 4.6,
       "permanentlyClosed": false,
@@ -37,10 +37,39 @@
       "reviewsCount": 24,
       "imagesCount": 42,
       "imageCategories": [],
-      "scrapedAt": "2025-07-11T06:17:14.952Z",
+      "scrapedAt": "2026-04-03T03:59:40.387Z",
       "googleFoodUrl": null,
       "hotelAds": [],
-      "openingHours": [],
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
       "peopleAlsoSearch": [],
       "placesTags": [],
       "reviewsTags": [],
@@ -51,14 +80,28 @@
       "language": "en",
       "rank": 1,
       "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOYMFPUBmGoXr_WYB1ku_JCnDN39akTICP3OJs3=w408-h272-k-no",
-      "kgmid": "/g/1ptwlkskv"
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJ6Tyhs1FLW4YRTpP1ISo7zm8/photos/AU_ZVEFieAttA0Op_ygxZx4BkW034cSoMTM6Ncz6xGQrcZlynkkNh31bfmmvCwO-Yg1u078F6uCPcPbq0wkH_U_Y4OtwFCG-yJHKDw9T-wmjqb70cLNvwnBbqBnF6S9_BgDmVZCaNI7wYzvY6xfl7gjKXL3tgvua4UPV5BkRkko0yNH6fcmU1kQQM6clsZRvC4PvqDj3RWbfjoIrkjDMuSwVUvqCcmrl7bREnNIKElrUWzOwLcJBzX0Se_7Do3HxU2240Jl_241vD4LKQieIfKeGUpiz7rkKHDosmCggEV4hfxZ7WA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "kgmid": "/g/1ptwlkskv",
+      "rating": 4.6,
+      "reviews": 24,
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJ6Tyhs1FLW4YRTpP1ISo7zm8/photos/AU_ZVEFieAttA0Op_ygxZx4BkW034cSoMTM6Ncz6xGQrcZlynkkNh31bfmmvCwO-Yg1u078F6uCPcPbq0wkH_U_Y4OtwFCG-yJHKDw9T-wmjqb70cLNvwnBbqBnF6S9_BgDmVZCaNI7wYzvY6xfl7gjKXL3tgvua4UPV5BkRkko0yNH6fcmU1kQQM6clsZRvC4PvqDj3RWbfjoIrkjDMuSwVUvqCcmrl7bREnNIKElrUWzOwLcJBzX0Se_7Do3HxU2240Jl_241vD4LKQieIfKeGUpiz7rkKHDosmCggEV4hfxZ7WA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ6Tyhs1FLW4YRTpP1ISo7zm8/photos/AU_ZVEFDkQDpUn508uEYT871qzJ0OBgYVPXmt82vXWRgFatkBcbYy7kE6Ljn5AjjNL1yKBPYKKk6OGunJCKIQG_N2rEHtm1hG2nrvK5BVx0odlnSQqelTd_JQ-VdYxh-sRxq3SsTXyBVWi3_T0sZoVaRJoXmG0ufMPl4BJsqgN6tSJ_iz5ln-dBXwWbqxJA9LmB3k5WIRZPfXS6DTHscJDY4n_QItFE3ylcC3dEJYigk2uRWsCh_5u9zXHi6SkaBzeo1V_BCS4VQpsh2n0HFXjWwZaUL31Ov7KhysVvNRbMiCZE6MQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ6Tyhs1FLW4YRTpP1ISo7zm8/photos/AU_ZVEH3Z7S4XTB0M83cpzi0RAXb-UQu0s9bNBBxG2EwL2aZ1EDf7F5a2J2xPlMgssr7hPQzAcxkiQ5-Gzv1BwcXuRbCt7pn2gQMrQNLUIdKr7r9HBKH2EbqOG1KbiHDFVq02zSonZ1F-AviQSdjFd7GHuqJ5CV0adIl9_YvS0DwMSl9assjllEJ1llXv4V5UDbxedF9pg_ODfmrYvw2RZ8euPlYz6MJZ62Y9JR305W580HBys4Xu-Js7omq6978RiAMyQJo42HufOlq2tQaUyrtc0luL17X89qfnQcC4IGlXT8nNg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ6Tyhs1FLW4YRTpP1ISo7zm8/photos/AU_ZVEGY-pn1hTVjTVeJ2vffzZAoLKOn7YNyQ3LjhS4UaoBBkPBJ0rGEgrwTb_VEFUDm9wV-rdzbfAU1zPLkQqBwN3uyUx0zgBamZszfyxAx7LibjIO4cHZBqlEzCpqQqTxhRjMBbPzZavHW6GYOON3iPVYiOpkJ8fTljCjs6Kvj12lS2SHqR5sqe-nX4J6XGnfu2MnDmsIk2fX0go799K0tlTzXl8DuP-a54oeNSJjDrm_XOxbNpr4wIHIOPUStvwcRlgba-22CtFF-KNMm8RMTeuso48FMzyjQhwuVKL7nOvShZQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ6Tyhs1FLW4YRTpP1ISo7zm8/photos/AU_ZVEFjI--hkcyXCyKOdzcdhuMjlXifK1cacDx9BSuXZTlxlbK09CmxpM_rDYYUTKVBweeoTd5NR_IqX2v7qzyDxfLSsGvrgVGYOcuCfeJQvgICGsZXxOiLGVCRwlq9wa6geIHq64P7Xhrqaw6TxbNtbD11ZqZE__wN1wQya9UViBi4hkdq7ha5aZv099rAPp5XudTYHdcUmD6ugsAbRhaGc2Dca1A3GyjYpSCYOi4vrhOzJg-JbDX6GsERcjqgei3fVUGT8RSNBANVoCfJJXsXSdWCEivwwur0vobU2SpVgHtWGg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ6Tyhs1FLW4YRTpP1ISo7zm8/photos/AU_ZVEELUBQJ5FQKNFxAUxsgg8TruRrkYDgDhqNfH5rQwkaR4dhsxVM4PP0fCCfXWWgkGDUonH31pSzgkd4bU-AX8Ci1pX7rJVDuZIUmncp4y9y3Hqp-QH392HSBfso0fFyNiDtTOBiob0Z54XfGDD_3M687Q5QH71C9L_pvF_rKdpD9LpqvKbnk6ugZotrbMuTJ0dt4X2cs7HWz2LmrRZTz2hw-Tk_0cShpa5SxvMFB64NLzIgAtoCyTU_Mne5yH0fPhaJ3FWJwB8OYUHzJoNGiPOxGyBwDfReUsJaLBD_35UwMSQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ6Tyhs1FLW4YRTpP1ISo7zm8/photos/AU_ZVEHRku4m5c0KQb4MBPiLoRCx7TV_XvAzBEOH7addZAcScKlr_zYLz6aqeXzjpBQnbg1skH0U0127cAq0e5C3GQDtUEK4h53PhNUdZuUT1gLXukiXpUIHX51MohizHnLxOZ-ZiyXKbFIEOhJxaCxQXqS84CwsEiAYF6aVydsu8LGVlxYdnc6y5KPxk-FEJ-4x8xjOy-Rz-hCVSDxz_stZ4UWAJ6Qz8olQPYFju4k1nbtcQkvkivPXGrZEOsWZe5y_eKyNGc0hlCm7yI8vOhXPT07YTpa-wv-OtMWhwkwcEHnVPw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ6Tyhs1FLW4YRTpP1ISo7zm8/photos/AU_ZVEG9effzAAV9vawXcFTTFjf4X1tfDnULcJhtr6rHkTKVLj9HiJxlgZX5wv6pe0pCV7wtvGEyDruGU2M8TCVMkp48UV-zj35sxvxNL5hYhk2DMTo-LyTWGE5RMQcZlt5x8wrX8nWT2QJDcPlYuVHMgX4J13caKLLckLzapQL0VFEozK0v1pmCp_r7NNWiGXseHzg6Leg-2u3OjnaIityHEk73I0A9y15Or0fIBTreOWPD9-pKDtBhmvx2elzkkGwAeOkueQlCoHnwLkKCcNgFIRpIwM6ooljuciqyyJmWgAKxOA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ6Tyhs1FLW4YRTpP1ISo7zm8/photos/AU_ZVEG9XXiB_0pAKPhOcUciY5Yn7XT2lL2tUu0YdwQASNe4D__TLeev0rnA1LAfmVyRJLH1Rnga6geonNHIod6Fv77dG5oYTgvZNDR5-jMVQqq2IAcX40cGNNFj5v_MzWQe09lPdUhRTI5d8xX_QZdlNcgePZ2W2YFobGV4NUxiYopW62xCd9ZKl_c7nbfXYNnIGGWRGj44JYrd9j2SwsvXTvIVVWqtZgixqTUOyPA9R7HXEA_1VXuvPmI5n6UX9S1va-Cq4YwVhH77hA-_35s8odbldqihTeHcv8mkJ1IH31PPjw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ6Tyhs1FLW4YRTpP1ISo7zm8/photos/AU_ZVEEZRWtJigVa6MfObNyVUfWDWfVVXBtAHzou2HN5aW0k9imJ6pNuJyTLV4RDNZaORQt5kyjXnbviJxlMv0Hwuhb6SWHDjGf__nEvBoK2M0NZ89XS_VoWEre5TX0DHzMptC4VfZ3gJSGi8oJmqrK2ruLJiuqvfAkhmOjQ-zuqjOQbGakougQF8lB-U6kGlegPM2tUvqsz7Y6U4mkYxwxcHeBiLz6_wP4bEl45RYPZd3STeaAu1kdJvs_tS9qvbzJdHxbUT8B_tScedAoau7ZHZt-3Pjk9e7NHEgoaZhKymDM6uw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ]
     },
     {
       "title": "GhostLine Kitchens",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",
-      "address": "3400 Comsouth Dr, Austin, TX 78744",
+      "address": "3400 Comsouth Dr, Austin, TX 78744, USA",
       "neighborhood": "McKinney",
       "street": "3400 Comsouth Dr",
       "city": "Austin",
@@ -67,13 +110,13 @@
       "countryCode": "US",
       "website": "https://ghostline.kitchen/",
       "phone": "(512) 306-0200",
-      "phoneUnformatted": "+15123060200",
+      "phoneUnformatted": "5123060200",
       "claimThisBusiness": false,
       "location": {
-        "lat": 30.21258,
-        "lng": -97.7200951
+        "lat": 30.212535499999998,
+        "lng": -97.7201151
       },
-      "totalScore": 4.1,
+      "totalScore": 4.2,
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJE7lfRHC1RIYRpVo-b73A8YA",
@@ -83,10 +126,10 @@
       ],
       "fid": "0x8644b570445fb913:0x80f1c0bd6f3e5aa5",
       "cid": "9291419426089753253",
-      "reviewsCount": 71,
+      "reviewsCount": 88,
       "imagesCount": 48,
       "imageCategories": [],
-      "scrapedAt": "2025-07-11T06:17:14.953Z",
+      "scrapedAt": "2026-04-03T03:59:40.652Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [
@@ -165,14 +208,28 @@
       "language": "en",
       "rank": 2,
       "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP6OqzKgRR_wgvbsL8ANcfS8GKZb1KnXe83LGPQ=w408-h272-k-no",
-      "kgmid": "/g/11mvvngcm7"
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJE7lfRHC1RIYRpVo-b73A8YA/photos/AU_ZVEFXtbI7JcapUWbo5RsQQaNrpmdroDtvLcmYarxrDFAImw033j8azcHDzoGgZqTEjNmTrCsss5nnd8TxJtPKQaOZovjnFkr_FJ64uBmD-YZq1ynjfMtWDTOSSq4m2yudFka1eCW8LMgkiC0f-o22yrf20NC8hu8YiTZSUXwxScD2PiAyfyDv9Q7VwXO7PVMPvuhdUm2HA7fdBXM6FiQKK_z_Oh2e-G6GjiT7G1AA9zY5aEoDBBYAdMoRTWNHKXPpUfYL6eenbBat-acnPHSf0KLECtmj4Q8I5As900YzrDNKzQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "kgmid": "/g/11mvvngcm7",
+      "rating": 4.2,
+      "reviews": 88,
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJE7lfRHC1RIYRpVo-b73A8YA/photos/AU_ZVEFXtbI7JcapUWbo5RsQQaNrpmdroDtvLcmYarxrDFAImw033j8azcHDzoGgZqTEjNmTrCsss5nnd8TxJtPKQaOZovjnFkr_FJ64uBmD-YZq1ynjfMtWDTOSSq4m2yudFka1eCW8LMgkiC0f-o22yrf20NC8hu8YiTZSUXwxScD2PiAyfyDv9Q7VwXO7PVMPvuhdUm2HA7fdBXM6FiQKK_z_Oh2e-G6GjiT7G1AA9zY5aEoDBBYAdMoRTWNHKXPpUfYL6eenbBat-acnPHSf0KLECtmj4Q8I5As900YzrDNKzQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJE7lfRHC1RIYRpVo-b73A8YA/photos/AU_ZVEFndEwX-2R-_mQhnibVsRwYJsiJf_ijZnwRH5b09eDXA9ZMS0pWjHAc_eAey13kzV5RoLtzaj-JfW4q5ZEpyC89t86s1Y0dKNJCNYEvmQUWZh1W09UtVs1MuzA6pJAB57nKDE1-xeUtoxpPH5TFMD9D4XIYiLSHKAIZ0wnjV6bZIpIZ8YiH-5VWDDlcRkiNK8Cd-J3myfb_Y0pc7-feyn751aqG6PIte_Qnv2Tjztr6wQsn26GwxENtzLCvyPD7Z6zleB_q0MPeNjekEJLQQnmm10M32Rv9WZ9wB8hysQ1XNBdAqkueMb27eB3slZjwrl2B6qoij_IButPTj-UtVOl8SZv3yHF9jrjL1P7M7KY9iGFMxVeW7FvA8lW-FVN_LS2JlYHhE3FDNllQ5HlAFXDVgy-gGFg4Us3j3pwpoPx9EbQwBUKONn4brZe-Agjk/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJE7lfRHC1RIYRpVo-b73A8YA/photos/AU_ZVEFnrgQ9FwrdRiS93yOyMLdZRmBdf8czIx5KaAcrWbMOYaxqwLS5SMMtzHZ0GpENJmNBZjXkfkvlYqkVyAtUjqe10qK1SvSiNnK3amZghVR4iaxRlWONiWGrH9qsIvySEaRGu_GoeZl2wiwvgfg3pbj6t5_blaEnyP4sWkIiv2wIovDbRqA4Bd4o8DDQWsaLzYK4ozu0wdj3jDc-_ZO1t79uYGON-AsM8qYieuB-38AY0Qsw1m1TwN_kqz7zaulrjT1b5Ay8DD0JMffdhMn8gkKE4FVNuEEuS01C7YxqHMxJZw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJE7lfRHC1RIYRpVo-b73A8YA/photos/AU_ZVEHX6XkPmOuyohk6UhAivjG39zg0j8TC-qMbgGPJbHtpc9XcZKAIyTAj4oqKYvvsr4UmJVwBpEC-Ly0cGGxJsv71J4THc9sC2v7WavFSxH0Pz0JQeZT5BAI6Psb2Zjg3Nb82dZqX6g1eWG6iCiuyxSKOHWrXiIZZ4s7szqwWt4cShRoNMG9nigUjkF1m7VOPOMFWVNq8cobK0qp83S2e0LoLdpgl8768ear2Pf7P9Wl58d9z38EJsiaRvPjG1B6suduZqyHEB8Oi03cwhVSMueuX4fRLzd9Dj_BIHLXPriuaUQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJE7lfRHC1RIYRpVo-b73A8YA/photos/AU_ZVEFh0hyYLEVzdja7OhFKjtBI6xUYqad0pQhJP8SWJBpG-vjWIiRlRQ-mY2OVxbS05aDx-orHV0znuetAGNGXfYuGb0K453nbAfiKnrO8BJ_-A7-U49PjG-u2O1vTyijPt-XkFtQS-AEUBZHgDIOUPrPmTwAxTZLqAlY675q9gE_6Ocil8TXMWRrQJpfsK6aWoWf3KKb7vafz-pxxZxh1MKP-pVKp-xoqXDzL30iZ6GerPaLXXM-S2VBCHp4Bxb0JtobBt9mAbtQXTaNiU7WJsbPuNQskoeSE86ckRiNUycohE4oHnT-IRL8XHYCJlTQX7BChaFGpp4JU0NnWkuFhlnu0a0u6rKpBW3FK8fI7VeHGwMsYKQGWie5mTrRfCj72dDq18boXOVZ_4EIejE_AJW1g6zjbseERXiW3gkUPFmC3GjsBgQ13CW14CTw5LIuB/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJE7lfRHC1RIYRpVo-b73A8YA/photos/AU_ZVEGCZyRs07W84wZ5YMHt3Emn1L7E8_nnSchcwnfLPD1TaR5xgVVUt7AssoViyxuGgsN27jqeNEfh8BQHI_9pViDu_1c9CrONfaXaWS2EZ3syoTfJ7ZQJj9MBuwSVujUMqWPCneugHhp1k38fUoiwStybTunY39GErP_ymUYe9iu_OIDjzvKIqAw12LSo8p5TKJ4nAhFIMDgV63o-EhW8GSnS8cTyngbkq0TciTXIEktuiwaxdedrdpOz38qEA0xlW7TDSSh7Sa1s9239_6iXN1OviwslI9tmN4Eff4TOfb8peJ_lS1h40jYX-6VszgVNcULlYovyDU0dHvPsOsesVsIwP64b18A9q5_m2Sm3YsPvHbsRWDpFZnv20y9zLA-dnFMC0-nfphM-t98c9dPBpyKqJSKfN5bYa7SqL6QDj1o3sZTh/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJE7lfRHC1RIYRpVo-b73A8YA/photos/AU_ZVEGesKalajl-Vz_tfVU7R6g_B9UG2bFPBVXE8XCK4JgTXcfhi79N5rZueSG3j2D20K6vrIDhykvZB7Yfz0AfEy5LUvooTf97xyOmnQVwTJQ_Z4rk76W3Kp3LSu0T8_tyH1vi7FFwQ33OPh9Rs7u-2v39s7OBGJUOeYXNYHXhTwL_yb4KHlJsrqnWJ0pwsr1CmEIHS-VETAXNzeAljoIq7IL5dIlNB2uBHWuM1JdPsZCZ5fzPRPD37xhxuQLASyv3LGNaLZ4Wf7rTUPCh3cfYOPRwX_ePXVq2Mb_RdKdP_TBaeurvEZWz1Aodf4q4PxFj_A3rbuwGc7qhmGrEoW56S8_v2UknkhLdAB_zagSA50K5w4GYihdeP6yYWBYj4UdMGt0ueXJJmqnv59KFoPcNT5XCkXVSW5jKoi1qXxMEry7LNA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJE7lfRHC1RIYRpVo-b73A8YA/photos/AU_ZVEFx3hiHz_RGXPGoMuESNDScvIbOerSJU2Jf0XYe0HMXnc9rtiPtCzzI7FpvFqDd38R6KFVzh1JusyYgoCaF5KfUQvLxL3LGNsu9CMY5MpVmWiQLW-Ez9859bB79kEqNOR1rKYQWg94rzYcyPS7T4UPROASKHaNgWXwSBlry1KfMlK5_knTT3nxPpUy0wKjYJfb2iqHQZU9ZgvTJVoce4x85oo_oc5GnQ_m52FyactJW-5uoFZJ3t8XsgBZGVxmk-Pd1Gveav3myzUyBU9EA2F4J8q65pBcjbjG2Qm-dBBRoZQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJE7lfRHC1RIYRpVo-b73A8YA/photos/AU_ZVEEgMTfq1J_Urr_BCkWivqW52nMZ3UpsMYje6k8deWrhbhNSg0vEoQKDNtWqnPG3yxJMWRrZhuaOF5irbC-KnDrjYeHYLzbuoZniJVHWzM5X1m3Me86njF3am8eTAWs18Guz-K31yPnkeU1CGv5LrYPq6vMWp5od-_J3mBvaJB-fYgIxsqMRp6qCh41w0dBsQUnP81KOICwaZqWJ9Z6bnRLRMtdGeU6-61mtxod3ihEtYncEKCiQXtGoy86ehj9le7UdaVyFfBduSKwi4PwZaX4xopCY0dSrJJ2uQBQgqzfc6mYnZAugX1LGgZjalQLcvxWBKCzb9-G5x1wQ_fSuuvU0Q9SXCLV3YYgH7XCg1olC2nfw49-UlyuzA0h8TEPbZD_fiFotXrxEVuWNRj5iMaLgnzwpes8-x4A6j2mW7rGZDAB2jjiIIqyOKrGFSw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJE7lfRHC1RIYRpVo-b73A8YA/photos/AU_ZVEGZFmm2Eyi_4Lpa52cl-njJZ_Ak0BFiyBAt0X5hUw9b-NF9O755odZFBl9WxruuHkQRUITT70x0BtkYpP4p8W_UEuJjZd4L0so0bPqocWLtWtomgkvvNPxrQvONuBZ_StZ1ZEmbMrcaIPOQmWHp2vXljw1kANWOoxuGAz888b_g584o7y7bmCXR9vq_XOKghqPIEuRmElVdJKdoYajnGMv2yeon87kVVguNHQbhswdvFJDk8L0CoEMc0jjDxZs37QJYibaJU3UPNHJlA34hAGLOOlb5WX403jSkXiyTS3dSvsG5fu7ZjOE8dpsEk_1a-MD4Sb5ep6ZBMzfH_-z3Yj8j1btxtMxSkceBzo9D2TKjFbqeIYLklsVIH49-OFlmK4oam5peI5uIfAVHngokAkujOGUvdcrzZMoH1khAp5leAZ3f/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ]
     },
     {
       "title": "Commercial Kitchen Factories",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",
-      "address": "630 Ralph Ablanedo Dr Kitchen 6, Austin, TX 78748",
+      "address": "630 Ralph Ablanedo Dr Kitchen 6, Austin, TX 78748, USA",
       "neighborhood": "Dittmar-Slaughter",
       "street": "630 Ralph Ablanedo Dr Kitchen 6",
       "city": "Austin",
@@ -181,7 +238,7 @@
       "countryCode": "US",
       "website": "https://www.kitchenfactories.com/",
       "phone": "(512) 571-0110",
-      "phoneUnformatted": "+15125710110",
+      "phoneUnformatted": "5125710110",
       "claimThisBusiness": false,
       "location": {
         "lat": 30.1744616,
@@ -205,29 +262,29 @@
       "reviewsCount": 6,
       "imagesCount": 34,
       "imageCategories": [],
-      "scrapedAt": "2025-07-11T06:17:14.953Z",
+      "scrapedAt": "2026-04-03T03:59:40.878Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [
         {
           "day": "Monday",
-          "hours": "8 AM to 5 PM"
+          "hours": "8:00 AM – 5:00 PM"
         },
         {
           "day": "Tuesday",
-          "hours": "8 AM to 5 PM"
+          "hours": "8:00 AM – 5:00 PM"
         },
         {
           "day": "Wednesday",
-          "hours": "8 AM to 5 PM"
+          "hours": "8:00 AM – 5:00 PM"
         },
         {
           "day": "Thursday",
-          "hours": "8 AM to 5 PM"
+          "hours": "8:00 AM – 5:00 PM"
         },
         {
           "day": "Friday",
-          "hours": "8 AM to 5 PM"
+          "hours": "8:00 AM – 5:00 PM"
         },
         {
           "day": "Saturday",
@@ -322,29 +379,36 @@
       "language": "en",
       "rank": 3,
       "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOf5n11K3vXAPSzrt_r-mkjbEqrNd8tdU1A8nwf=w408-h272-k-no",
-      "kgmid": "/g/11g1dmv0qg"
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJV6y9MdNNW4YRVQqfEE6qOx0/photos/AU_ZVEFWQGYZfm1cZ-d0DlkM0gSP0lMd_0ipD2Zv6NQl1shaoipk-rdhRy0P6F4WETAa3wf2A0aM47n-qkE6fZgPRhdWAvl-ef_og0gICPOLTgrKUHBBE14mmEttLb1TUC7X6NoP7Tp_KbGILrEDxWoW1iiivCM5KPmEX3aY56MSJnELNrN4AaG5VjD5ajjD8zl8R8h8dnSvIhBn6BwtWLRXW_9St-5fxS2fi2PHn54K9K-6Z47xMDv2X4l1CWI1kkfT1YQNno_1bTnWzPsgoViQPD6nRkV_7UvCuDbPTwS-E3fTQWKsolv6kSKnzRp24Dkc414idS_HDQ9aRkhUXTR1_DETbfhXWfvtkmOqh62xBccElfg6k19hcrafhOmSWSwbjD3eRh5iptSG7wgKEKAgLIqMxhNNQXKXylANmVWY_1l2Yjie/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "kgmid": "/g/11g1dmv0qg",
+      "rating": 4.2,
+      "reviews": 6,
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJV6y9MdNNW4YRVQqfEE6qOx0/photos/AU_ZVEFWQGYZfm1cZ-d0DlkM0gSP0lMd_0ipD2Zv6NQl1shaoipk-rdhRy0P6F4WETAa3wf2A0aM47n-qkE6fZgPRhdWAvl-ef_og0gICPOLTgrKUHBBE14mmEttLb1TUC7X6NoP7Tp_KbGILrEDxWoW1iiivCM5KPmEX3aY56MSJnELNrN4AaG5VjD5ajjD8zl8R8h8dnSvIhBn6BwtWLRXW_9St-5fxS2fi2PHn54K9K-6Z47xMDv2X4l1CWI1kkfT1YQNno_1bTnWzPsgoViQPD6nRkV_7UvCuDbPTwS-E3fTQWKsolv6kSKnzRp24Dkc414idS_HDQ9aRkhUXTR1_DETbfhXWfvtkmOqh62xBccElfg6k19hcrafhOmSWSwbjD3eRh5iptSG7wgKEKAgLIqMxhNNQXKXylANmVWY_1l2Yjie/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJV6y9MdNNW4YRVQqfEE6qOx0/photos/AU_ZVEEaj8iYpvwDP-9LeB0p4uixnV71OnxgjE6ca7BvQiyzCfs9PJoxnKwFcs9np53NGo48CK3ZDwuENZLdz2dOrPoENBgPfEe_NG3Ng_M901oUck_1z8T4iDzKY_Q3C3olgLAXZr_1GS3tqmH-78tTTWpZNoYnJtEwNqERxHq9zp3_heZSqr4tsPZTZgeWUtzxpoqu5YJV7-8bMRmDqgy7a0kpce-aa2ptWRAqOzfRv_B0NOJDr_ynpUIQk48Foxt75x5dhb6U_r_UkyQyhcfH3G_vcsUlzxwopJfZZ5D2WIN-Ub9Eu4tdqSeeo5_fQOuHmegWbE6SQNhYr0UW-BjdfpIMEDvH2oS-KmWJLWLgiumEEYGVWJlf4LBq6nwO17HTbiDrcV6LXcHUN05oGn9BopK-Uz9_gEr9Zthb0bMn-rw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJV6y9MdNNW4YRVQqfEE6qOx0/photos/AU_ZVEEpUIHIFfAhzh22dfrD1aGqC8d_mDARnwX48A4EYHpwLeSWopUtjGfbsnCKtNxtatQzFXa4EzZJ5bcYsvgQjC9CNqD8ZPPFzDDZLO1UNjDPw_Z8ldYc4Y6NIXAepJKemaqzG_WZO86FRHxnT_o39lf8t-p8r16S7LNtXiLmch5KJy2wdjUfNRawZM--Xe8fjKai3nWQIfQUfJOydmNVsqf_6BmQ4tM1gjLHZEtHujUNdu5OGpEFWQQR-Rvl0o9QWJ-fNygBGe66fTnRXC0bdSA7YeOKtqpGIhXs0g9JR2emddhtpMKZMruau1l_TZkP1p4OtjsrdSkzQceYyWMopeytQi3AxMYF2Tnw_2ObWZX29yKSEvYbOhujCsq-O1TZUFfdxsolje9HabD3F3V8YTAvfm1KGCXLKBXBIBWS-SdcJQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ]
     },
     {
       "title": "PREP ATX Commercial Kitchens",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",
-      "address": "1300 E Anderson Ln Building D, Austin, TX 78752",
+      "address": "1300 E Anderson Ln Building D, Austin, TX 78752, USA",
       "neighborhood": "Heritage Hills",
       "street": "1300 E Anderson Ln Building D",
       "city": "Austin",
       "postalCode": "78752",
       "state": "Texas",
       "countryCode": "US",
-      "website": "https://www.prepatx.com/",
+      "website": "https://prepkitchens.com/",
       "phone": "(512) 690-2080",
-      "phoneUnformatted": "+15126902080",
+      "phoneUnformatted": "5126902080",
       "claimThisBusiness": false,
       "location": {
-        "lat": 30.3367451,
+        "lat": 30.336745099999998,
         "lng": -97.6878883
       },
-      "totalScore": 4.1,
+      "totalScore": 4.2,
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJ28_EnR7JRIYRP_jRppOTM3o",
@@ -359,10 +423,10 @@
       ],
       "fid": "0x8644c91e9dc4cfdb:0x7a339393a6d1f83f",
       "cid": "8805543958807705663",
-      "reviewsCount": 29,
+      "reviewsCount": 31,
       "imagesCount": 43,
       "imageCategories": [],
-      "scrapedAt": "2025-07-11T06:17:14.954Z",
+      "scrapedAt": "2026-04-03T03:59:41.112Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [
@@ -428,14 +492,28 @@
       "language": "en",
       "rank": 4,
       "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqSdCca18UapwcqWSmLtZs9xj6KESvv_fdnH3WuF86ci_CHXX4bWtQ4VVaeJY5Val-Wd3ViHIhT_t4KWIAaivnWyrH0J7s92EPdtlb4M5mqmSyL2aTqhDg3knLC1wngaQ72hDu_wA=w408-h544-k-no",
-      "kgmid": "/g/11j0r3tcy6"
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJ28_EnR7JRIYRP_jRppOTM3o/photos/AU_ZVEHY1D5EoNp27JrMTaTMO94jYZjHR_PklLktxV26wxAkqWekoAmm87bd-2JcDT8pB4me1eWQFKO8xU7qh7nTcTYWBDyXfkFS-TjKF331O9COvurrHacWbllYkcU1lga2MCEwr7859UDletu0RHfrf0IPc7ManGJDmUa6NiDdPah2nsmCxFN5JkY1DfKGjfbW5sVeBIG5hNdtNrwCUnpjgO_Yw69E0caEZooMs0jSLTN5L_UFaO3P2ypZogN1JkdJmfR3hc9TUGnCC19Skuo5F5DU6fpcGArg09irF2JvfgjjSw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "kgmid": "/g/11j0r3tcy6",
+      "rating": 4.2,
+      "reviews": 31,
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJ28_EnR7JRIYRP_jRppOTM3o/photos/AU_ZVEHY1D5EoNp27JrMTaTMO94jYZjHR_PklLktxV26wxAkqWekoAmm87bd-2JcDT8pB4me1eWQFKO8xU7qh7nTcTYWBDyXfkFS-TjKF331O9COvurrHacWbllYkcU1lga2MCEwr7859UDletu0RHfrf0IPc7ManGJDmUa6NiDdPah2nsmCxFN5JkY1DfKGjfbW5sVeBIG5hNdtNrwCUnpjgO_Yw69E0caEZooMs0jSLTN5L_UFaO3P2ypZogN1JkdJmfR3hc9TUGnCC19Skuo5F5DU6fpcGArg09irF2JvfgjjSw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ28_EnR7JRIYRP_jRppOTM3o/photos/AU_ZVEF0eqI8I_SQfutxTUmvDxNyTbP73bVUViThG_4RxM4HqK_AVslL1Qs_RADacQ-f0QYMWDVN1hoHrivHc21FY-0fvBb-AiaAY7j3wppPY9HOWZkk7wnSiIGsNjhQWOlVxNLVdTi9KO7DEJmAPWxPfAjLY_pfV8wEnx3vm22NUKOcdMhZFtxTqPai3IeghdqP2iCOtqy6dts4jWrL6TWwC_BwbFhay2SLjJTb8-pp4QPX0FTkvy9J5AmPF1thLrmQxUnI3B2AiyUtrNVgvfhHuE6onHAGXYa5vJ3YITCkSKS_Xw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ28_EnR7JRIYRP_jRppOTM3o/photos/AU_ZVEF6zk_V_nnKiTvfvQ6yIZCR9XBfRKu4oLjAhZ7Sy8XC9AdP5u5RnFVnhwr8cMMLAfeqd6QEkw-7JC3s6NWpRICbYRn6bHgKrl5tWSXeTjgfZuhL9BsCtSsS7AM8B1zv-B_-2oiMYpCabE33brjw9F82JGh-ZI1wkOpVzS9y4PfmSBBY6fQTtPfCqEQVdgxymtxjVWwMFXeez0mVPhMxQycFZKBnVX2lyI2wpticY0W5ELSrXet9Do4r5U3l9aj8DS3WP0Xu0W7HASKhMTjrcJQqAZAMzJUjPwa7MYJR3h2Anw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ28_EnR7JRIYRP_jRppOTM3o/photos/AU_ZVEHxWZ5xuL-sHvIHmzDFNmCrJulR-4hzFfZu5RpxskgiPZ1JDHqbJRIjjAbZG1yUzeXR4wZAhv9a1UVLyUHsJ05iu8t9BO6qUvOkB_98j22IF1TRBrYz3UfS55NooXmqhI5MSabcQIZ2PIWHpHvgNufhIewLB0iUqNwAK4sUOnHeceggbVT9aVGEJ_R2oZ5bLik2kuSYLw_G5eWPZKDXxm2S4GLtPoTKRQHyDD8v_tiwU_6xyIQV9s6IWyIqAT3piQhQ-6Q3dyRTf3lOt6Qt_-kjcdvXkKyNEyicakoX-NsYyA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ28_EnR7JRIYRP_jRppOTM3o/photos/AU_ZVEHNGaC0zlvJcPwfD9ciOEvdz4_2BjU9xe50YvDweNtchB6-bn72FbhpsojUy6KUsauouFTyPV_OS0b6eAs4AvZA6nzducDWI-9LSfeWgNSntI8FFWu7Ct0d2m7VeFnGEdAZfLuGd7JOYvc12iAs1NQX08lUG_J61ZmiWy2bxY4Uwh8yvTdJIQH3i7YUNjvSES00dG3hqSohxNfJSWrzn0dMATlOODVx5PWpwkMEiZynbPb2W9zFUdMw8XOPdRnmhQ4COF0F5rGRiYcYtG4w7iUhg3OyicQdLKqFc0gYFPzgsP-rXwF5vmyMtSqQLEnL4vICInI10pG2VxyTVIniL53IbGJa_Tqy5eWe9wUu2tV6bLYvsuhTnn5LQ7d-vb2xfVtKk9B1zEXAhtTIUgafstoq8qm1NujIrQgOs3zNKpqg5Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ28_EnR7JRIYRP_jRppOTM3o/photos/AU_ZVEHjA0LbERprP20F7GBdFVTTP7NgEhFC46g5acypWkz5VY4SK_deycJkNxMNHoID26Chz1qjvARBc_6TBs3IjRu0_dQ9F8LPHyYXP1HEtnH5iNlnl2MKJSLIPrvjIPJqTPdXRtSKfoW8QYp4nuyk5OR512UVuUFx6c0WUItFeokK9qzMfqCe5dOxCnhmIqGdG2vuvNgplhYMClaFLzCU3CKvZenDCNdTkuM0d5IBgYzixt1tN5GweKzS8_bPODnIOU0OsjoQlLuf7WFeXg9W11ssRAdXxIfEu4x57glCqqJe2Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ28_EnR7JRIYRP_jRppOTM3o/photos/AU_ZVEHGI7ZXJ2vxfJ3FmNs-URRpdMh3wMc2t4GaHD9wzd36dTGrc4GVFjgX_E_8LXZShgWE7mmx9dzpoALKTHuSEv9x7KEzx3RznFA9XyhcrpBEU7G8R1SUm20FifZlmb7_Sz3J3cPSv-74TCqTkgzaZwJeJ75ex2xLtKOxyrqqwoGNQhfxzklhh-YFGE8wV4HwSR4UgaUeATOAYXRq3o5HnnqTikBg2yqHY7XMH0WtrjczRKgFyh0LkkfeX8skOXaUhRpZOTiYt5TBnRxncj3_nQFPHQSyc2t1-mmozenE-ofT_g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ28_EnR7JRIYRP_jRppOTM3o/photos/AU_ZVEFlKUr548Qy54bpUGUmFhU5-4AHBcjaAvHt_lq3NtfBqHyNfxARgeDNyCHpByRSPZb6coMyFeWCRYuDQjHC4ALZj_D0UMRsGBA4LDhNdpYJGDkOn4nGxgq0TQxtpCW86ENPRg6tpCVBd0v1dzbgtQDA2MJF2TTj0K9r9spbX2hFuw3d2g6sKpedAcZUmek-88locZ1s0qcAPpXeGYveRy1RK53v1HEgk8PR7eNgTIHqZEujrS9ZWDok4k2YzlKix1EkRm3enJbb0dEAhWh2tjbs9htWcVfKPlcVviD3b0L7wQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ28_EnR7JRIYRP_jRppOTM3o/photos/AU_ZVEHBFXcknvbLJLCYqU5__GjbH-N14wQWJiRZ67DNE4kBDJmT2EG7rNoXIXulD9P4GqAEXuOq2T-lJuS5AjYghxKofL4f8AF16lfzG5sCC6bic6GgZR0euqZBSC26xr0DO9i8epABsYEYvugCeeHeExe6S0u561WdJEfjw3_FcAXAc8l4npNe9G9JFNntSb97rf3_etxfOLrVwT91jWSl6KMgg-foWxzZqJcrW9ofy8lJybyIB6H44Fa2mzhdGdMesWnjy5ags7kkADddSbkIfDxBybYBS-WxRvG4CKmyv022YA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ28_EnR7JRIYRP_jRppOTM3o/photos/AU_ZVEEZL2w8vvfH9_Gs5m2zb1e_lx__kpRcE8g2QgOG70y2vmciENa93QMpt1jUjvb2EalmIEf7Us-VvO8BPm-oQmqVdsHA-nYCbrhmkv3v_JqgC3oyjp7Ssi3md6JXxU3JcLfDx40BkolNvDk9mRy_ofAsBpcZ4WOvxJmRoA36C0396IbOyo9PO7-LSPlz6iA__Y2H1EqMcqqNVTuXI1E8e4lkQraaBr5ylvxra8piTT7X_j35MWH3IBmQVjGjfwybzHmGrqXhbs-wmQBRYsO4l9QJ9MjcZddguvTfzZQB3mdHRw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ]
     },
     {
       "title": "Manon's Shared Kitchen",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",
-      "address": "8309 Research Blvd Ste B, Austin, TX 78758",
+      "address": "8309 Research Blvd Ste B, Austin, TX 78758, USA",
       "neighborhood": "North Austin Civic Association",
       "street": "8309 Research Blvd Ste B",
       "city": "Austin",
@@ -444,13 +522,13 @@
       "countryCode": "US",
       "website": "http://www.manonssharedkitchen.com/",
       "phone": "(512) 587-3080",
-      "phoneUnformatted": "+15125873080",
+      "phoneUnformatted": "5125873080",
       "claimThisBusiness": false,
       "location": {
         "lat": 30.3561322,
-        "lng": -97.7148334
+        "lng": -97.71483339999999
       },
-      "totalScore": 4.6,
+      "totalScore": 4.7,
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJe_LTy8jLRIYRbH4chiRudg0",
@@ -463,10 +541,10 @@
       ],
       "fid": "0x8644cbc8cbd3f27b:0xd766e24861c7e6c",
       "cid": "970083872892812908",
-      "reviewsCount": 20,
+      "reviewsCount": 26,
       "imagesCount": 50,
       "imageCategories": [],
-      "scrapedAt": "2025-07-11T06:17:14.954Z",
+      "scrapedAt": "2026-04-03T03:59:41.421Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [
@@ -547,14 +625,28 @@
       "language": "en",
       "rank": 5,
       "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPagga6yTno8C7wmUo-FVoF3g4brQJlHtLNv5gH=w408-h270-k-no",
-      "kgmid": "/g/11b6nwjhcx"
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJe_LTy8jLRIYRbH4chiRudg0/photos/AU_ZVEFN1E6YiopXKLFOQk5K6L0YIrphp_yqnqoW1sFo1HapH8sTLQZKWIrd1YVYFBLQOwUJ6WyrLH22sMlZuwPJVbRHg6dHn6KLHi4ZDRs8Fyqt480EMnKN_TZ9nT1KAX8NkwVCVR6lSux2k90620vvs4eCU4DQKE7I_PFwTLkMg8l3jcMHAjEKYOG8CylbR1SD2hTSYZf1lZUR9m03jl8_A8P_mOmykzpksyTSO69goZ1P3183HwG0QVUE35la2r6BSPG48Rt8GDhz1wP5FlGiSarAHJ4Nyy-25an73FDH2-jn3g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "kgmid": "/g/11b6nwjhcx",
+      "rating": 4.7,
+      "reviews": 26,
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJe_LTy8jLRIYRbH4chiRudg0/photos/AU_ZVEFN1E6YiopXKLFOQk5K6L0YIrphp_yqnqoW1sFo1HapH8sTLQZKWIrd1YVYFBLQOwUJ6WyrLH22sMlZuwPJVbRHg6dHn6KLHi4ZDRs8Fyqt480EMnKN_TZ9nT1KAX8NkwVCVR6lSux2k90620vvs4eCU4DQKE7I_PFwTLkMg8l3jcMHAjEKYOG8CylbR1SD2hTSYZf1lZUR9m03jl8_A8P_mOmykzpksyTSO69goZ1P3183HwG0QVUE35la2r6BSPG48Rt8GDhz1wP5FlGiSarAHJ4Nyy-25an73FDH2-jn3g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJe_LTy8jLRIYRbH4chiRudg0/photos/AU_ZVEHGKd20fivgVH8THXulqCfMsBE23lq-_066ZTgZPr84_q6FXEaxNoLsHAO3qtLNjqHvelFWHo6w-am3iUrfL3Yl2vHWsf626OLB4pLX-bRbYScB-zcLu0s5TrpoYwPM1r5hYOWXwWKpXRYOYNk4DLBJI6kMd-qxrPtDPSjr3TmzXEzOPAb-q6NwCSIwh3V0NTXG-nShmOHqw7gd7KmNjXJqbZf7oR9XutgU1Xh2EpYcfMraUYSnaLjqD6X3zVAvIw14XDxbMCjvEcjVYrnD-R7czCgBtMuKeOXduNj8GRRnLg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJe_LTy8jLRIYRbH4chiRudg0/photos/AU_ZVEHaLTbPep0f2ITUtkZMpWp4NCkwicMK5GLob_tBQjU9JmjZ3JspDptlrWw4-7YnTAsQ5Z1V5On38B3V4iGEGjiFzlOdvxP3bRUQsgbKmf--i0GnHRorykoWUYQm2IVXfxpiDJtXUl_jbt-8qDyS0t7O5k1DlzY8zBp8C5T149X42NboDjIObZNaUl-aK02NUJlS4t53m5QK45hv1lL9n7PBG_g-gwRr46CxVZM8tfmHpG5n2SMTFMRrxJGnfuDsNRpNeu3A-N3rHqX_LGJV2sOJGoEEAzxI4kDZjvXL8q5lZQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJe_LTy8jLRIYRbH4chiRudg0/photos/AU_ZVEFKym8CQcIeBloYVM9516gfv5fyKRbqDp8KbL0R1AZCrydIQ2Q6XXoLaVw_t9glpxoFcmpZlpPvjuZxbRbAsxCB-AyFqsN6cQW07Uf0b0lyM6IL4kZ80g8Rk1np9n9LftaEuiynwBMHpLMwdMqbB_F9subQBWrr1lDqbp44wsDnh2wZeVNZO-by4c1SSPhbi3mFXwT38rXQaQNkHN1Y6drNICZgXo_8ZkwLR1imaVbRScCkUrne0nnuxyKCCS-WVLe89jQXjBwjsu-nnYSzlFiddLePTT-U7I68uVfeygBxmw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJe_LTy8jLRIYRbH4chiRudg0/photos/AU_ZVEHVy5Qw2hkYiQLMgTcH-QzfXMiopF4YjZjGIG5xXWpqg6UUHsb2hMDl72Zy-_pZb3m3PMS9T-oCVZPXjIolQgb9HXWUJrMJMpLU2_oAOqN8H4UDLmXIXCuDBtEWDMLh8qEbAUYwmkI1MfyYHugbkQP2BlptsNkznXeMUhdc8nWjhw1AHz4XnfdVRssn8o7D0NWly3i17WRkCaywTrLbRhFDnP3GWQpLGhMKBNzNffnS2RnQC-pImKl_SgiZQyDoTLpxd1CyaiLBW8m1pwUdE0sUFAMIocu58cbcj5VyOu_Tnw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJe_LTy8jLRIYRbH4chiRudg0/photos/AU_ZVEG6Kv2K6FEuWPT5OOfhVQ0Yo3bSL7K43zzOHHIkkg7t-asx0N3OJNbcENRB8dBVPM2pQXmPSKx3pj4LBj6jm6Can66_4bW0HcF4ruqYGhdCQ5uthYO82s6D1hxeoSOYdslhq9EvpSJbp7lWevgcC_YJ8pQbNsfxjeEorIgr_wTdq3dbXt_G0FFZupg3z-q0jaZ5SabK0WAWtKl38ZxBe9y1jlO2v3ZxveEdhtmUtWbIOY9bPx8ra6AuXDUpBrzf8MkwRGNEDx789VB9ibYTDYyJ8UdFBNz17aivllw7-X34sA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJe_LTy8jLRIYRbH4chiRudg0/photos/AU_ZVEH6iTf9_AWdEaPW0RQUcm9sJ-PpYTcyGEbQL64gdolH3KfDH5yzepldxU1MByTw442bjdRbBjqfcBOqRPVpDWd1gKMTWx2i0w9ywY_PFO1lRCT1fQGfhU-O_vHLz_dXcVeSXnpKUlkjOnuWRjtBt--XwrSdPTAsg9CX9qw71_RnIItkFj8qOG1o5khTW8GKxC4T723NqT6WzLae68DISdvwdbgZRz7D7BYPW2uwQ6ECY6m7XO99tfJYcjnYKcf_uTJ3GQXdpRcD9x91rIQwH-w3ZaEQZ7ET6acd4tyKV0su1g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJe_LTy8jLRIYRbH4chiRudg0/photos/AU_ZVEHgIZGXoo6zvMc9ZiJ74aLa7P4agVfe1xt31BnF57OGQ2VZlrBMIoB46KeyVBQJDF-Xq5cIRWbWWq0ehap0GmyQJpHnXYxkBdtxHO_PStUbaAGraJoSys2BhTgU-WZiufhe4ELm4-KAh1-3XrJf31GTI3DjHOWPOZaO2SGxLVM5LxIFV8qqB9VzTnmOBH_3SF8GAAQv32Is4CsbvutHQs6Tz1drYa6DnPk5INBT1b3AivIynZq8X0GeRboFd27rmoPBDaQmGUZuQyU4IInxiyeQDZ1ArHlkwhmygjAy2vUBjw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJe_LTy8jLRIYRbH4chiRudg0/photos/AU_ZVEGk-VRvQQsMawITOB4_AInmvi_ZRw5cPJPOvX06o0AI6Ap9fpmIaf7KFSnchVbuGXep2NWfqAqrlUq6jRhP64gIBA2kccjlO5WRXOs3OizKngTzmk4BrqYvSKaao_FSidufKHW_Sq_50yDqEgOi4DT7FLykHwsOn_s7k4MTzAUanDjpCt9qvI1RFHU2l3ZgBQXTfUeD7UT4AixCfqRXQWi274SO5raAp6ET7VLzspkxEJAph7EDMLTUIiNOSKWGWmFsndeHJcbWa0C5dVTfUidi3z9_mhLkjYJ-OKWLQsT7FA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJe_LTy8jLRIYRbH4chiRudg0/photos/AU_ZVEExZjhng1SO3TkKBrBmAEQIGPeE9eOjUkHvt63QwE15gVMF7LgR90n2zm4wtJqb7xIx2d-aK2GAvn9u80oLn73XYwGfiTDngQ2NaLsPqTzleUGb0tka4KxfQJGj4O2HQ5lcC27dQtgGeXkaCxCcMmw0q9lmkdvatKA9zSnJx6Hev_hFaB2yg7ekO2EOmuWZqRaY1wI5XiPkTkqOE4cE5I9rf-CCxW0n7jYk157MjBKvDL-VmW5aHG65yZ2lw4kT9UFEOIaViinpgV6dPkdenfjzJ9pYOpuH6ph9rYteBt1VMw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ]
     },
     {
       "title": "Moonbeam Kitchens",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",
-      "address": "6319 El Mirando St, Austin, TX 78741",
+      "address": "6319 El Mirando St, Austin, TX 78741, USA",
       "neighborhood": "Montopolis",
       "street": "6319 El Mirando St",
       "city": "Austin",
@@ -563,11 +655,11 @@
       "countryCode": "US",
       "website": "https://www.moonbeam.kitchen/",
       "phone": "(512) 508-3849",
-      "phoneUnformatted": "+15125083849",
+      "phoneUnformatted": "5125083849",
       "claimThisBusiness": false,
       "location": {
-        "lat": 30.2392268,
-        "lng": -97.6925228
+        "lat": 30.239226799999997,
+        "lng": -97.69252279999999
       },
       "totalScore": 5,
       "permanentlyClosed": false,
@@ -581,7 +673,7 @@
       "reviewsCount": 2,
       "imagesCount": 10,
       "imageCategories": [],
-      "scrapedAt": "2025-07-11T06:17:14.954Z",
+      "scrapedAt": "2026-04-03T03:59:41.700Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [
@@ -631,14 +723,26 @@
       "language": "en",
       "rank": 6,
       "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMA4JFQb8YdbCi97P1OIWWoUTZ8isZdYPA9TRv4=w408-h281-k-no",
-      "kgmid": "/g/11tm_8ypny"
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJOeXhzPG3RIYRc-cWXskDKm0/photos/AU_ZVEHZHhASQnuUuIvNatYx3qIV8DWjGdvTuzvAExmcK6P-iwS_YJYLVLV-gIyOqvht_qDhrZJmrUgbYIVGQFbMvPo0rI35uMYm84Ka0GZ0karHrXQFnj1jDR6Uk6wi1ZL6QMwQPbXw_NAB99kRx9Kw6mQ0T4YzlWVyIzgZwtpo4gTVTYP7O2PWrrYECKve_4oghFoKruiZ4zzGF3CwSpIwtlgekkV_vn92Yy5M9aBB5TbdjEkpIqITevxyg0KmSS5Qx3RhXWew5LA4aPbVQDctldmv4qUt2XDYukOZQWP2z9fk-g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "kgmid": "/g/11tm_8ypny",
+      "rating": 5,
+      "reviews": 2,
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJOeXhzPG3RIYRc-cWXskDKm0/photos/AU_ZVEHZHhASQnuUuIvNatYx3qIV8DWjGdvTuzvAExmcK6P-iwS_YJYLVLV-gIyOqvht_qDhrZJmrUgbYIVGQFbMvPo0rI35uMYm84Ka0GZ0karHrXQFnj1jDR6Uk6wi1ZL6QMwQPbXw_NAB99kRx9Kw6mQ0T4YzlWVyIzgZwtpo4gTVTYP7O2PWrrYECKve_4oghFoKruiZ4zzGF3CwSpIwtlgekkV_vn92Yy5M9aBB5TbdjEkpIqITevxyg0KmSS5Qx3RhXWew5LA4aPbVQDctldmv4qUt2XDYukOZQWP2z9fk-g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJOeXhzPG3RIYRc-cWXskDKm0/photos/AU_ZVEF0VafgJ1ts7hhay_6MlB8LQZ-JfY1O49eZnN4JFe98Q_zSvlqn1QZHwvLXwyMBupQ2R8qxehqTRCCbDUn1iWxWzwvz-9G_kcLj7DQnKvR9ANQ2zrjaCsKC7ikuElCUaWs-Bqbs-W2eOc45LrLqzKvvC8hsnvKqNPOWG_td0H5925oA6Lp763_OP51mSal_IIKajQUu2HIxzg1tDcKuH9DafCyxZwj4ACKgTE-rBiHPwHPIeWby-JTspwqj9rvxRz-wO4CrrtKtklbuwMygRdaa1N99PwMAYf549DOudV-OpQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJOeXhzPG3RIYRc-cWXskDKm0/photos/AU_ZVEGIUk7QaK3s1BkgWHoydWFESvyDh27zBMoVkb9hgui9zl-E9pwxsWK7Ogb8rEwiZ8sE5itXmZoExQEABOx_UfFSUvX-M46AaFEX-l4i2zPbnksRpxm9C_-sq9OImU7MOxQZ5drECD6gizF0bLq8oxc7s1OFvl3yKnNNjkR-dQf3NSuW5KCAD7EpiPPfrsDMjIJd8pMUnbaGAX4VvZFE4impAAFzlVi6wg0vwLIYmFDikvwWbeHQAhLId-n11N2NSGqRNMm3Zpt1Pf-I-0OMt7ICzSCKxSnVWO-GbBNhHmyzqQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJOeXhzPG3RIYRc-cWXskDKm0/photos/AU_ZVEGfv9jDK8URB6lAgb2mUr_skGMURUCFSmdjt-BlsiYKPP3LbSVbE_DMdmbNaJBGkZCXmaOnLWNnxv9CrzAINEMeKTqYivjeXhI0w6UxNvJTWyAj_BDyLYZQIVGQb6gpJqTs5PcYfMkL_pXZTlSK5VWpsmsezyxIbOwUfYd7LXMw8U88Yokm3v5Tvquj9N38BlO0-EdTdEGceyQcWkErroR9FCwkm-UG8d_GK5-T6pP4vYMUKq0GYoWi1mwj-QdDtmdUc9CACEqEddW5DSyxuoP9FlC9xhTs-YByNnZhNS7Afg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJOeXhzPG3RIYRc-cWXskDKm0/photos/AU_ZVEE5OnGH4Mzi8r9nbJ6r0MIigPr3HMWg4oYkmpINat5nh5xBSDnqOkT56-3Ud7zOUksWt4RyhAVTIb3D9KoJJEvUCRfymb2Nzft0BmkenyN_yIYmbwSWwENJ49r54AjipCr2W0UHyo58Qh8mvwkNWL3_vpsp8isdh21RsXUGRJ9Z0PbzbhseezFDX1D6FCExwE3LIyGp7aDakTcMVSV4Yj23YvEnw0K7zlw9ZT8AakmXf4BUcmPR50p-WQNoY519DpojyotzADz7dje3xPBdmTP5ocm4whGWVxKvBHSoVN1g6Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJOeXhzPG3RIYRc-cWXskDKm0/photos/AU_ZVEGKRllMU-xKTxp6vmQZecTQ_nBT8aOP_6aWFRDrFMo5-pMUmiL9IFyGeBOhFU_1y9KXsQxUfZdNmBaZalSzO5h40NYOTWSyPOB7JaA_qI-OWC2XUUjfNOJbObkPXHoPjxVll-ZbRBQNbktavgg9XXrS59gc9JhKe20vk4x4sxXadvFGkLmfORr74WB7FoS9RjeSjK9ni9sPgrv01Jqwx30clu5qgbaEZUEIJ_auMhN5Yb-qjvnJHhtBxLarRLoKd9Y4WJkTr4JAohZsOihM1e1CCh94bMffhYGwj3Guwp4NVw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJOeXhzPG3RIYRc-cWXskDKm0/photos/AU_ZVEGY_Aa_wdhqq34oW1zC1a98JZH28_OFv9dQltKngYWoMp6UrpC2uh-KcbqGykfeGlF_IQjgdl5grZOaZlNbEcZfBGZa7V6Hq6DF0Zx0_V0KUH4KpC98kmMTG-ssSWkVTCBpeaaNfyQgMWJa5RZJUUH2EHfczFrsAFJFZFT4hkaiXagmiyjSAf1NX_pqKKL-TrcLeWZEKTwv8CmLJKB0ZAG-eeNbBrhYlaBRS8y15i-9k4qPmE4Ej3iNR8-ZeKwSz_NXBTdtioLZYX4_X4mGfIpSYt_yDObxlix6OrtdESDMnw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJOeXhzPG3RIYRc-cWXskDKm0/photos/AU_ZVEG0XzD23To8XaPZmVdaLrLJWlq8GtP0FGjoj0vnvtwu34vyxvPdKafezJSmhiP-A7Pc_ssxpd6TlwGWrbMnZtD1Of2maYN9331BTl9JMi0AVtiaYSCXJmsLmWvK-JZCEHg4eDbI_ky2vTM1v3PDP_Y1N6HHk3Fzsg7ooUN0S7THqjF7PTvLB4Mt_O14OXtJGqnzh7-sKCcKjAHZXMI8YnYHKELUsDeNQPGhf4qSJYO47to5Td3MDHKr1u_C0UeqUOK9N6M4cj6eB4IjWkM5mb1LV9u1JfBjdstXYi10NEL3xA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ]
     },
     {
       "title": "Wingman Kitchens",
       "price": null,
       "categoryName": "Coworking space",
-      "address": "1023 Springdale Rd BLDG 1 STE I, Austin, TX 78721",
+      "address": "1023 Springdale Rd BLDG 1 STE I, Austin, TX 78721, USA",
       "neighborhood": "East MLK",
       "street": "1023 Springdale Rd BLDG 1 STE I",
       "city": "Austin",
@@ -647,11 +751,11 @@
       "countryCode": "US",
       "website": "https://www.wingmankitchens.com/",
       "phone": "(512) 710-6347",
-      "phoneUnformatted": "+15127106347",
+      "phoneUnformatted": "5127106347",
       "claimThisBusiness": false,
       "location": {
-        "lat": 30.2676324,
-        "lng": -97.6939238
+        "lat": 30.267634299999994,
+        "lng": -97.6939239
       },
       "totalScore": 5,
       "permanentlyClosed": false,
@@ -663,10 +767,10 @@
       ],
       "fid": "0x8644b717a6e83a17:0x838cd609f608a847",
       "cid": "9479186653978863687",
-      "reviewsCount": 8,
+      "reviewsCount": 12,
       "imagesCount": 15,
       "imageCategories": [],
-      "scrapedAt": "2025-07-11T06:17:14.954Z",
+      "scrapedAt": "2026-04-03T03:59:41.928Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [
@@ -745,14 +849,28 @@
       "language": "en",
       "rank": 7,
       "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPQP9o2j5KiPH9QZLtzXBI4S21fzBcbjhU9Zr57=w408-h544-k-no",
-      "kgmid": "/g/11h4vv_8td"
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJFzrophe3RIYRR6gI9gnWjIM/photos/AU_ZVEGIIAICnHRNXheRD0QaqstvA1cuZBlkggbkcc0aivrm5-69FsNSqr8vL38avqnJoyNXOU9W_wTdyYWVCHGitxK-0pgJnMhasxBvswjqztLb8Cp79VDpch6VCVnYHgu97U6QUknZ4EtZfIDIrCqUEDCQsHKoAA-r6ACwQnTwecwZJMLViNUJUfiGfxahVh-p6C3i-7YY8RWQuep7mxClvTAbtRcoPzN4AFm5Br7EYA--LpifafddTRbRgws48Wnpr_r9nbTeRgQvGP-gmCFPl5p6C7m_J27VTguCh4Fld-i-Jg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "kgmid": "/g/11h4vv_8td",
+      "rating": 5,
+      "reviews": 12,
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJFzrophe3RIYRR6gI9gnWjIM/photos/AU_ZVEGIIAICnHRNXheRD0QaqstvA1cuZBlkggbkcc0aivrm5-69FsNSqr8vL38avqnJoyNXOU9W_wTdyYWVCHGitxK-0pgJnMhasxBvswjqztLb8Cp79VDpch6VCVnYHgu97U6QUknZ4EtZfIDIrCqUEDCQsHKoAA-r6ACwQnTwecwZJMLViNUJUfiGfxahVh-p6C3i-7YY8RWQuep7mxClvTAbtRcoPzN4AFm5Br7EYA--LpifafddTRbRgws48Wnpr_r9nbTeRgQvGP-gmCFPl5p6C7m_J27VTguCh4Fld-i-Jg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJFzrophe3RIYRR6gI9gnWjIM/photos/AU_ZVEH71WM2Ej53HTQxUQQ-Bwjf92VxCRVY1-9FfpqfrwiVP4XOwqqXrzk_9HNuGei7AWczBcCN1mJN54V6O_Wg2BIgl7nhKoFRO3zCuUtPM6Qg0JTyV7ZJrIo3gh6vIfkttnrkbdMBoGLGKQ4G7kFBK2cCysy-j2vEBGmHJy7ZfIIQa-vWmQHk5sr4WBEe8lGnbt3VZ7MKPK9qK8sk1XZcjrBjGv9Od1gIZ6hV52whvMJEg9iWD82T7yDKjbtkMh_iBD7RwplLVPMzBnpu13ElyEAm-20XMTeD-YMqgTvtX68IcA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJFzrophe3RIYRR6gI9gnWjIM/photos/AU_ZVEEMIe03qfOI9N9TxPAgm4y9gPIzlnc7Uv9DPUro6PF2LiLiYWRYEpmkP8XQPNv7pzV3ib1ImCvbEqWCiR9MHKkVAgOu0GCMWH6UozHOitIeIfoMtZyC4RrFZnWtnncAGhVMnuaRKJ4orTGDQere1CA6xP_kuDNIEM4mUg3wEPU-anIVGhkIcQ6aO8djIB1YzLS9jmsbgvpI7tm7FCyYaOiiR-D-y49-7zmf89SnWnkDS-dGw0UxY_69CsFpvcDxjXL6V7f5Ad2_HCqLkoR3XkESYbDMGltGGF7ExDpoKrbMZQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJFzrophe3RIYRR6gI9gnWjIM/photos/AU_ZVEFgTY7tf1-7KxL2u6yTDo66Du4p94UADTTD5OOOQgDaJQMsgt7zrMwT-Kebw6Zv5XcYGX8jp328K3ZucOYUiXJ-o99RT0TKVzntXW1tDAGQdlsKQwG9QNPNuyLMQV1OyDnK2U4AJnJDPZDfJDaAn5xLAIpUkYj1UcLALCek-ws84mxppYbATb1lGD92h_R2BVpkskWgOC_iM2pbzthvnlmvkzurmE71VwtkwiatgG5k_d0p-pvIpGVm5JB1Liy0JEEK_BXttu7W2LaHpEXW0kIkxtkntWjPc78e5WEg4hYhgYCJHY10w8oVmJHt5hhZvQvkkjCEj1y2LeGFwqnHna3Zgu6LZalMNQass7bCD53wY8IMWsNJgxGxXTrTAk-BjHXixJXXthkh_RrXgj378sW0LEE3okxIGLsKKuFwzfnzWw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJFzrophe3RIYRR6gI9gnWjIM/photos/AU_ZVEFIAnOca0MNkIVixB0Zy6pwTOvSkl7rTSzQ4UemCsio9PKlqN33e1v0Q6TC8qft0ffyFWaocvVo8HAG8BqA0HXNre_LF3rS8-h7X7wn1dSyNgHCdb4v0xsLiomC-xt22lcI1pSHk6_okridXqtinl-IzEC0n9uqjk2gQWVMHOX-_pcuzAkBVMMFyJtR5QtfVr196FffBYabMxqnq3weeX2CiYtco2cMxEa_dP7m4wjF8O046sEKR5QojWmi_nq6geaeSzcjoXqEINhvf9Mjv2EBgC1MUNwxnsYfAuCEDPWOdmlQgg6muSKZVZDPOO6mtCj1Cy2_9Ic0jwTcq37K_vfeaqhvduqM9VmqSVTepaAEMQcyiguz1n4nUyT1Wcv5RX6ZYTg5p1JHI_41XU2_O2OLO3Q9XpIKZfnY7Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJFzrophe3RIYRR6gI9gnWjIM/photos/AU_ZVEFyy0kN8-nHYU4unOtvrKtbB5srEONfDhLz0ZQbyyV6Sks7pf3WdZLh_sMktiCW4Rd3OWBiLuhRlT7Yf7jzYNZHbhmvV5rIwwp5gHdh8PcEl_Upe-C-wy-LrgRiFAvL0IgKFlnBLO3AjrXp4qaBLrsPmFnKFHsKHcGcmtV9wRB1piiBafAa5F1dnhkHRdpAsj0OIgf0JbDuD84d_WgVygqjZkFUQOfj8nqXzqVbGOt3dF9l7XGLNQfI3ruUG_J8M166FjtRXki5XKYpSWdGBLeYjq96oRkpwFKdVLCZanTkYw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJFzrophe3RIYRR6gI9gnWjIM/photos/AU_ZVEHhliMZm4MOclKczMQ9fj7ArM53wWoRIqE-pyev3M7hqpGXmOFUEuRwbcm-_2oJ8ryliZP9k3EbGcAbyCZBxOsMFYCJSIYKhDId2gDD5ASvfH2pctF7PBuXq-PuSl7nyXTdLNSap6ObGd81avOQKZggwLyGcXobtDVREoUuVEjtjyQGbxq5IBSmRjyd9XVa5M6lQ_4XYqxbdyOH6Rz7vPACYIHM2KkTHk9rhvJqmg5PuIrlxzoHPZUkK5cWmOCZmUa1-dWWu8aL2y3gNbhFH7iEa7vLNRTvuKw8tvRllQD92w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJFzrophe3RIYRR6gI9gnWjIM/photos/AU_ZVEEX0YMPYnS_CQgwc8z6LGAlx4i5qE9V4_5xbDWfMSzIJ1ngG6Z5mJNWnmENi0ox_hcZYl9eOqsig_z5g0WQExLODYBHPJuzXP3kgYPs2lRP5Ft-xmpWPc3AT2X6hbp3wj0_HxRx6qyh_Iz8B0Gs5gtVhNGaWYh48V1QvBci5eLe6Y2NqME-DLbNqnCiVQWCzAlKP-DnkaakjzvSjT2rqQBLtb6i-GWDMYeSCVsY1EAt_qKA4ZsbfaEbzpwg72PePlGAjQbjoXXx9l221xFW9FvpDCIEUXB5Tjztpyc_-1OgzQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJFzrophe3RIYRR6gI9gnWjIM/photos/AU_ZVEHOpczQxZDQHb9I5f8xDB5LmEN8XILkpI98Og1egzT1kx0JfdQyLlAXjf7loIelQuee2GixD7uOmiYeGf92IZ5bPzv9zCo1rsdZzxZ0a58NrAKDnq83Vt1e9cx-C3ti5t3l9E_4fejdX0A8lotVLw2xsEF9MLHMfCwwR3fuFxm8NTqUI-vwHVk0hsZSqR6KtUlgk4Jyx2R2H7XROs9iz0rTq3rcxNHzoe_-nyJ0TK5PGm1MrWHWYVXunpIfrNw0GSwDvGK8rqueFt79WlPEe3XallSzopndpNudOTFPfiTf3w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJFzrophe3RIYRR6gI9gnWjIM/photos/AU_ZVEFFMraBNdS7JFIos19NV2CAb9ArhZWI_nl0EbHonotFkfrGwBvDdHJMatCDJJ2kvaX-aEmG5FKJrNCsVqzTQopOM2u4_FZT8Bl9y9MCxbilAcMDVIYgHl1N4cNLlBHSe90D6GSMAK43gPPaDF1PV48yNPb20DPuSrHrNK2KG_zZS698v84fQYI2M-S99KwwBIHpbXCQgPHK6AqNsQZ3iiFRFM2grfNkz7EoSqzTXmOO57hEzT9H6rd2C4VnTtUECe1ucPxwk7stvKyUlCk2WqwG_9JFRdDXXyL5czCo6lsibg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ]
     },
     {
       "title": "Just Add Chef",
       "price": null,
       "categoryName": "Food and beverage consultant",
-      "address": "3505 N Interstate 35 Frontage Rd, Austin, TX 78722, United States",
+      "address": "3505 N Interstate 35 Frontage Rd, Austin, TX 78722, USA",
       "neighborhood": "East Austin",
       "street": "3505 N Interstate 35 Frontage Rd",
       "city": "Austin",
@@ -760,8 +878,8 @@
       "state": "Texas",
       "countryCode": "US",
       "website": "http://www.justaddchef.com/",
-      "phone": "+1 512-431-1157",
-      "phoneUnformatted": "+15124311157",
+      "phone": "(512) 431-1157",
+      "phoneUnformatted": "5124311157",
       "claimThisBusiness": false,
       "location": {
         "lat": 30.293034,
@@ -779,7 +897,7 @@
       "reviewsCount": 9,
       "imagesCount": 9,
       "imageCategories": [],
-      "scrapedAt": "2025-07-11T06:17:28.664Z",
+      "scrapedAt": "2026-04-03T03:59:42.204Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [],
@@ -808,14 +926,25 @@
       "language": "en",
       "rank": 8,
       "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq8DbME_gLi0SB4mhfWXN2ic-1dSRRkeWZZwfGyznkHUuSLqzMZ8HRvvryTTKAniiltSVs3zbQeYbebAKMZx5P6u2CJarjLcKGceg6LHM4Q9mhTsroE8zhnn9xKG9oZ7nrEqbNBzg=w408-h306-k-no",
-      "kgmid": "/g/1tsjf0nf"
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJ3baRtYy1RIYRmI3WU59kVf8/photos/AU_ZVEF6qW0e-3DIeJnfrOLCN0zgkOKwfr29kflE7En9THS09xoC3At4tOF0XBAANvchgwhKX8_mwOLYAKpEFpbfA_2TNTPeacVa5Kr_gzCjzeQnVDikZu8ZwH15bqlBESd9uMNZsf_f-FpNekhg8cj_Boc2uD6op7HYPY8qHNcNfU2O-wqplQU2vQU9piRJhm-29dLdodL9Z2zQEnNUtEDBnPMGfUwzgToF3P_j1rDzGWEGGxcmgfG4cW2CNU_DZJOD_gSEoLbkB1ubWpTs3ikAA5IiHyJX6V2CXaSED4V3mrL_CwPjhGUIP_zRdQDMcRx_w5V4nSopphmRlrPTj1IEFqxuFpl6rFtUDlS4h0vrQuoWreJa9kNpPn70wiGRfQNbCss-bkqmMNnhBm4EUUvQetBTN7_ktyahuU2MPIbN6G3trrno/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "kgmid": "/g/1tsjf0nf",
+      "rating": 4.6,
+      "reviews": 9,
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJ3baRtYy1RIYRmI3WU59kVf8/photos/AU_ZVEF6qW0e-3DIeJnfrOLCN0zgkOKwfr29kflE7En9THS09xoC3At4tOF0XBAANvchgwhKX8_mwOLYAKpEFpbfA_2TNTPeacVa5Kr_gzCjzeQnVDikZu8ZwH15bqlBESd9uMNZsf_f-FpNekhg8cj_Boc2uD6op7HYPY8qHNcNfU2O-wqplQU2vQU9piRJhm-29dLdodL9Z2zQEnNUtEDBnPMGfUwzgToF3P_j1rDzGWEGGxcmgfG4cW2CNU_DZJOD_gSEoLbkB1ubWpTs3ikAA5IiHyJX6V2CXaSED4V3mrL_CwPjhGUIP_zRdQDMcRx_w5V4nSopphmRlrPTj1IEFqxuFpl6rFtUDlS4h0vrQuoWreJa9kNpPn70wiGRfQNbCss-bkqmMNnhBm4EUUvQetBTN7_ktyahuU2MPIbN6G3trrno/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ3baRtYy1RIYRmI3WU59kVf8/photos/AU_ZVEHnZbeayBKFnBLB35khCTiabDwy8AX4_sgf2383heIU9fKH0jEFL7c3L9IiSLp98PLgLfTXUclcHcQoRcqF8v2jZljdKsAmHhKBrub7RIy8kLsSqkV-gpEFwEOqgLOu57PIppk4r3orRZbvskafPVuBAkVKi0XpdloGTDirOxM5A3PnlA_2B-OA18tnmvwyXxWD8UyCjkXAUlBIXHM2eNEAk3GouZYnB6nvEIw50dkzeu4rs6YY2ZrwKSpQ0LoKRv_Q3frwLsQZgwIT89Ks_95jPNwjWWqEohvSBVwJ2_-Wpy15GBJygaSM2fQOnEhwfZQmy7EmViryzLnH12tgyUO4hZV90k3LDUZbpY4Y1clOddqVEeN17RMeKhLIQBGq7DViEAuG9IdlajjxZ9W-wsiobKtNi2THkoEmVpDmWVMbjC3I/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ3baRtYy1RIYRmI3WU59kVf8/photos/AU_ZVEGuNUSy98pNXVIymQhLctPmK3-XRImLGQ6xtQqReTANZPvGSGSBS2s4vHWCJqmUALNBOt4xc3ZRAC25fNIBa7dpJ_wTqLXMTEaFc5MnjsMa7IkRAf9c_lxcAyd2BeV6hbw7qC_MG36-69B-JI_Zc_FAh8FQ7Dp4xNV034kyobuKAhmFkTJT0IJdN7vCeU1rNAoWHzRk8PNOt2Ga_ulWDSmyeR-jQNFCmCEpl-0so16m1pqr8V1mn8PTH2byFnaBJWCE99bhAQLIxNOH3aU9GFEbFGeuICIagR856yYYGJSyiHv_TM6VV6S2nmMWhHygqRziMKRbNyCK2bbgOeRzgTNUMpHXcr4e_fEpjjzH4y2nXFUGEsUuAJ0L9Zi-VKuUXUlS952rkWGjN0idULBmrz9IlX_mjMkKMUVWB9cKimI/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ3baRtYy1RIYRmI3WU59kVf8/photos/AU_ZVEGaItE70Gjw5zKjOYdU3oQ-wAvtIV5vzspd935roIQLVL7vbPuVrobu0Kz5plujPdcyDH1RiTvo4e6bSqaACaz1srqkTOFhojVHwrkfemynvkq69NZEulvupy_PnM5Bu8rWdIs2fOzHBzyL0ee6T3d9QOShzL7Hz4Cm-S6c1uNIEYJSNOxPKQ8FQ5wqzO_ET_1qakNxC4K9xL0IRMKSFYyElJqbDs09vaokWRY5tNg7dqAov6BKyW3uoYZBgH55VfTjMKetscEYJ5fYuquuPwVIV1urWJ9VgvJTzbA76kfCrwHj6aU7NAaHrPZ19Srr6ZaW9tRZUCr8oYjTiahU7Hn5Ng3-d-r5UqzHbuOEufq-H_k1bVvhPiMvz2sgdzt-UKI9paXM22dlmjOQSBDRKCBP4bWeScNVmdTO8PqVIdrqAYef/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ3baRtYy1RIYRmI3WU59kVf8/photos/AU_ZVEFSwTWJX3uTeLIqPpDuWkCIKvDylBmU1TzUhFDmebVkuK1ih5ejTR2LXK1BbEfoQ-iA5vvIIJhTbeldW_fIrjOyJvs-uYQv8md8BhNKVnxbWLrUaisBx9BFaJc9Yrcsqex_WSp1TSs4i29VRWhj3EaXbjhHerdVdxErkbZqDgM4LHDMJeCOhECfYa5UQfgLrllEjjEKuAOCGb_yMIOKCGphzEfQUECjmgaIw88s_WOaecV5fajNF5nqaoKVR4OMUly0qRVEnkeAcUoVwkdMvgY8XD2L_TuU4-lnOOk7TAeXytXTemxsEkQ2XBSTq78cCrsYZGfckx4wmC1zbmPcyNmQ9iZ0wJPbx6rQth_359dOSNj38yxN2BCB8UEtnTs-0n3DDH4nC3l123tl4x9IY7_NHP8TXSExHNQo05oi03kL1w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ3baRtYy1RIYRmI3WU59kVf8/photos/AU_ZVEHZxajJfrxS9nJ2nwplE03vkSOlW1CsqoaFnvsl_BO2Yg-K64GsSi3XZYieVcEBrhSlHGwv-wQ3OeAoAlzIaOTpzKFRM8Ic9BUPY_ZDuE6BTy9ekAh-hT4_QEP-5qD5hPw0GiP9jwuuOT5DVnUpDfabQkljQ5Df-pkayr6MTk9iGDzxzKWGLP1BFxRYv7qYZb7SZ9XPpDnO1vRogMZTgJ3ubPsYpu8d_zu54ZPqfi710RADUc3Muq6hDknGEwjU6kctIDW5QXrzzurppk_Wsi1iBJwdb5xT2Q5ApUYv1WPNLOleHytUS4NE50oLhrZ4N70vwIKmyEiULJzmI2UDCTGdd5gxAVcK4CgzvjkMMYzJFXne_KgO-6PGsH1aOIVfkLWBLyMgv_7Mg_KQHBRVDKJQHGl60_gEs7_sWeRtLw2ynEdK/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ3baRtYy1RIYRmI3WU59kVf8/photos/AU_ZVEHK5EOxg3-0XEHEp2SBWBlaRPM534bIBAN09Q3gYAi3EZ4vDSzHu-nJoN2gqR7CCOe3-RorNHlcvoCmFBIOQT55oQ8LgPlODUtakJCS8SyX8E7RESl8SgGYR6G_olPvotrOQNYvSNh3Jj7MeMsLjkSpHidqWF1zB_3D7ZoL6z4vb8vTnTrbw3_ZB-B5ZT611hHh_3JoDMXOtqu_xKEBisB_A4E6PGIRkAnJLx-OnZXzlZ-c5oJerzNCSlOjjvsLxXpXRcuAczwWQeZuTAx8l9_dieglUAEFLj43v-DhelvGfw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ]
     },
     {
       "title": "Temporary Kitchens 123",
       "price": null,
       "categoryName": "Kitchen remodeler",
-      "address": "106 E 6th St #900, Austin, TX 78701, United States",
+      "address": "106 E 6th St #900, Austin, TX 78701, USA",
       "neighborhood": "Downtown Austin",
       "street": "106 E 6th St #900",
       "city": "Austin",
@@ -823,11 +952,11 @@
       "state": "Texas",
       "countryCode": "US",
       "website": "https://bit.ly/2G9PGnF",
-      "phone": "+1 800-205-6106",
-      "phoneUnformatted": "+18002056106",
+      "phone": "(800) 205-6106",
+      "phoneUnformatted": "8002056106",
       "claimThisBusiness": false,
       "location": {
-        "lat": 30.2681573,
+        "lat": 30.268157299999995,
         "lng": -97.7423917
       },
       "totalScore": 5,
@@ -846,37 +975,37 @@
       "reviewsCount": 1,
       "imagesCount": 33,
       "imageCategories": [],
-      "scrapedAt": "2025-07-11T06:17:28.664Z",
+      "scrapedAt": "2026-04-03T03:59:42.433Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [
         {
           "day": "Monday",
-          "hours": "6 AM to 9 PM"
+          "hours": "6:00 AM – 9:00 PM"
         },
         {
           "day": "Tuesday",
-          "hours": "6 AM to 9 PM"
+          "hours": "6:00 AM – 9:00 PM"
         },
         {
           "day": "Wednesday",
-          "hours": "6 AM to 9 PM"
+          "hours": "6:00 AM – 9:00 PM"
         },
         {
           "day": "Thursday",
-          "hours": "6 AM to 9 PM"
+          "hours": "6:00 AM – 9:00 PM"
         },
         {
           "day": "Friday",
-          "hours": "6 AM to 9 PM"
+          "hours": "6:00 AM – 9:00 PM"
         },
         {
           "day": "Saturday",
-          "hours": "7 AM to 5 PM"
+          "hours": "7:00 AM – 5:00 PM"
         },
         {
           "day": "Sunday",
-          "hours": "7 AM to 5 PM"
+          "hours": "7:00 AM – 5:00 PM"
         }
       ],
       "peopleAlsoSearch": [],
@@ -904,8 +1033,22 @@
       "language": "en",
       "rank": 12,
       "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPX-_9Juu2GuXaYE1u13Q_1RKMAblXrLMQwnzn_=w408-h306-k-no",
-      "kgmid": "/g/11fgh_pwky"
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJDxBBF1K1RIYR7h6WSVLzvT0/photos/AU_ZVEH7CilCcV5flzZdkOjofO7becBQ-TdOhMqmFjMHuPzK7h4NaDbCe0wRq_o-EpyUlCCEF91lPx9EOEZPza1XFTFBg6HLnX6UEXAvpisCx4DjPvMeMgdY-aigqHAa7cy5ykYdRiQerbpG67tuvXQcc3NFvSNSjETd2zWlihVEvAUVRF9gWPryDPUaM3-eWKL4FZPUu3w7sja5mMdL09ipYZO37gtahckYTUhMrqBNj2vBE-_50SlDapgFdNFlhCEdZmH3DK26YubtRpd3UNnFjU_AXJW7mJguVwJSCFYLK8F0lA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "kgmid": "/g/11fgh_pwky",
+      "rating": 5,
+      "reviews": 1,
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJDxBBF1K1RIYR7h6WSVLzvT0/photos/AU_ZVEH7CilCcV5flzZdkOjofO7becBQ-TdOhMqmFjMHuPzK7h4NaDbCe0wRq_o-EpyUlCCEF91lPx9EOEZPza1XFTFBg6HLnX6UEXAvpisCx4DjPvMeMgdY-aigqHAa7cy5ykYdRiQerbpG67tuvXQcc3NFvSNSjETd2zWlihVEvAUVRF9gWPryDPUaM3-eWKL4FZPUu3w7sja5mMdL09ipYZO37gtahckYTUhMrqBNj2vBE-_50SlDapgFdNFlhCEdZmH3DK26YubtRpd3UNnFjU_AXJW7mJguVwJSCFYLK8F0lA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJDxBBF1K1RIYR7h6WSVLzvT0/photos/AU_ZVEHITJBJqPBt48kTGoy74NIqukJKRX_0nzlb5f4XMO7DOuW55xqQlxswiLML-NPAo2dUef0PsoehaKqloweScqgXvyS9x2_Y2O8qY-Cy6JX5rS0bzLYq-9ZspTH9yEM5yMvMspz09lJW43hXemVpHzFlSihLa4ADMvP2FW57q1ZFNRiUCnUM3qzgJRwxqomKRNZRQIVvK_Y73w9FQ5Tw5-ypNuuuF4MCa2ooSVCsOOy4qJWz3DtWVNopDH_9EOBW1Mas3eyEUwsKTR7ueP3X4EuFvQq_lNQrOOviYljLJKpsKQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJDxBBF1K1RIYR7h6WSVLzvT0/photos/AU_ZVEFgzckmp1trgl7P2MRTN8eDjJ3ZVha31UNMZE_fXkIOWGfqDyv4MVQAyJ8eE7kMid1NaphjZYnclSCNnJqhC0vZuYt-NQ-hvFSrRE-ZasPvC2ixH4Hl6QTMFDfDpKOWUNmnBr8SArzD-fm_rL6S4I9KXEjCQv1bPYmepcvAoZYK8uDHTNx3XdUOUvca147YY6IpglPlYIDWT3ebFGdce3wkXCwxLbpilKNxw4GKFVMWOITAyI6EDrP8g3Q71Irs6bSbvkN5j0Bob76rMBeRsIlQe0huEQGb_kdpUd2-IBQuXg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJDxBBF1K1RIYR7h6WSVLzvT0/photos/AU_ZVEG4Yt0jPbM3CTcz2YiLin4lIs7oPAwnBAHZUiovIkRxZnOZCAcQivdN9v5-3xxwmoNDkKYWuBVhh116C8BMcM_dhoTimdwAlPysTqVk6v8RCfKuXVYnm78tBgO_1O6PjVXQbOFL3d7RR5r2fC9eK6Ls_FF1vmWxqCC1_hWPgks885K-xYnjEGD_F5bhquqrWRt4l4ljQ1l4GQu0K0G24YhFw2T84SRhDPdTnzcguEN2eozA2RvxpcUzxy0stxkZSAMd_REiHuS0OeWr74ANxj6sYjxMwhxfvt9eUqcFWPg0FA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJDxBBF1K1RIYR7h6WSVLzvT0/photos/AU_ZVEGF7e-wTSM6pNMwhB5WiD1hZjLVRChoapG1k29xFbBMX9z7RollGa5klQwZxbp5bDxviKe4gAgYCql5_OM9cGNBlnK9aDJwrvm_JC0LuHGuHHsfrHpXLfoX8Sa-aOOx0UXHCSFRyIpfyns_67MaphXryznjwvlp6huUyT6hOXDbFdXL4sUfkY-_IKN7tG850uebNGXcN9PjuybOOU9QzqjZRrSWzgL28S8XIorqT36i8FYfghUuDjK1RgCFmZlfHRpnXmtJNNNpSN5ocd7TG3nHOZ0e_XHq_3RV9Ybuu-2BSg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJDxBBF1K1RIYR7h6WSVLzvT0/photos/AU_ZVEESTOtHHhc90oQ453M0JUs4VgjgsWp1uJMRupLDyxG6V7zE66hLXNi9ZRgWKWKcKojRS0MWVtCpeq3aQEZNCwPT8p6gwdxjMJt3zgHxq0X8bXl_kLPZo2es2ZGsl_sgYxZ78Kx7zTU2mEIMS3JgdCMnVIpw_9ZgAXq79BCXJVXS7fUhZp7A2iGuaTG4BD3dmjGHg1guD1Xb3wAhW6wEeW0BoKDqcLkpQ6VhmFOcOQ05r5JvhNPF9HgInzqVmubDRYQJPoh4MaFWaGeyqBv6umJFP-xv44csEXk0N9-iB1_Pxw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJDxBBF1K1RIYR7h6WSVLzvT0/photos/AU_ZVEG2rYBdDz4YN3bL0SESPSck445ft5eb5E7il-nHSKrBYd8oRzP2Zi919YlUkjGg_lrc6YljYY7K1oqUlyumJZd0WS1ZgRChKbZWuxV825G3J6LwaLzWWUIMtzH87S529QxIAbNS9HbTE9ELpsMoAPunSt9fjjrKNpz_GvLmthoQ6pb41QgImjQdNMWHhC44XNWEbWsRipH9CNOrBBME5KEbgARvjpLToJigERGjjNAGw5OQtz5hXe9vEjqSbKrbQ54Bb91X_qQrT4OjWvG9gW6BrB6j6m5IWk4rwTBGh_5sfQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJDxBBF1K1RIYR7h6WSVLzvT0/photos/AU_ZVEHEXQC4VRq1_n7xqLCoQtCGyuNpPHbFNgvuBw9PANLjuKXb8fA0L0laXRyu1DkV8z05-tOlMy4iXwgy58tbpZCd9Bc30SN7lr4CL95mjVfSSo8nkc61EkJNNiL-tUtv4bGTc0nc6gD4qUpNDBRbN4_B4PTe_tEYB3tzF3v3finV1iL1u_lnAJkxI9QEg84IFCbsX_2IS-XokaBaShmxOicki54Kvs5g_AFpk3bkcfjEFsCOpMS99WEPZX8-94BGp7pC6V9dkrtjBcgaEhJ0R43TFduF3t7IGG91glS71-mIxg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJDxBBF1K1RIYR7h6WSVLzvT0/photos/AU_ZVEHXBX45FnpK8F3_NXVo2GxT8zevcLg8cRHl7xRwLLQW2YCVXQX-_6aNpss43SOEOxduw9CQqzMIm5IT9qkhG-54DeCyJEfp0aZ6eTCtK5sZtooUBTKeprAfNF_zrXry5gFRnqQFXFb-NxGe2a4QDy06WGJQxQhrc1NAfMsn21kJkxuYt32r1KoozmciswpYF9ineoSYfEJ_Rqj6b94SdIavvLNHhCJ7REElEySYpiSFycmGfiDanSq7p0MC7McRBzn8_79pXcgjyTyHFrgTkVvP1YOH5QYtOQDyoobo1QIrKg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJDxBBF1K1RIYR7h6WSVLzvT0/photos/AU_ZVEGQOnfrK1C6dH9akvhCw7GwZzfSBMINiyFJW3JEX_79amvdNlIa0nDFmtIlAxzDplvl6uuC05RVoSgfXJR7nGR7Ih-AdR6vwOnWONz5oT4Q8u--MN8bZ7Bb56b2j7V6iLoKWHJBWoNIaKu8CFg20tnEvKdH816_AbpUpPF7p7Ptg0XAI1TjXfhZHuQn_-Zp86USgRxJn-xt7ZG7w_QG9xeSubgXganGudcIOlkQqJjtsRppX7As2mARrhCQwx-syPIRJsQZYiEcRBL0BjCu87eUhdd_BcR5ig9yeNM7hfQvCQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ]
     },
     {
       "title": "ATX Shared Kitchen",
@@ -984,133 +1127,10 @@
       "kgmid": "/g/11t5sbszz1"
     },
     {
-      "title": "Mission Restaurant Supply",
-      "description": "Outfitter offering commercial-grade kitchen, restaurant & janitorial equipment, open to the public.",
-      "price": null,
-      "categoryName": "Kitchen supply store",
-      "address": "6509 N Lamar Blvd, Austin, TX 78752, United States",
-      "neighborhood": "Highland",
-      "street": "6509 N Lamar Blvd",
-      "city": "Austin",
-      "postalCode": "78752",
-      "state": "Texas",
-      "countryCode": "US",
-      "website": "http://www.missionrs.com/",
-      "phone": "+1 512-389-1705",
-      "phoneUnformatted": "+15123891705",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 30.332615,
-        "lng": -97.721374
-      },
-      "totalScore": 4.6,
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJscOduUfKRIYRJKOFR5lIYFQ",
-      "categories": [
-        "Kitchen supply store",
-        "Commercial refrigerator supplier",
-        "Restaurant supply store"
-      ],
-      "fid": "0x8644ca47b99dc3b1:0x546048994785a324",
-      "cid": "6079939320117306148",
-      "reviewsCount": 78,
-      "imagesCount": 58,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-11T06:17:28.665Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [
-        {
-          "day": "Monday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Tuesday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Wednesday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Thursday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Friday",
-          "hours": "8 AM to 5 PM"
-        },
-        {
-          "day": "Saturday",
-          "hours": "Closed"
-        },
-        {
-          "day": "Sunday",
-          "hours": "Closed"
-        }
-      ],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "Service options": [
-          {
-            "Kerbside pickup": true
-          },
-          {
-            "Delivery": true
-          },
-          {
-            "In-store pick-up": true
-          },
-          {
-            "In-store shopping": true
-          }
-        ],
-        "Accessibility": [
-          {
-            "Wheelchair-accessible car park": true
-          },
-          {
-            "Wheelchair-accessible entrance": true
-          }
-        ],
-        "Planning": [
-          {
-            "Quick visit": true
-          }
-        ],
-        "Payments": [
-          {
-            "Credit cards": true
-          },
-          {
-            "Debit cards": true
-          },
-          {
-            "NFC mobile payments": true
-          },
-          {
-            "Credit cards": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=Mission%20Restaurant%20Supply&query_place_id=ChIJscOduUfKRIYRJKOFR5lIYFQ",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@30.24834995203544,-97.61174993276663,13z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 20,
-      "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqc8fnPu_WIO3G6dRTDcGEReaUfxty8DlEQwmbQ9Fj6JvKTTx6E399Y9ZTxx5QrTEgOeO8ERcUmuFdw7JPPeMnw5XoAyVYrlE6bOE6fGIp2MtS7Gk1Yav63wVpLnyqRiDahG88c=w426-h240-k-no",
-      "kgmid": "/g/1thmfst3"
-    },
-    {
       "title": "East Side King Commissary",
       "price": null,
       "categoryName": "Restaurant supply store",
-      "address": "7601 N Lamar Blvd, Austin, TX 78752",
+      "address": "7601 N Lamar Blvd, Austin, TX 78752, USA",
       "neighborhood": "Highland",
       "street": "7601 N Lamar Blvd",
       "city": "Austin",
@@ -1119,7 +1139,7 @@
       "countryCode": "US",
       "claimThisBusiness": true,
       "location": {
-        "lat": 30.3441229,
+        "lat": 30.344122899999995,
         "lng": -97.7139213
       },
       "permanentlyClosed": false,
@@ -1133,29 +1153,29 @@
       "reviewsCount": 0,
       "imagesCount": 1,
       "imageCategories": [],
-      "scrapedAt": "2025-07-11T06:17:29.021Z",
+      "scrapedAt": "2026-04-03T03:59:43.227Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [
         {
           "day": "Monday",
-          "hours": "8 AM to 5 PM"
+          "hours": "8:00 AM – 5:00 PM"
         },
         {
           "day": "Tuesday",
-          "hours": "8 AM to 5 PM"
+          "hours": "8:00 AM – 5:00 PM"
         },
         {
           "day": "Wednesday",
-          "hours": "8 AM to 5 PM"
+          "hours": "8:00 AM – 5:00 PM"
         },
         {
           "day": "Thursday",
-          "hours": "8 AM to 5 PM"
+          "hours": "8:00 AM – 5:00 PM"
         },
         {
           "day": "Friday",
-          "hours": "8 AM to 5 PM"
+          "hours": "8:00 AM – 5:00 PM"
         },
         {
           "day": "Saturday",
@@ -1194,14 +1214,17 @@
       "language": "en",
       "rank": 17,
       "isAdvertisement": false,
-      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YwqvZgqIolf5JLFoM2VzEg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=59.597633&pitch=0&thumbfov=100",
-      "kgmid": "/g/11frnmtnhp"
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJ3USnAPrLRIYR-etUOG0zGZ0/photos/AU_ZVEFgtfC0PNvsYWYPSL-P9lWTkHeZI3vETji90m15h5L6NYrOhtK_XPlH5SiYBcQd9tOvASDbh_TbzqO-KAck3mM4GhU4j2ZW_LivZQ_P1lJtgGrwn3j6RIFNVe5dZcXVJySJXCJlzOFaVTtJSo9bV-D4Jh2x3z0LF6p7HO8496R--wtYi3RxICmf1l6kDyL2QksoaxCfRv3LQfc_T-WvSrvY8UuvXGWbSE-Pj6y-UTpZfnuVyKWxFJlMERIvhBQR1f8DUZg_6gwHNqp-c5sCVjm-MkEJNI0RF9n5gsa7uXL50fIfjhhgdV1c0pRlIzB1Qifpe0ErxOb2iZWmscyJP3j89BuqHLFi09oVg6ZBDs8SibwzeU8yDPulAvd9iJC71378jH6JPjBrhAyA5k3R0ltqc3YxGRz3W5mTyW9bs4DkgQARfK35IOfmp7MsYGFZ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "kgmid": "/g/11frnmtnhp",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJ3USnAPrLRIYR-etUOG0zGZ0/photos/AU_ZVEFgtfC0PNvsYWYPSL-P9lWTkHeZI3vETji90m15h5L6NYrOhtK_XPlH5SiYBcQd9tOvASDbh_TbzqO-KAck3mM4GhU4j2ZW_LivZQ_P1lJtgGrwn3j6RIFNVe5dZcXVJySJXCJlzOFaVTtJSo9bV-D4Jh2x3z0LF6p7HO8496R--wtYi3RxICmf1l6kDyL2QksoaxCfRv3LQfc_T-WvSrvY8UuvXGWbSE-Pj6y-UTpZfnuVyKWxFJlMERIvhBQR1f8DUZg_6gwHNqp-c5sCVjm-MkEJNI0RF9n5gsa7uXL50fIfjhhgdV1c0pRlIzB1Qifpe0ErxOb2iZWmscyJP3j89BuqHLFi09oVg6ZBDs8SibwzeU8yDPulAvd9iJC71378jH6JPjBrhAyA5k3R0ltqc3YxGRz3W5mTyW9bs4DkgQARfK35IOfmp7MsYGFZ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ]
     },
     {
       "title": "Manon's Food Storage",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",
-      "address": "8309 Research Blvd Ste A, Austin, TX 78758",
+      "address": "8309 Research Blvd Ste A, Austin, TX 78758, USA",
       "neighborhood": "North Austin Civic Association",
       "street": "8309 Research Blvd Ste A",
       "city": "Austin",
@@ -1210,11 +1233,11 @@
       "countryCode": "US",
       "website": "http://manonssharedkitchen.com/",
       "phone": "(512) 587-3080",
-      "phoneUnformatted": "+15125873080",
+      "phoneUnformatted": "5125873080",
       "claimThisBusiness": true,
       "location": {
         "lat": 30.3561322,
-        "lng": -97.7148334
+        "lng": -97.71483339999999
       },
       "permanentlyClosed": false,
       "temporarilyClosed": false,
@@ -1227,7 +1250,7 @@
       "reviewsCount": 0,
       "imagesCount": 1,
       "imageCategories": [],
-      "scrapedAt": "2025-07-11T06:17:29.021Z",
+      "scrapedAt": "2026-04-03T03:59:43.485Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [
@@ -1277,7 +1300,7 @@
       "title": "Lotz of BBQ",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",
-      "address": "3400 Comsouth Dr, Austin, TX 78744",
+      "address": "3400 Comsouth Dr, Austin, TX 78744, USA",
       "neighborhood": "McKinney",
       "street": "3400 Comsouth Dr",
       "city": "Austin",
@@ -1286,13 +1309,13 @@
       "countryCode": "US",
       "website": "http://lotzofbbqtx.com/",
       "phone": "(512) 831-7426",
-      "phoneUnformatted": "+15128317426",
+      "phoneUnformatted": "5128317426",
       "claimThisBusiness": false,
       "location": {
-        "lat": 30.21258,
+        "lat": 30.212580000000003,
         "lng": -97.7200951
       },
-      "totalScore": 5,
+      "totalScore": 4.6,
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJF08jwq61RIYRSkOVSh9Rh_Y",
@@ -1301,10 +1324,10 @@
       ],
       "fid": "0x8644b5aec2234f17:0xf687511f4a95434a",
       "cid": "17764256450023342922",
-      "reviewsCount": 2,
+      "reviewsCount": 9,
       "imagesCount": 1,
       "imageCategories": [],
-      "scrapedAt": "2025-07-11T06:17:56.408Z",
+      "scrapedAt": "2026-04-03T03:59:43.791Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [],
@@ -1334,7 +1357,9 @@
       "rank": 15,
       "isAdvertisement": false,
       "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM_KanvZRqe4tHYqKE03HzhNKuRC_HIoUKr7nB8=w519-h240-k-no",
-      "kgmid": "/g/11x0gcdfjp"
+      "kgmid": "/g/11x0gcdfjp",
+      "rating": 4.6,
+      "reviews": 9
     },
     {
       "query": "shared-use commercial kitchen, 78701, Austin, TX, US",
@@ -1805,6 +1830,256 @@
       "kgmid": "/g/11rwx59m55",
       "reviews_id": -3235152127283382000,
       "located_google_id": null
+    },
+    {
+      "title": "Commercial Kitchen Factories Austin",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "16708 Picadilly Ct STE 100, Round Rock, TX 78664, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Austin",
+      "postalCode": "",
+      "state": "TX",
+      "countryCode": "US",
+      "website": "https://www.kitchenfactories.com/",
+      "phone": "(512) 571-0110",
+      "phoneUnformatted": "5125710110",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 30.4666206,
+        "lng": -97.65796010000001
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJfYEBrtTPRIYR061EfZJPkYY",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T03:59:44.042Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJfYEBrtTPRIYR061EfZJPkYY",
+      "reviews": 5,
+      "rating": 4.8,
+      "totalScore": 4.8,
+      "reviewsCount": 5,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJfYEBrtTPRIYR061EfZJPkYY/photos/AU_ZVEG5-giVFrG8SpEI4OZ0SDr231vmy1hBCYCi48fFPO_ZOFZxxNKNdTwyytPE-FCmsIxgZZEvwvKmg-GBkm6wITm0sZqbTltnrhYnKNeJeoApbAjDiMTNruR12BZqS4Rw_elbHxnQ7h-ZE_mhoF4pTw6GhkNwFTu-RppOBPqrejw_F4VavM7G7WRmTEcq630iZLjXACZUTP0osesKljt6Qp9jidqtKqusKpjzaabTBNAQTig0is5q4r_TAnvGE9PUebamodAqKTys9Co8OAnj5O5tRdHT1vD4b1SuP5HOg1fXiA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJfYEBrtTPRIYR061EfZJPkYY/photos/AU_ZVEG5-giVFrG8SpEI4OZ0SDr231vmy1hBCYCi48fFPO_ZOFZxxNKNdTwyytPE-FCmsIxgZZEvwvKmg-GBkm6wITm0sZqbTltnrhYnKNeJeoApbAjDiMTNruR12BZqS4Rw_elbHxnQ7h-ZE_mhoF4pTw6GhkNwFTu-RppOBPqrejw_F4VavM7G7WRmTEcq630iZLjXACZUTP0osesKljt6Qp9jidqtKqusKpjzaabTBNAQTig0is5q4r_TAnvGE9PUebamodAqKTys9Co8OAnj5O5tRdHT1vD4b1SuP5HOg1fXiA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJfYEBrtTPRIYR061EfZJPkYY/photos/AU_ZVEHuJW4KU96wdKlUNtC3_GhNUZOxsihswyxpFGKClna72fIioU2S6EkmSvJOMpaAjuzcsvyyF-zmh-34MQWT-WI4IrpJmTXI3y1qVoI2Hbx2m_B48IMYxa_xmijV64qRcWmOBoTpuw_8MXEZA1Xzm4zJvTe6u_wNJuW98Lq0LBjtrcwgrETc9txmJpJOZKmo0UUDMRkr9jPvrlQHYsyH1KtSE5hVosTV9F489IpF6f3xSpJhEMg4QRjmPS6z-UFmVNTMCLjO_H8QTeI0S9mA_---IVdS2icnchgu5N0I3L4FoQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJfYEBrtTPRIYR061EfZJPkYY/photos/AU_ZVEEWSWrxcxsIfuYGcBKQtkQIilfgbSvXGZnn5FGK73bykBWn1mXBHhefGAQLlzAE8TBAb5jYl3I7dKCTIXAnfptjyy6ukstYqw8K0cOTlzhWIelodvfjIfHOrInl793o_7MFugha6u6_JdD1utgM5WVi_jUPTfePNZOcKsjQQKnMEzQ_TCMIsD-xlbXA1cuVSZgeeS6SaCP515pwYFLRPkH__6rT0yDtJhYmfU5utMF-aFemAHG3M54qOmaHpDsrJExymc7iYGufQK9iLQKObynx0RLJW6iD7RT9xI4-hSmX2w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJfYEBrtTPRIYR061EfZJPkYY/photos/AU_ZVEFVIyfte_7-nYxiwSbDbW6M75GyfvOZ8H1A-p9Z1dZuA-fNEo_d0REjBb5sjr4lIaV-j2E3dYLECqkqq9f5Tbp4Tjvo3iqRAzR5q-NAioeJsULfms56NY0nGJXcDDvMPcr28Hqs7RGF_2g5xD0b6qSTRHn7NYI1u1wvJOBaLnmserJmJ0O-0CeRIazJ-UPxpmVb5vFNqE1ZdKH_wZveAPHWr1cUOJNvus4W1Jq6fUSjPJ841Ju1uBKPwYOZr6Fc7DPxp4_Mp5Y9ifb5QKGLbRx8DXbBNb5XpbUXECgJyh_bpA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJfYEBrtTPRIYR061EfZJPkYY/photos/AU_ZVEFpackkKrE2Huu30wrBCAi5rb0P-fhD7dnVIVUAdfE1iUHcrLcK1F2VY0dNRKtQpOGApJsIra18zJVL4PcxcUGE2bNcOGyo8SN4RvpvIWTntUOkgsjBnt8ZCDALp8PGWNxhjL-bdRbaFh9KQ22A1y2d1rJofJiq2rCJStc6G1Ukvog4cc2bPH6Xt2BHB8L_iFUayJ2o_B4ezwre9C9Rgqc6P5v74sTq2UnAnV88K5qyhsiy3hmJZMHa7w6UMVyTDJKq-jU6cMAYqgRXaYFba6_daMq3xFVAGGqVQ4qOmWs_xA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJfYEBrtTPRIYR061EfZJPkYY/photos/AU_ZVEFlD2DlY8wXvi67IDoT6Go5sPjFN8Oqu-Y3RSn7yKHfY4cJru7R95M6k2E7rvfoxbrl4n7ObSkR73tp2qUo6K3M_ECj5ec6OGFXJDDRkg3hHSDxmva-Yzr7Bg65BJHmozo5gwCDiit13pco3jVcL0bMZtWIE-S5lrXFFLGrTKDCyLcW3G_4Co8dhaY06FW_ED9r5ZFy8x9ZaWSCr5jM0la4cbLpjj0l3DPCDJo4xbEfRgUbDKcdqfCNIQDh7lxLPvoOsAsa-C5PPj0JcZCh-gNT-Qhx0EcHjYTy7ffnQ4wjlw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJfYEBrtTPRIYR061EfZJPkYY/photos/AU_ZVEF0Vhu923ZjBaXII_g1qZngxmC_RcT0V6jS7u5OGlGie3PSTQmAWMLMFaOTku4irXQoNn7idcOhmlpWpZKeyuz-ratxtoNxJfgOQIyXdZ9i0P6JRB_bko6zQ0ueHqG3xQ1udHUm9EZUaQQbXVjLMadEIEJuSXZBEJzg0cvekF0erOT2mPQ4G0QkdU6sNGt6r2SRYbtKxbVl0lVFU4hG3tIR7U36lg7yPM4X12x9uNsFJ1iXy7oFCwqICGD7CvNBVoKH4Nhqh_WEWQmLXGNi8tGtf7swMty5_1ublhiGHF76aA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJfYEBrtTPRIYR061EfZJPkYY/photos/AU_ZVEFVjA2botNaBEklnpb-s_bLalPGcbHS4CCjcgKNVr_mGVIKifxyM7ExR__PVhY0ssQdDgK7nSRdcHSV8vz2bXbJSrB3AzX3OC4ACL7nT9kqadJYKdNA5PB1oj8g58HmXzRGhtS_Nplttt9jUrMRacvbT8NRhs0rH-5Hlp9qkl-z6VBRxNwYQw_gz4QpfWNsb-489azVB1RQcCXNRyBrrZO8vPmZVOGqe-OuGDkg8P3Mv4JUAgV34f97wJE3v_-T46h00X_p-sYURWpkNuXvSVZ3tbERTRCLAhX9vt4WakiMqw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJfYEBrtTPRIYR061EfZJPkYY/photos/AU_ZVEH9wC0MY7nGrD9ZRkHvie1MeKKnoz7V0xvqLplxpCaiCRNzH134a2JXTO0KpNkGBNcibAtYLgw7G1N75MhsDnSntFCvARU_SWV7j9_7DJrJhjvuBlhavhZWOMQGuYoWpFYjdgFe048q2oyfw5gPoH9dgkc68aDmBIGawFxXWsWD1jrf9By8vpPXbmg99fKC9gMeAcKNuUvOX3kEsycWDGx9J6JWlUdGbe4AFmEpNMxhnZPADQZ6XXa92RlrcefUqF4dKNZndqZPV7Z3YtmbtsqwOQC8LzpMuy-o0fOWQnUllQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJfYEBrtTPRIYR061EfZJPkYY/photos/AU_ZVEGi8RQjHI5U-u09XCa-rwjZq_xDeUuTCuT9BL0DmNuVcBbIOhYvG8Pxez8y2PNnYWQRDOLr47yi_GDppJ740BYf2beiEXJrX3RqyMB9H9loU7fS0ar_utBIDUZglVrdOJ61Hut8I5gKSQBxwxnc8dxIYbiM8fepg3E9__eVdriMWK4A1J8T1Uu4Kqox72_zAWj175SDkZWezU-bzTwDfGWZ5Yg79Gc6JspykuAAq-9HTHetJqIbAmcbG_GxZDkX2UGQfP5ZDc101OButqSzX854eaRw3HsZA8jeKO-oMqSJhw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Hudson Bend Commercial Kitchen",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "1501 Ranch Rd 620 N, Austin, TX 78734, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Austin",
+      "postalCode": "",
+      "state": "TX",
+      "countryCode": "US",
+      "website": "http://www.hudsonbendcommercialkitchen.com/",
+      "phone": "(512) 650-8095",
+      "phoneUnformatted": "5126508095",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 30.378652399999996,
+        "lng": -97.9453557
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJT7C8JuYwW4YRgdiYIcciVww",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T03:59:44.271Z",
+      "openingHours": [],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJT7C8JuYwW4YRgdiYIcciVww",
+      "reviews": 3,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 3,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEEbGMU7S0YH3fslNMXvsy5FlHYm0xxLySJn0wwzkDJiLJC_zk2bkM2OqzAcmOwOmkpBYZFeCGWBw5a8R2Q5-KTLhNLlQQd2lYHkzBeAx8W09sVMG_58Q3MmAWN9xSen1vM8_oWUtpOue7YAG9aHNPxTeR-PTYtkZ7B2Lwnwgfe_IVp7-TBLOgx4Pz_urw9Nk2gojkVjAo1IzY_Ti99jMCwa7MYvQIsy-BUQaXn1jBocKeas9VwJgg-YvDugVEXOKEXvqOrJ3GrtZ6r0szjxe-ILOFjKttDTVCRSmhiHdZrLvA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEEbGMU7S0YH3fslNMXvsy5FlHYm0xxLySJn0wwzkDJiLJC_zk2bkM2OqzAcmOwOmkpBYZFeCGWBw5a8R2Q5-KTLhNLlQQd2lYHkzBeAx8W09sVMG_58Q3MmAWN9xSen1vM8_oWUtpOue7YAG9aHNPxTeR-PTYtkZ7B2Lwnwgfe_IVp7-TBLOgx4Pz_urw9Nk2gojkVjAo1IzY_Ti99jMCwa7MYvQIsy-BUQaXn1jBocKeas9VwJgg-YvDugVEXOKEXvqOrJ3GrtZ6r0szjxe-ILOFjKttDTVCRSmhiHdZrLvA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEEIcQp595uigZIO_vb4aVpJyiYEOM9hjeD5sGY_mkeFtmVVcuq3i4rDtUf01GIieh240qcvTEsVgV6XkSti3h5gn9TV9p3ocsNCybjlYEfKrqDjkSTM1ftK8EqzIbHMc4hIMqHmCFp_SmBgfJ__sb5NGXY-xmOYk1DvBALLWzJE8ELKvB57FWJTbTqWDIT-rY7Xb6xM6TrHikbYnw_BfG6bQz5ga9WTuTJOVIXwqGzze3t3kUkABKorxxet35B6XtB4TWYZWO4UaypMI_QT2ljJx84DZmyt-H1She4tfksYew/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEH2uorYaAPNKioeBAdm1USpM192SAanXXF0neKs9cuCUibPdykE5r_9p32lLza2CzXGewUDcWwDvRA0RQgWlvRB_hllOnrpc7jePYz7CYWv2-CztLgjqZZFzVKkVKQLTJRspuaWRDceWQa6EOtBMk7ODHWQsMBDRbkOMv4vYOwwwHWq9FB50QFgm71L22LG5bRzyXA7VwDd8vI6Pkf-Cokazv_h3Fqfbx9iiy2KCgRdZlvRWAJ5onENHMRWk4DwJW4UKAa38J7KWC8ITCMpiGRIDoHJ5KaUs5p5vcarQWWt7w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEFRBxPFv3BamBpexVs30jMnk0_bIBOVLAw3RTCQD5R4mNLVeWt7bSa_vh5FUe7W8hCUsPdZuAH1qGMceQXh30bkp2cwdQR-VTBFzID1MxvLoGRkI6MtFC-U80f_Y9v4lUvqTKyjQtBIGfFKei9ziJNnqy8kA7_QI1aw32V0XxBvYrhL2A5lXoEnQ3_RkiXFC15rxvp3-3T6azA3OAegiC3wsZj480JFG2Y2IKOQEsLc4LAj5kNZLGcZaBoW7upCOGVxAUJ06MkGygxJ-mlaJdVZVjBBIM8NTli2keIDeR843Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEHrvWcZE7n_eScwHflaXTPhR9lAmfjT2Aoq_eN_GMaEh-P9g9SJyu9kX5SN6pEfvnRU__-QSTix-WAxxaerrZRjMqEFI62YJdymmJ_s9WQZ-Z4MsFqbi38p0YOFWVudBHY_fkLQQtJvYq1kq0xjZZvJ3yjtr5uhpcjfF5TzAPo6TklDrbee0grNGc6S1u_UV7kEMGaGlu4a6IovDYsagj1DfFdU-glApDNeurMvnf8s_McFl514uoLlPPXrw5iTjflYGZ9AeIoEI4iTj3aLojnLsKLQy79TZLRaV8C1vC86Vw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEHfliq_k6pfttDdTUudC8UymNzgDKrq6GMWmTbK62ep1cNwROdAIFDPddTjIj1whZWylaknJ3Mzs3QdahkN7UPv1rcyWYe4Vpptukk3EM4CCd20faFTxvOQnPjZ73vRmi18NYJeAs-grXh3qC-aKtGayoNaU8c0dCwo_KmaHKENBdJGE_gqwgCt11OT6H_9YCRI8sS9AU94zsfqgwn4Mk-1r_Hkb2aV29tD7xtSE9Ny1qb3yzwyZjhVEVaVdrPLyfDLRXG8UJhr36KkMLlSB0wUt-q1i38Smjp2bp0i2StQ4A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEEJY1epV84w_x-mknLSDkJr5FN04kE1wnZEL9ElmRsbcOTNQo6se7FuB_s7fLlBAnYxsl0KGCe6jOUoJnYZXDqEnfPqOVYSdpsRfi3zs9hZJ9vBUinbNI8r4INEx3ZQC572xcdVOxcpWg7QmUL4p6UASo-YNjahXgbIp3NnGYs8VnaI7e5ivvRxJa-AfNrbyta9YOXJVjAUXPg3-PA9o4w3vu6CYaYn-ExvneqSQFJNTcKYs5Dcev5XkSuLN3eSo1Vm3RX_wA7x9sJR6IM9VSDaN-nrPGrEJkgZEqMDcb94sw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEEQQEcCi-RaJvmSNRLhDv74Gn4hngOKIaeVTzip4WAu8ziJdWptgTsLNQOZ3RZlJswHNlxxNTJ2VhDliE6ZaPYw18vObJOeKFKNI-s8K9qzla7q9DQx-ebBkX5hc4Uk148ntNCM-bWIYULAZ8QJj0T9m-3rh_WSWpHdMGSGDNCjbXB5d_taoc2UrhjREgODw1QRsUVWaPdY9BJ5ffUGcnEf_CzS0l46uOyLykAA6dhZBwyD4zQ2XjEdHdJ_9TJtboXC7ssnj1A28GX0-kVBVfPCgBt2_fZj2it4Jrvu1jHV8w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEFh_pnvTf7ynqYbO1shNiBtha3H3KnP71P0FIHu_viBx9chie-4bDjkfak10jINv0A-IsBTvu7ya0ZAdY46u0G8zqpXpKEJ1NlGaqw5Y0O34xDP-NRnD9x4EAv1RhCKEYIkHQEOmUg0IursSeoSBnvmP2joimyA8SvtFckO3AunI4aZfIgx6-CsFkwXDaCWRTDO4zoiCyzW_UVi5Rc1lMtI6sqWs3HmX2LK49m7v2YS5XiZFGo3wUNePltuXPHVkUC9Q3QYvAepLd7AOVQJLJQPsGsN4xAqpPa8fxkNPleH9kscKhWHb1YoITAvJjCstnirRlDTpgYrskbgMKxe-fzb4mF86MlpQTYLBQcXb2t_4gqTbQ3W2gojHkL5gAun39QVg60Pnxb4zsSj6tmE3JSNi-aXxgcWj7k0yZrqKNK1TVsL/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJT7C8JuYwW4YRgdiYIcciVww/photos/AU_ZVEHxNAMVH2TWWd7pVNkAnF1BsbUzLkOgKIrokVF5P0kca1YlzsMn97HaOEONOSFNMtQo4rY4B7yy_Vl5xJg8lyIyWjnyKMcGNmMqMq6_PFKfhOfCaYYefLsurBkdDaLE3EzSzj7TLIBfsphW_weaHA5DB2_zhW41hMg3Yac7qi7si3m4bYX0hZSHPecTEjNp75i2Us6zdiGDNJbGofOZNHwjtAOOHCrChg5n3qZ7YGMMjJ55i0KxjVn2JupsDa_7LaoIUJUePSPRiQrkYyDIODiObEFgzx2N92c5tbR-EEXq5Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "TheCoKitchen",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "801 Chestnut St, San Marcos, TX 78666, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Austin",
+      "postalCode": "",
+      "state": "TX",
+      "countryCode": "US",
+      "website": "http://www.thecokitchen.com/",
+      "phone": "(512) 537-1902",
+      "phoneUnformatted": "5125371902",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 29.8923282,
+        "lng": -97.9417292
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJh986mBCpXIYRVPQd9lcK4Xs",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T03:59:44.536Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJh986mBCpXIYRVPQd9lcK4Xs",
+      "reviews": 3,
+      "rating": 4,
+      "totalScore": 4,
+      "reviewsCount": 3,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJh986mBCpXIYRVPQd9lcK4Xs/photos/AU_ZVEECs9xpelM0QM63KTF_YUcLIjRzOPSFdX0wFXNe5-buKRzqjZqTejuXfruws01GqnwtMQT_JJt3Vx_3NH3VtTaOGNxsK8c4BXV5qK9l8sXU8yzK3lEhsjAHFGUOSfqpfVTeVxWLNog6r_zQ0R_jkyvfAomUVFTvSOTfLiWgTPausHOKJa6NMQgU7xEiK7vepZ9COUuvFNp8i2j5UEx1OqIeNsT_ltSeDQbAZaqnFuL3WejuwJkWnIXhiQUsRgbwP1IKjznl9jizcyOwVtr4aXYkegoSR1T-r0viZXuPKkIRHQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJh986mBCpXIYRVPQd9lcK4Xs/photos/AU_ZVEECs9xpelM0QM63KTF_YUcLIjRzOPSFdX0wFXNe5-buKRzqjZqTejuXfruws01GqnwtMQT_JJt3Vx_3NH3VtTaOGNxsK8c4BXV5qK9l8sXU8yzK3lEhsjAHFGUOSfqpfVTeVxWLNog6r_zQ0R_jkyvfAomUVFTvSOTfLiWgTPausHOKJa6NMQgU7xEiK7vepZ9COUuvFNp8i2j5UEx1OqIeNsT_ltSeDQbAZaqnFuL3WejuwJkWnIXhiQUsRgbwP1IKjznl9jizcyOwVtr4aXYkegoSR1T-r0viZXuPKkIRHQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJh986mBCpXIYRVPQd9lcK4Xs/photos/AU_ZVEEVxnkAy-xDTeoH6oqdHk3bIuHzGmq2KFGyBd6OTzkw-mLST8laGrDAGJJG8PBS1040_Y-OvJatiZSq5os-bw10iwcLbeSfN64apH-3hhvIIWsl8SdanFi6Lx411oi7bPXlVGd5cyNnPIG7LeuMkiNP3aVK1BOz0KpwlC6n0f6XOm_nB6KIX4xaOd-zAWSOiQ22DoVAJqIZV4M3TK3sOEdjm2Gxl5c9nCqb6qSmzlT881e9RU0YnxuNGvPg1mNUHJL7J12M8SDyiEOZJiPslN7awcBQq4hZsPr_f3Pnt1aSoA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJh986mBCpXIYRVPQd9lcK4Xs/photos/AU_ZVEFC7BFlVO0mJf1chJlCLpMbTeRCMKX_6UFRiZfJlGCbsDE-WqlY5uCnMFN6xT5Uo_srgtlQvK06bXMo4LzCmRQutHNPpvH2Tlyr9XzjsBlsTmdwJtpsy0AK-3_w_fjCcN7sibfkqIZmXaxpf8iAeMGERMoDqZ7yJ6eomqtQeXEft2S2HY6OVp2uag4Bvz5q4eTQWH8N3HAWyoLwz1glwm69omvEN3Xm0-hTmtFfmyk4KZRp9ZuuMDrEm6MlsbxPi9BXHyTTbL7xCG09MO1y0_pgeJpOeCGmKjwvXU_hmGsdvA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJh986mBCpXIYRVPQd9lcK4Xs/photos/AU_ZVEG38-0WrpNZXGKhuWSdD6b0z89guTt4COtA0b4SsAysR_-OvgAgfr36B4TtGLWmLSj1ks1u7Znb9NKQD_rX1dxNN0qw16Y60OwIg8dUmGay0Jo-CSfZTqGht-u39OePwtbmP3rqr-TJqd64MR0OxdSGcgQaD8vbK9bXT_PoroXvW0mq_xUJAwjVs3lxxRk5rWhOPYFnd71fuGkI9jb7bp5TkV1yqd1hCwHjbln-ahakUqY1NmGyudJaUI0weNZ3SMKuxlVd029QRyeyPgdIRmcXeJEdABCXeybJds7Y8JdVbA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJh986mBCpXIYRVPQd9lcK4Xs/photos/AU_ZVEEeqMdspXW7Fys1aXjjvg3ltGh69EqCHWBLz_ScogEYhbOElX6q7GHON6LmkVE4n_v5skuBfZR6_u0ALo5XvnJ0A5bf2Ca6sjsZyGNFDYuMK9iIlWnLsnT3-5TJ92K4SVpw3b2_uRZhq0UMvyXm1-sZnfV2B7DC1l-qVdJociwhdQpACfgS8FfBChNSfQ6ttxrfMIVhpCqPT---4rtEWqB2969AUZlH9U29PgvurFOAPu8DtvRpmGdTmb8B1iMosxjqlcXlwviY_7h8tcRCz2UM8C8rpn3y3mCb8h4C5zopb4xByyURPHL5G1ktRvnbYf-MUOLQCHh-nukAQZFrS4Mc9RhSNyHZOHgz84p0Euj4kBf2r17eWi4plM7jmb-S2GN2TkvnXDSBkrzm_oKMzZLh403NDfcpP3IL-iyy9XLFlUVr/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJh986mBCpXIYRVPQd9lcK4Xs/photos/AU_ZVEFj2pDonchTw2YBz-D3yZeMAQiRU7fCys2HAdmaUOqbI2oCOL4oK3UUiT4cilq7J6r_28tRxFIzP5han05B5LZbsQjinOB6_3o6EvjRSacZM8mhsMssyXV1AZFbDHCSYte63t_7_xZIm1yxq9csQ85CWlUOyNGWOawfJ_k72gb6Fe-RzgnKLt4cG5DXPWRcVT3htsqPMSV3iMdLuVGsqTTZ0iejo2eANOkzdcX5eBt9o9cU95RQanmbbKG_JpEcjde_A-XXq0dv1q9cDvbow7F4aXO0TtLFEPb4vfP8joOWv6goOgB-LNeQT8P6cN23x3g_z54xbHHoQWDlwAuW2fB7JwDEoCgBo_2LWRdDYEeB2w--hPy2XAqJ5qAR2muAMSnrAp3Vg6SwhnYRrJYO9E1OrL26k7WR9JobX_NLLJdA1w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Korner Kitchen",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "3309 W State Hwy 29, Georgetown, TX 78628, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Austin",
+      "postalCode": "",
+      "state": "TX",
+      "countryCode": "US",
+      "website": "http://korner-kitchen.com/",
+      "phone": "(737) 217-1175",
+      "phoneUnformatted": "7372171175",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 30.6302308,
+        "lng": -97.74557659999999
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJQQR6lggtW4YRlT_-W5UM2_8",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T03:59:44.843Z",
+      "openingHours": [],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJQQR6lggtW4YRlT_-W5UM2_8",
+      "reviews": 19,
+      "rating": 4.6,
+      "totalScore": 4.6,
+      "reviewsCount": 19,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJQQR6lggtW4YRlT_-W5UM2_8/photos/AU_ZVEGUXF9R5H9TdSNSRQK0FZblwCQs5_4Vtt4VBli78NTBKTGbU6UUfJy0TNNOt-ndEUKICDYWNhmDAW8VjlQqLYhJOsBxEYR_w3N_uBfzeixSJedujQ0b6rkQlAW5SCEtuaxY95zfkr59UwuZWccERXgh3WQTR_bjDIiFMXEp8MP2VZ_NvvUDY48z0lovGbCEvJTrjs8LwWPxZ6UrUthuTexK2IUJp6lVeRl3JjPm4vGYIVkA0rl_oIR0xGDeevAPrPYaJRWTale8oAZCFFLQdNvhpy4qMIybCayezoANnuR4yNWHvtMQVXDVtlSR9p3RIVv-YnA3NOWX8jD_bY_Gu1kAJaJNqoYKEPJa1_e64muK3UopaM56ys9Ltac_KDPeDElhXTgv-lLXN0sDLCJv9brLdjNAAudDyudWZeiH483go200/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJQQR6lggtW4YRlT_-W5UM2_8/photos/AU_ZVEGUXF9R5H9TdSNSRQK0FZblwCQs5_4Vtt4VBli78NTBKTGbU6UUfJy0TNNOt-ndEUKICDYWNhmDAW8VjlQqLYhJOsBxEYR_w3N_uBfzeixSJedujQ0b6rkQlAW5SCEtuaxY95zfkr59UwuZWccERXgh3WQTR_bjDIiFMXEp8MP2VZ_NvvUDY48z0lovGbCEvJTrjs8LwWPxZ6UrUthuTexK2IUJp6lVeRl3JjPm4vGYIVkA0rl_oIR0xGDeevAPrPYaJRWTale8oAZCFFLQdNvhpy4qMIybCayezoANnuR4yNWHvtMQVXDVtlSR9p3RIVv-YnA3NOWX8jD_bY_Gu1kAJaJNqoYKEPJa1_e64muK3UopaM56ys9Ltac_KDPeDElhXTgv-lLXN0sDLCJv9brLdjNAAudDyudWZeiH483go200/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJQQR6lggtW4YRlT_-W5UM2_8/photos/AU_ZVEEMhSYZUcNpy8xD1IwiyGAVrREc2fe2KZt2-JFxwjowTbWRW3d1fNX9MgIwEbwvnLSaETacWorpMwQrldX77v-T0ucmWCGAW6iF_DJ9EuPwsDbFyhVeuFrPVCt5PzblKfoKk1ARLs4mQSpn-gC9MIt8HB9eSIxMZuPfcWZFoLOjp-CDyCLZ0erXSqGlCkXIGc7So4kib8Aortg3jh74agUlVHKIjxOpAf8yJQePRTfjQgxD17y0SwYcDLcgEu99-k13iI7EP9k6lLR_sfOA6Gm6I3yLXqjcjFBFGLyhDNq_XSJGKKWJqZ7b8A0AL_nKV2JAbOUBV4bl6y4Vb4ACaw1Z9GqSRfPTSV3-UKq5lFofBx5RoFoAn8j1tcyU3rajrNgKnhPMZlr4bBU1vEGM0fBbulv59csgYmuJIfKZf2Widg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
     }
   ],
   "insights": {

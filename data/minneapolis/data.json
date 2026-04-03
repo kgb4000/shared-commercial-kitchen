@@ -6,7 +6,7 @@
       "title": "Dots Gray Kitchen",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",
-      "address": "208 N 29th Ave, Minneapolis, MN 55411",
+      "address": "208 N 29th Ave, Minneapolis, MN 55411, USA",
       "neighborhood": "Hawthorne",
       "street": "208 N 29th Ave",
       "city": "Minneapolis",
@@ -15,13 +15,13 @@
       "countryCode": "US",
       "website": "https://www.dotsgray.com/",
       "phone": "(612) 345-7428",
-      "phoneUnformatted": "+16123457428",
+      "phoneUnformatted": "6123457428",
       "claimThisBusiness": false,
       "location": {
         "lat": 45.0097242,
         "lng": -93.2808616
       },
-      "totalScore": 4.8,
+      "totalScore": 4.7,
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJ7SzVuxQys1IRw-8ZJoNwXh4",
@@ -31,10 +31,10 @@
       ],
       "fid": "0x52b33214bbd52ced:0x1e5e70832619efc3",
       "cid": "2188310177530900419",
-      "reviewsCount": 32,
+      "reviewsCount": 31,
       "imagesCount": 15,
       "imageCategories": [],
-      "scrapedAt": "2025-07-17T00:27:04.960Z",
+      "scrapedAt": "2026-04-03T04:02:35.080Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [
@@ -60,7 +60,7 @@
         },
         {
           "day": "Saturday",
-          "hours": "10 AM to 1 PM"
+          "hours": "10:00 AM – 1:00 PM"
         },
         {
           "day": "Sunday",
@@ -108,14 +108,28 @@
       "language": "en",
       "rank": 1,
       "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nolOiKIQNAWt438BIlLqVDAUyGQAivREf8W6AlLGca0DO141PTcBjqyH8DDt0Igc1gFIQE_nX-SZFGksrRrBa3zsX9u-vL_L0jbhN6Zl1DpmU_kUeTgAEQL5xtp4z-PjDD76DvDqg=w426-h240-k-no",
-      "kgmid": "/g/11gfj4w6bx"
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJ7SzVuxQys1IRw-8ZJoNwXh4/photos/AU_ZVEGZ2XkDiqp6giwXzxW0m9nw-7ZBqTbssciXZgmhAM6nSpXdMO1dHsxqHMwJ95Db3yBVv5pCDvjtEOTA0Jpq3zErmgzLDEndY2jxA1iE6NUfOyK6Vy6hRWl1VZWaFLlr0K9fYxLorQHG2RS1yjQtGt25ffDMTfkx5fA0vMKkYM1yzqQeW2QcmyotnWXKdRa3hETJ_ZrAfDmJ791nHc3UV_KO0H6PLK1DpWGcexf75NGvb71b3opEpGAvYMtNLU6YvfwYWvjjfxhypYEyeER7kD-1681-9ohxIjnSoKPNKgNnPw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "kgmid": "/g/11gfj4w6bx",
+      "rating": 4.7,
+      "reviews": 31,
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJ7SzVuxQys1IRw-8ZJoNwXh4/photos/AU_ZVEGZ2XkDiqp6giwXzxW0m9nw-7ZBqTbssciXZgmhAM6nSpXdMO1dHsxqHMwJ95Db3yBVv5pCDvjtEOTA0Jpq3zErmgzLDEndY2jxA1iE6NUfOyK6Vy6hRWl1VZWaFLlr0K9fYxLorQHG2RS1yjQtGt25ffDMTfkx5fA0vMKkYM1yzqQeW2QcmyotnWXKdRa3hETJ_ZrAfDmJ791nHc3UV_KO0H6PLK1DpWGcexf75NGvb71b3opEpGAvYMtNLU6YvfwYWvjjfxhypYEyeER7kD-1681-9ohxIjnSoKPNKgNnPw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ7SzVuxQys1IRw-8ZJoNwXh4/photos/AU_ZVEGxOM4alJRDDasTMNVYmpwiyb01GQXTpLyeHlUKqV3EAGa_-hO7Rniexr1Di2BGj6wmVA47LmFuj3i17VCOyO7EzDikRrvYS9sNws9yagFeZuJUYrCfU52G_C4GjKGJutiWxr90Nu28EsnX25S6aUjUCeNaOr0Js9knMRDsl2RlEsFcV7JfS62bMZiL8rH5m_LnzJ-LO7IRjYDfGM2BRxnzeNsLkpzM7dWZVZYvP7lL78cKnXRyk0KSckbCdfwVnjrQ7mHM9WIRQ1EuPlyKwPAYAVEzoJNtQdtceI_uV2nVBo_3rwQKxUEKT7IjmATy2WuVexsDdpDHDRcL1W4PJXjl1LJt-6abC5b2JVq6dS-5wx6ww3qw3KaPdhXoDNJryoSYtqFjywbXLnLMvSEaqTEAbvyGt1VXLTU5qQ6YqzZZDQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ7SzVuxQys1IRw-8ZJoNwXh4/photos/AU_ZVEGQI944cGAELMgiyot7RSKKtLPJoHHCTRd0_vwtrfv0h8na3GZPca9DBW1WXLyEeIvACPO9Rpqsi-Ym5iweW3-WRvbg7M7_2UJbbT4x4viGNCv-HL0A16tI6Dyg27zeRP5VJcTMx-xeqxW5gcaIzopWpQoSKP0T4nRBJw3Y1BGD_Y4MEadUzMQMlHWyJymkz06Z6O9cPN7c43G4AKhxQfJmv_Sx6cEKuTMkYyXqCJxnpzY3OrUeow0hbYsUVeLtjleCaM7E3POH0SI9Kt-c7TYZaE0xCudkygFUfh-GNEKX1lrC17ZjvjAfnEahfiREXI1B-fIdbwRzSwwoxXGwwnEZzc-wp1vKYIflUjAMzd8zzz3SS5yTfqfBbfSZAMmMK0jBp1quSUREKWFZHPxlfxApi64WliWR-HzieJ7JDT-LUg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ7SzVuxQys1IRw-8ZJoNwXh4/photos/AU_ZVEFRsDoD_gEEiFVr0b9AaPcsIvbZiBEtWbHKx-jr39ngt35hdX_2BFRum-cvh78itvxAZC3sXwPENbzGViC4sHN148YA3PlgiOWLqUip0gTCsVRMMUKeCjSyiVXsf-qAb6zqn-0mBK4K22Ef9-3f3y-kSQfEKWm9aoOvvvF7Yz7gtCc0THl5vbAmqonjVoQZ7bwKNil1laQdxw1rzh4H5VH4Dm10hI3Xd1lXCFf6U9fQ-qp7LjYdCLhcWyFqBUFcLLT76QuPCtL9zSVDqVLh9xACjKKCpvGHcORFXL2lk3s-tO07fQ_ZIoduOlZv9RKDavXqZECGBlHtO74c1XiIuvI4x-UZYTzKc3MoHQrT8l1nB7c56r_ImYOV6Kqp1-a_tItNgZbRNuQMtDmwo37pwZ5u8bEU-llC7ZaVS0K_hsKOYQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ7SzVuxQys1IRw-8ZJoNwXh4/photos/AU_ZVEGWG7fhD9y-zR2dhfcMqU-Px6S5Z87GHXawbrJZQJdTDGQd9m4PAztlo5szCLM2YLEJ3lvJ9eqNDj6h7KzAuIoWIxs3CYiwKqcspZKNS4WTlHChXhg0GPfMVa2T4613xjr5CGocq4pMwLNj0Cg8byqK4hAD3ItexdX-LOFms7F0EgqE7FkR_I5pE7OgqTlZIHqy-COGkETm9TbkYIlL_dA7bbk7nyHPjBdkNz0N-jpsLqDZYFJyLNQf8DPp6VM0RhHjcvMg2TjGx_i7u68IUO2cfpZ89Q9tzMg8lfOEETJAX2wn6V7bBeU2-lt-7Tnk0dZbCiEyg-Y6z9_UDydvF4wXc19L2iWBsXkn4IyPS1RJCYJI-vzx7N2q1FUYigZpGz2Mb8-e7i76oa-xTO51c6gJDQx1Koit266y9HU_Ock/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ7SzVuxQys1IRw-8ZJoNwXh4/photos/AU_ZVEFmzP82Ns_XVyrshs3J_Al-kpQ-p9IYT4seAJrMPFrvmnidME-iA1SyF9O3LGYVlhYXOg5Dn2IW2uPqaWv2On89GgcbmXSR2GyTSrTZt8n4JSOGyFjonbTvApIy17RvgYqqznBC5KjkfwrFn60geV2q9yC0hhdXRTwvBR8br-2ifU6PCBkKiXS6FgRLs0QxQ_SoEP_85oq8zK7fMA1buBZ3YtTc53Ej6nUVHh5Gi9GpzKWSFILypbeF4cxBFQ1wotAOGCFKjXC4syMPu7ZlFN4tHZiM3xfIjw2hcgga9qH7n_tdMxOF4sn6T_ktxMVOxqmQuDyebRw93NWieOp_QEeLko1sULBnDDxDBscydbfKYpeJt0E5CZvgkXOFTE8yjpzIxC11YvKp4CZN9ip5ya-ex2Cbc1crnIgyBx3d1zX3Aw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ7SzVuxQys1IRw-8ZJoNwXh4/photos/AU_ZVEFtyHodBaDE-56edrO77znCuTgDeUW20FKxTvHZXOtkGd9J-y080mH3fKgNXEWoYiCukiWmZCz2trcxOYurTDLWxut4WJ1O6LnOWXEwrgCF-EyiUcWHdF4iHKz4SknG_cfbkzEXGcqpcPuGk0mRKDtAeck_l-KBZmlClOt-7fvpih9LkGVA4H8PHSW0m1oBDliuVvfXWn3zUXLqRm_c8j4-Z5IFDsezZsZEWyenu-rnfcTQ7RV5ZaoO95IjQmhxCYoI1XtyTLu3fzDeEGu1UIuN64QnLyZdXim7hhS6E6ydWvKZ-LZ5tb2Ki4wYmgVoYP2iglJS9Az0ohrX1WNBrPwqNgUlsgHkeV9adRht6L14R4JAebRkuauT7JJioDRODn3vWrOuAAXlmQLp8CjuIkHq8R1zAXbI26NRpOcSaHzbrQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ7SzVuxQys1IRw-8ZJoNwXh4/photos/AU_ZVEFom03hAzAa2nZSjg-Q6RNUVaSZkf7dN0kSvZQDsEA2hAIlgk38roy37qHRDVgaVd82UZI_BO8ntvVZPp9wLxaj8o7q_W-jBzW77Tzo18P0nBczmFDg0T25DIRmRLnJ_GeX2Z_Ws-NEWh6UVXeBwlr-v6zfnAiB8MiYBlq54OhJMiy_muBFCOQAkDcdBqWEtFmFPGUSYRO-vK9yreYG0bg_K3vnUsdbnyh-CslT02K0pGDvoRRrepvXbcB7kIfjZyQcHnfl3Nm1C8GWDl66Twz1JpFrSYjv4pLPtzPO7qT3J6mdG6YEy2EKi8DZR41iIoVcUBrtypzEaIcs0GHwfs2312i-_CgDR9PHH3sTeE-ixL_7SR_jfhR0jYeWjYemTDuwE4Ai8A_v1OZeNz_40J9Cl7NJ0YPR53cWQz85A9KFCEcQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ7SzVuxQys1IRw-8ZJoNwXh4/photos/AU_ZVEEerog1DKdQkdKvyr30dF9H5C3A5qN7D3Kt5CYFDg13L71kCGNbfZNwHu1U8y-E-Nml9joVyWBV3N0xcmvl2zkgYUA8u51V2oAEoBu25YlnEgYNPGHeRemnLUKoOUrW50VX4cvlQW9u4eefDM8TAt55Ow8upR8SZQ2gDbLaB9Ue-0nEz2aB6kGDVRlIf-hR9qpxMVSXoukl-D0Y6dPVtYN80IK900Plb0_Mw3mwRYgkICqARCxSiPs3DHAxTK2kkOwNqcSwk5cQHusjMEOucnZA0oZjP5gDA_L1y0sfSpJaKvKol4Z1wkpriygHhNf2h2Ub6Zl3BaqpP92coG0fP76iI84-etIEKgVVhRPAjkPVVWyRTLcppja_V_6rRI1H_H13TJSqq27XdcavmRCx5g8QUrQpMcyG8R6O4-yctDBi9mOH/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ7SzVuxQys1IRw-8ZJoNwXh4/photos/AU_ZVEHmWfafe5nPizlmgkAQbxdOQ8u-lbeMsHvr6D03vA92Nt9IiT5t3vkgFbLLZabTBEEDwgZmVXgvRDvbiC_yXQwWnUJQM4Gm1sbds1uhXkhvJoHXJDvcdeCoC5qyqpPBSYBAilZgo1JIO2fkEUZ79YlPJftP2lb0bmd7yROZZ2omnJqhOAkAWC9JGau0yBkX9b-Dmp6aPLPYt_i3_8f1jDGcxu8qeFqzLVOpwW4DS4ZMC5e5MpfKYHD01br57TjYE4f_QAd8c89SMrRsjfvVIbzKZciDWW1EqKeBG37iBF1hUVljWj4GGquCi93JeDXPLEUkVPtwiLd8iM8owo_I3oD5niIAYanqrKXwMUSEoooiYTQSDVhUejhNMZ5QLLpYIzg8S_a8IhDEcPcm3YHMrUlF6rodrFGw-yvVcyElwgUgoQ8n/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ]
     },
     {
       "title": "CityFoodStudio",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",
-      "address": "3722 Chicago Ave, Minneapolis, MN 55407",
+      "address": "3722 Chicago Ave, Minneapolis, MN 55407, USA",
       "neighborhood": "Powderhorn",
       "street": "3722 Chicago Ave",
       "city": "Minneapolis",
@@ -124,10 +138,10 @@
       "countryCode": "US",
       "website": "http://cityfoodstudio.com/",
       "phone": "(612) 299-1841",
-      "phoneUnformatted": "+16122991841",
+      "phoneUnformatted": "6122991841",
       "claimThisBusiness": false,
       "location": {
-        "lat": 44.9350365,
+        "lat": 44.935036499999995,
         "lng": -93.262677
       },
       "totalScore": 4.5,
@@ -142,7 +156,7 @@
       "reviewsCount": 11,
       "imagesCount": 14,
       "imageCategories": [],
-      "scrapedAt": "2025-07-17T00:27:04.961Z",
+      "scrapedAt": "2026-04-03T04:02:35.363Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [
@@ -200,14 +214,28 @@
       "language": "en",
       "rank": 2,
       "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nraWQT_5Z9BQNGShgjBnJIzsreE4OUDkYgJASdbB8BG94vKvcTnYb-wzWF_j-ZOXYz2BOOi5S_eUP-16IR59aaEqUAXLzU4uem_fP3n6Tkd_4QQai9NnHLS31Z7Lzm549Jas5zf=w408-h306-k-no",
-      "kgmid": "/g/1pztc0fby"
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJMSRKpuAn9ocRcAREGfIuPdk/photos/AU_ZVEH2UyvEKxrGb_ORPuVa8OLEzQ04VzLGcCfXL2cKRRUbg48PAOnuxNeQr5Klg95FNh2mhTTMd2ZGzjiC4UvZlswrVZtHqdB5sVa8kziznQf7y-2ndBiA47AWMo8stdSQUTA6lwasVZy0QkPYAYPXibssHeFcmV0_QhAj3TWZajlDmVgZ9wx_ck65YXdzc2JbTMDklA20KjgVmj2SxBpZEvZhnu68ry5lQf8nJvBWZBqewEhJVB1Q1fj27b5Uqk3wmWUI9aw2VR7T-WSgQZlTKJyHRUl2IfCyVTMEaTomDpKKXgsifzHwU8BccGI5o_eegkCkWWK_52dTcPfLr-L-ejNRrWOpFYjGfPAl11jkZLdqZ6KFCdnxHoafNlNKlw5T5Ww86qCN_xoI_Cf6DyoYZ5yNO2f4LWzY-0mdqyPvR6vwYw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "kgmid": "/g/1pztc0fby",
+      "rating": 4.5,
+      "reviews": 11,
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJMSRKpuAn9ocRcAREGfIuPdk/photos/AU_ZVEH2UyvEKxrGb_ORPuVa8OLEzQ04VzLGcCfXL2cKRRUbg48PAOnuxNeQr5Klg95FNh2mhTTMd2ZGzjiC4UvZlswrVZtHqdB5sVa8kziznQf7y-2ndBiA47AWMo8stdSQUTA6lwasVZy0QkPYAYPXibssHeFcmV0_QhAj3TWZajlDmVgZ9wx_ck65YXdzc2JbTMDklA20KjgVmj2SxBpZEvZhnu68ry5lQf8nJvBWZBqewEhJVB1Q1fj27b5Uqk3wmWUI9aw2VR7T-WSgQZlTKJyHRUl2IfCyVTMEaTomDpKKXgsifzHwU8BccGI5o_eegkCkWWK_52dTcPfLr-L-ejNRrWOpFYjGfPAl11jkZLdqZ6KFCdnxHoafNlNKlw5T5Ww86qCN_xoI_Cf6DyoYZ5yNO2f4LWzY-0mdqyPvR6vwYw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJMSRKpuAn9ocRcAREGfIuPdk/photos/AU_ZVEGsf8EKIixPP3ceYpg-_vvkmX7LCCiBcCbmSYwDYDqaEDK2UBUvToyKBllDLZVFpBsZ2_lJ0ITJglGhqWcWDUuStQmdPsYzHDpmHhmqUHC85w1hWx026Rb_HZVehyvmgXq-s-VAurl_BzMjdNyE9wfun6CywbNOs3MYyiRH7weZer4Ln25hjQYzttNaI0Ol8UEBtZNkCyt9DTU80LKRI1ovKm0iHkBzI1jd3Fu60M8qGNvNNf4EuErYCaUjwn3zkHYl2zGo1GytGlBqStR6hiA4RFq9ZmMvEDgcN70BCz4zRdBdwt8j5hRT6gJtojwXS1E9bUPA8mRvdgJvkzB-Q7I_o_dS28cClr40sayYzzNle1L9J1trfApK9J1rorW8ZxToFt-xOt1OEXsH-XNo_AMaWs4uz7ozEyuXMuEs9Ig/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJMSRKpuAn9ocRcAREGfIuPdk/photos/AU_ZVEFzoKPMQLeIoaUgpDmKq31ByxnJzOXIQ5P-mjjHWtMTlEpxW3mHb-xO94LLUJlN19YDbxZ0G88TqtK2WiAjqsghq9qo-JCMmbQoa-urngaOLSPjZJnZ2dIZcatYCedLJ5CKlSD4AWhDKAYpJU_VDOakmCXizbDXJWDDE9AFoZx97qlxZRxqnTd7JkRGWKIGO5vmo9_HOw1PRSWOU709Ro3_noz1FOjyqxesIrWGg6IiiiShX10TwD9C5NDunq7NMiNgJUGRT4lveEa37sOshoIVGMx3XjMF0LOPnAYZujLfJXttPAxAk6Ub_VHBfUTqp1xB6C9Q0J9uq6EhIHknryN_VHQNysir-zUWibTuf8Q7aIJwl8BSdqfTLuA1tK1_sareEZdjXjkdI6xLA_KoCVM4RaHcxKg-tO0igwhkmTbKuw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJMSRKpuAn9ocRcAREGfIuPdk/photos/AU_ZVEEb1U1Ibjbco6vJr8kdl8EnvXlMC3Pr9Zd5s4DjEXKHc-Ia1YIT2MxnibkSps02HlxaFCtOaxlj1QDGUU62EWX9ye-PprqwwUv1MStOgtNAlxWeoZmKduvH_MwJvGwj6IkEK3w6CoxwbYhIKHu9BcsHBO7RbO_OCnPeb3o8-oyVdqMsNVVKo6g7KUNVcvzLXB9MMhzmWDKrMw9anFOocaxluQFGBjY4Dd9gpzuCVvAecq57EErQOYk6i6OrKofDJBOFV89hw4eXu9dmSQFElbeSJvtTuevJhVZxf9UO0u7_WB4_pAbsygY2XYYxjZK_Rw9uLq-ZSmiAO_OBgvl-tNH_YdkEppCeLa95UrMtfG8hXFZ-KUtbTKjYvEwOvNWjbjz-_RXoQ9LHpouWAlPlN3nMGyOJsQSCfh0ml38DyK8PQg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJMSRKpuAn9ocRcAREGfIuPdk/photos/AU_ZVEHx0ZES1mJmugnY8yRub8qkjajMXTcgnbH2sVh7bb7acvlQTukI4jlF1lcpFea7cklLawpcq7-qXQNhjIEo_UwHod-kpgB8HvMyHjkWw4Ew9ubd3LPPHg9thSmLehKEYrLH3R9_ez8GyzRD-gZRxZSJJFvoDVwkmEeSVfLjNqxLZTCE0a78gg-b07vU0eJjQZiS_iKHb9V7pFpOOGiS5UOSDMSeZ6OUx0KPf6UYgQj1Z0Vbq1xIIdu_KLC-vLCu9MeddJYShzNcBe_EgzKWLNVG-ZYc2FADxVT8_whZW_pMFzdOFIk7hb_B6fqtYN4tHqCiOAOXG8AhRu4tUqQYfVddk5oB1jhpdUGJ6uZ6RKovGFQYMhRJislxebuCrfZd8ZVzTDpDXn2QgAVudfO_aFI-UhbxaYQlWtDDGy6hDICTcg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJMSRKpuAn9ocRcAREGfIuPdk/photos/AU_ZVEFZEswRcczGPB8sI0LWwZNTH5WfCO-t8cq9AzTf45jgn6EhUWEzzAdFoiYjudl5lQ_ijgbEFIOc3Ew9zrbo1NvYJ6bM1er4T_XRralQAAlSHY63y-UKzEAdGRAeaxpAkJ6DDv7hKuLwmj4v-eyt-AiKG399h1O3gfaoUvvQEDaiDej3l8n9LEYfmde8fYN7KHumJrt4FrQMP5b3ULVjh-EISxjDdlWGXlCyjSo8KNbVyfoiPnvk0iIQ6-WwNTQhPJoCSDXQ8x3K2Np3ZCk2unYWC1KA1tYRjochHmNvywLt_AHBt53YXOXF8l-8HXCe2Ys-gGBJhDP8nTgi8fPXXSMBGgiDKKxRr4I4KVGobGj0tvhQtzmX4GCtKK_UDOdChT1XO3dm3bxIn9C-a0rcGo1eY1sR3tnzZJkq1xZi8QvwUYRv/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJMSRKpuAn9ocRcAREGfIuPdk/photos/AU_ZVEFoPyNor0cFpQ2Cs8NPPnMhX0qzY64McmLoRJ5sBJ3HXdKGuV9Tssf8HwLPad3Uai6zjDJ8NUa8Sqw8ouhVpsZemhonkbs-wpoB3CLGUmasVu1Ip3hdipfTNCLwfm0raFyVv413LNA0N_Uq5U_qy1oWjq_K08kq9kc9M6S5XUtEonzSNlVSdkN2ZkiYrcBOqD29SfCIDrRcPJyQiVoYAMOR-b3GTSADrZX4gWe6rpGsULINd_yfaCUO_9aOgdVl8cVMSTNAH-KjWBVTq0uIh2DQZRLcloe5ncqUQF0eb8w_8oO0Kz8KWTY4p9Sle3ZULmxUGAdfXpKIxbrz8mNfD1vgLsXyorpWCWtyTBP2H4yWCxeUmvDplR8hgosizXrxoWy4x_27gr71F1oevcJRz0jc8QO0VvqEWYPxY73ECJDhoqhl/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJMSRKpuAn9ocRcAREGfIuPdk/photos/AU_ZVEHmtZHr5K6C7y1TVBZ6CVUuuegDlhZV7QvPWgmLMyCy6LFtym7FNjItMX68ozHunJ1hGWXn5RLFUSKUrGrtCNd6JW6FrVi2z-Ff8b7cy_3FmebC7kBzF7vUZwHjNHrUXxhbviYH9zgrNYFm7OcQuK7eTahtFDyIiDI2gwOWNsxNDPXlwhjbzV86CamwPWlXn2LhCnTi9L0dHGpmZLTqUnQGoIM-3bX_fx26JMRx6ucp_wWitisYDQSxK7hKg9MGwolFCZTHeVy8TwUZ1SeQGwaLprvMYKmIqfDUu_ZMNyoNLxMwxcEmVMkr_0LtSCrslhGliEvdLGxp3C1IiYL4V4JRmsD9BSWrr8lJ6fW37skXVV6SRrQCEBm0h3YcotKMCOkYBiH6BmjwCDi_xTB1BhLS5PcaJWE38NwbFdNRI0Fm3F10/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJMSRKpuAn9ocRcAREGfIuPdk/photos/AU_ZVEH4t0RjAnH61-o9a5r7hHfEBTSPhxkXyk6bjuvyOrBwSvW-8bU2hzZ_dYD3VyhOhTGjUmFvJg6bPR_5o6R9TekVVSL2b1SWjcVIhT_kbyEs0bIJDT-3WAT0n548RJMefkV5SY1TnG9eSlA3LlLYIn_7jwbmPyC3wuOmz1QBEesnfvwImP9jFywlnC5h5azWrb08xNIE1gH2w30jIMPKYLsySpaOc1cEL0SanrFDL2UTZ_I_-GPb23TibTI_jyLTXkC_B0Fo9Lemru8B9c0a9UtE57jND4hqLVy2F3CSvw31FjTMDo5D0pTqzoY_LdptcufQqQBunFFWwok31QB5NwVGvIMGGyt-m1VcQgSc5Kgl07ODT7Wvu7TWQ9_op0r2temoFRxFGhmnhYPGN4IeK1rOXWr2JrC3ErGqesI21gCycK3d/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJMSRKpuAn9ocRcAREGfIuPdk/photos/AU_ZVEHHbI4rMyapui1YLUh0jxuR0hjPTtASa8YiJdg5NWPYoPpKJrt1MwOTgETJ0tcSaw_mswe9C3_Xqc0968UMrGPqalhqhOFuNHq2mL_2RM7QCVG6k5Yvob5Vg-SFPMnC-7lnYXXktDs9M7UINtVjxj5EoZ4Dvi8zlcIXRcDrQ3ijf6zdXs81fnNd8MoyYNMJMoYVYVp8-dlieVgDGm7KPACKVcpatw9F0CnSoDdePP3FUyPe4_9qY7jixZkKg9Eku_qEcYShL_21bEeFJaxeIPl0RhelLZDTh2XaTcL5bzEqNo-4fP4CEtaT60OvirH-5N3-GP2LrJMtwuNCQbl6xdu0vHokDDCCieaI7knzsuxRyv3l5_R4bZnF3Q93S9eiy0LHj8rwrb1sRCB2fUVzqS40IyP1DQDH0gKN2KcPGl_Kag/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ]
     },
     {
       "title": "LOL Kitchen",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",
-      "address": "1032 3rd Ave NE, Minneapolis, MN 55413",
+      "address": "1032 3rd Ave NE, Minneapolis, MN 55413, USA",
       "neighborhood": "Marcy-Holmes",
       "street": "1032 3rd Ave NE",
       "city": "Minneapolis",
@@ -230,7 +258,7 @@
       "reviewsCount": 0,
       "imagesCount": 1,
       "imageCategories": [],
-      "scrapedAt": "2025-07-17T00:27:04.962Z",
+      "scrapedAt": "2026-04-03T04:02:35.588Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [],
@@ -251,7 +279,7 @@
       "title": "SHARED USE COMMERCIAL KITCHEN",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",
-      "address": "3722 Chicago Ave, Minneapolis, MN 55407",
+      "address": "3722 Chicago Ave, Minneapolis, MN 55407, USA",
       "neighborhood": "Powderhorn",
       "street": "3722 Chicago Ave",
       "city": "Minneapolis",
@@ -260,11 +288,11 @@
       "countryCode": "US",
       "website": "https://www.mda.state.mn.us/shared-commercial-kitchen-directory#harmony",
       "phone": "(612) 205-8086",
-      "phoneUnformatted": "+16122058086",
+      "phoneUnformatted": "6122058086",
       "claimThisBusiness": true,
       "location": {
-        "lat": 44.9350517,
-        "lng": -93.2627317
+        "lat": 44.935051699999995,
+        "lng": -93.26273169999999
       },
       "permanentlyClosed": false,
       "temporarilyClosed": false,
@@ -277,7 +305,7 @@
       "reviewsCount": 0,
       "imagesCount": 1,
       "imageCategories": [],
-      "scrapedAt": "2025-07-17T00:27:04.962Z",
+      "scrapedAt": "2026-04-03T04:02:35.889Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [],
@@ -305,7 +333,7 @@
       "title": "Kitchen Space",
       "price": null,
       "categoryName": "Event venue",
-      "address": "5750 Lyndale Ave S, Minneapolis, MN 55419",
+      "address": "5750 Lyndale Ave S, Minneapolis, MN 55419, USA",
       "neighborhood": "Southwest Minneapolis",
       "street": "5750 Lyndale Ave S",
       "city": "Minneapolis",
@@ -314,13 +342,13 @@
       "countryCode": "US",
       "website": "https://kitchenspacemn.com/",
       "phone": "(312) 339-3759",
-      "phoneUnformatted": "+13123393759",
+      "phoneUnformatted": "3123393759",
       "claimThisBusiness": false,
       "location": {
         "lat": 44.8981674,
         "lng": -93.288704
       },
-      "totalScore": 5,
+      "totalScore": 4.8,
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJi4KJtLon9ocRkNOBDyI_27s",
@@ -330,10 +358,10 @@
       ],
       "fid": "0x87f627bab489828b:0xbbdb3f220f81d390",
       "cid": "13536482520513762192",
-      "reviewsCount": 3,
+      "reviewsCount": 4,
       "imagesCount": 7,
       "imageCategories": [],
-      "scrapedAt": "2025-07-17T00:27:04.962Z",
+      "scrapedAt": "2026-04-03T04:02:36.157Z",
       "googleFoodUrl": null,
       "hotelAds": [],
       "openingHours": [],
@@ -367,8 +395,1109 @@
       "language": "en",
       "rank": 9,
       "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP2tayYkjoM-a0EktDt7UK4NtwxzYNHgzWybMc8=w408-h272-k-no",
-      "kgmid": "/g/11fjjb8c9l"
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJi4KJtLon9ocRkNOBDyI_27s/photos/AU_ZVEG_PR9VULxKyGLwpKwMByTtUktuXyWQB9-fqOtCck_gExMtRnpuChHp9rg-mxHRfHMEg9AJhT3KJdhYUpV52lXN9Icx_9i6pqadJ9jF1M91LUCK93QsW3RaOMbuoUjf48W9256yWwVHUEeMeCJe-7JhOoodEXSS37hUWkTboNomzXrPqMJWTYPUFpgIJ1jQvGLAF5e7vX23LLRk_mNI0jFpEGrVLHygV_Pz1naZ6AwrNbsMdY3uhWfsFJ9qWHno-luYEC5HuKvw_NRsJZIZ5xAT_QGiTndQu9hA91dkl61ubg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "kgmid": "/g/11fjjb8c9l",
+      "rating": 4.8,
+      "reviews": 4,
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJi4KJtLon9ocRkNOBDyI_27s/photos/AU_ZVEG_PR9VULxKyGLwpKwMByTtUktuXyWQB9-fqOtCck_gExMtRnpuChHp9rg-mxHRfHMEg9AJhT3KJdhYUpV52lXN9Icx_9i6pqadJ9jF1M91LUCK93QsW3RaOMbuoUjf48W9256yWwVHUEeMeCJe-7JhOoodEXSS37hUWkTboNomzXrPqMJWTYPUFpgIJ1jQvGLAF5e7vX23LLRk_mNI0jFpEGrVLHygV_Pz1naZ6AwrNbsMdY3uhWfsFJ9qWHno-luYEC5HuKvw_NRsJZIZ5xAT_QGiTndQu9hA91dkl61ubg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJi4KJtLon9ocRkNOBDyI_27s/photos/AU_ZVEE9G8_qYUcOyQoezrQ5B8gWYMLkGfbafQg_U4cHI3wXVaVokueF_cQTiPrl2rDTbphnVXfTPxH36UkVqp5L1sN4nuIlnkoyt6mXYbZM9JEtT9iasuFYDrX4ScFCiAObjfoqtiv4M5zXs9BThy2c6WRvuBA4hWb3aqJZomtbOPr9TSAezIrzLD1_n-_0H9gYs4kHRIzX1P9vuhFyNNUvLZkkeY6CXQMBQCBeFVFW5xgd4gtO7RHOc9f_Q61p5UpXFyT9xb-fTtlUJrwJj5j0_isutaYLS-OUwHrr3RFZGiuW_w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJi4KJtLon9ocRkNOBDyI_27s/photos/AU_ZVEGXgYTQnWkYMmaJFEze-goNnfn-XorUiUsMoDpQEBFIakUX4c5eAzguQTHDq57DNuBgOp2ZXHQdZOPqcoWUoq8MEO-PNfeKTt4aUW9eA9ZY0-EHb8gr1cr3XNikR3mvsQbMsyX2AvEYGax6fO_i2wIpCmEGikmEI6OME7UMJgsj4IW3nZwR2VVO2JA0Cpxj2UIheFxXi0QR6UqtlOq9k2k0xHaByT_1BGqdlLvpSsyRoGnRUQ9-Pc7lmtt9MCJv3BIg-KxktnOSVeZe8U-D0I9u1yfV-Xos1dLMR4Fqq3hVlQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJi4KJtLon9ocRkNOBDyI_27s/photos/AU_ZVEECufIS6YCmY8alTia2tO_-cde2TUcATa5_KvZ3B2zugWZMpw9B4sK_3NYuYpr3ffdaXNXX5CRJU8V57bY35338cKIVElJYyiCTknCt-1PPtrM9_8j9MA4Tb4Bg0K3_JvY1cksAueiyaprYIOrFQQ0IqRlqXaU_-dDltvD1IEioXjWIv9nWRmmw49EnOjuZ2PXnStnrrqD6Q9orWP_F_-dYc-uo-Qxehfa8_MYOJHokNdN2gRIXuxLkG98qRFsjsmGDnAJT5iAoYy79u7M8N4SKQihO4VRuL8sw2vKF2GeXaQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJi4KJtLon9ocRkNOBDyI_27s/photos/AU_ZVEEachbXB4Wz7OLGyH0eGw3DUXrNWZihwiUG-FdV2sKQQxCilLe2PpNUeb3O0LfF9VAV_aE1kewC12ElMJO_9Gl-4s7YBOqkwv-2K_EfCvG4sT7g6ZmSNc1h555Gq0ypD1u65NCegITMBkHiGzqfPdigC3EJnXqzE45GDzmdoISqYceAxMPuk55kqyBcI8PKXMeYqPzIJCWZDEkMmgBAUaoTpyAwyErbzcBqgzpu66IUxUp7JXkV4k739V7eIP_zl6RQcrS-o2-qJfgBrVFouvQhf4mYhq64dPZV0Ikvj-jNAg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ]
+    },
+    {
+      "title": "Maplewood Commercial Kitchen for Rent",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "1064 Gervais Ave, Maplewood, MN 55109, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Minneapolis",
+      "postalCode": "",
+      "state": "MN",
+      "countryCode": "US",
+      "website": "http://www.watersedgeinc.com/",
+      "phone": "(763) 291-9997",
+      "phoneUnformatted": "7632919997",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 45.01346770000001,
+        "lng": -93.05761869999999
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJeVIsrS7VslIRD2ZxTxr0Zuk",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:02:36.416Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJeVIsrS7VslIRD2ZxTxr0Zuk",
+      "reviews": 2,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJeVIsrS7VslIRD2ZxTxr0Zuk/photos/AU_ZVEEdMMKtuKxxkDait77uhugstMBYA8FNW7XgbR2d52N2o0rLEZG-ulqglSWS2v8LahyR1dpV5Qn0wW3tgO1d-IX3owVLnYKPvzkXDLYvb5aOAKDQD-27cKOOGp6cZ5xsQpsa5o4l9Cb9kWXtN6f2FRTmP643_pCkWnRt0g9EghMg138Xepyv63nqNIcayfTam-guCOZmDB7urmJxD2kTAu5nwiEOy0yY2-OXy0qtnVglzoGNjs0yAv_sedfaaojBFP0KKpOgyFs9Q8C8oyz_URmOhAB1AjPeDh8BkCXIMZmVpA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJeVIsrS7VslIRD2ZxTxr0Zuk/photos/AU_ZVEEdMMKtuKxxkDait77uhugstMBYA8FNW7XgbR2d52N2o0rLEZG-ulqglSWS2v8LahyR1dpV5Qn0wW3tgO1d-IX3owVLnYKPvzkXDLYvb5aOAKDQD-27cKOOGp6cZ5xsQpsa5o4l9Cb9kWXtN6f2FRTmP643_pCkWnRt0g9EghMg138Xepyv63nqNIcayfTam-guCOZmDB7urmJxD2kTAu5nwiEOy0yY2-OXy0qtnVglzoGNjs0yAv_sedfaaojBFP0KKpOgyFs9Q8C8oyz_URmOhAB1AjPeDh8BkCXIMZmVpA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJeVIsrS7VslIRD2ZxTxr0Zuk/photos/AU_ZVEEz9xHi0-iggv-5Sclrs2Y6zxkrgJ0L1t72gmCyDq-3EeATNqWP-vkyPlrFou1uF_C_pEFQawDCbs9_aWFNbqbSZDpqYUcREBZSKhD14XjawP13LIYMqe6Zt2EtC_zm19Hf_H8Ooevfjh_cF-PoUFJgnNN3tnIaDUE9CNeRRubIRZ-eMLchZH44HCDERPvvfTPdjgCjQnqq-OkBAi1jgkjycGWkkZeUl88fbub1FU-xZ3wPTBBACE9sstsyve3XeeMwTPmNQBz0zi6nAkYI4TjK1Bi93Ufum-eiljoAKN5Nxcodcvct_mCCd1lGQxOy7CH3l0Hf8qEaMRdtyakPO8XXU7D6a2J_VZLZHWlewEN1t6STP0NUNdH8pxReXp3j_acpsZUOLPZfWgueh1ieHnG_izkFEmwq1rz938vidsHMi2_iDPGOK4k-wSNgatLx/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJeVIsrS7VslIRD2ZxTxr0Zuk/photos/AU_ZVEE9fWxCetvm79yvCOZSo-TPssGMmVOLg0sijGmKoJpxxzulYVOrXpvRu952UnFyxdcriLn24mrg0o0S0wW1SpeY7Euzv5bVGIYaNtK2scXzDIDxJeGRkBJzrLOi5exuffOdsGbE38_I882ATNMKvyPDVdoffiqJx83y9-8hZ2UcyXV3TXBUGKHXoh6E-8lny6opOs4MTZaQeUYYZ_sJJ-RHNoO7qB9LSE3N1ygftjajGcqhjFKrz36pYW-62gzxs79LQoQ6qDKmxXYxWRD58bL6ab1VMFOZ7Mu3ce9jF7fUWw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJeVIsrS7VslIRD2ZxTxr0Zuk/photos/AU_ZVEEmOmHBBNR4hBnZZMTWRMCvE_yVFYCDlE0Z6CZYuNnGeKmhLPL2Nrlyid-tDJ3q-KZxkKNSOm52eH0GirJIR6KHsfzoQvFdZQ2huyXM7tiCrnW9QXPsBSX8_sa4Gwwyvi1hjvmyymdUwJZ6Mj1wTZOS7W7ZbR1UcHV1ipLfulL5eIEVWO7gX1eJK9gAMl2b3tXYsyM6ceqSp57WIgM4xOWalKFMUhwSsFfUxMzoubmdtKdj1FjBTbyAN1HVFQEbAYO73oC4T7HN8P6od7fu4ABZ-nH8Z7uT7VmRvlHwdD7gBA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJeVIsrS7VslIRD2ZxTxr0Zuk/photos/AU_ZVEF2a-XjDmHRR5kd8_1qcodETVlAIq6MiK4Xr-PNLbdlg-bK5q2ui0Bo1uk_6Lj4joS0HmjyNs9R7L5fxHudILvjbSpkZBgbuBhHEE9cT_ked_tHYcVTZVyIy3sgxG1mriqvS7IL4ez90S_WduGx691iEiNQR3Yv4KTWmZf8jNHsU_QB2ITpLZd-l8M-7D1g6-aGJzc3ohGk8mB6oXJ5q6SXmsGNcE7yyg8f3E-HOZDlpKLbd-tugjJ0uir0-KaFhV6_G-X7wC1vefbv7TdSWfUSWsH4Jr7n8gcldADim8fimaedzkcctmVfvadu9aOLzo3FprqyToQgp-FwZIVTTsYRNyWsjhTaqvUq1R5J-i8lZtvQZj_SvBV7oytLP9215iaeMg321XPLte6TTQfQ53UdJ7eJyxPFYiXxJmx7IaZNjg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJeVIsrS7VslIRD2ZxTxr0Zuk/photos/AU_ZVEFFtd4BFeoNgqcGNEnPxqiLlyBqD6R8Tfj6LS9acD1Xclcp7XJO7yBOoW0BoUCJ0pFzi1nNOsNes-JKlrIkc6XUoVn2R3D4JtZS7_xH_lpH2_Xqo7EjhlcxHPb-tu-NYcALZSxxgNKSOck23wbZv3PHYX7Dpwxj2kVt9bpDLNs6vsc-kSV8wt19mVAChO1zVfMmbe7GLpZ-49KxF6iNr7zRJ9QtidIQtHvBhUoOVELnC9tGpRdwgd3ztljX3p_g_K52B1vpBJwOzVKFvxgiBv0DaJBBer8rkYdPh7B3cn84AQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJeVIsrS7VslIRD2ZxTxr0Zuk/photos/AU_ZVEHR-AtQ5URY9uEW2LtpdEoh9COjl3P4ecezDafQCKEGCt0UD7Clqfi7eXHlR1nZi0RJCCfrJsdCbRc1Udcbn9Nz4AWtuY0GycdEtR4-fPlyuQVZA3G-OMcTxM_iXaI6DbE9th9-uMgMGefSjrLN1NnszHXvDdwuo-AjX7X0H34BeeEW59xgSUy4J7zEoG6gl_Trnw5-NdopVvOaQnYFfGmWXa4NU7uQ6a5vEdETLAEKgIJIp8_HkhMM7FhFh-322aAL3ux-Tx2IU814pnZ9viHAOOuBzLgsNQVLVdEpDVQX1A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJeVIsrS7VslIRD2ZxTxr0Zuk/photos/AU_ZVEEEa5vts7Bj55p3avc9CmYa0A7VWqQH4yLwz6ou7zb1Dq6gIDH6ZUQMJQhWYKdHmlpH6-q609LkO9NG1LFHFL6qtJc84lc7BmekH70-2gGfWKaetvWZvfe5WWzP3pham1m74fD7Nt9EWnwZoyJYeuMzPkKfpX2AK5Su1fjuc1vHwPmCD7rH5lpgmcEKGcbT0E7AL-qy1B1pkS3noELPCRT0_e5CLcGlApPZTa3WM7ZQEHfeD_yg_UE9R19FiOptBp42IY-AAZtpmHsVpX0rvndgwCjp1U5BOrJNKY1Q2dT0bw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJeVIsrS7VslIRD2ZxTxr0Zuk/photos/AU_ZVEHVPSy25Jo7xDEByjm8NS70pS13fT8yHKESnEV5zMzawApQiOIlHQhPnasJfopTu5509u6njgUet-X8yARG2xNq3B1-eoZ4Ejp-hgJo2nO23kmcHPYQ7nA8QA7JbIboflBkjrJaLAKDd4HgTkxZkZklRIk-UPLeDWIYOoCkWeUoBmjIFIMd1TEQmdvIFiQuRJl2EMByXJQyasy56SQ9d7XXWWkCdNCuRyH538MceG9LBU-NqvzuaPBFewtI2lfqW83IBfRa20pIR3Ya2aUQn0PgwSLilTHs3nGHwys2dbOU0A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJeVIsrS7VslIRD2ZxTxr0Zuk/photos/AU_ZVEHwAwZoBBMRTMFOANot9HZ1eHCjfl9vGjIg056qU-B53NgjU9fmvt7cfx5wU9nbN2j6hEacJ96M3omDRhTQ0JuRRO835Cz5v2y2s4WdNW3NQbd8hUtXexN5s1_WzlbuIyU7ywyh4MzwPRTz2eLzkQwcBtx-udwhHEk665F-0aHT0E9k3L3_wNvSfj7ho0qpmGVTG9snGgD-83YFqL9vFnTUH3ccbkrxc4I3IVGLrQkVKr-RMh3tuuEud62C6QpW0axXfVxP9875FNMr6wW99cWF_7-rAjDHtVxVrGyM4hCcDg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Kitchen On The Bluff",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "705 3rd St E, St Paul, MN 55106, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Minneapolis",
+      "postalCode": "",
+      "state": "MN",
+      "countryCode": "US",
+      "website": "",
+      "phone": "(651) 300-9454",
+      "phoneUnformatted": "6513009454",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 44.9559162,
+        "lng": -93.0692066
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJRb4kF2PV94cRhg8UjYkwFOo",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:02:36.642Z",
+      "openingHours": [],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJRb4kF2PV94cRhg8UjYkwFOo",
+      "reviews": 9,
+      "rating": 3.6,
+      "totalScore": 3.6,
+      "reviewsCount": 9,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJRb4kF2PV94cRhg8UjYkwFOo/photos/AU_ZVEFM8u7M3nk5v0nDOVvoCQ5IT8i64-c6E_MECMMR_42_YYCAPp1Zwa1nvZ4_NM80bMgtRvE1UJSzndfKuA55u86ox4dP-Nvgjsh95hFH3z4OTA24oDf_Eqg9oKIJVSIhiOHEFuzSkpix_Zsm1c677ZWoJBCJ_AVXmAZY4gZL-1C47Xr-Upl7DlblrueskqpPI0JKZuY7kH7Lls6TnLtTu0hgr3c3V7RIfJDoFNNconLDUchELyVEkecLYpHbsIxwTcTjl-MctWywluT4q6hfiIZuRcynseHixuqCfCAFFE8p2aqBdWuIFohuDnLVPVKJ3lrXsFWS58BaPORIzrs-6PJAJ-K3MPJVgFFjc0LEq55Eb7UB9y5g3eYwWZg4fGsOShfQbFf8ia09TddyWx-5wIkIcwdgGSxEMv_RAPNlA6EtOBlT/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJRb4kF2PV94cRhg8UjYkwFOo/photos/AU_ZVEFM8u7M3nk5v0nDOVvoCQ5IT8i64-c6E_MECMMR_42_YYCAPp1Zwa1nvZ4_NM80bMgtRvE1UJSzndfKuA55u86ox4dP-Nvgjsh95hFH3z4OTA24oDf_Eqg9oKIJVSIhiOHEFuzSkpix_Zsm1c677ZWoJBCJ_AVXmAZY4gZL-1C47Xr-Upl7DlblrueskqpPI0JKZuY7kH7Lls6TnLtTu0hgr3c3V7RIfJDoFNNconLDUchELyVEkecLYpHbsIxwTcTjl-MctWywluT4q6hfiIZuRcynseHixuqCfCAFFE8p2aqBdWuIFohuDnLVPVKJ3lrXsFWS58BaPORIzrs-6PJAJ-K3MPJVgFFjc0LEq55Eb7UB9y5g3eYwWZg4fGsOShfQbFf8ia09TddyWx-5wIkIcwdgGSxEMv_RAPNlA6EtOBlT/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJRb4kF2PV94cRhg8UjYkwFOo/photos/AU_ZVEFJ1jnER5Bk71V1aRp9spHYIWLAie8L8tNlX6VpfZLwbSmII51jeiAFSSA6gxLJjxnoaJpMX5NJyE0uLGEoooqw6vZZK2Tk-vEoq1vl75MZ5-fqi6gBeHtPD5rZTF70w6lUFRh-Agjyx6ot6-22ax1Ggq-Gm4z9_CDRpsOO9kQAICN4HNkjyxSC7wmjcljjcPC4uNU_AlFhn1rqwcgltKrhDhuuDmQdtOmhe2E5cQpl3fbGgLZta5uIRNWae0byi21N--rTDC8SHtoYkGgiH0oe4rY98uKrRd1AX_wZIX5nvdJQvzhB_sTUC791uWi5Z4_0NskNKmsmIwbzNfoOgkLrWVvaKjNgUM0HBhr_HRGHqQ0dOXZCe9f7lBVWrFCeQG-RWj3yJWRiS500CB1SaEErgBjI_YD-kj4DSCA8r-g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJRb4kF2PV94cRhg8UjYkwFOo/photos/AU_ZVEHLQg-ByKg9GXbropjCCDDyAZr3K5tKUslEGA0ahTLhf4v2xHdnWnM_pcwcKLZEzsNlfHH0Z4KaYmaycfdvzlUmwg-rku6ur-h9tHdORgLIm7iaFcgjFmTTft92oUzKld3iJ1DGI44bRVB5xuFFsxzlO18FBpcJxoxZCDvDl2dGRar3FZu1DSStkpLw546OliPhA3LWyNTNZJ2BI8uJHrULoVFsdYrmVisEIbk-6fiz1rGzQaCbO2pudfzBHX9gYGXcXl4sKz5V43JNEPcRYJ4yQPtsA4XW-X5FUhL0BxaFW1yN7w-173JQwJOlGN4dP8M6DizWA7omQIwDRjn5GFqYU0OMwWeOPMAYp57RcoKEvCs6CH0_rBfFO7jkHEKrIod9VJeanOpDkxLmK-pp8Nx5M_1xCac6ck4_yNcUlYtaPwI/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "MSP Kitchenery",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "919 Dale St N Unit 2, St Paul, MN 55103, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Minneapolis",
+      "postalCode": "",
+      "state": "MN",
+      "countryCode": "US",
+      "website": "https://www.mspkitchenery.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=4215679498259833228",
+      "phone": "(651) 334-8821",
+      "phoneUnformatted": "6513348821",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 44.9688898,
+        "lng": -93.1266746
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJudkOz2ors1IRLSMRY7l855c",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:02:36.933Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJudkOz2ors1IRLSMRY7l855c",
+      "reviews": 0,
+      "rating": 0,
+      "totalScore": 0,
+      "reviewsCount": 0,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJudkOz2ors1IRLSMRY7l855c/photos/AU_ZVEF9JF563s2zZSSuztROvGz-lT_hUltct_j04HRmPxBeWEnrVJDo_FHeiTqLJttgMef7X_6hzGj9Tgz6AF4vblQB-DGcwjI-fFOiwAjLXREHOPt9WHeeP87D9R4xqJUCtreQ9af8UCwQORXIDVADfDcN0RU2m8gOihmFeoTxKXdLUq3VJm-iiLjQYKekGT7ZHBlL7rFdZCeUCqCHhswR9tJGHpuks0K6Dd86SzNWPegG6mcTQ5d4Uxykj8mzZEu12IX5QZa6snHUdEi0OvZxzK1iewmpV0V2n84OsqgK__6aGg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJudkOz2ors1IRLSMRY7l855c/photos/AU_ZVEF9JF563s2zZSSuztROvGz-lT_hUltct_j04HRmPxBeWEnrVJDo_FHeiTqLJttgMef7X_6hzGj9Tgz6AF4vblQB-DGcwjI-fFOiwAjLXREHOPt9WHeeP87D9R4xqJUCtreQ9af8UCwQORXIDVADfDcN0RU2m8gOihmFeoTxKXdLUq3VJm-iiLjQYKekGT7ZHBlL7rFdZCeUCqCHhswR9tJGHpuks0K6Dd86SzNWPegG6mcTQ5d4Uxykj8mzZEu12IX5QZa6snHUdEi0OvZxzK1iewmpV0V2n84OsqgK__6aGg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "MSP Kitchenery",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "3425 Highway 169N Unit 2, Plymouth, MN 55441, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Minneapolis",
+      "postalCode": "",
+      "state": "MN",
+      "countryCode": "US",
+      "website": "http://www.mspkitchenery.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13485767492739592036",
+      "phone": "(651) 334-8821",
+      "phoneUnformatted": "6513348821",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 45.0196064,
+        "lng": -93.4016022
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJp7cv8CA1s1IRyhAaIJuYFqE",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:02:37.175Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJp7cv8CA1s1IRyhAaIJuYFqE",
+      "reviews": 0,
+      "rating": 0,
+      "totalScore": 0,
+      "reviewsCount": 0,
+      "isAdvertisement": false,
+      "imageUrl": "",
+      "images": [],
+      "verified": false
+    },
+    {
+      "title": "MidCity Kitchen",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "693 Raymond Ave, St Paul, MN 55114, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Minneapolis",
+      "postalCode": "",
+      "state": "MN",
+      "countryCode": "US",
+      "website": "https://midcitykitchen.com/",
+      "phone": "(651) 261-0719",
+      "phoneUnformatted": "6512610719",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 44.96201980000001,
+        "lng": -93.1979712
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ8yw4DE0ts1IRu56mt77fhH4",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:02:37.463Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9:00 AM – 8:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJ8yw4DE0ts1IRu56mt77fhH4",
+      "reviews": 6,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 6,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJ8yw4DE0ts1IRu56mt77fhH4/photos/AU_ZVEENfKTPoxXoZizQCMQjlLLi1LdWrN7fu3N0sRJfXu1MQoDk49bIJPkSgFLoun0X07ArTSzCxzBxh0xJdx-073uwRErgbu4-Pbb9Nqccj-pdqIQyHzTF_cFqcE2ryeI_dLJnE0zbgUVRrycCHJm06lf-xB6peBC8Vl3XLJyWiKOuGaBuwKWAZ4DbQfsaWBySrZajgGcqt3ojFpO7qhERnVqZibwqdh5YFvmr4H0egY8SiLvB-Nohoca1Suctal5Z6xwBqgHuOLiwYikAJyhATbeZjR0CvLc_5YUB4OYzVrAnng/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJ8yw4DE0ts1IRu56mt77fhH4/photos/AU_ZVEENfKTPoxXoZizQCMQjlLLi1LdWrN7fu3N0sRJfXu1MQoDk49bIJPkSgFLoun0X07ArTSzCxzBxh0xJdx-073uwRErgbu4-Pbb9Nqccj-pdqIQyHzTF_cFqcE2ryeI_dLJnE0zbgUVRrycCHJm06lf-xB6peBC8Vl3XLJyWiKOuGaBuwKWAZ4DbQfsaWBySrZajgGcqt3ojFpO7qhERnVqZibwqdh5YFvmr4H0egY8SiLvB-Nohoca1Suctal5Z6xwBqgHuOLiwYikAJyhATbeZjR0CvLc_5YUB4OYzVrAnng/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ8yw4DE0ts1IRu56mt77fhH4/photos/AU_ZVEGhKZKA5DYjBFEbEAA7jcaNCpGnFzi3gcoi9JCf8xFashfypECebCbbMDPKCC3hux99wFTA-_p0o28c7N4F3xeylCCx3kESDYCPOm1X7SjnkFEkCl7px1UhYLmsP3xYNA7YB35vQfZNdDAnmvkrNPbSZgrDKqs_Ve-yn_qoK-6PvKetZFO5l7uIO2_ZnPvwnUEBiZo3HW9hDBoM0jx44hL4osjSa6X9dXy2uflHfR08nqK3rqHxAzZTjRfCZZtPYN7ojW-UUzRyKpmCQJ6h2IVIE1tPbGsicrlTcxnhZLuSmA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ8yw4DE0ts1IRu56mt77fhH4/photos/AU_ZVEGYX81i7QFdqkBwaDZTZL5s6EntIZqU9hQ4QBQ2XuSZAMizikp4Af1mLgDkMT67K_8msaIExjlmvNWwQSOlHHtgPZLUoHTgneUP3J-t8n9AgbDfhXrGPIsRKy3CtZPB0W9M_jS29yzIWkmqF8t8wZKGhfL5658Smv2SBCScrgU-wAR4QXDdPEcd4EkLhcvTHT1PDBnoEZ_GTg_0Xy-6TOf3WobHj6PkwV2T1pPrMjTLG2DFM_-XnALigtdKCQNb4ucI-__uMYPkauJofKw9-4TiRYlLACZQukJe2FyFV-FQTh7Ys5QVTetfyxF1lxSpCcBkU83t9gYaYSMKHazsrOCowfwuqUrgysscLeVIm_V5Dagh1XmwAgxClL65_-ioiw-s-0KFzeiTCoZ1_8JtFW_3uhC4wVfbl9pT-1dWTir9TeEQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ8yw4DE0ts1IRu56mt77fhH4/photos/AU_ZVEHVtkiIZSBvC7BRwUfvySdre1vuYf3OW-mDqO-pmxeX6FesrMnG5H0zeQzI4Hl0iyu7fIEr5s-5lhH4qVmLG8NUtzAa4iCKBP8zMutOxj_WTJkKHF909KkoNwESl3tQ688L_hks8T3Hj2Y1Q08stStCWA8u2gJ6Gq1WNsQC5AR2nwQXRXC8BithIiq_zpezWB9V9Ou9xaik0AyQhOIYcWXqzZHocy4pAQFJlEF6I05kWHm7t8ECP3XcP9GEJyl5R5tKxaRr8U29iSDmzOG3j3Q1pyQYQny1U1bybSMd3N1sd4ZBjkfA7thQlK-o-0Np1v7w-oh4U83tMQNtc6YUmIG5LwfROY89farkOu37Opm26hQ4tUL-gEN9b_XbhZUbj7K1YVnalvxRF8iY-nCVa79ZVB-HN0euF_oB5J2ZeuM/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ8yw4DE0ts1IRu56mt77fhH4/photos/AU_ZVEEbjgS7mQVNoYQIapp-hzpz3YPinx1U4cQieDCaXKXVHUqoDh1IQ-DiD9-VweYHCecv6ndYZIDeq5MP2oornfOrXYJBRiOLisIue60CoKE3L0BJVM6Vfqb8xzb56Uqlm_0vf8ZElJvE4Qwm0c_lLoSGLBsXyakt0YUkYfPCpBjgcft8XpxF38zMI65NpJSJ_-c_rIsvc7WseCwaWTp1yBONbHgs0e1kFPiFpfD9lEYmG5pouTpo8tnjmua8FU5Npn0lcq75Q67_0U1wgtCVdyZpX_m2CBWull0mnVYuh-uvYgumDWs1owijwtWPgUPGU8pHO-ZP32WUZg3A8uDP7WjaIpK0AwzpP_3Q-jCu4L0MgOem4e38_Q8QDtLrMmJY3BXNbRa7FQnM0WErcoc-uP12aIVmFWzV_SEY9-zDHKwmaBk/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ8yw4DE0ts1IRu56mt77fhH4/photos/AU_ZVEHXhE2JbIjxTIWyVOhqyD2GO693gt7iA67pfWZQoH6_0ktMmiokFEicFDrl9ifS7wrqdtFi-kJJ13I2eCdtFHX08lq4x1lT4vpRpNQXo3SAWYva1nXNFo50bnV7qnsunZQsGqZN3rA0l6eNow4LFEEx38q_7ZRr-2_ewr0NFnjlc-0sS1u5Us-YQpa6n4vlyZoimhBFrypoWD_6acJgAvcqVLIwndkTJQ-YYVeAaPLzA2pP8nTjt38pyIfq1SOdh5obbMc2JzPASIXM4n5ArUf73ZK_hpeFw2xsY1wehMGdhg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ8yw4DE0ts1IRu56mt77fhH4/photos/AU_ZVEGLw-InmbmOo4LyYzrQAjDuyjO-B0LkoTVI55aI23Nlbw3nfnKdRBQlAR4ZmRjwlwPTudYhVeIDJ00vM6HDt8jMR8yPZQ81_oHXNPvCEA-8k6_IGCm_3Iz1zR0lIqSEVatKRyCZI-e76fGfy6PoSFUWn2LSpYuV0ueewSippDvUxHIja0E94hsSIBsCi8npWWXWHffiCw5MzXDas5aSPQGr5_ERFWS08kvWr5P4wxMps-Wt64Md_5wSM44AbOkBYtguxYhIacXggpbNGqyeyLORo8a4B70_HVU909U7QMG6wg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ8yw4DE0ts1IRu56mt77fhH4/photos/AU_ZVEFohTU82TtexjMtuiKv-4Eqa2dZCMYdBmzloaRuHAXmJmDyGcl53IQrUiKIZLDFrYWRerydwh5vJTecIN6nBqL0eW7aIPho2Jq-vHJBp_QpK61KicX911RMT8jFkdKZ34XvAL7fRxVrp7b3n4K2Wmy99i_KYFM_UIYl7v7As_J-vDNXNziCzO1XnW8Gf8iBq13_Lb2DkgU1OZfCLarxVVJHLLTmveEmZ1nfb-9_gwb1RU0KtTIPRd2LIDcykJYz0VKnOdX0NV9Sr00Ecjc1OtAlYuHJT6K9IUxxTaTPB9hh2Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "George Street Kitchen",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "285 George St W, St Paul, MN 55107, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Minneapolis",
+      "postalCode": "",
+      "state": "MN",
+      "countryCode": "US",
+      "website": "",
+      "phone": "",
+      "phoneUnformatted": "",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 44.9297511,
+        "lng": -93.09758889999999
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJPwsSUy3V94cRK3oQx8DlAIo",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:02:37.688Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Friday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9:00 AM – 5:00 PM"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJPwsSUy3V94cRK3oQx8DlAIo",
+      "reviews": 0,
+      "rating": 0,
+      "totalScore": 0,
+      "reviewsCount": 0,
+      "isAdvertisement": false,
+      "imageUrl": "",
+      "images": [],
+      "verified": false
+    },
+    {
+      "title": "MSP Kitchenery",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "138 Jackson Ave N, Hopkins, MN 55343, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Minneapolis",
+      "postalCode": "",
+      "state": "MN",
+      "countryCode": "US",
+      "website": "http://www.mspkitchenery.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13632906993308373787",
+      "phone": "(651) 334-8821",
+      "phoneUnformatted": "6513348821",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 44.9272863,
+        "lng": -93.3947742
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ_bfC2TYh9ocRPVgUmFIwzA8",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:02:37.989Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJ_bfC2TYh9ocRPVgUmFIwzA8",
+      "reviews": 0,
+      "rating": 0,
+      "totalScore": 0,
+      "reviewsCount": 0,
+      "isAdvertisement": false,
+      "imageUrl": "",
+      "images": [],
+      "verified": false
+    },
+    {
+      "title": "168 Kitchen LLC",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "865 Pierce Butler Rte, St Paul, MN 55104, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Minneapolis",
+      "postalCode": "",
+      "state": "MN",
+      "countryCode": "US",
+      "website": "",
+      "phone": "(651) 208-0877",
+      "phoneUnformatted": "6512080877",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 44.964985899999995,
+        "lng": -93.1370587
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJwYQVvNcqs1IRxCMUXwitoKM",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:02:38.221Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJwYQVvNcqs1IRxCMUXwitoKM",
+      "reviews": 2,
+      "rating": 3,
+      "totalScore": 3,
+      "reviewsCount": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJwYQVvNcqs1IRxCMUXwitoKM/photos/AU_ZVEGggc_nwW3BmWJjCyV-8fAqdln9CyHBK6XUwidACBXouXw4zWS4slOtLl-Jn9yWznN5QzZPPwaEsOX0eksCNkeRco46TvYXIL6oJAE-IjDkVuFHbCTpi4hRhGLgvzUBr6SjwA9HP3yJCy1OkgBI5LMSNyBuqMXJOT7VDNCGYCp5oq_jsdwl4f2RoL6BOUlhjWsn7V7Is3y1R8CZTw1iEJhFg2MJINV8YFdWnjhcIVRNcSJ7LOKM0xIseti7cR8T8aQotbC-m0vXF2tUxA1pELS6yakIHVdsiJldISGF80Ogiw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJwYQVvNcqs1IRxCMUXwitoKM/photos/AU_ZVEGggc_nwW3BmWJjCyV-8fAqdln9CyHBK6XUwidACBXouXw4zWS4slOtLl-Jn9yWznN5QzZPPwaEsOX0eksCNkeRco46TvYXIL6oJAE-IjDkVuFHbCTpi4hRhGLgvzUBr6SjwA9HP3yJCy1OkgBI5LMSNyBuqMXJOT7VDNCGYCp5oq_jsdwl4f2RoL6BOUlhjWsn7V7Is3y1R8CZTw1iEJhFg2MJINV8YFdWnjhcIVRNcSJ7LOKM0xIseti7cR8T8aQotbC-m0vXF2tUxA1pELS6yakIHVdsiJldISGF80Ogiw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJwYQVvNcqs1IRxCMUXwitoKM/photos/AU_ZVEHPTgNwysNndiLMh-FcLsVefBlGju8lwkCfi0Voevynw6Gej5jMkCO3-M7rxzQa7fJw2ljgbdx5384UkE50jIjAupRFzJEvTnQOZtbQcbTU3_Xw47TiSyJXPnCMhNARziAA1RSNyguMasCsY3_COc1NP0ZSNqlULrIc6qPN_-EdrtCxi7PBp_JSh_lR1ywWLICpUVQjDyt8h2weq0N8_szvyeNGKt7o0yp5J7WL5Mcgu9MgTLjUjkGg0Q0jubLcKOl5OtcMyZmIQ2Gd15XiEZ6Mh39j6gwlNmEiMoRXboWYRg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJwYQVvNcqs1IRxCMUXwitoKM/photos/AU_ZVEFl0PHwyb3YqPKOfY4_un8ZBWQkKAQd4XqdWYejCBKZs9rSOiTw7s_1vEFIDiAK-Ni55OVKbrdFLpFoZwUG272TLEFw_gN1NPfY6L5Lz5I6M1ZUIXnGe7MYGL7_k1dkc7sHkWIWGTVqjZY8yD4jsx6-db0RGDvYP03tqC0eCYrpojzdp0RHZ-kW9lXv7lbG_bROJS4at7OuEp8694sYAh5BGsUAeJhlLOa6GVqFrZtdtPfrlHtfbFRKt1JsWuVCy-d7qqFQ7QxSS3MUoj3sirDl9xX8m8ZM2w0YsZJXs_ZWoQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJwYQVvNcqs1IRxCMUXwitoKM/photos/AU_ZVEFlVTA0oJ7gVRmPkn6NRKtGlXwIHl0QaPhCKtYJ9cYVQbINnaEEK6ZuWpn4l9HZHzFvDzKs1y0zn7RJa2-nMhnzPqAM-XXzqU4OVyn8w-6a0UjS7boDIdfJ1rZxiTwBYWwOIwi33vwPY_GdEHAUeFeI0077Kt61lzl6WRc3yc6Hftr3AgzzJC30k2A032FQ39HIffgm9GIWgXcFtplIo6baP9_D_uOeEPlqxbGEbsxakQ6fknXvxxf7OqCscRqfpOdZbg4xB6GlwbXRnT_3_hdtpdQu55wT79w2zOx5NQk2QA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJwYQVvNcqs1IRxCMUXwitoKM/photos/AU_ZVEHki-5RvBDBEu7Kp55gQRnDALIWMTc3kjukPil2taoTuzkeWCbQAnNcjhFZi7NAkrWUkd1pEpNwyd7XteTeyIXHIrRJNioyy_vwJGY1V0Jkf-KpUaPuckN1JbxIFriLjDhcmoVpH5jJFciVM2AjUl_sDMkQwJW_TbrEX-ia4JowEpXfhGEpRbmcuozQHAhP7TxtVtPQCI3cf_nb1Wfpk-u4IHxEw-mtiGSwlGQBUfjl7cGEz-hz8sozTMLtLOXg8L9EeqbzoWXQSEvLECLdBia50rLP7LWzXQqJLh3mZdhooA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJwYQVvNcqs1IRxCMUXwitoKM/photos/AU_ZVEHC0JmK669uj2JFgrodzabP1OTf7A84HcdJpv2NH7Sbg37CQ3j3HP1a8hynKld5DQe1tQC0rvOqm9NC6lu2FLzmX6M8ryp088kKTXrs3VNfny6Rhb5ghk2Jwr8TlaIAgARqHfYzQEQbpWN2pN737A1EW4t83oiH1BNpU_QTlV9mQUsLbHJxav9NENLq-Gap_iKLLBray04c-T8PhRpu8Bm2b_JgpuKbi8QJNbbYO2RKc0NBmupzBUcpDdm5cquHH6YiqToUh8W17l6WVPq-yEAZqiBQggAxtrHJu0k-LDQ5fw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJwYQVvNcqs1IRxCMUXwitoKM/photos/AU_ZVEHgElMjgd3BSv_qzl3ngRQiMxNPP7gqMs2PgQe1OxI1AioaMFPTjymD1z3KhD-1VmZDXon_GIYqdxMpZBNXV60UBdQO8zmFlyEIyp3ufaZwpR-MbhGnPpkEj91Z_4zkJee0EHdcSRjbq170xwmovaJpS0Ixk87s0cn0pgDSbhd1COq5m_8oLPcrDgx3WHIGc24AHkpwHTQNm8d-lESgNk2gpFeJr3p2Pj2yEUTB9XlAmHKcWifFgur21mf-6RuBpXHXFBWTgJJgdyPXGLOBRxsX0QnUBuRMlgLebpOMLaHSug/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJwYQVvNcqs1IRxCMUXwitoKM/photos/AU_ZVEGiEKccgD1ucSo3gFRsTzGDTsarnVI_QRG-8meh0DgVPJrhTXBgc3VCA6WPhHo-Uei08XaHuKJmEgTja99s1FVf_QVmtfB1Ih1cG1CQCduZqZOwu6GUkZV_iuCVcbH4rkz0lOvEXK0KrX7SuAfZPOTe26orDsVRjAwwxJMIBGYvTun8RPR1XxgvmzA7uvOMNC2aluFn2wHGr18V4D-ci607v54w9qfAFxU8RVdMuCYVkBoIJ_depZRT4DeBJw1AjqfZfRx5xrnSrwSvZJ3EKKeMPnWw3FBsPoAW37HF3nEWGg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJwYQVvNcqs1IRxCMUXwitoKM/photos/AU_ZVEFtiu4Y7jhx_lMSTw1y3nwNf4NSuI5cTmfxfjMnljJB6cf71GITFlQbTW7DRn9XT_9DJhqqb1Wlejwkzo7LIcnO0KHZCJp948JBkDaxwUiEF24uD-dhZJiOmoBkxqo5MKyIsIDdrzmHqD8AGdE3edXlwRK_VqLC6NCafyPE6I4xjPwCZWnrZP8vxNO5Y7D-dMsvXgNLNkMvsGEzATwpflojqwTyVIwACieDToNnWcGdOEYQ1wJXVW50Ianic1Mych8BovY9hkYssxLDHDMhmIPbonO8QQZCPoRKMGtyzDtFpA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJwYQVvNcqs1IRxCMUXwitoKM/photos/AU_ZVEFg71Oqzdu7ssPbH_oEUxLsBa6Db3ge-QCLZ6lPI8i4hqHHvwDBH_DiM--JpZPSvjnpXAnKGEsT7fCG5GfHQxZoxGxRwq97A1gHNgCVYm91OQ19e0OieO2OHztSia0es8Ysg7HdEBdCtEQyac-IYdtn-dhHOc8eyjbRP0glRSpW-w8EBVU-nqd5h1Htk97tymSFESTJEnhwTpduxnTrmPJqdth-4C9Eei1ikSKx71Ccidfl9umXokKpaPRsQlK-O-PxF7gqTQjfP1j1Rth1bt1oGeaoRYWonx-PutfkBggYQA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "COMMERCIAL KITCHEN SERVICES",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "764 Vandalia St, St Paul, MN 55114, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Minneapolis",
+      "postalCode": "",
+      "state": "MN",
+      "countryCode": "US",
+      "website": "",
+      "phone": "(651) 641-0164",
+      "phoneUnformatted": "6516410164",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 44.9645377,
+        "lng": -93.18868839999999
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJe7-64q8ss1IRhm2Oo8ZKdu8",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:02:38.507Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "7:00 AM – 3:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7:00 AM – 3:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7:00 AM – 3:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7:00 AM – 3:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7:00 AM – 3:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJe7-64q8ss1IRhm2Oo8ZKdu8",
+      "reviews": 15,
+      "rating": 4.2,
+      "totalScore": 4.2,
+      "reviewsCount": 15,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJe7-64q8ss1IRhm2Oo8ZKdu8/photos/AU_ZVEE9cCrsmuhv1NU2NosiWM-z5mLxZ97RZ9yRy4zVFmb-VvPBuIcHylmY68VABCuk0U-3xcDV2OwP_Frq_JZnPrhKqer5d0-b5Gbl6ioUan4f09ioX-qdvmwj9N1qwyW1DIL4LJW_6bBJp6rpTeka8lye-N6NbVLR_rerRrvxUZtWPK1p7EWBbRh1CGTujRjouzxD90QC5KUKneki_CgEmghWd_yq8hXkeFWseLfp1T8C7kQST2c0E_fWm5bW_gSpIc9zy8OiifZYPK2uSYLq28fDkxVCUlxW-RcgCWEReVMRuG9qDIOQo8kL4MruBpYWNVwF7huWZh3GMtJYaEobgbb-rgdEVzdQ84QgRa1AzhIbJUmxdIpTRhb2OhywLOH_LESvNiYA4RZtWaitKEcOkdUZfb6QVoFNEvQOdFnHQ5-O9g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJe7-64q8ss1IRhm2Oo8ZKdu8/photos/AU_ZVEE9cCrsmuhv1NU2NosiWM-z5mLxZ97RZ9yRy4zVFmb-VvPBuIcHylmY68VABCuk0U-3xcDV2OwP_Frq_JZnPrhKqer5d0-b5Gbl6ioUan4f09ioX-qdvmwj9N1qwyW1DIL4LJW_6bBJp6rpTeka8lye-N6NbVLR_rerRrvxUZtWPK1p7EWBbRh1CGTujRjouzxD90QC5KUKneki_CgEmghWd_yq8hXkeFWseLfp1T8C7kQST2c0E_fWm5bW_gSpIc9zy8OiifZYPK2uSYLq28fDkxVCUlxW-RcgCWEReVMRuG9qDIOQo8kL4MruBpYWNVwF7huWZh3GMtJYaEobgbb-rgdEVzdQ84QgRa1AzhIbJUmxdIpTRhb2OhywLOH_LESvNiYA4RZtWaitKEcOkdUZfb6QVoFNEvQOdFnHQ5-O9g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "CaterRent",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "260 N 24th Ave, Minneapolis, MN 55411, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Minneapolis",
+      "postalCode": "",
+      "state": "MN",
+      "countryCode": "US",
+      "website": "https://caterrent.com/store/",
+      "phone": "(612) 588-1188",
+      "phoneUnformatted": "6125881188",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 45.003997999999996,
+        "lng": -93.28111469999999
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJEcWiZGkys1IRu-aMm5HNpZs",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:02:38.737Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8:00 AM – 4:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8:00 AM – 4:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8:00 AM – 4:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8:00 AM – 4:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8:00 AM – 4:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJEcWiZGkys1IRu-aMm5HNpZs",
+      "reviews": 20,
+      "rating": 4.9,
+      "totalScore": 4.9,
+      "reviewsCount": 20,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJEcWiZGkys1IRu-aMm5HNpZs/photos/AU_ZVEHYyzqrLoLSiBm3Ilb6H7xu_8BIdMxkwEoog7MTVyc10cpfIbuOpqs-GEDfh7mPGacpigkewD4wOMUafFs1kuKaeNy3Rb332JRBYCpA5HW_vaihG0erSsacgWaNZm_5Z4w1zgoVE-2T09MS86gy0NbhJw_Dzz91BQcirgiIec6Wi2Nqgn5GH6MV8-9oTb6Nod8Do_KpvLtwV7ceVvR4CU5HBNj2Q0Qr3gIPWBfd2AiHydmlK8FSHSqGhcvDsA74WaDd4LxuURl9rDUZrM1yv7pkLd3KoiqP75vmg-wBDCw1_A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJEcWiZGkys1IRu-aMm5HNpZs/photos/AU_ZVEHYyzqrLoLSiBm3Ilb6H7xu_8BIdMxkwEoog7MTVyc10cpfIbuOpqs-GEDfh7mPGacpigkewD4wOMUafFs1kuKaeNy3Rb332JRBYCpA5HW_vaihG0erSsacgWaNZm_5Z4w1zgoVE-2T09MS86gy0NbhJw_Dzz91BQcirgiIec6Wi2Nqgn5GH6MV8-9oTb6Nod8Do_KpvLtwV7ceVvR4CU5HBNj2Q0Qr3gIPWBfd2AiHydmlK8FSHSqGhcvDsA74WaDd4LxuURl9rDUZrM1yv7pkLd3KoiqP75vmg-wBDCw1_A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJEcWiZGkys1IRu-aMm5HNpZs/photos/AU_ZVEGHbM0PNBnx_COx5bdoCJKhLeuxCyji4I00ztGl09cqdhJ45YHj8efKTEKamgZKam_zMvBneqwevBP43nAERj8YTCtsn8a6GbwmV_B1iQ6hQvJy3FqimVxYHJnNYu0BwOOIMBdgs1aK3001niQRFeRGf1pl9vNEvCBJc_R4-GTjXzaCPBj__BzA1lXAv6iK3hJXMKtDaGKpWOn3ZSC1y4Wxz6SxRvXq6begrKFBIlcgS_WZNcv2M-Svz-7c0uQcMbMqiqh9jcqEZ00xYngFY4yuD-r41QY_hZ6ioDtNvHc1Zg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJEcWiZGkys1IRu-aMm5HNpZs/photos/AU_ZVEEGm7qIzk7YBLOjoH0Wg5xQbce0-qH3uHHwrBzyWTOBr6YzE2H36tt4CtyNRb6j8qWYKBAAoPKtywpYBS2ZV_zyerE2qViNmaN4tpDOZmH1hwlpnsiict4FIlspgDbvI4KCrqJuH3APpzQlrmG27nqaI73TXRtUSJxcv7PoKtvXYc9JmRjUoRKJu9aTO7wnywOkQWt0HKwlkjFBN4kvnNxiayu2BN6iZJ8puEdcNbdNqHLdiVIZkESQq7IHI0GGYQuutm2_pSh7IqOStfvmjATFOj-0qNvmjmf3xRkgeJY8iQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJEcWiZGkys1IRu-aMm5HNpZs/photos/AU_ZVEEubmrL8nnU4vFo2ThDacS25J4vNAynlq3uxWTRvHlVV7u50m2cM9E1phNXR0rlkSvaK3f0LwZmbvvShLXqgNZjZkRxJCdxd81uxUNoXsnt4FkJvkmyELi6DVosMDj8z6FU0bN4AYtMs_QLjy13c01jNXW-tUZ2gkInPOBerxUckusyRCOnbg48sV-mCCQV_qT4Jk2vjEyWpy7pO4dh95EXh_IdvYDZb5vJ1_X27lWqDN7FM_MmXAsiZt8fLCjtFPIzIRgm2d4WU5Wd3I8TreKZ9aa07dmyye7th2TLBLjTqg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJEcWiZGkys1IRu-aMm5HNpZs/photos/AU_ZVEFlCxxXukrgmx5WcikXUnkSX35GSOu15XCcSdiYrfAzz0gzj0nuIMb-Zpk7jWAcxlacMdVtvVSjUXffr5BHOtG52r7YkE9gnPjDRGmWuEVxir_BoOdzV309o6xk6ckYFnlrscoH7aNZ70wRXSE7T8kM0o5Ltvyh5bvR9SC4xOexdqiMfMR3mH-iwGp-0Stv91h13Mes44OVlr9ajEQVJuMl3VRpgnLDz1BgDcGu-SpK5iuyT0Cw4U5fAooPr5pWUZuS_2v1iC7rIiKNg5NQF9LvWuE-v3oDv_s-CaBnNENArA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJEcWiZGkys1IRu-aMm5HNpZs/photos/AU_ZVEHUo5GRXl1XHc-8VVGFnH13FGrlf0Lm324yy-8V6xHUI5294-uPIzoAP0ru8d8o01UdSJZ9aGEnVMXHtmSvRvSaE_cuaz56rlVX1Fgf6oQroO6wwrEMv-y-cY8mq2Dy8XMSF099Oc3am4raouvgG5Jwoefm7vayZc7Sx-vJgpNRqlv201i9fqU4WAvMZyXzbKZVWqoMBElMOHTJvqesO-78fXPzwubb79CbZF-LII_i-E3V9HXm4JRZ6rdYob_5ji2cMQVlkUblqlFEZaYx_fpRqUOV_taZdjeu3lPTeCNAhA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJEcWiZGkys1IRu-aMm5HNpZs/photos/AU_ZVEGjKtIP4PqQYnJGPAgeAzi_DiUioYtYSz3uBVlg0t-uRnZl51ISf60xbW1mzq-o21b0jrhD4c6U2o2tPOQP9An29i8pzci9S1FiaFd4FiMUmQnDG6LSHvCSR3QovED2WWnCZz-Rsj65E7Qr7shTFFrHRNFToowGmXsecmKTjJMEOjC7ZKvOJA5r-Y-gPo4vLM-FgmOhMBYK_58X3rirRBnSSiRMKts9_WMxcKa_0nPRaHfioS5HgSuiKLRvMsKVaL6OhWEmqwVFPFs3KefgxnmL72UVySQAH2l4T1EbZY-sqA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJEcWiZGkys1IRu-aMm5HNpZs/photos/AU_ZVEEx5Tb3fuoUlHxapmauToOsC2ZHKZTFzQU5eOMfpNuIJ9ZO6gBONStOiTlp2zyRmI_hm1zh8abG6j2UoYmPV1jgfmX0V7TRRWBaFAQv8S8lBsg63pItoDkbtgP6-v1h15DVh3V8CVoBMB5Iu3DM7M0pYaSXFMO-UfHlkE6_EHcMttUlW789US_VMEWZ3RQlFK0Ziu__3ns2-tKH56-kmZeg2zQiD_RSh3XGjmQxcGrf6ta3BJR_Pg8ZNcYjOrx5QWmTBANk4LiwonnVFFUqq4dWUGzvP-cqjw5jVbPO1UP0yA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Contier",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "8559 Lyndale Ave S, Bloomington, MN 55420, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Minneapolis",
+      "postalCode": "",
+      "state": "MN",
+      "countryCode": "US",
+      "website": "http://www.contier.com/",
+      "phone": "(952) 994-0722",
+      "phoneUnformatted": "9529940722",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 44.849389099999996,
+        "lng": -93.2877635
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJDXPNnzwl9ocRXAjQTQZDHCQ",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:02:39.030Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10:00 AM – 5:00 PM"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJDXPNnzwl9ocRXAjQTQZDHCQ",
+      "reviews": 8,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 8,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJDXPNnzwl9ocRXAjQTQZDHCQ/photos/AU_ZVEGD6nHWyfReHvG5vL47C6HNsNNm3TDtReyBM-1RR4Axm7xHRZLui6G8J1cQ8XjjyfrgkcNGfyfartAOaXaFuF1C_V9DsHxHzWfiu9pyyfK-Rf63ott1wR8clXDB3BQr6KjnIpCZvxdmi55_55ZMG1vQuzJoUyh5p7l0YaXNbiGVmZIDbrcbeGYg3t2Ftai75lOwhbAnsN0f3OfBhQzi1Wpb48WnqwUL0mdaTQMBtKWg9fvL_RzMZLweo46ZqcMmQMvHgT7ui7v2K4zMCApEbbzMzIsWKbEI3VYRMglfeWbGXA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJDXPNnzwl9ocRXAjQTQZDHCQ/photos/AU_ZVEGD6nHWyfReHvG5vL47C6HNsNNm3TDtReyBM-1RR4Axm7xHRZLui6G8J1cQ8XjjyfrgkcNGfyfartAOaXaFuF1C_V9DsHxHzWfiu9pyyfK-Rf63ott1wR8clXDB3BQr6KjnIpCZvxdmi55_55ZMG1vQuzJoUyh5p7l0YaXNbiGVmZIDbrcbeGYg3t2Ftai75lOwhbAnsN0f3OfBhQzi1Wpb48WnqwUL0mdaTQMBtKWg9fvL_RzMZLweo46ZqcMmQMvHgT7ui7v2K4zMCApEbbzMzIsWKbEI3VYRMglfeWbGXA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJDXPNnzwl9ocRXAjQTQZDHCQ/photos/AU_ZVEFmcJFsdZKtBMubSFp_Z315xZj5yFK5l1fR1xnUZU0d-ZUsYhRbsubmwVVzNxUvIJZ-Iq3Pk_9RohqF-EEzSD0-QrHeQ7hA6n7u6TuQgiRsUo7bCRXegjV2avCnnWP82Jq3PXe4U81sR1NJQ6wN9qMM-IlaG07bLUfWRvDbfrl21EV5RtSXpUQkCkQlD6SjSapN-uDI-cPec5tV3rcadNXdKGpSywO0VX4ylLGWnmOrP1P4NWQR3iIJQpaUW0QV-0evKHxXufEF2DQhOMZy2ySVNwukh7g4Q7Bd2QeFTnhvTw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJDXPNnzwl9ocRXAjQTQZDHCQ/photos/AU_ZVEElp5Rd_1R9pjApQz5UqGvfX2XmB1c3LequDO-hDPWYdt6-ErOvr8ytowbXbtGsblijj7AtcATdLrgT89r9ikHKH32xnxMMjA1iD1LdXq1PRj-wzTNHdqAiXDEkE1K3V1NyTGU05wQ3MtemxM98wCEuOBqo-5LwUuQLsv05QqcIbdVAef2Zw5cLMfrjHSVU7so6DsE7r0vTzrmOMJB4_dFRH48vvBcyBanm0hjWk1kGOdTjOZc_iojg9F9bcxhXLZ76vSWGf2yFWyGfirGWdou9AbX15-RR0ZUV6z27hhQ4oQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJDXPNnzwl9ocRXAjQTQZDHCQ/photos/AU_ZVEErwG-C1P3s0i9veru6kFaPq-QgYTTZU6wNjYZLenUQYBbbvtEh5B8NWwxF56LJxLe3ErgTEm9gdCrrsXxGtUSAve4wvyRtxa_czEACEyyqCVEYdrT8W8OTJUhooDKcvVgRkaxsmfpZ1n45rQXjXjeA5A5PcAyK14rptfn1y9RVlyfgznvC_XfBxMRJ5LVGfa62bbEkqn6fELKK2Hi7c-EExC3ffIBzzbavoJ0DpcFpQSacDSArRGY2lEwX2ee-g5zfQzT1tTiLDp0_0L0R3HNCDbcJaf0fUoX1jcqt9fFekg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJDXPNnzwl9ocRXAjQTQZDHCQ/photos/AU_ZVEHBPXXv31Oy_4T02_ItifaDwfENwfCpQqUJO7IV9ub3RAtmN-Q_6tnf6zAdvXvo_jumnUKae9Gh0YGNvHj38vIV67N6fmhom2yabyPhT3k_-R4T-LJ5hNp7SmjyuZs4jnluuUyJ1XvbTFxWZ-c2UCuiS5YsDDtjaXGdl42-3106niQm3W_V5pI2ZBSBjuxNS9_80VNlpVHoxbjscdCYM7a-Ye3xXldoV84Mx49ZXCNRfY7B8qsgc1VRQxT56Oo_9OeQ2k509l2rMZriwG4dzkeoQd31yzCGl1gfIyB4CFnBmQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJDXPNnzwl9ocRXAjQTQZDHCQ/photos/AU_ZVEGYn8sT89ZLJoDrKUAtJBWjoqQjp6eFlTGXLxbeA--GMWKMe92W6isZVJpyp8QafA8oPTPVAJx09k1zjA0g6O_uB4ABYMxvdgPl7DKDpr3pGrCfAy1wNW5xoafTIc7C87uzPfuaOwxjC5RuZAqIDpMKGIKdXA1RB2KNgGvvFn2Yrr0ctf2jffX0K1rr8_R85Q_xkECSLP8QEswYOWoTT9-K9Ci7StA6oqPSQEa2WoYGz8uS52I8d9DCDggpdIWj9nDbL2Yx5tulyPifOsgsjB6KkDTuPlBGvn0_bAaAJ7ravQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJDXPNnzwl9ocRXAjQTQZDHCQ/photos/AU_ZVEFynr4iLBle48-BVr7TnUHek8iwzdSwxjWjU1Tm8tZ3BZRJEug7riqZlhRH0Pjtd0j-WUTyiGO3FEvtyhU9ryk8gwMfVLaIzKnYxAUA7AtooKTpcqAXSpzSsbWbqxAageZpRQHs659L-5VqPf7AVHgoOV-d6UkMsG3A4jbJQhEoPjcWWOm9dON9krDJ0Eaj7wR2ic7koZ7bLRzHYbrq_A5O32ulUA4C0S0nossdpewyBY-_jJNY2d-J0x_3xSmve-A459fjv7bCgWliaUmtChyfJ_k9wIbh9mGmxt0qG9xEL-giHSJ29DzsgWtWnIde2eKkFvL9MJRBG-gHI6zCc-nBrmyppIvJ98XnWvF6RuFOzExax3v63XiuAHj-C1myYVabstPvv4g24nYCvB2FXXK0yY0StaVwhhrCMk7MUeA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJDXPNnzwl9ocRXAjQTQZDHCQ/photos/AU_ZVEF1k4UbudRYG1i3j_u7I_VnL0X8M7H7jTdM3SxHAnFoMEcfiU4AgsXx9vzbc-kz6YT2c3g10eRprTAo-RdBRm4TwPbev-gxDFj0y3DBjQls2iaPr83BaZCV8memKRqPEEu6V6qzh4v1i69v2qdv_9lH8I-F2PMV9oj11mf2vYXLFY4DO1Wc9wZcjypeCW1nkLmKv5eW1gJBXnfibubOTFwghpkCpJLBr19asRK5712jQAocGIuntn6VuZLfrIYv86G1hX4AF7iIrPUvnsDjUN9RGjgD3jUsdkl4U-UgajXTIQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJDXPNnzwl9ocRXAjQTQZDHCQ/photos/AU_ZVEF1-JJXZqPsf6FVIa4g8MQRmWEFZrAhynu52hXyfnDViCr07A_7mybY6_ReKja625FMYo0Tu3usMcNUGX5Wj9XCsWSmzAMKiwwWrCEGRYoGMohg1GVPJCjNPvjN8hBzklBRJiCJ20p8D90WuVFHYBPNNxdNG40iW1k21nvSniVkPDeMEgigjcx2PLJkw7nVxvQE5tgGACO7Q3UONgFwRdNx5UuG6MUIY3xzY93DLgZTiquk1akoZ6usjMSfm0238rS3oeQm6SAzzXHHyuIjuRPhOXRNeI-N1GuZR3Noul1icg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJDXPNnzwl9ocRXAjQTQZDHCQ/photos/AU_ZVEHlO30ehW2fW8D7vlMJRdOmcS59JX0JyMCklszQe5R5TcOq5OcN8mSgTcX91rJx7oMPEftliVfB07pDqi5gJt8NByPL8R7c26jji3mkS9PCW7XTSJnNiA0bPdBkAuw2kSE4Lz9dGGEO3Dh015kKZNT-IdA7KakyWUZ1QwVUXPka7MX5XbwtsLCfWyYhz9e-gUR6ZC_Ht3zaYkb2kr5ptvSDbdkhx7HMeTsnS4-nNR1opuexOyy1NzV0fhfYA_yogqJgfN0R-hTBZqy8OqxL3ybDgnx-5eGnkx5X9rzV8ffkoA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Famfare Kitchen",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "1539 5th Ave S, South St Paul, MN 55075, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Minneapolis",
+      "postalCode": "",
+      "state": "MN",
+      "countryCode": "US",
+      "website": "https://www.famfarekitchen.com/",
+      "phone": "(612) 237-7731",
+      "phoneUnformatted": "6122377731",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 44.8641879,
+        "lng": -93.0394103
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ1y4g5UDV94cRMQPPjBmSVbc",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:02:39.262Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9:00 AM – 6:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9:00 AM – 6:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9:00 AM – 6:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJ1y4g5UDV94cRMQPPjBmSVbc",
+      "reviews": 20,
+      "rating": 4.8,
+      "totalScore": 4.8,
+      "reviewsCount": 20,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJ1y4g5UDV94cRMQPPjBmSVbc/photos/AU_ZVEGZyBiAMwMSgri1aEIqNc3mmNIIhr1y6FIOF58g4Pnae-QZJ8QYUHzaxZYAwkblygn8ZVdj387n7X4-3EZCiae2es77pFO4rmK9Aw81aXqFC3-qGDPPcT0tLS49xESnm36SaY8Zx_z7_1X6co-77g1nqM7RWoihVjzWLzV96FNvv88Zl51lRsmo32zhpOPFKzLLVjRr08cw56mzwkdHIStyz57gy0u_2C__rm5XJmYLEcAkgLd0zRShM9h3p79NZAE_p1nbuyEGTeb2aHxcXQFQlVTqlj1wto8p99hbovFQKPAYSU1HrdWNnfIr8v1EhY9im0isuUmVvesJUC5nDqeuv6AexLXezutzFy5zutlulWNSL4atYZr2tOI_fcblGURybg8oZrGiBEXMWGaZsyci2w9EwBDV347IdoFAmaHN9bE/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJ1y4g5UDV94cRMQPPjBmSVbc/photos/AU_ZVEGZyBiAMwMSgri1aEIqNc3mmNIIhr1y6FIOF58g4Pnae-QZJ8QYUHzaxZYAwkblygn8ZVdj387n7X4-3EZCiae2es77pFO4rmK9Aw81aXqFC3-qGDPPcT0tLS49xESnm36SaY8Zx_z7_1X6co-77g1nqM7RWoihVjzWLzV96FNvv88Zl51lRsmo32zhpOPFKzLLVjRr08cw56mzwkdHIStyz57gy0u_2C__rm5XJmYLEcAkgLd0zRShM9h3p79NZAE_p1nbuyEGTeb2aHxcXQFQlVTqlj1wto8p99hbovFQKPAYSU1HrdWNnfIr8v1EhY9im0isuUmVvesJUC5nDqeuv6AexLXezutzFy5zutlulWNSL4atYZr2tOI_fcblGURybg8oZrGiBEXMWGaZsyci2w9EwBDV347IdoFAmaHN9bE/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ1y4g5UDV94cRMQPPjBmSVbc/photos/AU_ZVEGvb28LUO1kXxMF9AublcPkCVn-LONpX-REBKkw63SUa2fdevQF2e-MttXv8Gp5r44AE8dTuJRr6l5dB_hD9fUmGtzPGdcB69sMrgorfCz8qNYvAtu58D6bo7irsdUsqdkLkICwDk8TPp5pj4opRowi_5YR_tKxZ0ptP4Ob3A52KNnRKf6_bxAyZYRgrhVYOFAhpMCEOGtwqwzwU5diLgqP5QOqFvd8HRJb_-rXqqLtQa3UtkXpIHB_dpr4tlQuYQ-uvB4tCX7mtWTUO4yO-jUjRGvkUJ6dTFljHzhJSXAtJQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ1y4g5UDV94cRMQPPjBmSVbc/photos/AU_ZVEEso_YQCvqFztjvsku0FDaHpDp0-ilZj3GKFkuSF4ywjqyw9PLakmvbTCs8uHubjMCd-06Mb15sOXAmSltoyRsSMGpheczYrhllNnUHUjwMuMp-Xvfi9jYzXfK0AyaBX2ftOGgdQUm0SbVi98FZvWxYo69Sh42QrYTP7k9pfUGIetH6QQocUAeHh1TJWv6d1hF27EMu8QdAKR703MdYsC19HfiY78mVqI4t0eoTUSMeCrRXiUUE415cOLIc-a2FDuCwSwQ2bfTz2svPn_Y7N8YT-fQOMwWc3X498zb5kjxueA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ1y4g5UDV94cRMQPPjBmSVbc/photos/AU_ZVEG9oFWSWNe1BIduY8GuohTpQIk5JsHPzi12HwAngqB0xI3FueoqMuzH42qwvps8kiKZjcygdYPBrHP2cVf9ip_vEn6J6_pHtcyy1WH_b53p6mYjHmfni_LiZswBmi2ANZAWGVCfAhcvqG6FszGnyI7fQ7yLsIH_woaj699i6A7EhOR92D2jl7gI_6Xq2guuYxKakeesAknOBz1VGOe-M5VtH2qHwtMsTzF4GlrhwsSOe-7ONu9LevT0VDCSPzuMAJSrkfz0nNtbDxDp4beo24XXjYs-WmGeA_0ZPJsVzEkBYQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ1y4g5UDV94cRMQPPjBmSVbc/photos/AU_ZVEHDtoyl4XLbKYqNSFdx-HOM7QwIKKq0qEmWaeFXha5frNQwBhMRdHW7aa0JRSduFLgmyw8JewkAxPF9BEIC4t1f_K49YT-EkyLxERGNbUMSBErOCXwRUghUc8nwtWs4rVGEb1sTObD6Kxw1Gv8UjlVFSnDf1JAYFNeNdUr1eYbtWC2PrP1mGRG0ljv7MJt7Vlh9d8ByBVNeTcsTT8AQgrkKqDfFzDoZYpcfaek8-8Pado7jCHO_0AbwDuWJvDy-yhsP0dUSKZBUq39AbVUE_QvdCLTPeCu-625bAL_fCptQRdcE-hmtuCB8B_b7qC7ndJt0LGABshwSxN5vPS6Cn2eLqA5y2p8xKWSUezF-N2pq054KIj0-anF_jUTHUP0fhA2JmVHXYB_QGFfND_WygU1DlRK0Odh5w2-w8X2lRig/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ1y4g5UDV94cRMQPPjBmSVbc/photos/AU_ZVEERQ6uZ0h8PAhPfXQwJP2yp4wcaK5mUsjqPwps_fb2BJiNTrtv0S8cdcEGVRV_yByHfQ6L7skm2ynONLnaaw1MZfR_CgNwDn-v21rgCd5Gsc8-QVggdqaxEl1Yf5t0b30OCIDiaXcVq7ZlbwhJLlvzMXILIDfHjzQ0_JxGUlh3ZiqjgPQbZnM5-v6WvAxvIy6kUp4Al6g1l83FVGWegWIpXlxepClLFO0-FsOgGos67hGUsXWT00BmaOujR6RrUaN1i0GLI-0BUKr1hSFW_gw0c6mCjQHk-JQL2I0vFV0iHEg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ1y4g5UDV94cRMQPPjBmSVbc/photos/AU_ZVEGYuXjCUh-NBNkwj4IncLpYR6SzW2RIPOAOKf_wG_-SpTHEgbSaKs89QWoIlU6dSLBLHcYyqXDv7KUt-7KDvZXmMiTnQspEBYun0QPaRGjsRfp3xV5jUU0XPw4ggKwxsjQhxGZitb2YjedsMP8ufUUzH6ZC1pfCGHZ1jD_mEsZpXf-zkW-gNIWgc9hz5DjsSWM3RewAVOzn8lMDhUX8ZsFMPtlL8FuaKSBAOlAwimsK5rfOO4r872rZ9JZCd4TgCMXe5Bu7iz-rLG0dTNFn7aYS3inHD7EMaQJ8CtFKwrRIbw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ1y4g5UDV94cRMQPPjBmSVbc/photos/AU_ZVEEY6m-0UV7fiXlROereUwQr7i42U30PJ7jRitWkrtyKpS_86u9Si4dZIv9UeqrcjdXrK0egtSe5Z-5hPk-4dPkgP0sIq_x5RNGr71Gc4sd5jTU2aXYBADZq_PeS50Lt5raFQBesSOxfiAjohaSMKG33LfP9a74iTdLZjhndONvJl6RR9IiJH1kRcwunedBuMANNN-mwGv8cyc9TBW6QS6gzUwtXN7Z-Qt6Y2ZPQ_k1WisLkUr_sOFCam935C9fVR5lOYDJxAHNhGTl6CEvx07IE77kKp7Cbv3fuExS4rbKzPA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ1y4g5UDV94cRMQPPjBmSVbc/photos/AU_ZVEFD-tWz6UaAd2gqkTcZN61PsYNf0w43RF801aw3xGy8uRjOpY7GJYnEEdQUdzA3g4r0EvjPKDqiPti2fx7IQIbtGygvYoiPu7REF1UDk2hwyh6B2OqO5A2fS0_1U7CEfEtPqLsuuR1Qs1DjF67aIOinNi9HLo4N8s8RZI1_BQ2phtrECIOFlOwWDYkok_Z5jrzq5liqB1X2kakrOEo0mq1WAo4Yym8Sym3QcuQspX1zXDl2rbGX4iwq0KGePSUCvZu7g9itf8JNose3lm4BYQkVU_TwE7z2Me21aSOLO2xs9A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ1y4g5UDV94cRMQPPjBmSVbc/photos/AU_ZVEE0RANHYPIPp2Cqf7M3Y3g37DaAoVyOTnxsZpv2hkTYMfqVjyabEHcBt9_moDJAbEIeJgtfNRELebr7e46YY_DwbEKA9aGsWJarXqLWD5mvR_meaHTJNv5TCaOXv4yMe_6yKmurn0kvZTkSSHQYtjcGOFEaS7U3l_Qm1_NFMK0vSxG6Wm4AOd9bo4ubVMYY11zzyZUSf3oRLm1MMATzE9yT4eYnVWFR6KNORa8rc39ZCK8NqVPTFbiK8yxRo9p4gBjBLHZJz53cUQpaajCyFp_qA44Fk20bYlRt3spDT-M_9w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Jos. F. Palen Co.",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "1055 N 5th St, Minneapolis, MN 55411, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Minneapolis",
+      "postalCode": "",
+      "state": "MN",
+      "countryCode": "US",
+      "website": "http://www.josfpalen.com/",
+      "phone": "(612) 338-7409",
+      "phoneUnformatted": "6123387409",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 44.9885881,
+        "lng": -93.28580149999999
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJwyCApPUys1IRlfgdyUpAzUE",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:02:39.561Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9:30 AM – 4:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9:30 AM – 4:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9:30 AM – 4:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9:30 AM – 4:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9:30 AM – 4:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJwyCApPUys1IRlfgdyUpAzUE",
+      "reviews": 39,
+      "rating": 4.2,
+      "totalScore": 4.2,
+      "reviewsCount": 39,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJwyCApPUys1IRlfgdyUpAzUE/photos/AU_ZVEESPTV8KTr80MyKhN606gXiecKDM4YeZMJxkS3huGRaVwaw8YMp4EKzAGf-h6zvVFoUiVAhA7U_i2eCwmxTTPubZxjKOVV-0Fq73BwAjCNrMHqJRttCTIMQXj60NRKVM8M6WLtKYsHyXIB4VAj6K-YMHBxELfbXVa4Wh3fIkbylT16tyJ-9uqkJSo0kKqIgtyckmZ94dD8W8dKrrBd3EAkd-kHrfX4OMz7pQnlqp56i2KvwF3OtPkE0JgK2m23ykJaHszYZhsQDggQh4XMobhDADZhg9KipG6AMgSE3HnVaRtSiNx9hnR9L3XbzuqUFICxJUnoYZJeiCQE8KmD1NYNk-FXkAtuiKUa7w_l8LlYG2gMG6kVazETM2ax4Ka0jgY7M5VbtZqCRpSQkUjSucTmZ1Q48GZrKFSlgmdpxUnDPZqGk/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJwyCApPUys1IRlfgdyUpAzUE/photos/AU_ZVEESPTV8KTr80MyKhN606gXiecKDM4YeZMJxkS3huGRaVwaw8YMp4EKzAGf-h6zvVFoUiVAhA7U_i2eCwmxTTPubZxjKOVV-0Fq73BwAjCNrMHqJRttCTIMQXj60NRKVM8M6WLtKYsHyXIB4VAj6K-YMHBxELfbXVa4Wh3fIkbylT16tyJ-9uqkJSo0kKqIgtyckmZ94dD8W8dKrrBd3EAkd-kHrfX4OMz7pQnlqp56i2KvwF3OtPkE0JgK2m23ykJaHszYZhsQDggQh4XMobhDADZhg9KipG6AMgSE3HnVaRtSiNx9hnR9L3XbzuqUFICxJUnoYZJeiCQE8KmD1NYNk-FXkAtuiKUa7w_l8LlYG2gMG6kVazETM2ax4Ka0jgY7M5VbtZqCRpSQkUjSucTmZ1Q48GZrKFSlgmdpxUnDPZqGk/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJwyCApPUys1IRlfgdyUpAzUE/photos/AU_ZVEEnUAtnXpjJK595pjR2eeGhkYOzEVIRyJhbIAWa2RR77lDRlphMY317VNAuZC-Wx-2lNTSPbhb4wl9S7r7SvXvo6_5d31gQD38E2j2Ii5tTeZQqJBYjBEdO-OklFZnGYBzLTCtt4QkGx2cU84IVHhuJKKJEcdFIXlk2J0yGdj4VbjQQpQfjhjnmMZjcS67ehzyNqnVw3XHnyQlYNmGNng-TTBxWBqGnK-Clc4De4so92hrBYR4FbylOjypaxYvAj2rDLBOcO-pnIhPrmfCWBGRqrk3bJ6_8bmfRKTPo47PBRZcbZr8lB70t7C-iZPuc7-CkCDp-wQlHpHP-P-AYFkTG_inJ86YHOhhSx5rRxQ7wyxwlGtKRchOKM8y5j3qheXleJgmTRcScaZ5_dLmFvfahouy2MFCzpgb1t5pcMbY/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJwyCApPUys1IRlfgdyUpAzUE/photos/AU_ZVEEPGIW-DrSxH5yhpYpXRmXcKDueFGOmHQGQCiO7ZAMfGalSFYXPbB7YVgwZkmLmXwFdDy2xyAikOpXMcnVPxfLNu8ACxAdD4kA4CzclRK1iUS2XLDE3w4gaQHW2k_9fbHWW7VG8Ap2hmlXor33dVuiAqoeVcrC3G8QQN1t3M0mrBIgb3rJiEBYHSGQxnI6dWS2JeY8J5tl226Rf3FtVJpm45aUm1PIwnOsKzFb3_wrzh2o-gnvYy9wKnGZyi2CyLl42lqeZmPYH9boSWAw1FtOwz119QF64Qdn41BoncknhWGeikswqA4em4QK6nWvmQ7pMCPRbXec_XROzFchqJDdRKrLZyJ5r1lU18o7V2dpDhyCzrwjb6Zlo7cdg489gmFfVjcn6spfzC69zKybCdf7YlDPGufKBmrHfVDbnusI/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJwyCApPUys1IRlfgdyUpAzUE/photos/AU_ZVEGGAlJEK545oa9Z_eKFR_LRh-gPMDdm9FfFqojS5TXI0A8MsfWbm8ZNQVeXJ6wSp5yHrPYLPKuYHTQLM-MtoFFGPHzdAs-67ENoKaqdK02hyOxYaYSrnv0nC16SUJmVrD19EqggTrsezu8G3C_-ADrI83UJ2KGcVPzRpYqBHx_bGfqw3-zrvTtyR0F7P5adBmQ_pFIWImLJq6J5a-F_6s7hecHHHFvxI0nc7wZRLzwwkKxSg9T_RgwDGwqQ_usSoi061a40t71sZbvfxBk_4wRFeAMy-61GDdvSPi_eI7cOtjfTCqqaXF8PwgIoou5zbzB3yHKI_yReytIsvVjcvxrKW0vQ6SJ1TcEIseVNYpDEXL1BCVSb7C4khlrT2bwKpwWANjvukNWqf3M0h1goWtALkCw42FZRX9ehk2BTOOk/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJwyCApPUys1IRlfgdyUpAzUE/photos/AU_ZVEFJr0S_ws37i0a7GvUamvbwL0mba56VQToukq3qu9aaynpBywMqkkIj3IEnTZ8ltJQCqgne8pzoqbJG5m_KPlJLg_5dFRdULbDo1FS-LJVwTCUfFvxA5Lprcqtvr9nfNFTW1cnNhMsWd6Ugm2hUoTEZCOCXCm8EG9z4Vw6vrBo3SK__Ps-mlcnAMe3ptgmkkP2ScsL8LnX6L3_VgRA-ZET6G7SklEeQGj63_505ZGB3rcyF3V0mBfJbNLGL3j33Cn-Px2YytOsCd1-9CgxwFGKMymiMEuZ_8upl7A5N6DJ-CoRxK3ATPQeMzwgZq3-I4vqmRbUmncdnq-fc9FP-38xiY05IJLUbqqLKifTHToDaXZkvP7aLVVqErhYqvGG5q3DwGAt3hcylz52aVf1kdfOs7jgOLaRSTdOZVrT8nE6Ayw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJwyCApPUys1IRlfgdyUpAzUE/photos/AU_ZVEGbLEdbgt4dzQKkW4_kFkgJlEFUwGf4wXxaP5G1ewBxPK-u5ei88WNuvN3pvxzKcNiI7NzDCOvALEtZZjj-FYyQKmOcnE1VmfcLfRwwIxgkDI07y6Z3ZBPN0DRZTuCna8pSl6cJRS8TAv8h-hOad2osmcHSk2GNGXYrudAq67Af8XhGAYqgYL_llqmuhlEEf5_RfARg_I2u8-xQ0DrAKJNnu4nUAu3FjRrQBaKpvITBQINLzupPb_CmedtFKOsjN9QFskqgB1EXTyIhUFJQxHv462mzq936g_CMCg6u_N5pFl-HvEYhwVvsC4HixaPcY30qwcjTmqNtD2OrzATFFNpQhQ14B3cDaEch-mcv_wOuTMB-2lfj1iOGhqP-cU8CGCB9rWVGjaPt3rbnsiOVUTUaw1e6uHELBXjpL60MiK6vwFc/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJwyCApPUys1IRlfgdyUpAzUE/photos/AU_ZVEFfs1YfnP_H9utVss-CgzrX_6o-UbC3Wu2a8RWxvS1Wmg6QwP7Fs6hKX1RBSlY7G9O6mYAR0QIhmu_RFfXkqlGAP79oYdU2At2a79656SSL5g7SDlVeyAlvkMHzUDj4Y38JNF9sBqaeIAdPUddX2E88zA3bTzR2mEr0IR6Yw58Ps3Rawe8ArG-ODYcpCYu-8ShdLNqa6Dd-1UD4KFDugYXC1i5h_trQF5i8qg9uD_tILDHSFUdlrulIWJMOHJ09c405UxWoI8VmDKXD-XjxYX_7ase0gB29gQVdAIANhmnuI_aixOCTNfiSBngtM9XVPOU_0uvP9EDjHq51yI0ua886aLCeX3wYuLrQmZItDCIuENVySv3TSxj8JPfsWbEN1KB0nW_n7n57AZtCeU7iCUO4D6WpZoum6Dr6wop8W1I4ls8/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJwyCApPUys1IRlfgdyUpAzUE/photos/AU_ZVEFnVLp6d0IiygH5q88AmxnAy49wbwemJ4T6b5OJRorh8Fp2vd_De9wAlbtjUxuhxdxWJMfROWVta1Bz3TDoz0xFanhsBCA1x8UIqp8WNvfCmA0GuEYJhltXIbVLmhVVKfgHRpWDM_f8G6xiFJR0piJ3AYY_f_P9IIMIa1VDnMFkny6ch-IGB-R3rSVw7FvdnyTL3ZCGhHBWO6LtugoPh2hxLb61pNvoDluVbgkKR-ORkfZL4cizdaCCKX1-O1FuZW1erQpPfIqHIsqYhj3r53XcVZjThJ4bgJSsOyyXsIieNDbltMrUEtTMPBJ_rC1TPrqvNOQNW86LUcg1H6CnFybPXZ9njQVh3e1rS8xLsno64ELbQ11lFuUc8O9wqr3NybxHJ-d4U2IfpmyjqdbSmwQB7RsHa99RMTQ1KQf4sNg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJwyCApPUys1IRlfgdyUpAzUE/photos/AU_ZVEG7AscQBsF8gi06yzs4j1L0YYyMLIQMq3cWc7mckhfQZVqs-ccjPk-LYenN_Af7dmxjb__JtoZ5I2GXm8BHxg3gYAdVIxykUwMhLn3BDmDOuFhavnIYCiY7a6cpuK5DoI7GmPGzo-fycjWexkGgOAcxtWEhr_9E7TMHYdQhfCPMKczcc2iEVoNhzpEvFn0BtjSNM71yeS4ridWPwuLalrf-Aa3F9HoJoS2dTmLooyQtUmrToir2GDmy9NbI5VTG9o7kzLZTt2l2aQyTJuuoL9MnES-fKu4J2hXRDV-4BiSUueSf0Cz6PC3c3RFL0HarAp8bc6Fftyag3NLU_MTwmFjOOCEtpfUUYlq48PodXYzl5jWcjITObESLMNTFCC3HiuYTgL8sQkJl2KIiHxmAs4ASzQA1mZYFwSKcBNFegBf0Ux1m/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJwyCApPUys1IRlfgdyUpAzUE/photos/AU_ZVEFv3ZR9EwHUNwqTa1we7iTRXi4fm3njhB_MsJF4mA4iBJb_ZB86hEhgWNN0FhpY4trALk8lksP4CMtn847iQY3Q89Rj-zl_07mU6qyAawDKw_dNwKiPGBz9qFrRIsUhxiEtFWn_Th9-AKGsdEFK7W9B5qNoSVzDH6SGpUpKUzMOD2CH1HbaMF60Fu8-BSrLSBoo9zOCLl7JNG3mUzBFNNQrPEhqO1yohvXKNGWEFBNsFrG6bF469SaQGxV0uvBGIKZhuQbaY1omuRXDXIOiBcc2oYjL5lZeQQmEER37qU9KAD7EEWwDH91OjxOs9FdlVP7s092OyubUMyH70qRbIsYRKofJsJY_KQ7Zg2L3L6VN1ExJFi2x8hAdKuppTzDYjbOKdkdO-myvyV6HHA6Zx391HJNl2i6ZaowHVU8JvOPuQes/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "CloudKitchens Blaine",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "398 Northtown Dr NE Room 1, Blaine, MN 55434, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Minneapolis",
+      "postalCode": "",
+      "state": "MN",
+      "countryCode": "US",
+      "website": "https://cloudkitchens.com/locations/minneapolis/blaine-avenue/",
+      "phone": "(213) 329-4100",
+      "phoneUnformatted": "2133294100",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 45.127845799999996,
+        "lng": -93.258667
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJT-v5Mzwls1IRew9jBkroEnI",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:02:39.782Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8:00 AM – 5:01 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8:00 AM – 5:01 PM"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJT-v5Mzwls1IRew9jBkroEnI",
+      "reviews": 0,
+      "rating": 0,
+      "totalScore": 0,
+      "reviewsCount": 0,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJT-v5Mzwls1IRew9jBkroEnI/photos/AU_ZVEFhODJbR6xiurvnaeDdwan3VwIgFo-2Bc98XBXEnYSnjwtdBBSZlWoRoY5uQOJDjZdHO7DyKGjdye-ZOleJ2H3xzY2YX2jPEH9pH-GhZlNerTuMvIgSo1t9KUcYVew7YcGR28yvH0d8BmFgVyCx_1jGLYfYh5VA4s08BG_HD5l3-0VzC0dlhPVZ3_4Kb-s3We4qVaBo0muo4_086uwkX_q9mfxOEP5Efv34cr_omz3iiGkHA_bU91eXEuSY5HEL1gZD7hH2Lg-rrF94bk2CbvXBRJJdFUTh8FQ1qphV1mKmlw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJT-v5Mzwls1IRew9jBkroEnI/photos/AU_ZVEFhODJbR6xiurvnaeDdwan3VwIgFo-2Bc98XBXEnYSnjwtdBBSZlWoRoY5uQOJDjZdHO7DyKGjdye-ZOleJ2H3xzY2YX2jPEH9pH-GhZlNerTuMvIgSo1t9KUcYVew7YcGR28yvH0d8BmFgVyCx_1jGLYfYh5VA4s08BG_HD5l3-0VzC0dlhPVZ3_4Kb-s3We4qVaBo0muo4_086uwkX_q9mfxOEP5Efv34cr_omz3iiGkHA_bU91eXEuSY5HEL1gZD7hH2Lg-rrF94bk2CbvXBRJJdFUTh8FQ1qphV1mKmlw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "CloudKitchens - Minneapolis North Loop",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "1025 Currie Ave Room 1, Minneapolis, MN 55403, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Minneapolis",
+      "postalCode": "",
+      "state": "MN",
+      "countryCode": "US",
+      "website": "https://cloudkitchens.com/locations/minneapolis/currie-avenue/",
+      "phone": "(213) 329-4100",
+      "phoneUnformatted": "2133294100",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 44.977726,
+        "lng": -93.2796783
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJE_4aEUUzs1IRhyfPbQEw5hk",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:02:40.078Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8:00 AM – 5:01 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8:00 AM – 5:01 PM"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJE_4aEUUzs1IRhyfPbQEw5hk",
+      "reviews": 1,
+      "rating": 1,
+      "totalScore": 1,
+      "reviewsCount": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJE_4aEUUzs1IRhyfPbQEw5hk/photos/AU_ZVEFwU10By23LmZFfT-YMMg26LT19DzlsxhUIaJ6F-eSJjbsKnIPoV-QM6ZfmIq_H4dSbS4uua_Mg-BnM3JxSbAVAus_X42JIp1yRkvlAgKZxXFGXzyYxcl2gSjFbpQgbn4xHtq9LErbGDSlK3P5UdHL_htlS915Jxk4jN0O-L4zoT_BY413EN0ZY7bMuFeC52lZsm-QsTTtWeh1k8_V7cJzOKyv0TGZW_OsVT0OBBSMT6h_wGJSj0LtDdINwfGRHb5vXx4dmhzPCkaIfvovC5NefEMCc0PDk9w4ouCmgbhKe3w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJE_4aEUUzs1IRhyfPbQEw5hk/photos/AU_ZVEFwU10By23LmZFfT-YMMg26LT19DzlsxhUIaJ6F-eSJjbsKnIPoV-QM6ZfmIq_H4dSbS4uua_Mg-BnM3JxSbAVAus_X42JIp1yRkvlAgKZxXFGXzyYxcl2gSjFbpQgbn4xHtq9LErbGDSlK3P5UdHL_htlS915Jxk4jN0O-L4zoT_BY413EN0ZY7bMuFeC52lZsm-QsTTtWeh1k8_V7cJzOKyv0TGZW_OsVT0OBBSMT6h_wGJSj0LtDdINwfGRHb5vXx4dmhzPCkaIfvovC5NefEMCc0PDk9w4ouCmgbhKe3w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJE_4aEUUzs1IRhyfPbQEw5hk/photos/AU_ZVEG-5eWT6Jco6k1wt8XVIrX_tLFKjebWOl7RXp-k_goyiTq_PAG0bVOqS0dtxMEsTgfkHtyimq86F4iwTmDDLTdYk8W217tofkA5dmRSUuRbVTtAVYxA_HoxuqAB_OciQAP7n1-mUhuCPcrjZb0qXS-lcsYoT9bDjOB5-JLwxOITWLLV85I8ttCcY_HU4ylsHjE4YiWtjdoX-oRbYspEsjYYkhXOz7QDYsAo0J-qjrN6UxOqStqkXdnMcl4MKA9f3n7oOa5ptfLtVEshOkOjGRMGD92c7z5ydzK6KLutEShguw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
     }
   ],
   "insights": {

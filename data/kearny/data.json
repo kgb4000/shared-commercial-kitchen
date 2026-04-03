@@ -173,6 +173,83 @@
       "kgmid": "/g/11j1j6lvsn",
       "reviews_id": 1503871266277732600,
       "located_google_id": null
+    },
+    {
+      "title": "Hudson Kitchen",
+      "price": null,
+      "categoryName": "Commercial kitchen",
+      "address": "9 Basin Drive Suite Suite #150, Kearny, NJ 07032, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Kearny",
+      "postalCode": "",
+      "state": "NJ",
+      "countryCode": "US",
+      "website": "http://www.thehudsonkitchen.com/",
+      "phone": "(862) 231-6584",
+      "phoneUnformatted": "8622316584",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 40.727190900000004,
+        "lng": -74.1043129
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJhdjITGZRwokRtlUeSB9dY_4",
+      "categories": [
+        "Commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T04:01:31.100Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJhdjITGZRwokRtlUeSB9dY_4",
+      "reviews": 4,
+      "rating": 4,
+      "totalScore": 4,
+      "reviewsCount": 4,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJhdjITGZRwokRtlUeSB9dY_4/photos/AU_ZVEFlXUy5APWd0619Z-YJVV4VcP-5RcNVtOU6bS5aX4eP7IJO7JtNkRNGZWF_Igbi0XEQAoi6LNwrKpFTIur4rq40Gx5rNh_xViw5CWujkaSnPCYw9IwNgXF0mYNSxa17HDRspCenppETomBLpXvvUlBbo3Ri3Bv7tmgyxOeARY7eALgYzz6lQMRAo_G9zGk4RQzMBH8yIqRY3beML75U9RulUcKwucZ2Flnx1A7AQTwoBzb2Ntc9LlEdpD-jvR_R-QB5Wg6xJptku1GrfiUE1YWOVXc6RcUHP9cZeX0pwdJHZw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJhdjITGZRwokRtlUeSB9dY_4/photos/AU_ZVEFlXUy5APWd0619Z-YJVV4VcP-5RcNVtOU6bS5aX4eP7IJO7JtNkRNGZWF_Igbi0XEQAoi6LNwrKpFTIur4rq40Gx5rNh_xViw5CWujkaSnPCYw9IwNgXF0mYNSxa17HDRspCenppETomBLpXvvUlBbo3Ri3Bv7tmgyxOeARY7eALgYzz6lQMRAo_G9zGk4RQzMBH8yIqRY3beML75U9RulUcKwucZ2Flnx1A7AQTwoBzb2Ntc9LlEdpD-jvR_R-QB5Wg6xJptku1GrfiUE1YWOVXc6RcUHP9cZeX0pwdJHZw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJhdjITGZRwokRtlUeSB9dY_4/photos/AU_ZVEGOMNVe3FaR7eSmwRfrxSDn24Kq2Lu4YKrnpfGXux4LNbMtcaytTHxMjfBk53MibpdseJ64A1mPC7Z6m9y1fPlSL0XjtPeB4k5ncSIcc8dHNpx7FqDwHxySnj17RJGUgOox_PXsNHv3pDpR9nVRS1a_YtxQBd-UnS_8gKazyiqDFdFlmZEH70-KsrHsn2_7HLDsxKpx3CxSDDhnLm7AnZS5GL3YVlStMRER52dX13EeqxiBDouUdi_vUX6SXhnFZhSpnCr9tXQvdp4Kin06jPpR0v2RE3pxbJD5q35Rm_-RHA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJhdjITGZRwokRtlUeSB9dY_4/photos/AU_ZVEF157TChh2V4UKrmHcGCD9IazTs6gX9AIF5QBddfAGk_Bmg0PYYIVwi98p2VzBv7AQUQLpjyyKe48CRj64jMcFJ-RHu_RD-IISaZd4BuQU1otN5FonmGG6dXQsk8uSBVN3Lfc9UtIKCZM4ChXhSWZGkTChM_mCGoZePRwODUg4Xob15w2w0TQxiShOwxFDJHwTHB2RZVRv1w4jZtUKCN9S7cRaQpjStpBx48YWpulXuGcBcl44pSLkpPWuu9Y8QkFJc1J3cEYWk4yD2NyIs9Eqt_LduIXvIrAZAmq707x55ZA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJhdjITGZRwokRtlUeSB9dY_4/photos/AU_ZVEE-dIwvqhARHpOYmYKWQOL-0iSRE6BPE6mX8bu-PJEmxCi3-L3xeKPeABuvX3HxdWTOuv-BICRXrXje_gNh_JZTEqUPkydvJsm9WvcEjMJjjUVzLr5ymL8xU-z8MEn0oW1UTm1IZabIbIxDKLVuTJCt1jepaGWr92eQd7Cgi45ly8LB_STMMPW8vzIKGX3DvNhtH_Ma9h_oWIgSueIlr3MWoX_0CFpV1jj6o79nROWodR5ggwlQob438ilvH_qgXRt8XC98jyhcVbUoA-FWB2t-pS9sCXQhD5wK9jN6Ke0HnQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJhdjITGZRwokRtlUeSB9dY_4/photos/AU_ZVEFZkg-EeVwAosMGlr0MA8t5stM86cRCQ4GjOvgGbhuVzoa9mxbZNGFEAAJpv8Dzwo71YbKpi4SplC-Z5rjoB3FUednjIweM4xDCQngfVubYWVxqIzj1FbInLBmjzk43SRYirsqC65Fz1HKqCC6wCVAisAWmfxsoBXjY3shCCvS0Cf3shzQRU1iLm0-zagDCRYKMwjywwXSpEX9YY6zbTR6MsJwHVhaexqhpijPzR5bz8BGnC-6N6ifgQzYY4scDSkHcVVFrB2VHyGCAXl2f58qjhqMDnlc10B1L7g2Uhvrldg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJhdjITGZRwokRtlUeSB9dY_4/photos/AU_ZVEG4oL6Xo7GRQboYHDDJUg2FuQoVYCSkdh77if0F-MICepgHxls3WFRZhPjT-4VUOQcN5avv7jjpfJ65KTIV42iyFHsTtsRpIGmY3zBSeoPbH6CaV3yvlSe282YbLcs2G-JeY2jcOAf_M834Ibk7CUGgM7EvMOg_bOCcY_Nve8tlhcglcCEI9LZxgRm6zHm7YPFfoPFY3BWsT2S0q0hxpE2w_b5h_k276uGBNvIoabpGhzjDchj6afz0d4PtL68JC-mg2UjlVycsZnR8dHaQOn3PGMqokFPVfYlvibUbLwsVnw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJhdjITGZRwokRtlUeSB9dY_4/photos/AU_ZVEEbGp8jJEJtvpPq6A_Qowet6Mg02qP4VUINjG25rAzR4Ug1LM9iQCYv1l_6O6LfKvJCBy2npTLtiIz0o_MJYimyeC1vISsVpwLctd5erxucMrnIc03k7DT0FYMUnRqW4yWDto7t6by3EhfYjSDWjO2XrGCrvbPiBCVarNneQGt33bAPI2HU9qhp_0UCvZWUtVSzMhJaSy8IqrljR35bidKuP2bRMOZ2c2ZqSXvpV1c88rxW4NmNjO-EblPZmrCTGLD4phRQM9Tbk-vfnxMF4ifNlswWneQaHvg534tmMl-39w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
     }
   ],
   "insights": {
