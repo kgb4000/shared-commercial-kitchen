@@ -23,7 +23,6 @@ import Image from 'next/image'
 import Link from 'next/link'
 import BusinessInsights from '@/component/BusinessInsights'
 import BackButton from '@/component/BackButton'
-import OptimizedImage from '@/component/OptimizedImage'
 import LeadCaptureForm from './LeadCaptureForm'
 import AffiliateLinks from './AffiliateLinks'
 
@@ -488,22 +487,20 @@ function NearbyPlaces({ kitchen, placeDetails }) {
 // Image Gallery Component
 function ImageGallery({ images, kitchenName }) {
   const [currentImageIndex, setCurrentImageIndex] = useState(0)
-  // Removed failedImages state - now handled by OptimizedImage component
   const [mounted, setMounted] = useState(false)
 
   useEffect(() => {
     setMounted(true)
   }, [])
 
+  const safeKitchenName = safeRender(kitchenName, 'Kitchen')
+
   if (!mounted) {
     return (
       <div className="mb-8">
-        <h3 className="text-xl font-semibold mb-4">Kitchen Photos</h3>
-        <div className="bg-gray-200 h-64 rounded-lg flex items-center justify-center">
-          <div className="text-center text-gray-500">
-            <span className="text-4xl mb-2 block">🏢</span>
-            <p>Loading photos...</p>
-          </div>
+        <h3 className="font-editorial text-xl mb-4" style={{ color: 'var(--espresso)' }}>Kitchen Photos</h3>
+        <div className="h-80 rounded-2xl flex items-center justify-center" style={{ background: 'var(--light-warm)' }}>
+          <p style={{ color: 'var(--warm-gray)' }}>Loading photos...</p>
         </div>
       </div>
     )
@@ -512,136 +509,94 @@ function ImageGallery({ images, kitchenName }) {
   if (!images || !Array.isArray(images) || images.length === 0) {
     return (
       <div className="mb-8">
-        <h3 className="text-xl font-semibold mb-4">Kitchen Photos</h3>
-        <div className="bg-gray-200 h-64 rounded-lg flex items-center justify-center">
-          <div className="text-center text-gray-500">
-            <span className="text-4xl mb-2 block">🏢</span>
-            <p>No photos available</p>
-          </div>
+        <h3 className="font-editorial text-xl mb-4" style={{ color: 'var(--espresso)' }}>Kitchen Photos</h3>
+        <div className="h-64 rounded-2xl flex items-center justify-center" style={{ background: 'var(--light-warm)' }}>
+          <p style={{ color: 'var(--warm-gray)' }}>No photos available</p>
         </div>
       </div>
     )
   }
 
-  const nextImage = () => {
-    setCurrentImageIndex((prev) => (prev + 1) % images.length)
-  }
-
-  const prevImage = () => {
-    setCurrentImageIndex((prev) => (prev - 1 + images.length) % images.length)
-  }
-
-  // Image error handling now managed by OptimizedImage component
-
+  const nextImage = () => setCurrentImageIndex((prev) => (prev + 1) % images.length)
+  const prevImage = () => setCurrentImageIndex((prev) => (prev - 1 + images.length) % images.length)
   const mainPhoto = images[currentImageIndex]
-  const safeKitchenName = safeRender(kitchenName, 'Kitchen')
 
-  if (images.length === 1) {
-    return (
-      <div className="mb-8">
-        <h3 className="text-xl font-semibold mb-4">Kitchen Photos</h3>
-        <div className="relative w-full h-96 rounded-lg overflow-hidden shadow-lg">
-          <OptimizedImage
+  return (
+    <div className="mb-8">
+      <h3 className="font-editorial text-xl mb-4" style={{ color: 'var(--espresso)' }}>Kitchen Photos</h3>
+
+      {/* Main image */}
+      <div className="relative rounded-2xl overflow-hidden" style={{ border: '1px solid var(--border-warm)' }}>
+        <div className="relative h-80 lg:h-[28rem]">
+          <Image
             src={mainPhoto.url}
-            alt={`${safeKitchenName} - Kitchen view`}
-            width={800}
-            height={600}
-            className="w-full h-full object-cover"
-            fallbackSrc="/images/commercial-kitchen-for-rent.jpg"
-            priority={true}
+            alt={mainPhoto.alt || `${safeKitchenName} kitchen photo`}
+            fill
+            className="object-cover"
+            sizes="(max-width: 768px) 100vw, 800px"
+            priority={currentImageIndex === 0}
+            unoptimized
           />
+
+          {images.length > 1 && (
+            <>
+              <button
+                onClick={prevImage}
+                className="absolute left-3 top-1/2 -translate-y-1/2 p-2 rounded-full backdrop-blur-sm transition-all hover:scale-110"
+                style={{ background: 'rgba(250,246,240,0.85)' }}
+                aria-label="Previous image"
+              >
+                <ChevronLeft className="w-5 h-5" style={{ color: 'var(--espresso)' }} />
+              </button>
+              <button
+                onClick={nextImage}
+                className="absolute right-3 top-1/2 -translate-y-1/2 p-2 rounded-full backdrop-blur-sm transition-all hover:scale-110"
+                style={{ background: 'rgba(250,246,240,0.85)' }}
+                aria-label="Next image"
+              >
+                <ChevronRight className="w-5 h-5" style={{ color: 'var(--espresso)' }} />
+              </button>
+              <div
+                className="absolute bottom-3 right-3 px-3 py-1 rounded-full text-sm backdrop-blur-sm"
+                style={{ background: 'rgba(30,17,8,0.6)', color: 'var(--cream)' }}
+              >
+                {currentImageIndex + 1} / {images.length}
+              </div>
+            </>
+          )}
+
           {mainPhoto.attribution && (
-            <div className="absolute bottom-2 right-2 bg-black bg-opacity-50 text-white px-2 py-1 rounded text-xs">
+            <div className="absolute bottom-3 left-3 px-2 py-1 rounded text-xs backdrop-blur-sm"
+              style={{ background: 'rgba(30,17,8,0.5)', color: 'var(--cream)' }}>
               Photo by {safeRender(mainPhoto.attribution)}
             </div>
           )}
         </div>
       </div>
-    )
-  }
 
-  return (
-    <div className="mb-8">
-      <h3 className="text-xl font-semibold mb-4">Kitchen Photos</h3>
-      <div className="grid grid-cols-1 lg:grid-cols-4 gap-4">
-        <div className="lg:col-span-2 lg:row-span-2 relative">
-          <div className="relative h-64 lg:h-full min-h-[300px] rounded-lg overflow-hidden shadow-lg">
-            <OptimizedImage
-              src={mainPhoto.url}
-              alt={`${safeKitchenName} - Main view`}
-              width={400}
-              height={300}
-              className="w-full h-full object-cover"
-              fallbackSrc="/images/commercial-kitchen-for-rent.jpg"
-            />
-
-            {images.length > 1 && (
-              <>
-                <button
-                  onClick={prevImage}
-                  className="absolute left-4 top-1/2 transform -translate-y-1/2 bg-black bg-opacity-50 text-white p-2 rounded-full hover:bg-opacity-70 transition-opacity"
-                  aria-label="Previous image"
-                >
-                  <ChevronLeft className="w-6 h-6" />
-                </button>
-                <button
-                  onClick={nextImage}
-                  className="absolute right-4 top-1/2 transform -translate-y-1/2 bg-black bg-opacity-50 text-white p-2 rounded-full hover:bg-opacity-70 transition-opacity"
-                  aria-label="Next image"
-                >
-                  <ChevronRight className="w-6 h-6" />
-                </button>
-              </>
-            )}
-
-            {images.length > 1 && (
-              <div className="absolute bottom-4 right-4 bg-black bg-opacity-50 text-white px-3 py-1 rounded-full text-sm">
-                {currentImageIndex + 1} / {images.length}
-              </div>
-            )}
-
-            {mainPhoto.attribution && (
-              <div className="absolute bottom-2 left-2 bg-black bg-opacity-50 text-white px-2 py-1 rounded text-xs">
-                Photo by {safeRender(mainPhoto.attribution)}
-              </div>
-            )}
-          </div>
-        </div>
-
-        {images.slice(1, 4).map((photo, index) => (
-          <div key={index} className="lg:col-span-1">
+      {/* Thumbnail strip */}
+      {images.length > 1 && (
+        <div className="flex gap-2 mt-3 overflow-x-auto pb-2">
+          {images.map((photo, index) => (
             <button
-              onClick={() => setCurrentImageIndex(index + 1)}
-              className="block w-full h-32 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow"
-              aria-label={`View photo ${index + 2}`}
+              key={index}
+              onClick={() => setCurrentImageIndex(index)}
+              className={`relative shrink-0 w-20 h-20 rounded-xl overflow-hidden transition-all ${
+                index === currentImageIndex ? 'ring-2 ring-offset-1 opacity-100' : 'opacity-60 hover:opacity-90'
+              }`}
+              style={{ ringColor: 'var(--amber)' }}
+              aria-label={photo.alt || `View photo ${index + 1} of ${safeKitchenName}`}
             >
-              <OptimizedImage
+              <Image
                 src={photo.url}
-                alt={`${safeKitchenName} - View ${index + 2}`}
-                width={120}
-                height={90}
-                className="w-full h-full object-cover hover:scale-105 transition-transform"
-                fallbackSrc="/images/commercial-kitchen-for-rent.jpg"
+                alt={photo.alt || `${safeKitchenName} - Thumbnail ${index + 1}`}
+                fill
+                className="object-cover"
+                sizes="80px"
+                unoptimized
               />
             </button>
-          </div>
-        ))}
-
-        {images.length > 4 && (
-          <div className="lg:col-span-1 h-32 bg-gray-800 bg-opacity-75 rounded-lg flex items-center justify-center shadow-md">
-            <div className="text-center text-white">
-              <span className="text-2xl block">📷</span>
-              <span className="text-sm">+{images.length - 4} more</span>
-            </div>
-          </div>
-        )}
-      </div>
-
-      {images.length > 1 && (
-        <div className="mt-4 text-center">
-          <p className="text-gray-600 text-sm">
-            Click any photo to view • {images.length} total photos available
-          </p>
+          ))}
         </div>
       )}
     </div>
@@ -989,24 +944,58 @@ export default function KitchenDetail({
     )
   }
 
-  // Get images from both sources safely
+  // Get images from all sources safely
   const images = []
+  const seenUrls = new Set()
+  const kitchenLocation = kitchen.city || cityName || ''
+  const kitchenCategory = kitchen.categoryName || 'Commercial kitchen'
 
-  if (kitchen.imageUrl) {
+  const altTexts = [
+    `${kitchenName} - ${kitchenCategory} in ${kitchenLocation}`,
+    `Interior of ${kitchenName} commercial kitchen`,
+    `Kitchen equipment and prep area at ${kitchenName}`,
+    `Cooking stations at ${kitchenName} in ${kitchenLocation}`,
+    `${kitchenName} shared kitchen workspace`,
+    `Commercial kitchen facilities at ${kitchenName}`,
+    `Food preparation area at ${kitchenName}`,
+    `${kitchenName} kitchen space available for rent`,
+    `Professional kitchen at ${kitchenName} in ${kitchenLocation}`,
+    `${kitchenName} commissary kitchen view`,
+  ]
+
+  // Add images from the images array (multiple photos from data refresh)
+  if (kitchen.images && Array.isArray(kitchen.images)) {
+    kitchen.images.forEach((url, index) => {
+      if (url && !seenUrls.has(url)) {
+        seenUrls.add(url)
+        images.push({
+          url,
+          alt: altTexts[index] || `${kitchenName} - Photo ${index + 1}`,
+          source: 'data',
+        })
+      }
+    })
+  }
+
+  // Add primary imageUrl if not already included
+  if (kitchen.imageUrl && !seenUrls.has(kitchen.imageUrl)) {
+    seenUrls.add(kitchen.imageUrl)
     images.push({
       url: kitchen.imageUrl,
-      alt: kitchen.name,
+      alt: altTexts[images.length] || `${kitchenName} kitchen photo`,
       source: 'original',
     })
   }
 
+  // Add Google Places photos if available
   if (initialGoogleData?.photos && Array.isArray(initialGoogleData.photos)) {
     initialGoogleData.photos.forEach((photo, index) => {
-      if (photo && photo.url) {
+      if (photo && photo.url && !seenUrls.has(photo.url)) {
+        seenUrls.add(photo.url)
         images.push({
           url: photo.url,
           urlLarge: photo.urlLarge,
-          alt: `${kitchen.name} - Photo ${index + 1}`,
+          alt: altTexts[images.length] || `${kitchenName} - Photo ${images.length + 1}`,
           source: 'google',
           attribution: photo.authorAttributions?.[0]?.displayName,
         })
