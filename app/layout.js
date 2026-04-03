@@ -42,6 +42,44 @@ export default function RootLayout({ children }) {
           crossOrigin="anonymous"
           strategy="afterInteractive"
         />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify([
+              {
+                "@context": "https://schema.org",
+                "@type": "Organization",
+                "name": "Shared Kitchen Locator",
+                "url": "https://sharedkitchenlocator.com",
+                "description": "Shared Kitchen Locator is a free directory of 380+ verified commercial kitchens for rent across 43 US cities. We help food entrepreneurs find shared-use, commissary, and ghost kitchen spaces.",
+                "foundingDate": "2025",
+                "areaServed": {
+                  "@type": "Country",
+                  "name": "United States"
+                },
+                "knowsAbout": [
+                  "Commercial kitchen rentals",
+                  "Commissary kitchens",
+                  "Shared-use kitchens",
+                  "Ghost kitchens",
+                  "Food business resources"
+                ]
+              },
+              {
+                "@context": "https://schema.org",
+                "@type": "WebSite",
+                "name": "Shared Kitchen Locator",
+                "url": "https://sharedkitchenlocator.com",
+                "description": "Find commercial kitchens for rent across 43 US cities",
+                "potentialAction": {
+                  "@type": "SearchAction",
+                  "target": "https://sharedkitchenlocator.com/browse-kitchens?q={search_term_string}",
+                  "query-input": "required name=search_term_string"
+                }
+              }
+            ])
+          }}
+        />
         <Header />
         {children}
         <Footer />
