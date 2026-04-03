@@ -1064,59 +1064,6 @@
       ]
     },
     {
-      "title": "Str8 Out The Gulf Seafood",
-      "price": null,
-      "categoryName": "Shared-use commercial kitchen (Temporarily Closed)",
-      "address": "2616 Blodgett St k0, Houston, TX 77004, USA",
-      "neighborhood": "South Side",
-      "street": "2616 Blodgett St k0",
-      "city": "Houston",
-      "postalCode": "77004",
-      "state": "Texas",
-      "countryCode": "US",
-      "phone": "(832) 229-0671",
-      "phoneUnformatted": "8322290671",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 29.7226889,
-        "lng": -95.37048270000001
-      },
-      "permanentlyClosed": false,
-      "temporarilyClosed": true,
-      "placeId": "ChIJ748FL7C_QIYRnB3bX0uAgVU",
-      "categories": [
-        "Shared-use commercial kitchen"
-      ],
-      "fid": "0x8640bfb02f058fef:0x5581804b5fdb1d9c",
-      "cid": "6161346826438647196",
-      "reviewsCount": 0,
-      "imagesCount": 5,
-      "imageCategories": [],
-      "scrapedAt": "2026-04-03T04:01:26.252Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "Service options": [
-          {
-            "Delivery": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=Str8%20Out%20The%20Gulf%20Seafood&query_place_id=ChIJ748FL7C_QIYRnB3bX0uAgVU",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.70477960940477,-95.32420042973621,13z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 24,
-      "isAdvertisement": false,
-      "imageUrl": "http://t1.gstatic.com/images?q=tbn:ANd9GcQmfNG4cmECqJDkJFTO7JveoQyljfeBFBg3Rab9f3nxuG9krN5b",
-      "kgmid": "/g/11vksrbqfl"
-    },
-    {
       "title": "Shared Commercial Kitchen West",
       "price": null,
       "categoryName": "Commercial kitchen",
