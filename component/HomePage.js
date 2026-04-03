@@ -47,7 +47,7 @@ const HomePage = () => {
     },
     {
       question: 'How do I find a commercial kitchen near me?',
-      answer: 'Use Shared Kitchen Locator to search 380+ verified commercial kitchens across 43 US cities. Search by city, compare pricing and amenities, and contact kitchen owners directly to request a tour or book time.',
+      answer: 'Use Shared Kitchen Locator to search 950+ verified commercial kitchens across 43 US cities. Search by city, compare pricing and amenities, and contact kitchen owners directly to request a tour or book time.',
     },
     {
       question: 'What should I look for when renting a commercial kitchen?',
@@ -107,7 +107,7 @@ const HomePage = () => {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-24 pb-20 flex flex-col justify-center" style={{ minHeight: '85vh' }}>
           <div className="max-w-3xl">
             <p className="animate-fade-up text-sm font-medium tracking-widest uppercase mb-6" style={{ color: 'var(--amber)', letterSpacing: '0.15em' }}>
-              380+ kitchens across 43 cities
+              950+ kitchens across 43 cities
             </p>
             <h1 className="animate-fade-up animation-delay-100 font-editorial text-5xl sm:text-6xl lg:text-7xl leading-[1.05] mb-8" style={{ color: 'var(--cream)' }}>
               Find the kitchen
@@ -322,7 +322,7 @@ const HomePage = () => {
             Ready to start cooking?
           </h2>
           <p className="text-lg mb-10 max-w-xl mx-auto" style={{ color: 'rgba(250,246,240,0.75)' }}>
-            Browse 380+ verified commercial kitchens across 43 cities. From hourly pop-ups to monthly leases.
+            Browse 950+ verified commercial kitchens across 43 cities. From hourly pop-ups to monthly leases.
           </p>
           <Link
             href="/browse-kitchens"

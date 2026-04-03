@@ -51,7 +51,7 @@ export default function RootLayout({ children }) {
                 "@type": "Organization",
                 "name": "Shared Kitchen Locator",
                 "url": "https://sharedkitchenlocator.com",
-                "description": "Shared Kitchen Locator is a free directory of 380+ verified commercial kitchens for rent across 43 US cities. We help food entrepreneurs find shared-use, commissary, and ghost kitchen spaces.",
+                "description": "Shared Kitchen Locator is a free directory of 950+ verified commercial kitchens for rent across 43 US cities. We help food entrepreneurs find shared-use, commissary, and ghost kitchen spaces.",
                 "foundingDate": "2025",
                 "areaServed": {
                   "@type": "Country",

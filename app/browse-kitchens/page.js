@@ -3,7 +3,7 @@ import fs from 'fs'
 import path from 'path'
 
 export const metadata = {
-  title: 'Browse Commercial Kitchens by City — 43 Cities, 380+ Kitchens',
+  title: 'Browse Commercial Kitchens by City — 43 Cities, 950+ Kitchens',
   description:
     'Browse commercial kitchen spaces by city and state. Find commissary kitchens, shared commercial kitchens, and ghost kitchens across 43 US cities.',
   alternates: {
@@ -12,13 +12,13 @@ export const metadata = {
   openGraph: {
     title: 'Browse Commercial Kitchens by City',
     description:
-      'Find commercial kitchen rentals across 43 US cities. 380+ verified listings.',
+      'Find commercial kitchen rentals across 43 US cities. 950+ verified listings.',
     images: [{ url: 'https://sharedkitchenlocator.com/images/commercial-kitchen-for-rent.jpg', width: 1200, height: 630 }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Browse Commercial Kitchens by City',
-    description: 'Find commercial kitchen rentals across 43 US cities. 380+ verified listings.',
+    description: 'Find commercial kitchen rentals across 43 US cities. 950+ verified listings.',
     images: ['https://sharedkitchenlocator.com/images/commercial-kitchen-for-rent.jpg'],
   },
 }

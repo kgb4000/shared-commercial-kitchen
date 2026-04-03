@@ -9,14 +9,14 @@ export const metadata = {
     canonical: 'https://sharedkitchenlocator.com/cocinas-comerciales',
   },
   openGraph: {
-    title: 'Cocinas Comerciales en Renta — 43 Ciudades, 380+ Cocinas',
+    title: 'Cocinas Comerciales en Renta — 43 Ciudades, 950+ Cocinas',
     description: 'Encuentra cocinas comerciales en renta en Estados Unidos.',
     type: 'website',
     images: [{ url: 'https://sharedkitchenlocator.com/images/commercial-kitchen-for-rent.jpg', width: 1200, height: 630 }],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Cocinas Comerciales en Renta — 43 Ciudades, 380+ Cocinas',
+    title: 'Cocinas Comerciales en Renta — 43 Ciudades, 950+ Cocinas',
     description: 'Encuentra cocinas comerciales en renta en Estados Unidos.',
     images: ['https://sharedkitchenlocator.com/images/commercial-kitchen-for-rent.jpg'],
   },
@@ -54,7 +54,7 @@ export default function CocinasComerciales() {
           </p>
           <div className="flex flex-wrap justify-center gap-6 text-gray-600 mb-8">
             <div className="text-center">
-              <div className="text-2xl font-bold text-gray-900">380+</div>
+              <div className="text-2xl font-bold text-gray-900">950+</div>
               <div className="text-sm">Cocinas Verificadas</div>
             </div>
             <div className="text-center">

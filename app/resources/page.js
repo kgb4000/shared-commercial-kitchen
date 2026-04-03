@@ -313,7 +313,7 @@ export default function ResourcesPage() {
             className="text-lg mb-8"
             style={{ color: 'rgba(250,246,240,0.7)' }}
           >
-            Browse 380+ verified commercial kitchens across 43 cities.
+            Browse 950+ verified commercial kitchens across 43 cities.
           </p>
           <Link
             href="/browse-kitchens"

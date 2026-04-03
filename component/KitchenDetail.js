@@ -1423,13 +1423,14 @@ export default function KitchenDetail({
                   placeDetails={initialGoogleData}
                 />
 
-                {/* Operating Hours Section */}
+                {/* Operating Hours Section — only show if there's actual schedule data */}
+                {(businessHours && Array.isArray(businessHours) && businessHours.length > 0) || kitchen.operatingHours || kitchen.availability ? (
                 <div>
                   <h2 className="text-2xl font-semibold mb-6 border-b border-[#E5DFD6] pb-2">
                     Operating Hours
                   </h2>
 
-                  {businessHours && Array.isArray(businessHours) ? (
+                  {businessHours && Array.isArray(businessHours) && businessHours.length > 0 ? (
                     <div className="bg-white border border-[#E5DFD6] rounded-lg p-6">
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                         {/* Hours List */}
@@ -1647,6 +1648,7 @@ export default function KitchenDetail({
                     </div>
                   )}
                 </div>
+                ) : null}
 
                 {/* Kitchen Features */}
                 <KitchenAmenities
