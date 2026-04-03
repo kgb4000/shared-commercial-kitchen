@@ -1704,46 +1704,6 @@
         "https://places.googleapis.com/v1/places/ChIJqd4cdwGZ7ocRmGanXbhEhLQ/photos/AU_ZVEEfRFROIypr1m6pxXlH0to9qMesg17xJIxHIbLxAkpwGmr9QAwwHDu7dsWncBinUndy2CN3MK6xjMtfHke1AP6nIz_lZW97PuNlGuRj0O_ktOaI7qLAJUQb-C-2VtAjlubO0miivGlbugbZaaiaJVxkrGuoG_65uYNuXt28jGv4q2nk9qh2aonrFLyHsWFCuq4i6feJQsKA2QlMIrvbr31I-LgfSoUZ1zIh7YGoDZhhBdA56RKq1D6AMr_RClw-GV3JpB3VekbtU7XWf98i2KwSxmnDNDCVy_Dh0jsEEp_ZMXoCAak_ZXHiy7N3u4blc9x5Os1_VFIWPePXpm5mADx8Cg9jeKER5RFrZFoPX8u2wxWIIl0x025TgiO637i5RRSM-oOjDeaIAy7ISfIUzI2w0L4h_eiMq5yLYZo7dnXa3A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
       ],
       "verified": false
-    },
-    {
-      "title": "Nationwide Mobile Kitchen Rental",
-      "price": null,
-      "categoryName": "Commercial kitchen",
-      "address": "2031 S Lida Ln, Anaheim, CA 92802, USA",
-      "neighborhood": "",
-      "street": "",
-      "city": "Anaheim",
-      "postalCode": "",
-      "state": "CA",
-      "countryCode": "US",
-      "website": "http://mobilekitchens.com/",
-      "phone": "(800) 905-8608",
-      "phoneUnformatted": "8009058608",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 33.7978616,
-        "lng": -117.94012260000001
-      },
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJo_dTZjwo3YARRKHZ2XHV21g",
-      "categories": [
-        "Commercial kitchen"
-      ],
-      "imagesCount": 0,
-      "imageCategories": [],
-      "scrapedAt": "2026-04-03T03:59:31.671Z",
-      "openingHours": [],
-      "additionalInfo": {},
-      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJo_dTZjwo3YARRKHZ2XHV21g",
-      "reviews": 0,
-      "rating": 0,
-      "totalScore": 0,
-      "reviewsCount": 0,
-      "isAdvertisement": false,
-      "imageUrl": "",
-      "images": [],
-      "verified": false
     }
   ],
   "insights": {
