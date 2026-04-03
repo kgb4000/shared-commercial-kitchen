@@ -1,8 +1,6 @@
 import { Resend } from 'resend'
 import { NextResponse } from 'next/server'
 
-const resend = new Resend(process.env.RESEND_API_KEY)
-
 export async function POST(request) {
   try {
     const body = await request.json()
@@ -22,6 +20,13 @@ export async function POST(request) {
         { status: 400 }
       )
     }
+
+    if (!process.env.RESEND_API_KEY || process.env.RESEND_API_KEY === 're_your_api_key_here') {
+      console.log('Lead received (email not configured):', { name, email, kitchenName })
+      return NextResponse.json({ success: true })
+    }
+
+    const resend = new Resend(process.env.RESEND_API_KEY)
 
     await resend.emails.send({
       from: 'Shared Kitchen Locator <onboarding@resend.dev>',
