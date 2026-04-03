@@ -36,10 +36,13 @@ export async function GET() {
     staticPages.push({ url: '/blog', priority: '0.7', changefreq: 'weekly' })
   }
 
+  const todayDate = new Date().toISOString().split('T')[0]
+
   staticPages.forEach(page => {
     urls.push(
       `<url>
         <loc>${baseUrl}${page.url}</loc>
+        <lastmod>${todayDate}</lastmod>
         <changefreq>${page.changefreq}</changefreq>
         <priority>${page.priority}</priority>
       </url>`
@@ -51,7 +54,9 @@ export async function GET() {
 
     // State codes for licensing guides
     const stateCodesSet = new Set()
-    
+    // Track most recent scrapedAt per city
+    const cityLastModMap = new Map()
+
     for (const cityFolder of cityFolders) {
       try {
         const filePath = path.join(dataDir, cityFolder, 'data.json')
@@ -77,13 +82,28 @@ export async function GET() {
         }
 
         const citySlug = cityFolder // Use folder name as slug
-        
+
         stateCodesSet.add(stateCode)
+
+        // Find most recent scrapedAt for this city
+        let cityMostRecentDate = todayDate
+        if (data.kitchens && Array.isArray(data.kitchens)) {
+          for (const kitchen of data.kitchens) {
+            if (kitchen.scrapedAt) {
+              const scrapedDate = new Date(kitchen.scrapedAt).toISOString().split('T')[0]
+              if (scrapedDate > cityMostRecentDate) {
+                cityMostRecentDate = scrapedDate
+              }
+            }
+          }
+        }
+        cityLastModMap.set(`${citySlug}/${stateCode}`, cityMostRecentDate)
 
         // City pages
         urls.push(
           `<url>
             <loc>${baseUrl}/commercial-kitchen-for-rent/${citySlug}/${stateCode}</loc>
+            <lastmod>${cityMostRecentDate}</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
           </url>`
@@ -100,9 +120,12 @@ export async function GET() {
                 .replace(/-+/g, '-')
                 .trim()
 
+              const lastmod = kitchen.scrapedAt ? new Date(kitchen.scrapedAt).toISOString().split('T')[0] : todayDate
+
               urls.push(
                 `<url>
                   <loc>${baseUrl}/commercial-kitchen-for-rent/${citySlug}/${stateCode}/kitchen/${kitchenSlug}</loc>
+                  <lastmod>${lastmod}</lastmod>
                   <changefreq>monthly</changefreq>
                   <priority>0.6</priority>
                 </url>`
@@ -120,6 +143,7 @@ export async function GET() {
       urls.push(
         `<url>
           <loc>${baseUrl}/food-licensing-guides/${stateCode}</loc>
+          <lastmod>${todayDate}</lastmod>
           <changefreq>monthly</changefreq>
           <priority>0.7</priority>
         </url>`
