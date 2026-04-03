@@ -66,6 +66,11 @@ async function searchKitchens(city, state) {
           'equipment', 'supply', 'supplies', 'cleaners', 'cleaning',
           'repair', 'installation', 'accelerator space', 'event space',
           'wedding', 'furniture', 'appliance', 'real estate',
+          'kitchen and bath', 'kitchen & bath', 'bath and kitchen', 'bath & kitchen',
+          'plumbing', 'hvac', 'remodel', 'renovation', 'contractor',
+          'construction', 'cabinet', 'countertop', 'granite', 'marble',
+          'tile', 'flooring', 'roofing', 'electric', 'pest control',
+          'janitorial', 'handyman', 'locksmith', 'painting',
         ]
         if (rejectNames.some((r) => name.includes(r))) return false
 

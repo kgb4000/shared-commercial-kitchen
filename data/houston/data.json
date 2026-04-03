@@ -995,60 +995,6 @@
       "kgmid": "/g/11wfscmjll"
     },
     {
-      "title": "The Proofing Station",
-      "price": null,
-      "categoryName": "Shared-use commercial kitchen",
-      "address": "1204 W Gray St, Houston, TX 77019, USA",
-      "neighborhood": "Montrose",
-      "street": "1204 W Gray St",
-      "city": "Houston",
-      "postalCode": "77019",
-      "state": "Texas",
-      "countryCode": "US",
-      "claimThisBusiness": true,
-      "location": {
-        "lat": 29.753514000000003,
-        "lng": -95.39397559999999
-      },
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJZTFPxeTBQIYRoGa71y2qbmc",
-      "categories": [
-        "Shared-use commercial kitchen"
-      ],
-      "fid": "0x8640c1e4c54f3165:0x676eaa2dd7bb66a0",
-      "cid": "7453081547214382752",
-      "reviewsCount": 0,
-      "imagesCount": 1,
-      "imageCategories": [],
-      "scrapedAt": "2026-04-03T04:01:25.113Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "Accessibility": [
-          {
-            "Wheelchair-accessible car park": true
-          },
-          {
-            "Wheelchair-accessible entrance": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=The%20Proofing%20Station&query_place_id=ChIJZTFPxeTBQIYRoGa71y2qbmc",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.585848668809543,-95.32420042973621,13z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 17,
-      "isAdvertisement": false,
-      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hp7J2jfPFjrf8ycW7k4UZw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=8.545344&pitch=0&thumbfov=100",
-      "kgmid": "/g/11tcrzqfnn"
-    },
-    {
       "title": "Wingman Kitchens Houston",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",
