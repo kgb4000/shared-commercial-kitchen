@@ -529,11 +529,11 @@ export default async function CommercialKitchenDetailPage({ params }) {
             priceRange: '$25-$45',
             category: ['Commercial Kitchen', 'Shared Kitchen', 'Food Service'],
             businessType: 'Commercial Kitchen Rental',
-            aggregateRating: kitchen.rating || kitchen.totalScore
+            aggregateRating: (kitchen.reviewCount || kitchen.reviewsCount) > 0
               ? {
                   '@type': 'AggregateRating',
                   ratingValue: kitchen.rating || kitchen.totalScore,
-                  reviewCount: kitchen.reviewCount || kitchen.reviewsCount || 0,
+                  reviewCount: kitchen.reviewCount || kitchen.reviewsCount,
                   bestRating: 5,
                   worstRating: 1,
                 }
