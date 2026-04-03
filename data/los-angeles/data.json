@@ -277,90 +277,6 @@
       "kgmid": "/g/11g4f46ycd"
     },
     {
-      "title": "Onkitchens",
-      "price": null,
-      "categoryName": "Shared-use commercial kitchen",
-      "address": "1870 W Washington Blvd, Los Angeles, CA 90007",
-      "neighborhood": "Pico-Union",
-      "street": "1870 W Washington Blvd",
-      "city": "Los Angeles",
-      "postalCode": "90007",
-      "state": "California",
-      "countryCode": "US",
-      "website": "http://www.onkitchens.com/",
-      "phone": "(844) 435-1255",
-      "phoneUnformatted": "+18444351255",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 34.0397469,
-        "lng": -118.2997476
-      },
-      "totalScore": 5,
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJtQs7gJa5woARLYiNjfANMw8",
-      "categories": [
-        "Shared-use commercial kitchen"
-      ],
-      "fid": "0x80c2b996803b0bb5:0xf330df08d8d882d",
-      "cid": "1095234461199337517",
-      "reviewsCount": 9,
-      "imagesCount": 6,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-15T05:15:31.010Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [
-        {
-          "day": "Monday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Tuesday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Wednesday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Thursday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Friday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Saturday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Sunday",
-          "hours": "Open 24 hours"
-        }
-      ],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "Accessibility": [
-          {
-            "Wheelchair accessible entrance": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=Onkitchens&query_place_id=ChIJtQs7gJa5woARLYiNjfANMw8",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.055185398993856,-118.6163245590756,13z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 5,
-      "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMUCTOcths2TvMMm2J0vn2inlui1FsU0P6IKvV3=w408-h272-k-no",
-      "kgmid": "/g/11tsvcvylk"
-    },
-    {
       "title": "Maker Kitchens: Fulton Ave",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",
@@ -1764,7 +1680,7 @@
     {
       "title": "Airport Ghost Kitchen",
       "price": null,
-      "categoryName": "Shared-use commercial kitchen",
+      "categoryName": "Shared-use commercial kitchen (Temporarily Closed)",
       "address": "7816 N Clybourn Ave Ste. 2, Sun Valley, CA 91352",
       "neighborhood": "Sun Valley",
       "street": "7816 N Clybourn Ave Ste. 2",
@@ -2063,89 +1979,6 @@
       "isAdvertisement": false,
       "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fjM_K0ZT9bo7r0JiTmTgAA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=149.84682&pitch=0&thumbfov=100",
       "kgmid": "/g/11sh5x6c40"
-    },
-    {
-      "title": "Maker Kitchens",
-      "price": null,
-      "categoryName": "Shared-use commercial kitchen",
-      "address": "3317 N Mission Rd, Los Angeles, CA 90031",
-      "neighborhood": "Lincoln Heights",
-      "street": "3317 N Mission Rd",
-      "city": "Los Angeles",
-      "postalCode": "90031",
-      "state": "California",
-      "countryCode": "US",
-      "website": "https://www.makerkitchens.com/",
-      "phone": "(424) 279-8983",
-      "phoneUnformatted": "+14242798983",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 34.066606,
-        "lng": -118.2057626
-      },
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJL4TBJs7FwoARm8aTWE5VcrY",
-      "categories": [
-        "Shared-use commercial kitchen"
-      ],
-      "fid": "0x80c2c5ce26c1842f:0xb672554e5893c69b",
-      "cid": "13146664057229788827",
-      "reviewsCount": 0,
-      "imagesCount": 6,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-15T05:16:11.044Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [
-        {
-          "day": "Monday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Tuesday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Wednesday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Thursday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Friday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Saturday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Sunday",
-          "hours": "Open 24 hours"
-        }
-      ],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "Accessibility": [
-          {
-            "Wheelchair accessible entrance": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=Maker%20Kitchens&query_place_id=ChIJL4TBJs7FwoARm8aTWE5VcrY",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.0321598,-118.23986955000001,13.73166598125217z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 13,
-      "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNgXmsGmePGSvdGZLU85qQDF8qc-7iW0ahuJc5R=w601-h240-k-no",
-      "kgmid": "/g/11y75f7sl2"
     },
     {
       "title": "Nkwagala Concept",

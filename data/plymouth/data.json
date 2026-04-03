@@ -98,51 +98,6 @@
       "isAdvertisement": false,
       "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NgoO4VMwYBfPHLr1sDGvTg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=326.61307&pitch=0&thumbfov=100",
       "kgmid": "/g/11hy9z8_l9"
-    },
-    {
-      "title": "SHARED USE COMMERCIAL KITCHEN",
-      "price": null,
-      "categoryName": "Shared-use commercial kitchen",
-      "address": "3425 US-169, Plymouth, MN 55441",
-      "neighborhood": null,
-      "street": "3425 US-169",
-      "city": "Plymouth",
-      "postalCode": "55441",
-      "state": "Minnesota",
-      "countryCode": "US",
-      "website": "https://www.mda.state.mn.us/shared-commercial-kitchen-directory#harmony",
-      "claimThisBusiness": true,
-      "location": {
-        "lat": 45.0196148,
-        "lng": -93.4015313
-      },
-      "permanentlyClosed": true,
-      "temporarilyClosed": false,
-      "placeId": "ChIJCaGnnUc1s1IRv7i13fAcoWY",
-      "categories": [
-        "Shared-use commercial kitchen"
-      ],
-      "fid": "0x52b335479da7a109:0x66a11cf0ddb5b8bf",
-      "cid": "7395223883956467903",
-      "reviewsCount": 0,
-      "imagesCount": 1,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-17T00:58:12.547Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=SHARED%20USE%20COMMERCIAL%20KITCHEN&query_place_id=ChIJCaGnnUc1s1IRv7i13fAcoWY",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@44.997857154006084,-93.42719377450715,14z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 11,
-      "isAdvertisement": false,
-      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NgoO4VMwYBfPHLr1sDGvTg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=344.65958&pitch=0&thumbfov=100",
-      "kgmid": "/g/11n0rq05s8"
     }
   ],
   "insights": {

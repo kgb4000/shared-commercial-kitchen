@@ -147,113 +147,6 @@
       "located_google_id": null
     },
     {
-      "title": "Shared Commercial Kitchen & Rentals",
-      "price": null,
-      "categoryName": "Shared-use commercial kitchen",
-      "address": "5738 W Gulf Bank Rd suite E, Houston, TX 77088, United States",
-      "neighborhood": "Greater Inwood",
-      "street": "5738 W Gulf Bank Rd suite E",
-      "city": "Houston",
-      "postalCode": "77088",
-      "state": "Texas",
-      "countryCode": "US",
-      "website": "http://www.sharecommercialkitchen.com/",
-      "phone": "+1 832-389-2658",
-      "phoneUnformatted": "+18323892658",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 29.8847342,
-        "lng": -95.4731733
-      },
-      "totalScore": 5,
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJ62OYxUbnQIYRiX_-VukfqIk",
-      "categories": [
-        "Shared-use commercial kitchen"
-      ],
-      "fid": "0x8640e746c59863eb:0x89a81fe956fe7f89",
-      "cid": "9919213266330877833",
-      "reviewsCount": 24,
-      "imagesCount": 33,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-15T04:29:05.995Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [
-        {
-          "day": "Monday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Tuesday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Wednesday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Thursday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Friday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Saturday",
-          "hours": "Open 24 hours"
-        },
-        {
-          "day": "Sunday",
-          "hours": "Open 24 hours"
-        }
-      ],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "From the business": [
-          {
-            "Identifies as women-owned": true
-          }
-        ],
-        "Service options": [
-          {
-            "Delivery": true
-          }
-        ],
-        "Accessibility": [
-          {
-            "Wheelchair-accessible car park": true
-          },
-          {
-            "Wheelchair-accessible entrance": true
-          }
-        ],
-        "Amenities": [
-          {
-            "Gender-neutral toilets": true
-          }
-        ],
-        "Payments": [
-          {
-            "Credit cards": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=Shared%20Commercial%20Kitchen%20%26%20Rentals&query_place_id=ChIJ62OYxUbnQIYRiX_-VukfqIk",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.70477960940477,-95.05080688920859,13z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 1,
-      "isAdvertisement": false,
-      "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipODxKDpRgpjvSVJF1lQinIWdERBvDlbYyZCFMc9=w408-h306-k-no",
-      "kgmid": "/g/11rcjnnj6h"
-    },
-    {
       "title": "CBG Shared Kitchen",
       "price": null,
       "categoryName": "Shared-use commercial kitchen",
@@ -723,52 +616,6 @@
       "isAdvertisement": false,
       "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNjwwjiASG14ky4dDt9II0jOdCOUUN8Fh5nkfy4=w408-h306-k-no",
       "kgmid": "/g/11xcwsymhw"
-    },
-    {
-      "title": "Chef's Commissary Kitchen",
-      "price": null,
-      "categoryName": "Shared-use commercial kitchen",
-      "address": "7820 Fulton St, Houston, TX 77022, United States",
-      "neighborhood": "Northside / Northline",
-      "street": "7820 Fulton St",
-      "city": "Houston",
-      "postalCode": "77022",
-      "state": "Texas",
-      "countryCode": "US",
-      "website": "http://www.htxkitchen.com/",
-      "claimThisBusiness": true,
-      "location": {
-        "lat": 29.8329202,
-        "lng": -95.3755935
-      },
-      "totalScore": 3.5,
-      "permanentlyClosed": true,
-      "temporarilyClosed": false,
-      "placeId": "ChIJAeG1e4y5QIYRe8O6yuT3oDk",
-      "categories": [
-        "Shared-use commercial kitchen"
-      ],
-      "fid": "0x8640b98c7bb5e101:0x39a0f7e4cabac37b",
-      "cid": "4152591418461438843",
-      "reviewsCount": 6,
-      "imagesCount": 1,
-      "imageCategories": [],
-      "scrapedAt": "2025-07-15T04:29:05.998Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=Chef's%20Commissary%20Kitchen&query_place_id=ChIJAeG1e4y5QIYRe8O6yuT3oDk",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@29.70477960940477,-95.05080688920859,13z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 15,
-      "isAdvertisement": false,
-      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_MKyEaD2KDGcWp2hw7Z31Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=91.627106&pitch=0&thumbfov=100",
-      "kgmid": "/g/11tjj_k601"
     },
     {
       "title": "Fair Food Co",
@@ -1454,7 +1301,7 @@
     {
       "title": "Str8 Out The Gulf Seafood",
       "price": null,
-      "categoryName": "Shared-use commercial kitchen",
+      "categoryName": "Shared-use commercial kitchen (Temporarily Closed)",
       "address": "2616 Blodgett St k0, Houston, TX 77004, United States",
       "neighborhood": "South Side",
       "street": "2616 Blodgett St k0",
