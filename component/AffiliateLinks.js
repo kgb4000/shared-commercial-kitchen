@@ -10,9 +10,37 @@ export default function AffiliateLinks({
   if (links.length === 0) return null
 
   const gridCols =
-    columns === 2
-      ? 'grid-cols-1 sm:grid-cols-2'
-      : 'grid-cols-1 sm:grid-cols-2 lg:grid-cols-3'
+    columns === 1
+      ? 'grid-cols-1'
+      : columns === 2
+        ? 'grid-cols-1 sm:grid-cols-2'
+        : 'grid-cols-1 sm:grid-cols-2 lg:grid-cols-3'
+
+  if (columns === 1) {
+    return (
+      <div className="bg-amber-50 border border-amber-100 rounded-lg p-4 my-6">
+        <h3 className="text-sm font-semibold text-gray-900 mb-3">{title}</h3>
+        <div className="space-y-2">
+          {links.map((link) => (
+            <a
+              key={link.name}
+              href={`${link.url}?utm_source=sharedkitchenlocator&utm_medium=affiliate&utm_campaign=${link.category}`}
+              target="_blank"
+              rel="noopener sponsored"
+              className="flex items-center justify-between bg-white rounded-md px-3 py-2 border border-amber-200 hover:shadow-sm transition-shadow block text-sm"
+            >
+              <span className="font-medium text-gray-900">{link.name}</span>
+              <span className="text-blue-600 ml-2 shrink-0">&rarr;</span>
+            </a>
+          ))}
+        </div>
+        <p className="text-xs text-gray-500 mt-3">
+          Some links are affiliate links. We may earn a commission at no extra
+          cost to you.
+        </p>
+      </div>
+    )
+  }
 
   return (
     <div className="bg-amber-50 border border-amber-100 rounded-lg p-6 my-8">

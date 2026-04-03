@@ -194,7 +194,7 @@ const CommercialKitchenDirectory = ({
               <AffiliateLinks
                 categories={['certifications', 'business-formation', 'insurance']}
                 title="Start Your Food Business"
-                columns={2}
+                columns={1}
               />
             </div>
           )}
