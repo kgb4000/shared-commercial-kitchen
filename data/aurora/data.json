@@ -24,7 +24,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJGzDwlXRjbIcRk2bDsoXM2pg",
-      "categories": ["Manufacturer"],
+      "categories": [
+        "Manufacturer"
+      ],
       "fid": "0x876c637495f0301b:0x98dacc85b2c36693",
       "cid": "11014340713289836179",
       "reviewsCount": 3,
@@ -220,7 +222,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJJzIeV4R9bIcRDSTD6yyG84Y",
-      "categories": ["Shared-use commercial kitchen"],
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
       "fid": "0x876c7d84571e3227:0x86f3862cebc3240d",
       "cid": "9724263547915150349",
       "reviewsCount": 1,
@@ -323,7 +327,9 @@
       "permanentlyClosed": false,
       "temporarilyClosed": false,
       "placeId": "ChIJQd4e6_VjbIcRnANeGGTIfo4",
-      "categories": ["Catering food and drink supplier"],
+      "categories": [
+        "Catering food and drink supplier"
+      ],
       "fid": "0x876c63f5eb1ede41:0x8e7ec864185e039c",
       "cid": "10267864532682408860",
       "reviewsCount": 7,
@@ -392,5 +398,6 @@
       "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMso2tltDofSry3er8XjFQNHdGzPWo2G7gRmPWQ=w408-h544-k-no",
       "kgmid": "/g/11fjmc3xd_"
     }
-  ]
+  ],
+  "city": "Aurora"
 }

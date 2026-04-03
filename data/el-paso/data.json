@@ -1131,7 +1131,7 @@
       "location_reviews_link": "https://www.google.com/maps/place/Central+Prep+Kitchen/@31.7689974,-106.46636339999999,13.99z/data=!4m16!1m7!3m6!1s0x86e759a4e1ef44d1:0xa5fdd0279e37b68b!2sCentral+Prep+Kitchen!8m2!3d31.7689974!4d-106.46636339999999!16s%2Fg%2F11ckvg1dmb!3m7!1s0x86e759a4e1ef44d1:0xa5fdd0279e37b68b!8m2!3d31.7689974!4d-106.46636339999999!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJ0UTv4aRZ54YRi7Y3nifQ_aU",
       "google_id": "0x86e759a4e1ef44d1:0xa5fdd0279e37b68b",
-      "cid": 1.196094505394266e19,
+      "cid": 11960945053942660000,
       "kgmid": "/g/11pv5hl9pr",
       "reviews_id": "None",
       "located_google_id": null
@@ -1195,7 +1195,7 @@
       "description": null,
       "typical_time_spent": null,
       "verified": true,
-      "owner_id": 1.0760406183127337e20,
+      "owner_id": 107604061831273370000,
       "owner_title": "Panzarella Rose Foods Commercial Kitchen",
       "owner_link": "https://www.google.com/maps/contrib/107604061831273369362",
       "reservation_links": null,
@@ -1206,10 +1206,11 @@
       "location_reviews_link": "https://www.google.com/maps/place/Panzarella+Rose+Foods+Commercial+Kitchen/@31.7483386,-106.3593255,13.99z/data=!4m16!1m7!3m6!1s0x86e75bd17d5b5cbd:0xb9fd95d11ac48ed3!2sPanzarella+Rose+Foods+Commercial+Kitchen!8m2!3d31.7483386!4d-106.3593255!16s%2Fg%2F11ckvg1dmb!3m7!1s0x86e75bd17d5b5cbd:0xb9fd95d11ac48ed3!8m2!3d31.7483386!4d-106.3593255!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu",
       "place_id": "ChIJvVxbfdFb54YR047EGtGV_bk",
       "google_id": "0x86e75bd17d5b5cbd:0xb9fd95d11ac48ed3",
-      "cid": 1.3402032791454257e19,
+      "cid": 13402032791454257000,
       "kgmid": "/g/11jsf8xmnd",
-      "reviews_id": -5.044711282255294e18,
+      "reviews_id": -5044711282255294000,
       "located_google_id": null
     }
-  ]
+  ],
+  "city": "El Paso"
 }
