@@ -52,12 +52,6 @@ function SimpleKitchenMap({ kitchen, placeDetails }) {
     )
   }
 
-  // Generate static map URL (Google Static Maps API - no JavaScript required)
-  const staticMapUrl = `https://maps.googleapis.com/maps/api/staticmap?center=${coordinates.lat},${coordinates.lng}&zoom=15&size=800x400&maptype=roadmap&markers=color:blue%7Clabel:K%7C${coordinates.lat},${coordinates.lng}&key=${process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY}`
-
-  // Street View URL
-  const streetViewUrl = `https://maps.googleapis.com/maps/api/streetview?size=800x400&location=${coordinates.lat},${coordinates.lng}&heading=151.78&pitch=-0.76&key=${process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY}`
-
   return (
     <div className="mb-8">
       <h2 className="text-2xl font-semibold mb-6 border-b border-gray-200 pb-2">
@@ -102,110 +96,32 @@ function SimpleKitchenMap({ kitchen, placeDetails }) {
         </div>
       </div>
 
-      {/* Map Grid */}
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 mb-4">
-        {/* Static Map */}
-        <div className="relative">
-          <h3 className="text-lg font-medium mb-3 flex items-center">
-            <MapPin className="w-5 h-5 mr-2 text-blue-600" />
-            Location Map
-          </h3>
-          <div className="relative rounded-lg overflow-hidden shadow-lg border border-gray-200">
-            {process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY ? (
-              <>
-                <iframe className="w-full h-64">
-                  src={staticMapUrl}
-                  alt={`Map showing ${kitchenName} location`}
-                  className="w-full h-64 object-cover" onError=
-                  {(e) => {
-                    // Fallback to OpenStreetMap if Google Static Maps fails
-                    e.target.src = `https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-s-restaurant+285A98(${coordinates.lng},${coordinates.lat})/${coordinates.lng},${coordinates.lat},15/800x400?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw`
-                  }}
-                </iframe>
-                <div className="absolute top-2 right-2">
-                  <a
-                    href={`https://www.google.com/maps/@${coordinates.lat},${coordinates.lng},15z`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="bg-white bg-opacity-90 p-2 rounded-lg hover:bg-opacity-100 transition-all shadow-md"
-                    title="View larger map"
-                  >
-                    <Maximize2 className="w-4 h-4 text-gray-600" />
-                  </a>
-                </div>
-              </>
-            ) : (
-              <div className="w-full h-64 bg-gray-200 flex items-center justify-center">
-                <div className="text-center text-gray-500">
-                  <MapPin className="w-12 h-12 mx-auto mb-2" />
-                  <p className="text-sm">Map requires API key</p>
-                  <a
-                    href={`https://www.google.com/maps/@${coordinates.lat},${coordinates.lng},15z`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-blue-600 hover:underline text-sm"
-                  >
-                    View on Google Maps
-                  </a>
-                </div>
-              </div>
-            )}
-          </div>
-        </div>
-
-        {/* Street View */}
-        <div className="relative">
-          <h3 className="text-lg font-medium mb-3 flex items-center">
-            <ExternalLink className="w-5 h-5 mr-2 text-green-600" />
-            Street View
-          </h3>
-          <div className="relative rounded-lg overflow-hidden shadow-lg border border-gray-200">
-            {process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY ? (
-              <>
-                <img
-                  src={streetViewUrl}
-                  alt={`Street view of ${kitchenName}`}
-                  className="w-full h-64 object-cover"
-                  onError={(e) => {
-                    // Fallback if Street View fails
-                    e.target.parentElement.innerHTML = `
-                      <div class="w-full h-64 bg-gray-200 flex items-center justify-center">
-                        <div class="text-center text-gray-500">
-                          <div class="text-4xl mb-2">🏢</div>
-                          <p class="text-sm">Street View not available</p>
-                        </div>
-                      </div>
-                    `
-                  }}
-                />
-                <div className="absolute top-2 right-2">
-                  <a
-                    href={`https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${coordinates.lat},${coordinates.lng}`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="bg-white bg-opacity-90 p-2 rounded-lg hover:bg-opacity-100 transition-all shadow-md"
-                    title="View in Street View"
-                  >
-                    <Maximize2 className="w-4 h-4 text-gray-600" />
-                  </a>
-                </div>
-              </>
-            ) : (
-              <div className="w-full h-64 bg-gray-200 flex items-center justify-center">
-                <div className="text-center text-gray-500">
-                  <div className="text-4xl mb-2">🏢</div>
-                  <p className="text-sm">Street View requires API key</p>
-                  <a
-                    href={`https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${coordinates.lat},${coordinates.lng}`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-blue-600 hover:underline text-sm"
-                  >
-                    View Street View
-                  </a>
-                </div>
-              </div>
-            )}
+      {/* Map */}
+      <div className="mb-4">
+        <h3 className="text-lg font-medium mb-3 flex items-center">
+          <MapPin className="w-5 h-5 mr-2 text-blue-600" />
+          Kitchen Location
+        </h3>
+        <div className="relative rounded-lg overflow-hidden shadow-lg border border-gray-200">
+          <iframe
+            width="100%"
+            height="300"
+            style={{ border: 0 }}
+            loading="lazy"
+            referrerPolicy="no-referrer-when-downgrade"
+            src={`https://www.openstreetmap.org/export/embed.html?bbox=${coordinates.lng - 0.01},${coordinates.lat - 0.007},${coordinates.lng + 0.01},${coordinates.lat + 0.007}&layer=mapnik&marker=${coordinates.lat},${coordinates.lng}`}
+            title={`Map showing ${kitchenName} location`}
+          />
+          <div className="absolute top-2 right-2">
+            <a
+              href={`https://www.google.com/maps/@${coordinates.lat},${coordinates.lng},15z`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-white bg-opacity-90 p-2 rounded-lg hover:bg-opacity-100 transition-all shadow-md"
+              title="View larger map"
+            >
+              <Maximize2 className="w-4 h-4 text-gray-600" />
+            </a>
           </div>
         </div>
       </div>
