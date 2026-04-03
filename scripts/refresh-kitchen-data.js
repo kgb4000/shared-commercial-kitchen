@@ -93,6 +93,14 @@ async function searchKitchens(city, state) {
           'gym ', 'fitness', 'yoga',
           'auto ', 'car wash', 'mechanic',
           'dry clean', 'laundry',
+          'enterprises', 'woodwork', 'knives', 'knife', 'cutlery',
+          'forum', 'arena', 'stadium', 'coliseum',
+          'public market', 'farmers market', 'flea market',
+          'antique', 'gallery',
+          'business center', 'conference center', 'convention center',
+          'banquet hall', 'banquet ', 'reception hall', 'ballroom',
+          'event center', 'event venue', 'event planning', 'event space',
+          'wedding', 'bridal', 'unlimited',
         ]
         if (rejectNames.some((r) => name.includes(r))) return false
 
