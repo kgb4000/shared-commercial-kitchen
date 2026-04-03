@@ -23,7 +23,6 @@ import Image from 'next/image'
 import Link from 'next/link'
 import BusinessInsights from '@/component/BusinessInsights'
 import BackButton from '@/component/BackButton'
-import AdSenseAd from '@/component/AdSenseAd'
 import OptimizedImage from '@/component/OptimizedImage'
 import LeadCaptureForm from './LeadCaptureForm'
 import AffiliateLinks from './AffiliateLinks'
@@ -1717,10 +1716,6 @@ export default function KitchenDetail({
                   kitchenName={kitchen.title || kitchen.name || 'this kitchen'}
                   kitchenUrl={typeof window !== 'undefined' ? window.location.href : ''}
                 />
-                <div className="my-8">
-                  <AdSenseAd />
-                </div>
-
                 {/* Kitchen Stats - only show if there's unique data */}
                 {(kitchen.capacity || kitchen.squareFootage || kitchen.pricePerHour) && (
                 <div className="rounded-2xl p-6" style={{ background: 'var(--light-warm)', border: '1px solid var(--border-warm)' }}>

@@ -2,7 +2,6 @@ import { Geist, Geist_Mono } from 'next/font/google'
 import './globals.css'
 import Header from '@/component/Header'
 import Footer from '@/component/Footer'
-import Script from 'next/script'
 
 const geistSans = Geist({
   variable: '--font-geist-sans',
@@ -21,9 +20,6 @@ export const metadata = {
   alternates: {
     canonical: 'https://sharedkitchenlocator.com',
   },
-  other: {
-    'google-adsense-account': 'ca-pub-2967132781692430',
-  },
 }
 
 export default function RootLayout({ children }) {
@@ -35,13 +31,6 @@ export default function RootLayout({ children }) {
         data-gr-ext-installed=""
         cz-shortcut-listen="true"
       >
-        <Script
-          id="google-adsense"
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2967132781692430"
-          crossOrigin="anonymous"
-          strategy="afterInteractive"
-        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{

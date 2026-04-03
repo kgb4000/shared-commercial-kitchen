@@ -16,7 +16,6 @@ import {
 } from 'lucide-react'
 import AffiliateLinks from './AffiliateLinks'
 import BreadCrumbs from '@/component/BreadCrumbs'
-import AdSenseAd from '@/component/AdSenseAd'
 import OptimizedImage from '@/component/OptimizedImage'
 
 const CommercialKitchenDirectory = ({
@@ -375,9 +374,6 @@ const CommercialKitchenDirectory = ({
               </p>
             </div>
 
-            <div className="my-8">
-              <AdSenseAd />
-            </div>
           </div>
         </div>
       </div>
