@@ -35,7 +35,7 @@ function CostCalculator() {
             How much could you <span className="italic" style={{ color: 'var(--terracotta)' }}>save?</span>
           </h2>
           <p className="text-lg max-w-xl mx-auto" style={{ color: 'var(--warm-gray)' }}>
-            Adjust the sliders to see how renting compares to building your own kitchen.
+            Adjust the sliders to see how renting compares to building your own commercial kitchen.
           </p>
         </div>
 
