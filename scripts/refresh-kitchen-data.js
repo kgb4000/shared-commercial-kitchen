@@ -74,6 +74,11 @@ async function searchKitchens(city, state) {
           'kitchens and bath', 'kitchens & bath', 'baths',
           'localworks', 'coworking', 'co-working', 'wework', 'regus',
           'office space', 'workspace', 'showroom', 'home depot', 'lowes', 'ikea',
+          'crate & barrel', 'crate and barrel', 'warehouse', 'wholesale', 'distributor',
+          'restaurant headquarters', 'restaurant services', 'restaurant group',
+          'kitchen source', 'kitchen design', 'kitchen studio',
+          'logistics', 'management', 'consulting', 'staffing',
+          'expansive', 'building resources',
         ]
         if (rejectNames.some((r) => name.includes(r))) return false
 

@@ -2350,59 +2350,6 @@
       "kgmid": "/g/1tfscs08"
     },
     {
-      "title": "S T Management Commissary",
-      "price": null,
-      "categoryName": "Business management consultant",
-      "address": "350 W 38th St, New York, NY 10018, USA",
-      "neighborhood": "Manhattan",
-      "street": "350 W 38th St",
-      "city": "New York",
-      "postalCode": "10018",
-      "state": "New York",
-      "countryCode": "US",
-      "phone": "(212) 290-8189",
-      "phoneUnformatted": "2122908189",
-      "claimThisBusiness": true,
-      "location": {
-        "lat": 40.755472399999995,
-        "lng": -73.9940048
-      },
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJi1EEQ61ZwokRAO_uyuAGrAE",
-      "categories": [
-        "Business management consultant"
-      ],
-      "fid": "0x89c259ad4304518b:0x1ac06e0caeeef00",
-      "cid": "120478852579258112",
-      "reviewsCount": 0,
-      "imagesCount": 1,
-      "imageCategories": [],
-      "scrapedAt": "2026-04-03T04:02:48.472Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "Accessibility": [
-          {
-            "Wheelchair accessible entrance": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=S%20T%20Management%20Commissary&query_place_id=ChIJi1EEQ61ZwokRAO_uyuAGrAE",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@40.7492952,-73.9747765,14.602159966598496z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 20,
-      "isAdvertisement": false,
-      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YNjGV7Ikh9p82X4k_zeXeA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=224.1557&pitch=0&thumbfov=100",
-      "kgmid": "/g/1tj92ggj"
-    },
-    {
       "title": "My Commercial Kitchen",
       "price": null,
       "categoryName": "Restaurant supply store",

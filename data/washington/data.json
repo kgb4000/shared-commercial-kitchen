@@ -1324,52 +1324,6 @@
       "verified": false
     },
     {
-      "title": "Union Kitchen Warehouse",
-      "price": null,
-      "categoryName": "Commercial kitchen",
-      "address": "2034 West Virginia Ave NE, Washington, DC 20002, USA",
-      "neighborhood": "",
-      "street": "",
-      "city": "Washington",
-      "postalCode": "",
-      "state": "DC",
-      "countryCode": "US",
-      "website": "",
-      "phone": "(202) 792-7850",
-      "phoneUnformatted": "2027927850",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 38.9139349,
-        "lng": -76.9823124
-      },
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJt3m03HO4t4kRqnPnjvQiwM0",
-      "categories": [
-        "Commercial kitchen"
-      ],
-      "imagesCount": 0,
-      "imageCategories": [],
-      "scrapedAt": "2026-04-03T04:04:52.951Z",
-      "openingHours": [],
-      "additionalInfo": {},
-      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJt3m03HO4t4kRqnPnjvQiwM0",
-      "reviews": 1,
-      "rating": 5,
-      "totalScore": 5,
-      "reviewsCount": 1,
-      "isAdvertisement": false,
-      "imageUrl": "https://places.googleapis.com/v1/places/ChIJt3m03HO4t4kRqnPnjvQiwM0/photos/AU_ZVEFZ6ABYuoDfSVXZ8D0KQz6aCfF9RscU8JZt2Bc6Jm6wbGc6mSVGX9y7maqRJ8SeiAqjVKLwRw-B7B_ETgSaoFzEPejnDQbUSk5nN-3pTxS2p7j7FZpqiimuDy-GtjX4Bh7ExU-ZuumFTr4eJDzqCek0NBcuAVSnIY7ZegVlwMJI5beUzJKe4Ch649Wyfqm_RSeHPUrOv1xiQloYNmfMuB9Tm27JB7ZjlPI3nihnwojPSskxtkwiEOriLBXzl8UU2U2ay-J21j3Mty2Fkk0T4uCFySTContEyBVOKCXmlhSDdg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
-      "images": [
-        "https://places.googleapis.com/v1/places/ChIJt3m03HO4t4kRqnPnjvQiwM0/photos/AU_ZVEFZ6ABYuoDfSVXZ8D0KQz6aCfF9RscU8JZt2Bc6Jm6wbGc6mSVGX9y7maqRJ8SeiAqjVKLwRw-B7B_ETgSaoFzEPejnDQbUSk5nN-3pTxS2p7j7FZpqiimuDy-GtjX4Bh7ExU-ZuumFTr4eJDzqCek0NBcuAVSnIY7ZegVlwMJI5beUzJKe4Ch649Wyfqm_RSeHPUrOv1xiQloYNmfMuB9Tm27JB7ZjlPI3nihnwojPSskxtkwiEOriLBXzl8UU2U2ay-J21j3Mty2Fkk0T4uCFySTContEyBVOKCXmlhSDdg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
-        "https://places.googleapis.com/v1/places/ChIJt3m03HO4t4kRqnPnjvQiwM0/photos/AU_ZVEEGNQAYntlwgv2IbpGvhuO3hlvgLjUFwqXOypwQrEWLi0UE_g7I38M_pqIaH4cbPBiMXZ5R2CqS4jFljj_I5NDmw8_iDhix_6-bpMBqbY3N9aCcfzqGgom1m5nH4dzJBn5a62byId7o9YYabzFgiahCyH1HA9G6haKnw_BTrgDj7yWwDrX45N7PSkG3V-F2IyVIy7xIN61PkcUQgX3zLFvBDQ-JxqvPB1cGzAQfEZ7ygJHCmtB_hYwSyYiQK73Y1YqpaxzZejn1T8IOBGcUBFZAajaKayocITKMGV9We2LubA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
-        "https://places.googleapis.com/v1/places/ChIJt3m03HO4t4kRqnPnjvQiwM0/photos/AU_ZVEEfMKQMW7JqTPd-aG_brt-G1YE1C95IZTnWNi4ARBmKcoHo4GUpcQ8HoAnhqVVKJDZ1qK_RWLXo7DmGf-5v3w6hCNzvlSCZlDOIeL2dlejYF3jEJLlPxmQNLu-EGMfRgcU25nOsvzrytTLDTyff4G1B2RBII7e1T9W45bH7sdgoWo3RjsUNYZx-61IRJib_otfCIaHXNYROIsAWw53msTjHWXxZFg2cfIhPzej2W7iYtqeE_-8wCdEbszcwtOz_fEsTxMMmr3KWC6_9p3sV1k2o4eV0A_mNaopOsbCFa_0cNw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
-        "https://places.googleapis.com/v1/places/ChIJt3m03HO4t4kRqnPnjvQiwM0/photos/AU_ZVEFrrDC6VqG7JU9nWtli42pWZpGFsZFEMagbxuMfQUGzkeswAb18AS20Wl9wz6l21atd09DOkHOz19fgC7T94TwLRD07zusqjWEUvvNFJpu-tV221hVZnyBBP3hCTYqx09LT1HaSvhb9gFMsREC3e2xgrRzwaGIPcR4IsmKmcdfmdNVU0EGuYigI3Lr4Fgjg-EaD7LCg0Fj9OaH3X9HtJKgszzMlxcALP7_H1Tq3VLYJDnd1hTWe2o_0_58IRYpMkTuXFeBl5RNxJ-OxxrL8OkMMakSOHtGFx1d-B5r02RJAcw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
-        "https://places.googleapis.com/v1/places/ChIJt3m03HO4t4kRqnPnjvQiwM0/photos/AU_ZVEFZj2R9KDRumrzU-GNrEPxgA1XRV0n3nbpGzI0cgd0fmzzepX7gQ-0oC3C2-bfRA5Ct9ZtyFvd7UeKfKnDt6OOw8x6krKEX_JqwohRNgbl8a5FBJdlxpq0h-iaHQL3lbqT-QM0FHqx56GEBbvHoUPqq8sb4uE140nbSIb_W71h0myNGVji5ppax1FCcq5woOCO7ZiMFcOffzRcpSyWL_OAI6f8JqJu_JtnvL4vIDOZ8XH78pT7Z-ZXkgiPav1xQErb5NMWhHc-5Sv3tIDRwVlgV_PSTUgw8Og4AUHXfxV973Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
-      ],
-      "verified": false
-    },
-    {
       "title": "Hill's Kitchen",
       "price": null,
       "categoryName": "Commercial kitchen",
