@@ -182,38 +182,26 @@ function SimpleKitchenMap({ kitchen, placeDetails }) {
 
         {/* Map Container */}
         <div className="relative">
-          {/* Google Maps Embed */}
-          {kitchen.placeId || kitchen.address ? (
+          {coordinates.lat && coordinates.lng ? (
             <div className="h-64 md:h-80">
               <iframe
-                src={`https://www.google.com/maps/embed/v1/place?key=${
-                  process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY || 'YOUR_API_KEY'
-                }&q=${encodeURIComponent(
-                  kitchen.placeId
-                    ? `place_id:${kitchen.placeId}`
-                    : kitchen.address || `${kitchen.city}, ${kitchen.state}`
-                )}&zoom=15&maptype=roadmap`}
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
-                allowFullScreen=""
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
+                src={`https://www.openstreetmap.org/export/embed.html?bbox=${coordinates.lng - 0.01},${coordinates.lat - 0.007},${coordinates.lng + 0.01},${coordinates.lat + 0.007}&layer=mapnik&marker=${coordinates.lat},${coordinates.lng}`}
                 title={`Map showing location of ${kitchenName}`}
                 className="w-full h-full"
-              />
+              ></iframe>
             </div>
           ) : (
-            /* Fallback Map Placeholder */
-            {
-              /* <div className="h-64 md:h-80 bg-gray-100 flex items-center justify-center">
+            <div className="h-64 md:h-80 bg-gray-100 flex items-center justify-center">
               <div className="text-center text-gray-500">
-                <span className="text-4xl mb-2 block">🗺️</span>
                 <p className="text-lg font-medium">Map Unavailable</p>
                 <p className="text-sm">Location details not available</p>
               </div>
-            </div> */
-            }
+            </div>
           )}
 
           {/* Map Overlay Controls */}
