@@ -444,13 +444,8 @@ export default async function CommercialKitchenDetailPage({ params }) {
   kitchen.urlCity = city
   kitchen.urlState = state
 
-  // Fetch Google Places data server-side
+  // Google Places API disabled — static data is sufficient and avoids API costs
   let googlePlacesData = null
-  if (placeId) {
-    googlePlacesData = await fetchGooglePlaceDetails(placeId)
-  } else {
-    console.log('⚠️ No valid place ID found, skipping Google Places fetch')
-  }
 
   console.log('📊 SSR Data Summary:', {
     hasKitchen: !!kitchen,
