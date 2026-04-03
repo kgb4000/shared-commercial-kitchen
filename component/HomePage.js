@@ -210,12 +210,12 @@ const HomePage = () => {
   ]
 
   const solutions = [
-    { title: 'Catering', desc: 'Large-capacity equipment, ample prep areas, and storage for serving materials.' },
-    { title: 'Food Trucks', desc: 'Prep space and storage for mobile operations. Meet commissary requirements.' },
-    { title: 'Bakeries', desc: 'Professional ovens, mixers, and temperature-controlled storage for artisan goods.' },
-    { title: 'Ghost Kitchens', desc: 'Delivery-optimized spaces for virtual brands and high-volume fulfillment.' },
-    { title: 'Meal Prep', desc: 'Hourly kitchen access for personal chef operations and subscription meals.' },
-    { title: 'Food Producers', desc: 'Manufacturing space for sauces, snacks, and FDA-compliant packaged goods.' },
+    { title: 'Catering', desc: 'Large-capacity equipment, ample prep areas, and storage for serving materials.', href: '/browse-kitchens' },
+    { title: 'Food Trucks', desc: 'Prep space and storage for mobile operations. Meet commissary requirements.', href: '/food-truck-commissary' },
+    { title: 'Bakeries', desc: 'Professional ovens, mixers, and temperature-controlled storage for artisan goods.', href: '/bakery-kitchen-rental' },
+    { title: 'Ghost Kitchens', desc: 'Delivery-optimized spaces for virtual brands and high-volume fulfillment.', href: '/ghost-kitchens' },
+    { title: 'Churches & Community', desc: 'Affordable kitchen space in churches and community centers.', href: '/church-kitchen-rental' },
+    { title: 'Food Producers', desc: 'Manufacturing space for sauces, snacks, and FDA-compliant packaged goods.', href: '/browse-kitchens' },
   ]
 
   return (
@@ -449,14 +449,17 @@ const HomePage = () => {
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
             {solutions.map((sol) => (
-              <div key={sol.title} className="rounded-2xl p-8 group transition-all duration-300" style={{ background: 'rgba(250,246,240,0.06)', border: '1px solid rgba(250,246,240,0.08)' }}>
+              <Link key={sol.title} href={sol.href} className="rounded-2xl p-8 group transition-all duration-300 block" style={{ background: 'rgba(250,246,240,0.06)', border: '1px solid rgba(250,246,240,0.08)' }}>
                 <h3 className="font-editorial text-2xl mb-3" style={{ color: 'var(--cream)' }}>
                   {sol.title}
                 </h3>
-                <p className="leading-relaxed" style={{ color: '#8C8279' }}>
+                <p className="leading-relaxed mb-3" style={{ color: '#8C8279' }}>
                   {sol.desc}
                 </p>
-              </div>
+                <span className="text-sm font-medium flex items-center gap-1" style={{ color: 'var(--amber)' }}>
+                  Learn more <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                </span>
+              </Link>
             ))}
           </div>
         </div>

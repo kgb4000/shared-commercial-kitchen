@@ -105,6 +105,26 @@ const guides = [
     title: 'Food Licensing Guides',
     description: 'State-by-state food business licensing requirements.',
   },
+  {
+    href: '/ghost-kitchens',
+    title: 'Ghost Kitchen Rentals',
+    description: 'Find delivery-only kitchen spaces for virtual brands.',
+  },
+  {
+    href: '/food-truck-commissary',
+    title: 'Food Truck Commissary',
+    description: 'Commissary kitchens for food truck operators.',
+  },
+  {
+    href: '/bakery-kitchen-rental',
+    title: 'Bakery Kitchen Rental',
+    description: 'Rent commercial baking space with pro equipment.',
+  },
+  {
+    href: '/church-kitchen-rental',
+    title: 'Church Kitchen Rental',
+    description: 'Affordable church and community kitchen spaces.',
+  },
 ]
 
 export default function ResourcesPage() {

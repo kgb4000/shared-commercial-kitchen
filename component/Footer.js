@@ -103,6 +103,26 @@ export default function Footer() {
                   </Link>
                 </li>
                 <li>
+                  <Link href="/ghost-kitchens" className="text-sm footer-link">
+                    Ghost Kitchens
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/food-truck-commissary" className="text-sm footer-link">
+                    Food Truck Commissary
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/bakery-kitchen-rental" className="text-sm footer-link">
+                    Bakery Kitchen Rental
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/church-kitchen-rental" className="text-sm footer-link">
+                    Church Kitchen Rental
+                  </Link>
+                </li>
+                <li>
                   <Link href="/cocinas-comerciales" className="text-sm footer-link">
                     Cocinas Comerciales
                   </Link>
