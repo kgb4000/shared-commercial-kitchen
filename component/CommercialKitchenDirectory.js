@@ -28,6 +28,7 @@ import {
   Users,
   MapIcon,
 } from 'lucide-react'
+import AffiliateLinks from './AffiliateLinks'
 import BreadCrumbs from '@/component/BreadCrumbs'
 import AdSenseAd from '@/component/AdSenseAd'
 import OptimizedImage from '@/component/OptimizedImage'
@@ -189,6 +190,12 @@ const CommercialKitchenDirectory = ({
                   <ExternalLink className="w-4 h-4 text-gray-400 group-hover:text-blue-600 transition-colors" />
                 </div>
               </div>
+
+              <AffiliateLinks
+                categories={['certifications', 'business-formation', 'insurance']}
+                title="Start Your Food Business"
+                columns={2}
+              />
             </div>
           )}
 
