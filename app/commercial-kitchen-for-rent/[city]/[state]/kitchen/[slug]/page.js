@@ -447,6 +447,35 @@ export default async function CommercialKitchenDetailPage({ params }) {
   kitchen.urlCity = city
   kitchen.urlState = state
 
+  // Load related kitchens from the same city data file
+  let relatedKitchens = []
+  try {
+    const fs = await import('fs')
+    const path = await import('path')
+    const cityFolder = rawKitchen.foundInCity
+    if (cityFolder) {
+      const cityDataPath = path.join(process.cwd(), 'data', cityFolder, 'data.json')
+      if (fs.existsSync(cityDataPath)) {
+        const rawData = fs.readFileSync(cityDataPath, 'utf8')
+        const cityData = JSON.parse(rawData)
+        let allKitchens = []
+        if (Array.isArray(cityData)) {
+          allKitchens = cityData
+        } else if (cityData.kitchens && Array.isArray(cityData.kitchens)) {
+          allKitchens = cityData.kitchens
+        }
+        relatedKitchens = allKitchens
+          .filter((k) => {
+            const name = k.title || k.name || ''
+            return name && generateSlug(name) !== slug
+          })
+          .slice(0, 4)
+      }
+    }
+  } catch (relatedError) {
+    console.warn('⚠️ Could not load related kitchens:', relatedError.message)
+  }
+
   // Google Places API disabled — static data is sufficient and avoids API costs
   let googlePlacesData = null
 
@@ -599,6 +628,9 @@ export default async function CommercialKitchenDetailPage({ params }) {
         initialGoogleData={googlePlacesData}
         cityFromUrl={formattedCity}
         stateFromUrl={stateName}
+        city={city}
+        state={state}
+        relatedKitchens={relatedKitchens}
       />
     </>
   )

@@ -967,6 +967,7 @@ export default function KitchenDetail({
   city,
   state,
   initialGoogleData = null,
+  relatedKitchens = [],
 }) {
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState(null)
@@ -1658,6 +1659,51 @@ export default function KitchenDetail({
                   placeDetails={initialGoogleData}
                   kitchen={kitchen}
                 />
+
+                {relatedKitchens && relatedKitchens.length > 0 && (
+                  <section className="mt-12">
+                    <h2 className="text-2xl font-semibold mb-6 border-b border-[#E5DFD6] pb-2">
+                      More Kitchens in {formattedCity}
+                    </h2>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                      {relatedKitchens.map((rk) => {
+                        const slug = (rk.title || rk.name || '')
+                          .toLowerCase()
+                          .replace(/[^a-z0-9\s-]/g, '')
+                          .replace(/\s+/g, '-')
+                          .replace(/-+/g, '-')
+                          .trim()
+                        return (
+                          <a
+                            key={rk.placeId || slug}
+                            href={`/commercial-kitchen-for-rent/${city.toLowerCase().replace(/\s+/g, '-')}/${state.toLowerCase()}/kitchen/${slug}`}
+                            className="flex items-center gap-4 p-4 rounded-xl transition-all hover-lift"
+                            style={{ background: 'var(--light-warm)', border: '1px solid var(--border-warm)' }}
+                          >
+                            <div className="flex-1 min-w-0">
+                              <h3 className="font-semibold truncate" style={{ color: 'var(--espresso)' }}>
+                                {rk.title || rk.name}
+                              </h3>
+                              <p className="text-sm truncate" style={{ color: 'var(--warm-gray)' }}>
+                                {rk.address || rk.street || 'Commercial kitchen'}
+                              </p>
+                              {rk.totalScore > 0 && (
+                                <div className="flex items-center gap-1 mt-1">
+                                  <span style={{ color: 'var(--amber)' }}>★</span>
+                                  <span className="text-sm font-medium" style={{ color: 'var(--espresso)' }}>{rk.totalScore}</span>
+                                  {rk.reviewsCount > 0 && (
+                                    <span className="text-xs" style={{ color: 'var(--warm-gray)' }}>({rk.reviewsCount})</span>
+                                  )}
+                                </div>
+                              )}
+                            </div>
+                            <span style={{ color: 'var(--terracotta)' }}>→</span>
+                          </a>
+                        )
+                      })}
+                    </div>
+                  </section>
+                )}
 
                 <BackButton />
               </div>
