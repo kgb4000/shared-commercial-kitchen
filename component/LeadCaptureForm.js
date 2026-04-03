@@ -9,7 +9,7 @@ export default function LeadCaptureForm({ kitchenName, kitchenUrl }) {
     phone: '',
     message: `I'm interested in renting ${kitchenName}. Please send me pricing and availability.`,
   })
-  const [status, setStatus] = useState('idle') // idle | submitting | success | error
+  const [status, setStatus] = useState('idle')
 
   const handleChange = (e) => {
     setFormData((prev) => ({
@@ -42,13 +42,13 @@ export default function LeadCaptureForm({ kitchenName, kitchenUrl }) {
 
   if (status === 'success') {
     return (
-      <div className="bg-gradient-to-br from-blue-50 to-indigo-50 p-6 rounded-lg border border-blue-200">
+      <div className="p-6 rounded-2xl" style={{ background: 'var(--light-warm)', border: '1px solid var(--border-warm)' }}>
         <div className="text-center">
-          <div className="text-3xl mb-2">&#10003;</div>
-          <h3 className="text-lg font-semibold text-gray-900 mb-1">
+          <div className="text-3xl mb-2" style={{ color: 'var(--sage)' }}>&#10003;</div>
+          <h3 className="text-lg font-semibold mb-1" style={{ color: 'var(--espresso)' }}>
             Thanks for your inquiry!
           </h3>
-          <p className="text-sm text-gray-600">
+          <p className="text-sm" style={{ color: 'var(--warm-gray)' }}>
             We&apos;ll be in touch within 24 hours.
           </p>
         </div>
@@ -57,17 +57,14 @@ export default function LeadCaptureForm({ kitchenName, kitchenUrl }) {
   }
 
   return (
-    <div className="bg-gradient-to-br from-blue-50 to-indigo-50 p-6 rounded-lg border border-blue-200">
-      <h3 className="text-lg font-semibold mb-1">Request Pricing</h3>
-      <p className="text-sm text-gray-600 mb-4">
+    <div className="p-6 rounded-2xl" style={{ background: 'var(--light-warm)', border: '1px solid var(--border-warm)' }}>
+      <h3 className="font-editorial text-xl mb-1" style={{ color: 'var(--espresso)' }}>Request Pricing</h3>
+      <p className="text-sm mb-4" style={{ color: 'var(--warm-gray)' }}>
         Get pricing and availability for {kitchenName}
       </p>
       <form onSubmit={handleSubmit} className="space-y-3">
         <div>
-          <label
-            htmlFor="lead-name"
-            className="block text-sm font-medium text-gray-700 mb-1"
-          >
+          <label htmlFor="lead-name" className="block text-sm font-medium mb-1" style={{ color: 'var(--warm-brown)' }}>
             Name *
           </label>
           <input
@@ -77,15 +74,13 @@ export default function LeadCaptureForm({ kitchenName, kitchenUrl }) {
             value={formData.name}
             onChange={handleChange}
             required
-            className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+            className="w-full px-3 py-2 rounded-lg text-sm focus:outline-none focus:ring-2"
+            style={{ background: 'var(--cream)', border: '1px solid var(--border-warm)', color: 'var(--espresso)', focusRingColor: 'var(--amber)' }}
             placeholder="Your name"
           />
         </div>
         <div>
-          <label
-            htmlFor="lead-email"
-            className="block text-sm font-medium text-gray-700 mb-1"
-          >
+          <label htmlFor="lead-email" className="block text-sm font-medium mb-1" style={{ color: 'var(--warm-brown)' }}>
             Email *
           </label>
           <input
@@ -95,15 +90,13 @@ export default function LeadCaptureForm({ kitchenName, kitchenUrl }) {
             value={formData.email}
             onChange={handleChange}
             required
-            className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+            className="w-full px-3 py-2 rounded-lg text-sm focus:outline-none focus:ring-2"
+            style={{ background: 'var(--cream)', border: '1px solid var(--border-warm)', color: 'var(--espresso)' }}
             placeholder="your@email.com"
           />
         </div>
         <div>
-          <label
-            htmlFor="lead-phone"
-            className="block text-sm font-medium text-gray-700 mb-1"
-          >
+          <label htmlFor="lead-phone" className="block text-sm font-medium mb-1" style={{ color: 'var(--warm-brown)' }}>
             Phone (optional)
           </label>
           <input
@@ -112,15 +105,13 @@ export default function LeadCaptureForm({ kitchenName, kitchenUrl }) {
             name="phone"
             value={formData.phone}
             onChange={handleChange}
-            className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+            className="w-full px-3 py-2 rounded-lg text-sm focus:outline-none focus:ring-2"
+            style={{ background: 'var(--cream)', border: '1px solid var(--border-warm)', color: 'var(--espresso)' }}
             placeholder="(555) 123-4567"
           />
         </div>
         <div>
-          <label
-            htmlFor="lead-message"
-            className="block text-sm font-medium text-gray-700 mb-1"
-          >
+          <label htmlFor="lead-message" className="block text-sm font-medium mb-1" style={{ color: 'var(--warm-brown)' }}>
             Message *
           </label>
           <textarea
@@ -130,18 +121,20 @@ export default function LeadCaptureForm({ kitchenName, kitchenUrl }) {
             value={formData.message}
             onChange={handleChange}
             required
-            className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+            className="w-full px-3 py-2 rounded-lg text-sm focus:outline-none focus:ring-2"
+            style={{ background: 'var(--cream)', border: '1px solid var(--border-warm)', color: 'var(--espresso)' }}
           />
         </div>
         <button
           type="submit"
           disabled={status === 'submitting'}
-          className="w-full bg-blue-600 text-white px-4 py-3 rounded-md font-medium hover:bg-blue-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+          className="w-full px-4 py-3 rounded-full font-medium transition-all hover:scale-[1.02] disabled:opacity-50 disabled:cursor-not-allowed"
+          style={{ background: 'var(--espresso)', color: 'var(--cream)' }}
         >
           {status === 'submitting' ? 'Sending...' : 'Request Pricing'}
         </button>
         {status === 'error' && (
-          <p className="text-sm text-red-600 text-center">
+          <p className="text-sm text-center" style={{ color: 'var(--terracotta)' }}>
             Something went wrong. Please try again.
           </p>
         )}

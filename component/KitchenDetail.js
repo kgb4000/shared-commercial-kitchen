@@ -117,7 +117,7 @@ function SimpleKitchenMap({ kitchen, placeDetails }) {
                   )}`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
+                  className="inline-flex items-center px-4 py-2 bg-[#1E1108] text-[#FAF6F0] rounded-lg hover:bg-[#3D2B1F] transition-colors"
                 >
                   <ExternalLink className="w-4 h-4 mr-2" />
                   Search on Google Maps
@@ -133,12 +133,12 @@ function SimpleKitchenMap({ kitchen, placeDetails }) {
   return (
     <div className="mb-8">
       {/* Address and Quick Actions */}
-      <div className="mb-6 p-4 bg-gray-50 rounded-lg">
+      <div className="mb-6 p-4 bg-[#F0EBE3] rounded-lg">
         <div className="space-y-4">
           {/* Address Info */}
           <div className="flex-1 min-w-0">
             <div className="flex items-center mb-2">
-              <MapPin className="w-5 h-5 text-blue-600 mr-2 flex-shrink-0" />
+              <MapPin className="w-5 h-5 text-[#BD5B3C] mr-2 flex-shrink-0" />
               <span className="font-medium text-gray-900">Address</span>
             </div>
             <p className="text-gray-700 ml-7 break-words">{address}</p>
@@ -155,7 +155,7 @@ function SimpleKitchenMap({ kitchen, placeDetails }) {
               href={`https://www.google.com/maps/dir/?api=1&destination=${coordinates.lat},${coordinates.lng}`}
               target="_blank"
               rel="noopener noreferrer"
-              className="flex-1 sm:flex-initial inline-flex items-center justify-center px-4 py-2.5 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors text-sm font-medium"
+              className="flex-1 sm:flex-initial inline-flex items-center justify-center px-4 py-2.5 bg-[#1E1108] text-[#FAF6F0] rounded-lg hover:bg-[#3D2B1F] transition-colors text-sm font-medium"
             >
               <Navigation className="w-4 h-4 mr-2" />
               Directions
@@ -164,7 +164,7 @@ function SimpleKitchenMap({ kitchen, placeDetails }) {
               href={`https://www.google.com/maps/place/?q=place_id:${placeId}`}
               target="_blank"
               rel="noopener noreferrer"
-              className="flex-1 sm:flex-initial inline-flex items-center justify-center px-4 py-2.5 border border-gray-300 text-gray-700 rounded-lg hover:bg-gray-50 transition-colors text-sm font-medium"
+              className="flex-1 sm:flex-initial inline-flex items-center justify-center px-4 py-2.5 border border-gray-300 text-gray-700 rounded-lg hover:bg-[#F0EBE3] transition-colors text-sm font-medium"
             >
               <ExternalLink className="w-4 h-4 mr-2" />
               Google Maps
@@ -174,9 +174,9 @@ function SimpleKitchenMap({ kitchen, placeDetails }) {
       </div>
 
       {/* Interactive Map */}
-      <div className="bg-white border border-gray-200 rounded-lg overflow-hidden shadow-sm">
+      <div className="bg-white border border-[#E5DFD6] rounded-lg overflow-hidden shadow-sm">
         {/* Map Header */}
-        <div className="bg-gray-50 px-4 py-3 border-b border-gray-200">
+        <div className="bg-[#F0EBE3] px-4 py-3 border-b border-[#E5DFD6]">
           <h3 className="font-medium text-gray-900">Kitchen Location</h3>
         </div>
 
@@ -212,7 +212,7 @@ function SimpleKitchenMap({ kitchen, placeDetails }) {
               }`}
               target="_blank"
               rel="noopener noreferrer"
-              className="block bg-white shadow-md rounded-lg px-3 py-2 text-sm font-medium text-gray-700 hover:bg-gray-50 transition-colors"
+              className="block bg-white shadow-md rounded-lg px-3 py-2 text-sm font-medium text-gray-700 hover:bg-[#F0EBE3] transition-colors"
             >
               🗺️ Open in Google Maps
             </a>
@@ -239,7 +239,7 @@ function SimpleKitchenMap({ kitchen, placeDetails }) {
                   )
                 }
               }}
-              className="block bg-blue-600 shadow-md rounded-lg px-3 py-2 text-sm font-medium text-white hover:bg-blue-700 transition-colors w-full text-center"
+              className="block bg-[#1E1108] shadow-md rounded-lg px-3 py-2 text-sm font-medium text-white hover:bg-[#3D2B1F] transition-colors w-full text-center"
             >
               🧭 Get Directions
             </button>
@@ -253,16 +253,16 @@ function SimpleKitchenMap({ kitchen, placeDetails }) {
           href={`https://www.google.com/maps/dir/?api=1&destination=${coordinates.lat},${coordinates.lng}`}
           target="_blank"
           rel="noopener noreferrer"
-          className="flex items-center justify-center p-3 border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors text-sm"
+          className="flex items-center justify-center p-3 border border-gray-300 rounded-lg hover:bg-[#F0EBE3] transition-colors text-sm"
         >
-          <Navigation className="w-4 h-4 mr-2 text-blue-600" />
+          <Navigation className="w-4 h-4 mr-2 text-[#BD5B3C]" />
           Get Directions
         </a>
         <a
           href={`https://www.google.com/maps/place/?q=place_id:${placeId}`}
           target="_blank"
           rel="noopener noreferrer"
-          className="flex items-center justify-center p-3 border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors text-sm"
+          className="flex items-center justify-center p-3 border border-gray-300 rounded-lg hover:bg-[#F0EBE3] transition-colors text-sm"
         >
           <MapPin className="w-4 h-4 mr-2 text-green-600" />
           View on Google Maps
@@ -271,7 +271,7 @@ function SimpleKitchenMap({ kitchen, placeDetails }) {
           href={`https://www.google.com/maps/search/parking+near+${coordinates.lat},${coordinates.lng}`}
           target="_blank"
           rel="noopener noreferrer"
-          className="flex items-center justify-center p-3 border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors text-sm"
+          className="flex items-center justify-center p-3 border border-gray-300 rounded-lg hover:bg-[#F0EBE3] transition-colors text-sm"
         >
           <ExternalLink className="w-4 h-4 mr-2 text-purple-600" />
           Find Parking
@@ -322,8 +322,8 @@ function NearbyPlaces({ kitchen, placeDetails }) {
       key: 'parking',
       label: 'Parking',
       icon: Car,
-      color: 'text-blue-600',
-      bgColor: 'bg-blue-50',
+      color: 'text-[#BD5B3C]',
+      bgColor: 'bg-[#F0EBE3]',
       type: 'parking',
     },
     {
@@ -348,12 +348,12 @@ function NearbyPlaces({ kitchen, placeDetails }) {
       </h3>
 
       {/* Location context */}
-      <div className="bg-blue-50 border border-blue-200 rounded-lg p-3 mb-6">
-        <p className="text-blue-800 text-sm">
+      <div className="bg-[#F0EBE3] border border-[#E5DFD6] rounded-lg p-3 mb-6">
+        <p className="text-[#3D2B1F] text-sm">
           📍 <strong>Search area:</strong>{' '}
           {kitchen.address || `${kitchen.city}, ${kitchen.state}`}
           {coordinates.lat && coordinates.lng && (
-            <span className="text-blue-600 font-mono text-xs ml-2">
+            <span className="text-[#BD5B3C] font-mono text-xs ml-2">
               ({coordinates.lat.toFixed(4)}, {coordinates.lng.toFixed(4)})
             </span>
           )}
@@ -377,7 +377,7 @@ function NearbyPlaces({ kitchen, placeDetails }) {
           return (
             <div
               key={category.key}
-              className="bg-white rounded-lg border border-gray-200 p-6"
+              className="bg-white rounded-lg border border-[#E5DFD6] p-6"
             >
               <div className="flex items-center mb-4">
                 <div className={`p-2 rounded-lg ${category.bgColor} mr-3`}>
@@ -397,7 +397,7 @@ function NearbyPlaces({ kitchen, placeDetails }) {
                   )}+near+${coordinates.lat},${coordinates.lng}`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="block w-full bg-gray-50 hover:bg-gray-100 border border-gray-200 rounded-lg p-3 text-center transition-colors"
+                  className="block w-full bg-[#F0EBE3] hover:bg-gray-100 border border-[#E5DFD6] rounded-lg p-3 text-center transition-colors"
                 >
                   <div className="flex items-center justify-center">
                     <ExternalLink className="w-4 h-4 mr-2 text-gray-600" />
@@ -415,7 +415,7 @@ function NearbyPlaces({ kitchen, placeDetails }) {
                     )}/@${coordinates.lat},${coordinates.lng},15z`}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="flex-1 text-center px-3 py-2 bg-blue-50 hover:bg-blue-100 text-blue-700 rounded text-xs font-medium transition-colors"
+                    className="flex-1 text-center px-3 py-2 bg-[#F0EBE3] hover:bg-[#F0EBE3] text-[#3D2B1F] rounded text-xs font-medium transition-colors"
                   >
                     Map View
                   </a>
@@ -470,12 +470,12 @@ function NearbyPlaces({ kitchen, placeDetails }) {
         </div>
 
         {/* General area search */}
-        <div className="mt-4 pt-4 border-t border-gray-200">
+        <div className="mt-4 pt-4 border-t border-[#E5DFD6]">
           <a
             href={`https://www.google.com/maps/@${coordinates.lat},${coordinates.lng},15z`}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-medium transition-colors"
+            className="inline-flex items-center px-4 py-2 bg-[#1E1108] hover:bg-[#3D2B1F] text-white rounded-lg font-medium transition-colors"
           >
             <MapPin className="w-4 h-4 mr-2" />
             Explore Area on Google Maps
@@ -658,7 +658,7 @@ function ReviewsSection({ placeDetails, kitchen }) {
       return (
         <div className="mb-8">
           <h3 className="text-xl font-semibold mb-6">Customer Reviews</h3>
-          <div className="bg-gray-50 p-6 rounded-xl text-center">
+          <div className="bg-[#F0EBE3] p-6 rounded-xl text-center">
             <Star className="w-8 h-8 text-yellow-400 fill-current mx-auto mb-3" />
             <p className="text-gray-700 mb-2">
               <span className="font-semibold text-lg">
@@ -677,7 +677,7 @@ function ReviewsSection({ placeDetails, kitchen }) {
     return (
       <div className="mb-8">
         <h3 className="text-xl font-semibold mb-6">Customer Reviews</h3>
-        <div className="text-center py-8 bg-gray-50 rounded-xl">
+        <div className="text-center py-8 bg-[#F0EBE3] rounded-xl">
           <Star className="w-12 h-12 text-gray-400 mx-auto mb-4" />
           <p className="text-gray-600">No reviews available yet.</p>
         </div>
@@ -692,7 +692,7 @@ function ReviewsSection({ placeDetails, kitchen }) {
       </h3>
       <div className="space-y-6">
         {reviews.slice(0, 8).map((review, index) => (
-          <div key={index} className="bg-gray-50 p-6 rounded-xl">
+          <div key={index} className="bg-[#F0EBE3] p-6 rounded-xl">
             <div className="flex items-center justify-between mb-4">
               <div className="flex items-center space-x-3">
                 <div className="flex text-yellow-400">
@@ -824,7 +824,7 @@ function ContactForm({ kitchen, placeDetails }) {
         <button
           type="submit"
           disabled={isSubmitting}
-          className="w-full bg-blue-600 text-white px-4 py-2 rounded-md font-medium hover:bg-blue-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+          className="w-full bg-[#1E1108] text-[#FAF6F0] px-4 py-2 rounded-md font-medium hover:bg-[#3D2B1F] transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
         >
           {isSubmitting ? 'Sending...' : 'Send Inquiry'}
         </button>
@@ -895,7 +895,7 @@ function KitchenAmenities({ kitchen, placeDetails }) {
           ))}
         </div>
       ) : (
-        <div className="bg-gray-50 p-6 rounded-lg text-center">
+        <div className="bg-[#F0EBE3] p-6 rounded-lg text-center">
           <span className="text-4xl mb-2 block">🍳</span>
           <p className="text-gray-600">Feature details not available</p>
         </div>
@@ -978,7 +978,7 @@ export default function KitchenDetail({
   const formattedCity = capitalizeCityName(cityName)
 
   return (
-    <main>
+    <main style={{ background: 'var(--cream)' }}>
       <div className="container max-w-7xl mx-auto px-6 my-10">
         {/* SSR Status Indicator */}
         {/* {initialGoogleData && (
@@ -1045,7 +1045,7 @@ export default function KitchenDetail({
 
                   {kitchen.capacity && (
                     <div className="bg-white px-4 py-2 rounded-lg shadow-sm">
-                      <span className="text-blue-600 font-bold">
+                      <span className="text-[#BD5B3C] font-bold">
                         👥 {safeRender(kitchen.capacity)}
                       </span>
                       <span className="text-gray-600 text-sm ml-1">
@@ -1060,7 +1060,7 @@ export default function KitchenDetail({
                 {kitchen.phone && (
                   <a
                     href={`tel:${kitchen.phone}`}
-                    className="bg-blue-600 text-white px-6 py-3 rounded-lg text-center font-medium hover:bg-blue-700 transition-colors shadow-lg"
+                    className="bg-[#1E1108] text-[#FAF6F0] px-6 py-3 rounded-lg text-center font-medium hover:bg-[#3D2B1F] transition-colors shadow-lg"
                   >
                     📞 Call {formatPhoneNumber(kitchen.phone)}
                   </a>
@@ -1071,7 +1071,7 @@ export default function KitchenDetail({
                     href={kitchen.website || kitchen.site}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="bg-green-600 text-white px-6 py-3 rounded-lg text-center font-medium hover:bg-green-700 transition-colors shadow-lg"
+                    className="bg-[#7A8B6F] text-[#FAF6F0] px-6 py-3 rounded-lg text-center font-medium hover:bg-[#6A7B5F] transition-colors shadow-lg"
                   >
                     🌐 Visit Website
                   </a>
@@ -1088,7 +1088,7 @@ export default function KitchenDetail({
 
                 {/* Contact Information */}
                 <div>
-                  <h2 className="text-2xl font-semibold mb-6 border-b border-gray-200 pb-2">
+                  <h2 className="text-2xl font-semibold mb-6 border-b border-[#E5DFD6] pb-2">
                     Contact & Location
                   </h2>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -1113,7 +1113,7 @@ export default function KitchenDetail({
                             <p className="font-medium text-gray-900">Phone</p>
                             <a
                               href={`tel:${kitchen.phone}`}
-                              className="text-blue-600 hover:underline"
+                              className="text-[#BD5B3C] hover:underline"
                             >
                               {formatPhoneNumber(kitchen.phone)}
                             </a>
@@ -1128,7 +1128,7 @@ export default function KitchenDetail({
                             <p className="font-medium text-gray-900">Email</p>
                             <a
                               href={`mailto:${kitchen.email}`}
-                              className="text-blue-600 hover:underline"
+                              className="text-[#BD5B3C] hover:underline"
                             >
                               {safeRender(kitchen.email)}
                             </a>
@@ -1147,7 +1147,7 @@ export default function KitchenDetail({
                               href={kitchen.website || kitchen.site}
                               target="_blank"
                               rel="noopener noreferrer"
-                              className="text-blue-600 hover:underline break-all"
+                              className="text-[#BD5B3C] hover:underline break-all"
                             >
                               Visit Website
                             </a>
@@ -1167,7 +1167,7 @@ export default function KitchenDetail({
                             }`}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="text-blue-600 hover:underline"
+                            className="text-[#BD5B3C] hover:underline"
                           >
                             Get Directions
                           </a>
@@ -1179,7 +1179,7 @@ export default function KitchenDetail({
 
                 {/* Map Section - Using the integrated SimpleKitchenMap */}
                 <div>
-                  <h2 className="text-2xl font-semibold mb-6 border-b border-gray-200 pb-2">
+                  <h2 className="text-2xl font-semibold mb-6 border-b border-[#E5DFD6] pb-2">
                     Location & Map
                   </h2>
                   <SimpleKitchenMap
@@ -1190,7 +1190,7 @@ export default function KitchenDetail({
 
                 {/* Kitchen Description */}
                 <div>
-                  <h2 className="text-2xl font-semibold mb-6 border-b border-gray-200 pb-2">
+                  <h2 className="text-2xl font-semibold mb-6 border-b border-[#E5DFD6] pb-2">
                     About This Kitchen
                   </h2>
                   <div className="prose prose-lg max-w-none">
@@ -1202,11 +1202,11 @@ export default function KitchenDetail({
                         {initialGoogleData?.editorialSummary?.text &&
                           initialGoogleData.editorialSummary.text !==
                             kitchen.description && (
-                            <div className="bg-blue-50 border-l-4 border-blue-200 p-4 rounded-r-lg">
-                              <p className="text-blue-800 text-sm font-medium mb-1">
+                            <div className="bg-[#F0EBE3] border-l-4 border-[#E5DFD6] p-4 rounded-r-lg">
+                              <p className="text-[#3D2B1F] text-sm font-medium mb-1">
                                 From Google Places:
                               </p>
-                              <p className="text-blue-700 leading-relaxed">
+                              <p className="text-[#3D2B1F] leading-relaxed">
                                 {safeRender(
                                   initialGoogleData.editorialSummary.text
                                 )}
@@ -1242,14 +1242,14 @@ export default function KitchenDetail({
                       kitchen.equipment ||
                       kitchen.certifications ||
                       kitchen.features) && (
-                      <div className="mt-6 p-6 bg-gray-50 rounded-lg">
+                      <div className="mt-6 p-6 bg-[#F0EBE3] rounded-lg">
                         <h3 className="text-lg font-semibold text-gray-900 mb-4">
                           Kitchen Specifications
                         </h3>
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                           {kitchen.squareFootage && (
                             <div className="flex items-center space-x-3">
-                              <span className="text-blue-600 text-lg">📏</span>
+                              <span className="text-[#BD5B3C] text-lg">📏</span>
                               <div>
                                 <span className="font-medium text-gray-900">
                                   Size:{' '}
@@ -1263,7 +1263,7 @@ export default function KitchenDetail({
 
                           {kitchen.capacity && (
                             <div className="flex items-center space-x-3">
-                              <span className="text-blue-600 text-lg">👥</span>
+                              <span className="text-[#BD5B3C] text-lg">👥</span>
                               <div>
                                 <span className="font-medium text-gray-900">
                                   Capacity:{' '}
@@ -1277,7 +1277,7 @@ export default function KitchenDetail({
 
                           {kitchen.pricePerHour && (
                             <div className="flex items-center space-x-3">
-                              <span className="text-blue-600 text-lg">💰</span>
+                              <span className="text-[#BD5B3C] text-lg">💰</span>
                               <div>
                                 <span className="font-medium text-gray-900">
                                   Rate:{' '}
@@ -1291,7 +1291,7 @@ export default function KitchenDetail({
 
                           {kitchen.minimumBooking && (
                             <div className="flex items-center space-x-3">
-                              <span className="text-blue-600 text-lg">⏰</span>
+                              <span className="text-[#BD5B3C] text-lg">⏰</span>
                               <div>
                                 <span className="font-medium text-gray-900">
                                   Minimum:{' '}
@@ -1371,8 +1371,8 @@ export default function KitchenDetail({
                         <h3 className="text-lg font-semibold text-gray-900 mb-3">
                           Special Features
                         </h3>
-                        <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
-                          <p className="text-blue-800">
+                        <div className="bg-[#F0EBE3] border border-[#E5DFD6] rounded-lg p-4">
+                          <p className="text-[#3D2B1F]">
                             {safeRender(kitchen.specialFeatures)}
                           </p>
                         </div>
@@ -1395,17 +1395,17 @@ export default function KitchenDetail({
 
                 {/* Operating Hours Section */}
                 <div>
-                  <h2 className="text-2xl font-semibold mb-6 border-b border-gray-200 pb-2">
+                  <h2 className="text-2xl font-semibold mb-6 border-b border-[#E5DFD6] pb-2">
                     Operating Hours
                   </h2>
 
                   {businessHours && Array.isArray(businessHours) ? (
-                    <div className="bg-white border border-gray-200 rounded-lg p-6">
+                    <div className="bg-white border border-[#E5DFD6] rounded-lg p-6">
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                         {/* Hours List */}
                         <div>
                           <h3 className="text-lg font-medium text-gray-900 mb-4 flex items-center">
-                            <Clock className="w-5 h-5 mr-2 text-blue-600" />
+                            <Clock className="w-5 h-5 mr-2 text-[#BD5B3C]" />
                             Weekly Schedule
                           </h3>
                           <div className="space-y-2">
@@ -1420,8 +1420,8 @@ export default function KitchenDetail({
                                   key={index}
                                   className={`flex justify-between py-2 px-3 rounded ${
                                     isToday
-                                      ? 'bg-blue-50 border border-blue-200'
-                                      : 'bg-gray-50'
+                                      ? 'bg-[#F0EBE3] border border-[#E5DFD6]'
+                                      : 'bg-[#F0EBE3]'
                                   }`}
                                 >
                                   <span
@@ -1433,7 +1433,7 @@ export default function KitchenDetail({
                                   >
                                     {dayName}
                                     {isToday && (
-                                      <span className="ml-2 text-xs bg-blue-500 text-white px-2 py-1 rounded-full">
+                                      <span className="ml-2 text-xs bg-[#F0EBE3]0 text-white px-2 py-1 rounded-full">
                                         Today
                                       </span>
                                     )}
@@ -1441,7 +1441,7 @@ export default function KitchenDetail({
                                   <span
                                     className={`${
                                       isToday
-                                        ? 'text-blue-800 font-medium'
+                                        ? 'text-[#3D2B1F] font-medium'
                                         : 'text-gray-600'
                                     }`}
                                   >
@@ -1456,14 +1456,14 @@ export default function KitchenDetail({
                         {/* Booking Information */}
                         <div>
                           <h3 className="text-lg font-medium text-gray-900 mb-4 flex items-center">
-                            <Phone className="w-5 h-5 mr-2 text-blue-600" />
+                            <Phone className="w-5 h-5 mr-2 text-[#BD5B3C]" />
                             Booking Information
                           </h3>
                           <div className="space-y-4">
-                            <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
+                            <div className="bg-[#F0EBE3] border border-[#E5DFD6] rounded-lg p-4">
                               <div className="space-y-2 text-sm">
                                 {kitchen.minimumBooking && (
-                                  <p className="text-blue-800">
+                                  <p className="text-[#3D2B1F]">
                                     <span className="font-medium">
                                       Minimum booking:
                                     </span>{' '}
@@ -1471,7 +1471,7 @@ export default function KitchenDetail({
                                   </p>
                                 )}
                                 {kitchen.advanceBooking && (
-                                  <p className="text-blue-800">
+                                  <p className="text-[#3D2B1F]">
                                     <span className="font-medium">
                                       Advance notice:
                                     </span>{' '}
@@ -1479,14 +1479,14 @@ export default function KitchenDetail({
                                   </p>
                                 )}
                                 {kitchen.pricePerHour && (
-                                  <p className="text-blue-800">
+                                  <p className="text-[#3D2B1F]">
                                     <span className="font-medium">
                                       Hourly rate:
                                     </span>{' '}
                                     ${safeRender(kitchen.pricePerHour)}
                                   </p>
                                 )}
-                                <p className="text-blue-700 font-medium">
+                                <p className="text-[#3D2B1F] font-medium">
                                   Call{' '}
                                   {kitchen.phone
                                     ? formatPhoneNumber(kitchen.phone)
@@ -1513,7 +1513,7 @@ export default function KitchenDetail({
 
                       {/* Additional Hours Information */}
                       {(kitchen.holidayHours || kitchen.seasonalHours) && (
-                        <div className="mt-6 pt-6 border-t border-gray-200">
+                        <div className="mt-6 pt-6 border-t border-[#E5DFD6]">
                           <h3 className="text-lg font-medium text-gray-900 mb-4">
                             Additional Information
                           </h3>
@@ -1543,9 +1543,9 @@ export default function KitchenDetail({
                       )}
                     </div>
                   ) : kitchen.operatingHours ? (
-                    <div className="bg-white border border-gray-200 rounded-lg p-6">
+                    <div className="bg-white border border-[#E5DFD6] rounded-lg p-6">
                       <div className="flex items-center mb-4">
-                        <Clock className="w-5 h-5 mr-2 text-blue-600" />
+                        <Clock className="w-5 h-5 mr-2 text-[#BD5B3C]" />
                         <h3 className="text-lg font-medium text-gray-900">
                           Business Hours
                         </h3>
@@ -1555,8 +1555,8 @@ export default function KitchenDetail({
                       </p>
 
                       {kitchen.phone && (
-                        <div className="bg-blue-50 border border-blue-200 rounded-lg p-3">
-                          <p className="text-blue-800 text-sm">
+                        <div className="bg-[#F0EBE3] border border-[#E5DFD6] rounded-lg p-3">
+                          <p className="text-[#3D2B1F] text-sm">
                             <strong>For specific availability:</strong> Call{' '}
                             {formatPhoneNumber(kitchen.phone)}
                           </p>
@@ -1564,9 +1564,9 @@ export default function KitchenDetail({
                       )}
                     </div>
                   ) : kitchen.availability ? (
-                    <div className="bg-white border border-gray-200 rounded-lg p-6">
+                    <div className="bg-white border border-[#E5DFD6] rounded-lg p-6">
                       <div className="flex items-center mb-4">
-                        <Clock className="w-5 h-5 mr-2 text-blue-600" />
+                        <Clock className="w-5 h-5 mr-2 text-[#BD5B3C]" />
                         <h3 className="text-lg font-medium text-gray-900">
                           Availability
                         </h3>
@@ -1576,8 +1576,8 @@ export default function KitchenDetail({
                       </p>
 
                       {kitchen.phone && (
-                        <div className="bg-blue-50 border border-blue-200 rounded-lg p-3">
-                          <p className="text-blue-800 text-sm">
+                        <div className="bg-[#F0EBE3] border border-[#E5DFD6] rounded-lg p-3">
+                          <p className="text-[#3D2B1F] text-sm">
                             <strong>To schedule a visit:</strong> Contact{' '}
                             {formatPhoneNumber(kitchen.phone)}
                           </p>
@@ -1585,7 +1585,7 @@ export default function KitchenDetail({
                       )}
                     </div>
                   ) : (
-                    <div className="bg-gray-50 border border-gray-200 rounded-lg p-6 text-center">
+                    <div className="bg-[#F0EBE3] border border-[#E5DFD6] rounded-lg p-6 text-center">
                       <Clock className="w-12 h-12 text-gray-400 mx-auto mb-4" />
                       <h3 className="text-lg font-medium text-gray-700 mb-2">
                         Hours Not Available
@@ -1602,7 +1602,7 @@ export default function KitchenDetail({
                           </p>
                           <a
                             href={`tel:${kitchen.phone}`}
-                            className="inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
+                            className="inline-flex items-center px-4 py-2 bg-[#1E1108] text-[#FAF6F0] rounded-lg hover:bg-[#3D2B1F] transition-colors"
                           >
                             <Phone className="w-4 h-4 mr-2" />
                             Call {formatPhoneNumber(kitchen.phone)}
@@ -1645,7 +1645,7 @@ export default function KitchenDetail({
                 </div>
 
                 {/* Quick Actions */}
-                <div className="bg-white border border-gray-200 rounded-lg p-6">
+                <div className="bg-white border border-[#E5DFD6] rounded-lg p-6">
                   <h3 className="text-lg font-semibold mb-4">Quick Actions</h3>
                   <div className="space-y-3">
                     <a
@@ -1654,23 +1654,23 @@ export default function KitchenDetail({
                       }`}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="block w-full border border-gray-300 text-gray-700 px-4 py-3 rounded-lg text-center font-medium hover:bg-gray-50 transition-colors"
+                      className="block w-full border border-gray-300 text-gray-700 px-4 py-3 rounded-lg text-center font-medium hover:bg-[#F0EBE3] transition-colors"
                     >
                       🗺️ Get Directions
                     </a>
 
-                    <button className="block w-full border border-gray-300 text-gray-700 px-4 py-3 rounded-lg text-center font-medium hover:bg-gray-50 transition-colors">
+                    <button className="block w-full border border-gray-300 text-gray-700 px-4 py-3 rounded-lg text-center font-medium hover:bg-[#F0EBE3] transition-colors">
                       ⭐ Save Kitchen
                     </button>
 
-                    <button className="block w-full border border-gray-300 text-gray-700 px-4 py-3 rounded-lg text-center font-medium hover:bg-gray-50 transition-colors">
+                    <button className="block w-full border border-gray-300 text-gray-700 px-4 py-3 rounded-lg text-center font-medium hover:bg-[#F0EBE3] transition-colors">
                       📤 Share Kitchen
                     </button>
                   </div>
                 </div>
 
                 {/* Kitchen Stats */}
-                <div className="bg-white border border-gray-200 rounded-lg p-6">
+                <div className="bg-white border border-[#E5DFD6] rounded-lg p-6">
                   <h3 className="text-lg font-semibold mb-4">
                     Kitchen Details
                   </h3>
