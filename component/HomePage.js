@@ -33,6 +33,30 @@ const HomePage = () => {
       question: 'Can I store my ingredients overnight?',
       answer: 'Most kitchens offer cold storage options for an additional fee. Check individual kitchen policies for overnight storage availability and pricing.',
     },
+    {
+      question: 'What is a commissary kitchen?',
+      answer: 'A commissary kitchen is a licensed commercial kitchen facility that multiple food businesses can rent to prepare, cook, and store food. Commissary kitchens provide professional equipment, cold and dry storage, and health department compliance — making them ideal for food trucks, caterers, and packaged food producers who need a legal base of operations.',
+    },
+    {
+      question: 'What is a ghost kitchen?',
+      answer: 'A ghost kitchen (also called a virtual kitchen or cloud kitchen) is a commercial kitchen space used exclusively for preparing food for delivery. There is no dine-in or walk-up service. Ghost kitchens let you run one or more delivery-only restaurant brands from a single location using platforms like DoorDash, UberEats, and Grubhub.',
+    },
+    {
+      question: 'Do I need a commissary kitchen for a food truck?',
+      answer: 'In most US cities, yes. Health departments require food truck operators to have a commissary kitchen as their licensed base for food prep, equipment cleaning, wastewater disposal, and overnight food storage. Without a commissary agreement, you typically cannot get or renew a food truck permit.',
+    },
+    {
+      question: 'How do I find a commercial kitchen near me?',
+      answer: 'Use Shared Kitchen Locator to search 380+ verified commercial kitchens across 43 US cities. Search by city, compare pricing and amenities, and contact kitchen owners directly to request a tour or book time.',
+    },
+    {
+      question: 'What should I look for when renting a commercial kitchen?',
+      answer: 'Key factors include hourly or monthly rates, equipment available (ovens, mixers, walk-in coolers), storage options (dry, cold, frozen), health department licensing, hours of access, minimum booking requirements, and whether the kitchen provides liability insurance or requires your own.',
+    },
+    {
+      question: 'What licenses do I need to use a commercial kitchen?',
+      answer: 'Requirements vary by state and city, but most require a food handler certification (like ServSafe), a business license, liability insurance, and in some cases a cottage food permit or food manufacturing license. The kitchen itself should have a current health department permit. Check your local health department or our food licensing guides for specific requirements.',
+    },
   ]
 
   const popularCities = [
