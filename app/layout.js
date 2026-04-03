@@ -17,9 +17,9 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: 'Find Shared Commercial Kitchens Near You | Shared Kitchen Locator',
   description:
-    'Find shared-use, commissary, and ghost kitchens in Denver, CO. Compare pricing, amenities, and more.',
+    'Find shared-use, commissary, and ghost kitchens for rent across 43 US cities. Compare pricing, amenities, and book commercial kitchen space.',
   alternates: {
-    canonical: 'https://sharedcommercialkitchenlocator.com',
+    canonical: 'https://sharedkitchenlocator.com',
   },
   other: {
     'google-adsense-account': 'ca-pub-2967132781692430',
