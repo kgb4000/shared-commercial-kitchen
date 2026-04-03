@@ -111,7 +111,7 @@ function SimpleKitchenMap({ kitchen, placeDetails }) {
             referrerPolicy="no-referrer-when-downgrade"
             src={`https://www.openstreetmap.org/export/embed.html?bbox=${coordinates.lng - 0.01},${coordinates.lat - 0.007},${coordinates.lng + 0.01},${coordinates.lat + 0.007}&layer=mapnik&marker=${coordinates.lat},${coordinates.lng}`}
             title={`Map showing ${kitchenName} location`}
-          />
+          ></iframe>
           <div className="absolute top-2 right-2">
             <a
               href={`https://www.google.com/maps/@${coordinates.lat},${coordinates.lng},15z`}
