@@ -9,6 +9,7 @@ import {
   Shield,
   ExternalLink,
   Heart,
+  Share2,
   Phone,
   ArrowRight,
   Filter,
@@ -220,7 +221,7 @@ const CommercialKitchenDirectory = ({
                       className="w-full h-52 object-cover group-hover:scale-105 transition-transform duration-500"
                       fallbackSrc="/images/commercial-kitchen-for-rent.jpg"
                     />
-                    <div className="absolute top-3 right-3">
+                    <div className="absolute top-3 right-3 flex gap-1.5">
                       <button
                         className="p-2 rounded-full backdrop-blur-sm transition-colors"
                         style={{
@@ -228,6 +229,17 @@ const CommercialKitchenDirectory = ({
                         }}
                       >
                         <Heart
+                          className="w-4 h-4"
+                          style={{ color: 'var(--warm-gray)' }}
+                        />
+                      </button>
+                      <button
+                        className="p-2 rounded-full backdrop-blur-sm transition-colors"
+                        style={{
+                          background: 'rgba(250,246,240,0.85)',
+                        }}
+                      >
+                        <Share2
                           className="w-4 h-4"
                           style={{ color: 'var(--warm-gray)' }}
                         />
