@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useState } from 'react'
+import AffiliateLinks from '@/component/AffiliateLinks'
 import {
   Search,
   Clock,
@@ -805,6 +806,12 @@ export default function FoodExpirationDatabase() {
             </div>
           )}
         </div>
+
+        <AffiliateLinks
+          categories={['certifications', 'insurance']}
+          title="Food Safety Resources"
+          columns={2}
+        />
 
         <div className="mt-12 text-center text-sm text-gray-500 border-t pt-8">
           <p>

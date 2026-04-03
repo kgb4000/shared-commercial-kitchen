@@ -1,4 +1,5 @@
 import NutritionLabelMaker from '@/component/NutritionLabelMaker'
+import AffiliateLinks from '@/component/AffiliateLinks'
 
 export const metadata = {
   title: 'Nutrition Label Maker | English & Spanish | FDA Compliant',
@@ -18,5 +19,15 @@ export const metadata = {
 }
 
 export default function Page() {
-  return <NutritionLabelMaker />
+  return (
+    <>
+      <NutritionLabelMaker />
+      <div className="max-w-6xl mx-auto px-4">
+        <AffiliateLinks
+          categories={['equipment', 'software']}
+          title="Tools for Food Producers"
+        />
+      </div>
+    </>
+  )
 }

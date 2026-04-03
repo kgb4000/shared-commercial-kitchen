@@ -1,6 +1,7 @@
 'use client'
 
 import React, { useState, useEffect } from 'react'
+import AffiliateLinks from '@/component/AffiliateLinks'
 import {
   Plus,
   Trash2,
@@ -1422,6 +1423,11 @@ export default function KitchenTracker() {
             </div>
           </div>
         </div>
+        <AffiliateLinks
+          categories={['software']}
+          title="Tools for Managing Your Food Business"
+          columns={3}
+        />
       </div>
     </div>
   )
