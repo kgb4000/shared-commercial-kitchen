@@ -529,6 +529,82 @@ const HomePage = () => {
         </div>
       </section>
 
+      {/* ─── FIND BY TYPE ─── */}
+      <section className="py-24" style={{ background: 'var(--cream)' }}>
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-14">
+            <p className="text-sm font-medium tracking-widest uppercase mb-3" style={{ color: 'var(--terracotta)', letterSpacing: '0.15em' }}>
+              By kitchen type
+            </p>
+            <h2 className="font-editorial text-4xl lg:text-5xl" style={{ color: 'var(--espresso)' }}>
+              Find kitchens for your business
+            </h2>
+          </div>
+
+          <div className="grid md:grid-cols-2 gap-6">
+            <Link href="/ghost-kitchens" className="group rounded-2xl p-8 hover-lift" style={{ background: 'var(--espresso)' }}>
+              <span className="text-xs font-medium tracking-widest uppercase px-3 py-1 rounded-full inline-block mb-4" style={{ background: 'rgba(200,150,62,0.15)', color: 'var(--amber)', letterSpacing: '0.08em' }}>
+                Delivery-only
+              </span>
+              <h3 className="font-editorial text-2xl mb-3" style={{ color: 'var(--cream)' }}>
+                Ghost Kitchen Rentals
+              </h3>
+              <p className="leading-relaxed mb-4" style={{ color: '#8C8279' }}>
+                Launch a delivery-only restaurant without a storefront. Ghost kitchens let you run virtual brands on DoorDash, UberEats, and Grubhub from a professional commercial kitchen — with lower overhead and faster time to market.
+              </p>
+              <span className="text-sm font-medium flex items-center gap-1" style={{ color: 'var(--amber)' }}>
+                Browse ghost kitchens <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+              </span>
+            </Link>
+
+            <Link href="/food-truck-commissary" className="group rounded-2xl p-8 hover-lift" style={{ background: 'var(--light-warm)', border: '1px solid var(--border-warm)' }}>
+              <span className="text-xs font-medium tracking-widest uppercase px-3 py-1 rounded-full inline-block mb-4" style={{ background: 'var(--cream)', color: 'var(--warm-gray)', letterSpacing: '0.08em' }}>
+                Mobile food
+              </span>
+              <h3 className="font-editorial text-2xl mb-3" style={{ color: 'var(--espresso)' }}>
+                Food Truck Commissary Kitchens
+              </h3>
+              <p className="leading-relaxed mb-4" style={{ color: 'var(--warm-gray)' }}>
+                Most health departments require food truck operators to have a licensed commissary kitchen for food prep, storage, cleaning, and wastewater disposal. Find commissary kitchens that meet your city&apos;s food truck requirements.
+              </p>
+              <span className="text-sm font-medium flex items-center gap-1" style={{ color: 'var(--terracotta)' }}>
+                Find commissary kitchens <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+              </span>
+            </Link>
+
+            <Link href="/bakery-kitchen-rental" className="group rounded-2xl p-8 hover-lift" style={{ background: 'var(--light-warm)', border: '1px solid var(--border-warm)' }}>
+              <span className="text-xs font-medium tracking-widest uppercase px-3 py-1 rounded-full inline-block mb-4" style={{ background: 'var(--cream)', color: 'var(--warm-gray)', letterSpacing: '0.08em' }}>
+                Baking
+              </span>
+              <h3 className="font-editorial text-2xl mb-3" style={{ color: 'var(--espresso)' }}>
+                Bakery Kitchen Rentals
+              </h3>
+              <p className="leading-relaxed mb-4" style={{ color: 'var(--warm-gray)' }}>
+                Rent commercial baking space with professional deck ovens, convection ovens, stand mixers, proofers, and walk-in coolers. Perfect for home bakers scaling up, custom cake businesses, and artisan bread producers.
+              </p>
+              <span className="text-sm font-medium flex items-center gap-1" style={{ color: 'var(--terracotta)' }}>
+                Find bakery kitchens <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+              </span>
+            </Link>
+
+            <Link href="/church-kitchen-rental" className="group rounded-2xl p-8 hover-lift" style={{ background: 'var(--espresso)' }}>
+              <span className="text-xs font-medium tracking-widest uppercase px-3 py-1 rounded-full inline-block mb-4" style={{ background: 'rgba(200,150,62,0.15)', color: 'var(--amber)', letterSpacing: '0.08em' }}>
+                Community
+              </span>
+              <h3 className="font-editorial text-2xl mb-3" style={{ color: 'var(--cream)' }}>
+                Church & Community Kitchen Rentals
+              </h3>
+              <p className="leading-relaxed mb-4" style={{ color: '#8C8279' }}>
+                Church kitchens and community center kitchens offer affordable commercial kitchen space — often available evenings and weekends when other facilities are booked. Many are already health-department approved and licensed for food production.
+              </p>
+              <span className="text-sm font-medium flex items-center gap-1" style={{ color: 'var(--amber)' }}>
+                Find community kitchens <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+              </span>
+            </Link>
+          </div>
+        </div>
+      </section>
+
       {/* ─── FAQ ─── */}
       <section className="py-24" style={{ background: 'var(--light-warm)' }}>
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
