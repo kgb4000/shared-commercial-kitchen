@@ -944,6 +944,11 @@ export default function KitchenDetail({
     )
   }
 
+  const cityName = safeRender(kitchen.city, 'this location')
+  const stateName = safeRender(kitchen.state, '')
+  const kitchenName = safeRender(kitchen.name, 'Commercial Kitchen')
+  const formattedCity = capitalizeCityName(cityName)
+
   // Get images from all sources safely
   const images = []
   const seenUrls = new Set()
@@ -1017,11 +1022,6 @@ export default function KitchenDetail({
     (kitchen.openingHours && Array.isArray(kitchen.openingHours)
       ? kitchen.openingHours.map((day) => `${day.day}: ${day.hours}`)
       : null)
-
-  const cityName = safeRender(kitchen.city, 'this location')
-  const stateName = safeRender(kitchen.state, '')
-  const kitchenName = safeRender(kitchen.name, 'Commercial Kitchen')
-  const formattedCity = capitalizeCityName(cityName)
 
   return (
     <main style={{ background: 'var(--cream)' }}>
