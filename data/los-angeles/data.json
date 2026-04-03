@@ -2451,67 +2451,6 @@
       ]
     },
     {
-      "title": "Pitfire Pizza Commissary",
-      "description": "Laid-back outfit with a trendy vibe serving creative pizzas, pasta & panini, plus beer & wine.",
-      "price": null,
-      "categoryName": "Shared-use commercial kitchen",
-      "address": "1905 Lincoln Blvd, Venice, CA 90291, USA",
-      "neighborhood": "Venice",
-      "street": "1905 Lincoln Blvd",
-      "city": "Venice",
-      "postalCode": "90291",
-      "state": "California",
-      "countryCode": "US",
-      "website": "https://www.pitfirepizza.com/",
-      "claimThisBusiness": false,
-      "location": {
-        "lat": 33.995858399999996,
-        "lng": -118.4569188
-      },
-      "permanentlyClosed": false,
-      "temporarilyClosed": false,
-      "placeId": "ChIJq6panOy6woARdM6M5eysKo8",
-      "categories": [
-        "Shared-use commercial kitchen"
-      ],
-      "fid": "0x80c2baec9c5aaaab:0x8f2aacece58cce74",
-      "cid": "10316248029909012084",
-      "reviewsCount": 0,
-      "imagesCount": 1,
-      "imageCategories": [],
-      "scrapedAt": "2026-04-03T04:02:06.639Z",
-      "googleFoodUrl": null,
-      "hotelAds": [],
-      "openingHours": [],
-      "peopleAlsoSearch": [],
-      "placesTags": [],
-      "reviewsTags": [],
-      "additionalInfo": {
-        "Accessibility": [
-          {
-            "Wheelchair accessible entrance": true
-          },
-          {
-            "Wheelchair accessible parking lot": true
-          }
-        ],
-        "Payments": [
-          {
-            "Credit cards": true
-          }
-        ]
-      },
-      "gasPrices": [],
-      "url": "https://www.google.com/maps/search/?api=1&query=Pitfire%20Pizza%20Commissary&query_place_id=ChIJq6panOy6woARdM6M5eysKo8",
-      "searchPageUrl": "https://www.google.com/maps/search/shared-use%20commercial%20kitchen/@34.022456500000004,-118.4102987,13.731830951343667z?hl=en",
-      "searchString": "shared-use commercial kitchen",
-      "language": "en",
-      "rank": 23,
-      "isAdvertisement": false,
-      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Os9ZBH8qDaLjqsTnqm0muw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=203.70192&pitch=0&thumbfov=100",
-      "kgmid": "/g/11hy9ns19k"
-    },
-    {
       "title": "Fishburn Kitchens",
       "price": null,
       "categoryName": "Commercial kitchen",

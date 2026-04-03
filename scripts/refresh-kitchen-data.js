@@ -79,6 +79,13 @@ async function searchKitchens(city, state) {
           'kitchen source', 'kitchen design', 'kitchen studio',
           'logistics', 'management', 'consulting', 'staffing',
           'expansive', 'building resources',
+          'improvement', 'depot', 'worklodge', 'party rental', 'party rentals',
+          'event rental', 'tent rental', 'lodge', 'hotel', 'motel',
+          'food truck builder', 'foodservice', 'food service',
+          'catering co', 'catering company', 'catering llc', 'catering service',
+          'restaurant improvement', 'restaurant depot',
+          'grocery', 'supermarket', 'bodega',
+          'brewery', 'winery', 'distillery',
         ]
         if (rejectNames.some((r) => name.includes(r))) return false
 
