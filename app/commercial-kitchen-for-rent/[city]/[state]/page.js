@@ -61,10 +61,16 @@ export async function generateMetadata({ params }) {
   const canonicalUrl = `https://sharedkitchenlocator.com/commercial-kitchen-for-rent/${city}/${state}`
 
   return {
-    title: `Commercial kitchens for rent in ${formattedCity}, ${formattedState} | Rent a Kitchen Today!`,
-    description: `Discover shared-use, commissary & ghost kitchens in ${formattedCity}. Browse verified commercial kitchen rentals with flexible hourly, daily & monthly rates.`,
+    title: `Commercial Kitchen for Rent in ${formattedCity}, ${formattedState} | Commissary & Shared Kitchens`,
+    description: `Find commercial kitchens for rent in ${formattedCity}, ${formattedState}. Browse verified commissary kitchens, shared-use kitchen rentals, and ghost kitchen spaces. Hourly rates from $15/hr.`,
+    keywords: `commercial kitchen for rent ${formattedCity}, commissary kitchen ${formattedCity}, shared kitchen ${formattedCity}, kitchen rental ${formattedCity} ${formattedState}`,
     alternates: {
       canonical: canonicalUrl,
+    },
+    openGraph: {
+      title: `Commercial Kitchen for Rent in ${formattedCity}, ${formattedState}`,
+      description: `Browse verified commercial kitchen rentals in ${formattedCity}. Commissary kitchens, shared-use spaces, and ghost kitchens available.`,
+      type: 'website',
     },
   }
 }
