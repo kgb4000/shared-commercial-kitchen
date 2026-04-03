@@ -1,0 +1,825 @@
+{
+  "city": "Detroit",
+  "state": "MI",
+  "kitchens": [
+    {
+      "title": "Brightmoor Artisans Collective",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "22735 Fenkell Ave, Detroit, MI 48223, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Detroit",
+      "postalCode": "",
+      "state": "MI",
+      "countryCode": "US",
+      "website": "http://brightmoorartisans.org/",
+      "phone": "(313) 437-1057",
+      "phoneUnformatted": "3134371057",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 42.400002699999995,
+        "lng": -83.2664023
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJRzbRLJq1JIgRFKW6_5Z2PnA",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:14:42.061Z",
+      "openingHours": [],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJRzbRLJq1JIgRFKW6_5Z2PnA",
+      "reviews": 93,
+      "rating": 4.6,
+      "totalScore": 4.6,
+      "reviewsCount": 93,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJRzbRLJq1JIgRFKW6_5Z2PnA/photos/AU_ZVEFexfi54-Fk-nrwhlol9rS7x3-Ez1lduqxLP4EsAAhlMruUsmJio1rpzjZdFEmpFwUooNxJSVdARmSAdjWdsFCAYMp69zhpgT9qMkqg-bMF9V0CMEYtXMB8NA-5P5cxCG-szKT46a5U2aW8HfC6DOD0TOywLU-c8rokCIUkKCbpUDf5p2czyD1wbTcvc_4o_ENYetpJFfqAsvbWiNLTFwI0v3mUtvaJmXjj70GJwOfiA5VeAQF5w1AJtXq6vS6_sypoC4CSrqQ_im8tYUhvgiXiu6JsgTgwC1PqVNT7w5lwmlwooWfnRADKCcjSZdO2wilueYNBW4Ejw0hM41BleTgogDC_BmhJj3_cMhOmqocLwlGv2WkwVHIO9WyJeObJxWEBN_BotZQvJjVQf_q2m8P-LCS9yrgb3JMhgm5EPA0evaV9/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJRzbRLJq1JIgRFKW6_5Z2PnA/photos/AU_ZVEFexfi54-Fk-nrwhlol9rS7x3-Ez1lduqxLP4EsAAhlMruUsmJio1rpzjZdFEmpFwUooNxJSVdARmSAdjWdsFCAYMp69zhpgT9qMkqg-bMF9V0CMEYtXMB8NA-5P5cxCG-szKT46a5U2aW8HfC6DOD0TOywLU-c8rokCIUkKCbpUDf5p2czyD1wbTcvc_4o_ENYetpJFfqAsvbWiNLTFwI0v3mUtvaJmXjj70GJwOfiA5VeAQF5w1AJtXq6vS6_sypoC4CSrqQ_im8tYUhvgiXiu6JsgTgwC1PqVNT7w5lwmlwooWfnRADKCcjSZdO2wilueYNBW4Ejw0hM41BleTgogDC_BmhJj3_cMhOmqocLwlGv2WkwVHIO9WyJeObJxWEBN_BotZQvJjVQf_q2m8P-LCS9yrgb3JMhgm5EPA0evaV9/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJRzbRLJq1JIgRFKW6_5Z2PnA/photos/AU_ZVEHojxHyvxDtsuqHfwsI4UiHTh452JIsB6VSfpkJ2-VXE2_Dn9scdIwGzwKrnxdOi-DX-hLpBQb47E0LA4h8heRt9DgMIHghorKE8RiOUfAvOnqnAjBLEfNCYmPly6KZy9u33dEOGmFqLIlxnDjilaJT2XSIp4oQTOvUo5gGV_pmWB4aUNScZCRr55YvXgvuE3ESlZG9VvKX4WVqh8qrho2LWlNQ5aoXVG43VRM0FQHfSGlV1qHfiKME8kOcqyk8wZ56BRtavKBih9UYqXzgCj8KbXf0vC9PQSaZLqCI_ZF09ERuZpMacJUhSd3geMjajVyjqPqV8qquvKEzs42QtD2Y27awLQ7x6-zFlw4qiUuwzLNxISX-E_pzwRtO6bA9cPKhBZtYK4k4b4Co0y_2tNkfxctTR1AcOQzfBsq_6Npnvw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJRzbRLJq1JIgRFKW6_5Z2PnA/photos/AU_ZVEFzkJVC0hEN8ySP9RgK-X72f2B022cyBeRGGEHCZg21Z4dqfXilUqNDB30B1fWJUeMtwoDmBQ_rBuM-NExkURdU8owlAAPW8WoGT-RKtS91HdMfWcFXZ9pbOA8AaD9-gzzKZrdOW8s4jlsqmuAaROjvl4qV9yHBJ0zy0S0vwOKUe0kW4r6kRDDPNqMbnqTypLo02ugImzgrM3NVmPmGmyaPS8pjaeMEnt8KybM6r0XZsjosEratDNTpC_z1gHohbUqR1ZRc-dPcKlAP5xiBjWIF5mciw0_PL96LG8kzlXrM-BLLU7XlvPzJr2gG3qARf7cT_3q8mD7TiBRcewISttsovZuPjjZmouOfks6gxoFm78qdAAM7uFT-_qyWLc-4N3uzwMwsQ8pcHav3Tw2VdVw8aUwMIdX_F6iLbaEFsjur1D0/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJRzbRLJq1JIgRFKW6_5Z2PnA/photos/AU_ZVEHYRlGz5cz8J2rWZlCG9f0HbfGaONoUrujUkVfC-odO53VEsregiT9Yikj7deIKyREyt1-ebcX1VXjCOdZ7VvID1BsO7MdOzVR52Zt6nEqjhbymDSf3L20gSWgI6cMDqiTQLstWaB8si6RJzvQObjvB2pacgoAK2Kg4y52ZPndVFsAEI_JxGlkbOsh0c4yPs3k6xP3LDg1kQ1NL8wveQR3HqZ5ct2KkqZ2gJMeX85_IQHHKDsQ8ib-Kh5C7fBl0TJsCOEhZJYvTlANDcBM0e0wk-BeuVR0wXUsyzDpYV0gTWB4gIppU1lifxkuUZpAofb9xWA54thVB8hTmZ65EsE62BjjfRzGJhYJCallCA48NX0PdKa0dhoSgu2ap1eZ7tYXsj3_OlGvD71F-k5PteqkVVf7ljYHgB2T0JLAQvNVki5c/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJRzbRLJq1JIgRFKW6_5Z2PnA/photos/AU_ZVEF-VQrGAsHvQ6RpMnZ_hb-RmuGToeteUCheH_ZKE93Puw2yFSKko5QOde_ACJOyxAPKw0ea4h6Gqt-yPmRkAjRtZKDGYiQh2myz5MUBR7l8yAqDZuPVcV9Dz6Juhcrb2Fmu6_jhq6onXzLFbcWVSfezuFw06oJQsamq1nwZSBosFzLzwAKPbGxYL-pXUbIs3Yt47Y1X7WxzTBtuo9irKh7xVEhPaZqoTL9zF9ks16a18B6gbVVswl8ezvYLnym6BWi44JarNf4CAJ6zDvFDWyfv3jNyijSnrbAOT_eOsYOhZFrV2qp2pYNr05kDvteXHXRrspIeVCp7ow_IjGpoJFiGwpPtLPgZy-iqOMMJ5KV6Qj6isrTAdNls6ptp9_zoBH78xsHd4xN1Wi4S2rVH4AqR6tJ5_q1yoSAaCkS9Lg6hUm8/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJRzbRLJq1JIgRFKW6_5Z2PnA/photos/AU_ZVEEmxAPncBBt6uQ4brs01POamXw4SAGE5fp6pPQh8NN5Tq_uM7T45E0XwmStgkWLb9FpcqGDsw8_9T5UcQDa4K59jJUbG3dpnIRlnmTV1ZTRq9yl_oalVsDeSST0aGx3tb9h3Q_6sWMx_lJIbjxhkGFKshLDBvFcV7CM2MaSocUHR3qraXG0Wwo5-yptg9MXXizoSCfAQ4-lWKT-HQCRl2wedFgafUPKq75IT-BdvnkNCdkEVFaSrRIa7UxW7YiZNbs95PXMhkAURmTKrFWx6a9aRElxeKVbxuLx-c82EbmwvmamXTmFMvRVzhf-KcOCAAr8KGazPkakO9y-xiB5U2_bk8L5Lfr16lOaaUdXBf9xaJ7KKCOO8XuH5LElfB5sftQoIlMW2Vn8_RqXIAl7WAtkWVds_Rr635PeKkD11eN8KXK1/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJRzbRLJq1JIgRFKW6_5Z2PnA/photos/AU_ZVEF-jLfeJZtC9h-FafFy3HJiWG2LRsMIWE4Df2qV2jiL3s76SuV42kDOjZDf07KTLRohLTSzWZkR4VrD5MsV78wKscXcZ7RqsbEzAX5vj4E9YMnQQ3d2OpQQC0Cj0G_nfLR-mphck6aacrUcq6_LRJRwi0g40FZi_H9Sabsz4Tx6yqlnK1Y2__pH7kW9n9dyQhbgr4ymhsvbKag1YgDHILefm9UfYv_R--czQtrfeHUHGChiX3hINV853tG3bKFPxXzMCj31DcOr4n-0b8QE3yUwCw_p2aOG1ttGwKgwaX55Y6pfWJ4hl4dx4Db_HyY4BDatujoL_miabE-OhjRcdQMmrBGI-toUp4-H5fHa7KLwlkYFQU742o5pXpBq8lsOlavO1YgB9cNadUSY4VaD3U2y6wF0vhR23ZDSaN-58sIqQHE/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJRzbRLJq1JIgRFKW6_5Z2PnA/photos/AU_ZVEF2WY-pb-O-icPn8BQt4IrUexIKyAtY5SlzW9GhgvFRhGZrv8bU_g36B1BHOM_p7nZ3xSyxjKHUBeVUxESd_2gXMW62PuLaRQazKLqqzkgd5l5PRcT0vQc9fdv7O-moNGAs-Ileliw5zQKPQCgKe5MgXNgCZh1mkp5eCx3zMP4k5Zd2NjUDaM7BAdD_NEUXng7NFFp9ldGzABJAaNv_p5WU4NluBR9Skaxoqf_fy-Bz0F2if1EkW4NqXRGe8GZ5d1VEvLALCZFRr5ysEB29c_synVr0VjlwzHA5Zcm14ETnP72iYBBzOiSiO2Fh42mZywRGXOIuIEy1wGsQg-BlPcelt1lU21XU1Jvx5OpgW-opHCbH924GKEDPFtpKBkbQBkh1INaZg_dr4ZZF1-e_CshLouMjf2Ob7eOm_hMO5u6eYQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJRzbRLJq1JIgRFKW6_5Z2PnA/photos/AU_ZVEH-XL0h-PCyu9iCAYzj6IB75WeJykXRYbAA8DcEgq5WdTkWF25D8l8qXufS8bHuIPOe42oSNbPN3YT5yPO7gy7LRtexXG9aOFbm6DWYhTTji9sm7uNYbtRfZzFfLcJ52Mps6FJ4Q4nHaC1DFBhq42o2TNB5HPwvnhzaaFqAILYtXwFp32DbW78FCe47yDBmsL92Of68Gf-NesCfQZ1cm6e2J2pd3DVo_M33AfdCrGoZAUQ7ma_YupttJeNpmVpLCOAxxEQqDtcABOKBEGXn39Oz8KwYu_7jg881b83SH96yqpb1IX08A963nbFnNmfx4qalcDEXercOqgDqV9q2kAAq6Snrct7A0Bi2cNEaOH-OhJe7NHRyY1ft0XsJ68eTJzKnCkeGmrYPcny3h4bBk92ypeqTDdtklr-nwB-gxKSptQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJRzbRLJq1JIgRFKW6_5Z2PnA/photos/AU_ZVEFo7w9HWA1fF_R1iRcbFCd0H1JQb6B-ngTaljDMjEPyE-v8Lb2-8iH43B99CHl2dcijBWZ_-ZRDzA3PJ7uUVFsf48ty_kIaTK94NSqRVyU8_c4VGNFbpPpo_un7BKb1yb5MZNTL9_RQYlnfjnvbj5s2Dx3uE7Eo1s4AI7wOBoPv4a_rhS5z9yrS1pZUS9iFEil6vP-9OprIspiXDOOp_H81jamXA3kkGSSAVCN70VL8WlUzF9OUpyYVsyKSC85dA9vuH2ySmykgDsv1QiYe48xJXhv9Aix1RRLlf9ir3Od_oJCcfa-PPkTioRxg1ggcp0KPw9jbW737sdBAsv8ECIzJJXUlPZl1td13FWEyiZz3WLmM81J2-3uaJCFeMIjUpJC40UH8ngxKhHbiFFl5sVROd4irbtA_0-9CIQ69Z9H8BZdd/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Culinary Studio LLC",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "29673 Northwestern Hwy, Southfield, MI 48034, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Detroit",
+      "postalCode": "",
+      "state": "MI",
+      "countryCode": "US",
+      "website": "https://myculinarystudio.com/",
+      "phone": "(248) 353-2500",
+      "phoneUnformatted": "2483532500",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 42.505456099999996,
+        "lng": -83.3183347
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ4c8kWly3JIgRwFz4kWAFLnA",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:14:42.339Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJ4c8kWly3JIgRwFz4kWAFLnA",
+      "reviews": 14,
+      "rating": 3.8,
+      "totalScore": 3.8,
+      "reviewsCount": 14,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJ4c8kWly3JIgRwFz4kWAFLnA/photos/AU_ZVEG0RIlTcZ4YwoA0ekeEKdmW4LozlewmIqRBgWxct4blUNlwpQVRsVo3aKZw08kYdboT326HVlvmwhc0t4eeqdJ_3Ox4hdw2Jvjs8VQa3x-iY1Y0LVvT04_RXBOuHdPSgcBtJDzVoR8M8rLNbSRPIi9MWGq1G12AaDi899XKR8gWFMBDHuXzuws9H099ZUUpxE--4uGKWtQUy_S2BrfZdazgIuCeyqPfgeyKTCTATcLuHGSogsuAvEoCdlqfDnzcH-1EZS5FO8BYevb0fwkShV_0IquPCGBSPsczdloB2yz5AA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJ4c8kWly3JIgRwFz4kWAFLnA/photos/AU_ZVEG0RIlTcZ4YwoA0ekeEKdmW4LozlewmIqRBgWxct4blUNlwpQVRsVo3aKZw08kYdboT326HVlvmwhc0t4eeqdJ_3Ox4hdw2Jvjs8VQa3x-iY1Y0LVvT04_RXBOuHdPSgcBtJDzVoR8M8rLNbSRPIi9MWGq1G12AaDi899XKR8gWFMBDHuXzuws9H099ZUUpxE--4uGKWtQUy_S2BrfZdazgIuCeyqPfgeyKTCTATcLuHGSogsuAvEoCdlqfDnzcH-1EZS5FO8BYevb0fwkShV_0IquPCGBSPsczdloB2yz5AA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ4c8kWly3JIgRwFz4kWAFLnA/photos/AU_ZVEEpR0oLnKBhDrLJzhb5ZhF7eKgC-QHfqGwGYzG8nSyGE5uVHbAPJSM5ZKQNU5OKTdLGO-xV__-RdKVCyjThhcagiKJweLKJ1_yp6ualoI_qHZ_nTQ55PtW_5CaPxxOX_q6ATsh_aQkxLpnHTco80StS3RcumvkT4ki3SM3CCUTe1Jq51WPBCOEuJAMUiAuOLKZzj8ucgSQ4JgVOY-Tc-sdGMtTExnBkEswA9a4t-7LLv0ErPcxh1AnQ4HK5uXU1miTws-bYh8Y23rTstsEMvdVW4A_7VbznfbKNbefr4lx8BJ75LVinT0ojFApZLOYK8jlO1HzgvfQSvePeaqnxIuSx3muzFkBwaBwGY6lRNVO1nhSFKkROmkSNBjFSHIGSIkgT0t1NNC8ciBS9Q-liLkHSppkCq_yuT1UuNaKNBn1ARg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ4c8kWly3JIgRwFz4kWAFLnA/photos/AU_ZVEEu11XqUyreLEdhZFrkn5vz6TVXfSts95c5p_S-cTj-RB-rWV8bQr3n1qKZ7SAumh12P4vVRqVvopj4oQ2CAHO73qHLJd69efl9e4q38pH2m_843CDgyO6oW1FFNCLtmosWgbLtl56DSSUtTJri5JExn6KjZ2y-tSG0Fzy6o-ifsIF_HObyT_FnuSPKYsIRqGa_XLZTNU6VEWhpPehoWFlJI6qgJqZPT6ebXM5Wt5eKhHrcjB2l47ZtiYESWasYGLuoKryAb7PUk3jSgcgIlwzwTaeQOgE01P3QquWluKaE6g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ4c8kWly3JIgRwFz4kWAFLnA/photos/AU_ZVEEsVInJD5xS-kmpP7W0D78YR-sMULveaQWnWhd2Xz4qCz4xtmHfJb3QtT7P1ypM_7bSZjSm7V3p4KVN4dtQNRzdC3ko7ICRnKSTaDZGF10qOeyFjaos1RGIBuIfhj5djr3fuCw91PCVwAhJw_Oz8Eu12_NetuLd69nE8mpFEVbM_QTecbToQIsNKE7s0mW5vr9ULU9YZPlQNLVFIgdgof-I7wzJsLKehNDw72MKCFoefKav_bhVY0weB4UcOQekmFebQFOoIQvgjHyZ8LtmR4uucZZtyaY_XFkPLKASyPd99A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Flint Food Works",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "300 E 1st St Suite 2, Flint, MI 48502, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Detroit",
+      "postalCode": "",
+      "state": "MI",
+      "countryCode": "US",
+      "website": "https://www.flintfoodworks.net/",
+      "phone": "(810) 232-1399",
+      "phoneUnformatted": "8102321399",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 43.0169059,
+        "lng": -83.6880831
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJH0JVLJiDI4gR4WChv3Ch_30",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:14:43.634Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJH0JVLJiDI4gR4WChv3Ch_30",
+      "reviews": 0,
+      "rating": 0,
+      "totalScore": 0,
+      "reviewsCount": 0,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJH0JVLJiDI4gR4WChv3Ch_30/photos/AU_ZVEG8B96nVRcnigmdMwC778HOUkV9S9JWzhMlAH3w8N_BwwFdYQ9i7_T6FlJMeATUPbCk0gjeqLOWfFNvR5AYVm8i6mfh9SQIv-ZCj28HKyT2_lsfKouiGJrIgIwGmfVSHbrGUJxXGq0N2t0tlODnGd1qIQD-BCQMeiZkc-W_r5JID089iljXReGq2cMjqfJsRvIUF6QbFmCvAkoQcKjBJMF2kWzdWMml28Btb27bm50slmAkyiEpiLowqTzbM6Plmqu_evh3ylmlNmAgkQJUfnP7LMybpOaLZgQBDGEUpGIgEQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJH0JVLJiDI4gR4WChv3Ch_30/photos/AU_ZVEG8B96nVRcnigmdMwC778HOUkV9S9JWzhMlAH3w8N_BwwFdYQ9i7_T6FlJMeATUPbCk0gjeqLOWfFNvR5AYVm8i6mfh9SQIv-ZCj28HKyT2_lsfKouiGJrIgIwGmfVSHbrGUJxXGq0N2t0tlODnGd1qIQD-BCQMeiZkc-W_r5JID089iljXReGq2cMjqfJsRvIUF6QbFmCvAkoQcKjBJMF2kWzdWMml28Btb27bm50slmAkyiEpiLowqTzbM6Plmqu_evh3ylmlNmAgkQJUfnP7LMybpOaLZgQBDGEUpGIgEQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJH0JVLJiDI4gR4WChv3Ch_30/photos/AU_ZVEGs0ahpasXJzrLMvyhoenCK3fVpjWfmt8PqMJcnUJmbjE-l7eVQDlxFKAxeqAIfW9vyjNk6yYjvJ6FEiOj5BnLNn3rBaOEPYPSuJkMxKFIgE5SsiSODUOBerEAikyLzsT9oBb1qPTaNBJL4OTKLPrPM7N4i1lkn45T-gtHNOwdJ2nS9jwYpIC5SIrWJmgEwT7dsIVxv8sx9vJNtN2QwSabE_KIp0AErcKyzTV4JaVlUkhVb_nWtsWiMJGomjDZbjK2ii2mPlJHjQi1hfs4zvSyyatU9sN7GytmcF5BtAzv6Tg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Hunt Street Station",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "2200 Hunt St, Detroit, MI 48207, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Detroit",
+      "postalCode": "",
+      "state": "MI",
+      "countryCode": "US",
+      "website": "http://www.huntstreetstation.com/",
+      "phone": "(833) 477-8284",
+      "phoneUnformatted": "8334778284",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 42.3503986,
+        "lng": -83.0328533
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ9e_y_QvTJIgRSsW8TpLzjeU",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:14:43.925Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJ9e_y_QvTJIgRSsW8TpLzjeU",
+      "reviews": 128,
+      "rating": 4.9,
+      "totalScore": 4.9,
+      "reviewsCount": 128,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJ9e_y_QvTJIgRSsW8TpLzjeU/photos/AU_ZVEHOFPcYOAO1lrvMsCtZ6xRZVUGdqM7GHSdrLuGtIMXKByIc5376v8jZDE99OUCX6M4Z_6GaoxqJhqTdR-bIERT-BlI6LixEJ9G6ZdhY-u_Ni6s9_1xNz4FisSzqSJ38Dmggm-RVVLf4MkFe4YpGwKSC5K3v62a61THFaX60j9Td5Q4JMFLjSj4FZdnCm0iuHuPEYc-s6t8ATUUYrCA6aVoXPFNr7vLvwMPgu_HEWU4DAwBd7Zu1Ou4aVbF7ZjhJuPRLcX7PKILR9PGc6fxqz6-UzeBQgEKiTIZzzdTVUh-a1-mOMUpzPZDQCiUFOojY7hFhq4PPrcxS4Oig7Y2xhmBVqPyutiK2kUSeCbofU93r5-Ahulg3NAgGZYY-8bEBhj5FFhinRypY9DroTHKZaFPHwhIxXVpgEx9cEFtT-RY/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJ9e_y_QvTJIgRSsW8TpLzjeU/photos/AU_ZVEHOFPcYOAO1lrvMsCtZ6xRZVUGdqM7GHSdrLuGtIMXKByIc5376v8jZDE99OUCX6M4Z_6GaoxqJhqTdR-bIERT-BlI6LixEJ9G6ZdhY-u_Ni6s9_1xNz4FisSzqSJ38Dmggm-RVVLf4MkFe4YpGwKSC5K3v62a61THFaX60j9Td5Q4JMFLjSj4FZdnCm0iuHuPEYc-s6t8ATUUYrCA6aVoXPFNr7vLvwMPgu_HEWU4DAwBd7Zu1Ou4aVbF7ZjhJuPRLcX7PKILR9PGc6fxqz6-UzeBQgEKiTIZzzdTVUh-a1-mOMUpzPZDQCiUFOojY7hFhq4PPrcxS4Oig7Y2xhmBVqPyutiK2kUSeCbofU93r5-Ahulg3NAgGZYY-8bEBhj5FFhinRypY9DroTHKZaFPHwhIxXVpgEx9cEFtT-RY/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ9e_y_QvTJIgRSsW8TpLzjeU/photos/AU_ZVEHexHWxD1IILyja0CA_MbhJnCVKJh3O51RTIc50NAZ9lVH_UVwjIj7y5moeuwmEEvPMNZqzQTGLqafqvxlTEXejrhvf_xmz4Z3wfcQivqbNEzE4cvsk3ZmJ_JSCZD8DL2vh9NQHORIumx1ltkconR5cla1g73wSqw_yPneookuLx6-vW19vAaZQWZ0nATjI8WEXOTlPlMT-YpmWVKH8RuCHYpYTdxEpgl4aBQbwWUmJGuv-FKaEvpr4-XqAaPjdd4bW2FzYj7hHwHqkoxMDDyJM7d8z_Dd8xtvSskNW4z9DdeXH17P-uWfiLsPfKPr717Wx8iGbR-xCHpVuXPG_mjR_58B0QR9c9i-usurzyG1ignPkeoq5En5n71bTPGegojuOAlgAbKt_Vb2PxfKanVuROZMzXgwB9KN3-M0_B0M/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ9e_y_QvTJIgRSsW8TpLzjeU/photos/AU_ZVEHQ3kwCsRqmOlsKO_cI-18MJVBJdO0MZCZCm4j7iRdK0IbiecV_PNMVki4FrNisAd6dVycyJmZPBJmlVGqtLx2AKzue2SQbXZvJSADmsDxPpHjbe7zWGHUnbzER_pRN_jyDRniljNO6U5Ii7Fd12v01qVCFwYxWcbi6Z4EYw4fP5pvIHFhz01Bs-zGxV6OAeNic8g2H7gKFrvAhMG6exA-aa2pWZaKtvu5D9y2ZS7WhYs4Grjuapy_zum0ptkdfHPn4e-9SV0vvpXB42JBsWsyVuFgOu2rJMbv334qeTHyTTjE6C8pF8XC9XpfmDA_KkVxAHtMPZRj3CizBEMtZTlcRhCw8a7wI7I1V5O93tJxaifMkdoHYKtKaeJ0HhTgedRzs7B6f-P_PlTITQ5HbHF8oo5tDFbEcZnT4-LCFdixATtU8if_q-AlLjiG_2A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ9e_y_QvTJIgRSsW8TpLzjeU/photos/AU_ZVEGBVRcNq3Rp-bLG3gizKDD9fPi7MB8whrEcueq4FMJMD11D8cXUM9B_hDw4D5cwrreem0oWtEV6RgB8l2DeqMlB9U9H6292frd8GWACfoO7bdiMDRynaNp3TaL5PKWPvtIETCx0UlD9qGKRG_JlU6gyclRfw1P6pWzsi3ZqE04u6VeOSi-yMDvqQRbQsx0aEfZOaEDN3CfgVGdTfBLWHQKWfn5HrvdPn0e4jWti-Bn2PBNbWRWXr6fITLz3hRS15LuD5gfpvhdGmQYk-tVNFEqt7SrdP4r6gjYqunAsP66ViRB4up31WxyQWkzz7flY9j9JKMQ8SwVyT4XZ3Ge17VAbaQ9dj181e_ndTISM8oHddkWw60ubrFezHqknF8T8YpvHP5zYHfu6i_6oXue-q8jdyt4KgqJbI2UA-QjRrKQFAw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ9e_y_QvTJIgRSsW8TpLzjeU/photos/AU_ZVEHNSOGY9QUB866pi_6nBC_7VnxHBdduJTCzcwm8I-68UfDdZTeWshhFnip0OZdzRYn-eWqIvf3M6FvnUU3G3xMgXeT6gTcQ8qJsHq37LgvkOyQBDvwiYWpZd-0oKHwU8h_1swPDIacAHhVoVuVy-VgPc_qrvSWf3UbGEEa0RZbdOu9r-EMDzVQS29_5ggYjqPaXC-R07aTUa1zn6RvWSEyXS-U1um4L4KjFCw4Y3UBtjZaVIOqWWRHHv-AmL28naKhUpQk5bzQPCWDuJfQ51XfFu6kXDMipqBdr1XhIwS0iiPT3ALEub2J68i0Crc7b9vSPiCGRbuRKuKrA_LNyVy-0xAgz_8OFd_p_DxHaX-BB7pFdfIwwzU5SjxiCY-uko7ukP-yyqXqU5LVX2NJEQ9l-l2HssFaxkNeLHMa2Rswhng/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ9e_y_QvTJIgRSsW8TpLzjeU/photos/AU_ZVEF7pMXal62euDrnrLCP19B_W7VVgtkMafma1XSWvPPptyCFSKTM3jliLhGSVr21hGP8zG_JQRnYt_uoM9OsIQ9ycEkdPoCeuFExj46uuHaKs2da5RhtKbIy3vYZ_CW26i1WQ6q4T3ZgH7_0A11Xj17kJDmYuYVzAO8HW3dy6z5c9xrDmQ9ywL61j-UxdPjsS_I3gYKeQMWih7p8esC66BK6b-k-KivGoF1vHm_ea6RubzcMp6gpC3xP7uLG5v-jnBGaZw60msYE3DZYaEbZJKxJ5r0OBAUEUZz3DdsoxcbdjdgaRF4P8EQ3UJZ7yFP-K6ldvedUOM-PE1SicyjrDPurOO-yzPP9ee3nBznkip1zIX81khrKZij_KZ0v-N3kUuoiPw1XphR9XXwKPQt7bvn-sZZkzM9L0DPOacIEEmzOotuE/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ9e_y_QvTJIgRSsW8TpLzjeU/photos/AU_ZVEG9ZhPaC5iV-6F3-TyJQV2DvtcFnSYj3XC3bvqH-Wr98vSKjMb8Gb48vDhWReJMxBvW-3vcVwkgVOUNBssM_FBSiHvXQVr1TxPSmfYRfxkJhOop9agg39y_8OsDOpUTZjdJEkm0WYwWCGS3F-_T0qZPhpzkdOcAfeQ8tMvw67_6pkygU104hULeQKPctD-gDS6EDOeZL0UhPstnt2wQjaHNyx6xvrGFi5N4BlDG78JC0xGE7RCwNhglVo55uXsS3JR5kybGWw6_ONtoxvKgoHT5YISvSfX50xgtnFtseqLnvyBaft612zdaumAmvNNbnHpza6L_qOexbruoPhyjyX9mfgEOlINSek50-HzEo0iEkr4UGRfNrTqHKompw8ZqfwUimjmwXqq-mmAm_CkT-SL9__sEbx2B_Z-rcSUtf4utMIoTdY_wMBLgVji_PYYP/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ9e_y_QvTJIgRSsW8TpLzjeU/photos/AU_ZVEHhezmHkzSMcmVx0eVSwQBSwysNARWbGiGwN_89JkhyJyyP_39SpbYON86L5OWhCFO6OF9b9lqDG4xRGz7RM-vAZYYwafkbii3qivuJtC7KhXJtDSazefaaAZVNhWf2ynoENSljr3KEcaG40UNKbGe3JpXnH3tja399wD3eaWDk3zgMqHSWNHkcx_rmvw4JjsEhkNBzOmoqj-QvyTEjJVgPQ_PC5-kRgtnp9d0bUmnJlEyZVYqiOyKK_suMw8NTxsbEqfQ9OoUqBne8YWOe9SfGPQrtkuQRHF9Zk90HLrwkPe0fyrdvv7jN3CDhInMkBXbfoOZrnrLzWcAC0ZldhymblmVBKJAk3EEG6LLp_JWR3lqux9R8W2kmXzBMbaAFDqi7L2QtZzEvE1XIr08hzjxZrBMHkSakSp6WEUYLiruK8g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ9e_y_QvTJIgRSsW8TpLzjeU/photos/AU_ZVEHq-URwRjL4TU8OjB6SS-fT_w0FuK9iZJm1ck3oXZ7DJKaYzFJvC9demccgvH2xyFHwxcfPxTdH30NGR8MJK35lpRPgWBvAKr9cAKdiLOfIsAvcJkfXrB0Dpdr-3bma1aq7ElFeWIGJXNABcIEtzPKqfeTR_-zEB7KobykljU3hhBNTDfkaWfkx2_O_Pis_o_BfoR346DMfYjn5uuuUeFckCGNpQeGroA933Ua-GpV5ACIgQf_iWBBWybsrrXcKhfxFfcpns74Cn69Q_-Q6RFchOFBLRRQeaLuUygsv0hwi2vKQFDz7wy0wHis56n2R9G4dBIagjKOJCBUkE4NmQ-AQFxY3fUJE2y4V83nGgTjarLWaUPepXQRcjxK2LI1KwiAsvZ6e80A-MJ1H2sStXiiOl8YC53EDI6VHeG4VPN4/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ9e_y_QvTJIgRSsW8TpLzjeU/photos/AU_ZVEFqf5K_hViGEHbpyade8jcdaN1bMP_tIjJQCGsEzK11usRfbbM-m3iuMXd8UW8izLX1vBf-mndBInHUbNjKMoIVp3oaj5R-WUksf9QygGdrkQnRytqgTIQ8VMOfiqv6mcjuAol_1T0jUZv2NtDLzYly5yUdR4gHsJssUB_nrF3dVwTZR5HlCW7paTDbSIkJ09IHrXWtPAYYZdt28AAK8NnOuU1F-N9T-Uz93Ca1Wi2WzfwusInemUuKF0eVUSZiko8xXVUbHu-k4ZqruXwlbyGe4bSVaAEsnLJiEjSN_NgArDG744i9Xq4Dtgrn7XwGvrG8YT2h_34dd2P-W62OOoBV4Ynqr7kO-79z0KNeE2RxP1Vbk_X6n17wscvV69w8nD9eEbmPsio-V1mKWb9eqgXK5hGp0iPJvuC90hedyRw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Proud Mitten Shared Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "650 Church St, Plymouth, MI 48170, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Detroit",
+      "postalCode": "",
+      "state": "MI",
+      "countryCode": "US",
+      "website": "https://www.proudmittenkitchen.com/",
+      "phone": "(734) 456-9005",
+      "phoneUnformatted": "7344569005",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 42.3735869,
+        "lng": -83.46722009999999
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJtckjC9esJIgRXiUakivBjfA",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:14:44.274Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8:00 AM – 9:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8:00 AM – 9:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8:00 AM – 9:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8:00 AM – 9:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8:00 AM – 9:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9:00 AM – 9:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9:00 AM – 7:00 PM"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJtckjC9esJIgRXiUakivBjfA",
+      "reviews": 22,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 22,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJtckjC9esJIgRXiUakivBjfA/photos/AU_ZVEE3JtoU7l5NQT_vVx-FJTSq1DJfAeM8Fk9T6lmJ4WcJ_kXd2_NtrHQnvLxd1qH88oXDICguqrpvSjalbPkkzwE2vJpqPY8L9n9mGMuhp0GCdBJLFX5u2N-RKkNm7YL7MRQtkUi5o4-cSXo1h8ohNBjZnaDwmSfboYRKR17AsB07y4TP_Daifk3yZZ3o_19dn8GNQJ3hfsYobeyEAxh89mZ0nV0vgO2aCnDGfQL22RchJtPKN_L_qyAJv2O1IGC458nfTBinqSUx3s5CEKNtJHRW82WvctEpGB2FzqP_mAMTPQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJtckjC9esJIgRXiUakivBjfA/photos/AU_ZVEE3JtoU7l5NQT_vVx-FJTSq1DJfAeM8Fk9T6lmJ4WcJ_kXd2_NtrHQnvLxd1qH88oXDICguqrpvSjalbPkkzwE2vJpqPY8L9n9mGMuhp0GCdBJLFX5u2N-RKkNm7YL7MRQtkUi5o4-cSXo1h8ohNBjZnaDwmSfboYRKR17AsB07y4TP_Daifk3yZZ3o_19dn8GNQJ3hfsYobeyEAxh89mZ0nV0vgO2aCnDGfQL22RchJtPKN_L_qyAJv2O1IGC458nfTBinqSUx3s5CEKNtJHRW82WvctEpGB2FzqP_mAMTPQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJtckjC9esJIgRXiUakivBjfA/photos/AU_ZVEH-exvQy6X6L1epWr67TItQpEBcv6PIBNRSFdd6X0MwfFwgE56Cz3dojIxkphGkMQp7s6Kg0h9UwCtHPRPqs7AcKZ-fMh37UdisZCCOQppBLtj1Heaah6TJ3uktbsc7pc60St5hnQ0p59MosUYT6XIZC8HbnQce89OKIQXPtLx2MWjQpMWB3gqHu2Uf2ZiiV2txw9ygwH0-r5NV49KuvGywxehpdQTvrMufzJehCWFU6eWfozKEMauZ-yzY-kDTDu4mOnNa-4ahPIOXO1qwr12zEYFDxRtVg75ig-1CaMCLrQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJtckjC9esJIgRXiUakivBjfA/photos/AU_ZVEE5SnbNBnltt27mrHWqSC09QoqDeUH98GxONNt4ljXWADrAvcjsrfJjcmXU084y_GJ9N350e9wvebdBwqVP03R_lX4ESxUklY9H0Y8n7fXDjj0b_qPY-neI993zJVKzseGIY30G-2tU9wcr8c9UVL66ZEOS6zwncTkWSJRSEaqJG26wi8dIYeNcVSdNa04m63i-8EcT_-yFdz865JJh_RijRHpMHzbXaL7cRZyj9qdDRoYPeN4g9ga7ZKhPKcfWjLj2GrJBU2U-zc1kLAXDCkoVWrng00d8Bbg0rPcGCIPV9g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJtckjC9esJIgRXiUakivBjfA/photos/AU_ZVEENF1AwFWW7cyJm-VlObAgoFlIm1OfKl27E0QysVM8GLAJwtUodZpMZ2HSg3c7TzMG5iw614nc26KGuCSe_ECmpx1kmidcxWpy-6kHJlFdn5pgRT33E-jrCk_MnOanHl1lNKz5L0-snYSYE6LiaqElTz2AwSWN_r8b7Rk_Wf-s5y_xoFtn5tUtSJmwAk_moATjY-3iYHmxXZJf8mLqgPkhJrommPW8vVhRET7fEXEPUhIhHaDwKSe_R3i6ozQXfOfZqpw-CZp6yVtJA-pTLN0DF8KHdPro-Al_UP6PSgg4xIA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJtckjC9esJIgRXiUakivBjfA/photos/AU_ZVEHRrE0srBSQMdGni7D57VIG5Wnp3yhn6PsDFfPwwPeGAWLAdqhmHtSRDt72i12HjkwORMSE4E8DbXvQzk48rGjYO8nJut1BR2m_Ju4chYETkDrMmyI7XyiTn9ANmP258vM-qyHQwROUC9-d1hSpGU6yDX3BScVOMyxPhufjq2eqGYMAE28APO0wBif0rDnKEcUimD0A4se9K1qDGDeD_hbq5_J5obgcrDoazoA5D0XUfHOdnHS17iEjkupgI7VYrDug93c0abVhYKQNTYR8ovEg5y2-A5GDmk41JH67slR_dQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJtckjC9esJIgRXiUakivBjfA/photos/AU_ZVEFRTLWc85G6qXym2MhHW-2_wZDmAnLPsG0S-x7r0BWUPqjJ8RMtPsxXMqAbs_lw-Exbkb1OkxV51UwMTiW-9Q1XJ0DG7SXGvu43OBiuJII4HmdZrhE5KofmOCVkxYZz-HqZ5bp6FA4ogvzsP6vrfcXe0hJ9tikOtfxAVmd583j7ZwMg5SF6vMm5ClkN9w1ur24_j7atbz8nCEOclFLjBpMOFUxnvhyTFqdmqrsKl8RrMp-63hH7tsLuG9luGb7UnXn-NQ9vlwthi6tw8fa7YeV5hHsfsIhw_S3pgn5hzoFB5w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJtckjC9esJIgRXiUakivBjfA/photos/AU_ZVEFb3t-uPGcLS4svPb_l49kH3OfecCqgWPhu8hDEbfzbr_6f3cDqWWm5IqABMSuDdZ5Ak2Wa0tfFixQC_RMyNuxUP1qs25ekRkja_7uGAF38FJjvWouadIlhlb7vMye8vwUGMjoqaig9covBDj7rgSNlr3ti6GVpQXnjEf0uFdQXzFweD_L2u8iN_66wlGaPMbuk8leyUsY-xkZt5uvJ_ljoc7PntJTOzbLQB-asWNRzpgrrHsfIq3vPKPBDNRqFu8ikxxPQdd4GrHRQ0urCtYRq3fiDicR4tx-KsUByX11cOQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJtckjC9esJIgRXiUakivBjfA/photos/AU_ZVEHrUwogEBbtcEUL91C21aLgsY5dg6QnZ7C_OHg_oCwKkvldKvFvA1FXK8U8aC-gQxQ8G7824I9GhdIITqxQ7wW0nziGmRUH0AsqUMHgvAKTpB29LvZY_Qwm9rvMXbKjrTrZuQVqh-Wtcmfs2XLMXWBSnkdgJ8zdIXoV9sZ6BephD8uXO8EHQeop72RuLn6_uJ0ZjwLN9K8MqiYCUBdvOmsouQZSvxoHC2Ofzgb0CE_anJ342dujWZhl4SeNIGC3ZlXyah14CR5ynvBCZCd5qpxVixzR6U4kcKDiXJ2GloTB8w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJtckjC9esJIgRXiUakivBjfA/photos/AU_ZVEFEvTc7KATcHfFdRqSQc2D9WqbHE70-KRI23mJXFjRkoy1pSxQL34QrK5y7bFcKFwTZpRsjIpKt5yBLRD4vTem4iAYUKP_bV4-SDTDYTdaqb_MhU5tDK2DxUXVdCdlGkWIryXVKHPEU_N1HK5gNg1irUZo2ccLXMJQ_Em1bqTMPuy9XFsONCEOH_XJbWDa4TDkTijKS0MuiVXRh1VmoxCTJw5wTDIPwoT8C4eiUKi3RKzy5OjM3BERJpCiBqVrXIlImpX_MrY2NOffy0Trkld3HSMAcAc6jVhgjBmSqtg5w9g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJtckjC9esJIgRXiUakivBjfA/photos/AU_ZVEEwBDAe1bJnQo1hdcrxoL4z79A9guq6rxRJQ0VRRoLoJ_fEnUS1X8kMJpRalIaqFeLqNkt-nQPdHB8a5li7SNNBdn7eDgJStC7pTqHwOKEsCS7XTKO92sISH7lBzQyFjcpvm1rct22SkStCVUTDSWoH5zj4F3Ebetj_XBJDLFb9WSfMceXwe5t2D3U9YMCrXmh3PMTAGNiJDRaqGoEOiDTwCXhZM5FHbgNgukuqp6Fg26HK2AeGr-J_FiT0fhwYrdjVlC-bGIe1WiegdlwGhudYN4jT68ifg_ho8wXrX4lnpg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Detroit Kitchen Connect",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "2934 Russell St, Detroit, MI 48207, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Detroit",
+      "postalCode": "",
+      "state": "MI",
+      "countryCode": "US",
+      "website": "http://www.detroitfoodtoolkit.org/detroit-kitchen-connect",
+      "phone": "(313) 833-9300",
+      "phoneUnformatted": "3138339300",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 42.34824890000001,
+        "lng": -83.0411525
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJXw2akLrSJIgRTB5nfLgw2zs",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:14:44.679Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "12:00 – 4:00 PM"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJXw2akLrSJIgRTB5nfLgw2zs",
+      "reviews": 7,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 7,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJXw2akLrSJIgRTB5nfLgw2zs/photos/AU_ZVEEe-a90p4BNAZBuIGHhnQshRot1VvYCMDpitcXlvJD9rOomIX9_V-QrVC90R25nArDmJrX8c8SKeQwxmjbFkD5_H4_ljwJimB-JoxBaKRW7JYV4zaweSSI9UCRKuV65GpZ9xS-C74fov3_2SF6KfOTqwgktUYyp-Ag-7F9W3AMjTs8lynvGLX0hga9zGKuoCms0zn7IfNUt88MHuVmef4ZRoXNvk9SlV1h2cpT06B0vf5_8dncjjuFCN0uz4mIGhCniY3Xy2JmDMdbcmmoe9EPWoYiZhcsbHsc98Y2XEQ-PFVl2CrW8uTQTPGW4jMLjyq2uqmkm44X2-0vrJ0xNJvS40uRMUlLZ8K1Z1vtHxpTreZQcC2_eqjlZz5_3IoteZF4MHNn57Ctd6gqFAnLEebRvnmZiat70NUZXrM-5Ag/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJXw2akLrSJIgRTB5nfLgw2zs/photos/AU_ZVEEe-a90p4BNAZBuIGHhnQshRot1VvYCMDpitcXlvJD9rOomIX9_V-QrVC90R25nArDmJrX8c8SKeQwxmjbFkD5_H4_ljwJimB-JoxBaKRW7JYV4zaweSSI9UCRKuV65GpZ9xS-C74fov3_2SF6KfOTqwgktUYyp-Ag-7F9W3AMjTs8lynvGLX0hga9zGKuoCms0zn7IfNUt88MHuVmef4ZRoXNvk9SlV1h2cpT06B0vf5_8dncjjuFCN0uz4mIGhCniY3Xy2JmDMdbcmmoe9EPWoYiZhcsbHsc98Y2XEQ-PFVl2CrW8uTQTPGW4jMLjyq2uqmkm44X2-0vrJ0xNJvS40uRMUlLZ8K1Z1vtHxpTreZQcC2_eqjlZz5_3IoteZF4MHNn57Ctd6gqFAnLEebRvnmZiat70NUZXrM-5Ag/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "DAFT Commissary & Prep Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "Located in DAFT Food Hall, 39485 Joy Rd, Canton, MI 48187, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Detroit",
+      "postalCode": "",
+      "state": "MI",
+      "countryCode": "US",
+      "website": "http://www.detroitareafoodtrucks.com/",
+      "phone": "(734) 890-9344",
+      "phoneUnformatted": "7348909344",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 42.3517815,
+        "lng": -83.4311403
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJFaGfybtTO4gRwGmWL3Jpc0k",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:14:44.994Z",
+      "openingHours": [],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJFaGfybtTO4gRwGmWL3Jpc0k",
+      "reviews": 4,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 4,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJFaGfybtTO4gRwGmWL3Jpc0k/photos/AU_ZVEFedRFhJHUMzuViaFqaOzmcmYZyfxfOp7R7wDA-P8-Mg4IPmk9tDF-Y-TWXDxtvyGdXFLNOWp7acUxk8fqNYda-e7pLM8BMIG598sKjhgpSgVkBZcqBgRMtnnu9TrXl7jFLqmGyZFMTp4A-tCxySUUEiUdD4wh_AHMb_gk4Y3Lw6SOy_m4jFq85FC3IA_dcdBG82ANq4nmDEYQoiTpblIID7nsaDfV6FYstZfIe7FXwnFkQs4ik4tJFaq0zBLbSpwLwt0W5WtM0kT83B5jLQMYxnImaFrZI7E2UvI4hRpI/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJFaGfybtTO4gRwGmWL3Jpc0k/photos/AU_ZVEFedRFhJHUMzuViaFqaOzmcmYZyfxfOp7R7wDA-P8-Mg4IPmk9tDF-Y-TWXDxtvyGdXFLNOWp7acUxk8fqNYda-e7pLM8BMIG598sKjhgpSgVkBZcqBgRMtnnu9TrXl7jFLqmGyZFMTp4A-tCxySUUEiUdD4wh_AHMb_gk4Y3Lw6SOy_m4jFq85FC3IA_dcdBG82ANq4nmDEYQoiTpblIID7nsaDfV6FYstZfIe7FXwnFkQs4ik4tJFaq0zBLbSpwLwt0W5WtM0kT83B5jLQMYxnImaFrZI7E2UvI4hRpI/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJFaGfybtTO4gRwGmWL3Jpc0k/photos/AU_ZVEEBydGGbYnmFpH6Xina4DCFG6oHeFQKCkIa7_R-AOFrwiB7JUnth4013uyZD3Fjsu_zvO_Sse6W0TWtXPpMdtBg9zPsoYh_owvZ_J0PQuNxZxJVlfZV8ExBUNtF6QkSu2yQxilH3Rgkm3syheDwcOZ1NYqmZYC3LcdCoJMSXXfAr4drmBf9Tml_W60W3p3OxdF3YGPAoh3scxvk9YJNAjbgyLW6W-TcNR9tvXWGC0qjRlTNatTeONYP6MVzEVXxLYxJ3gT1ufW1W7eqkhdgQHptQSMfSaeoo_Wixy5Q0gY/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJFaGfybtTO4gRwGmWL3Jpc0k/photos/AU_ZVEF_9txkMbA6HIN6ywITv8pbWqwU1HUEut05WBMhe8qjk_zuL-pphiAkqncix1P29L4ZIgs0n0__hBwkbAHMicEd9eTOKSyU6rkQAwMcgPArCIwHLdIEqRf01-4xoY-lL81924p9jJm_YKtMLOTtUJPl6HBBD8uVTKSdcsUCnWC2bXHxWS6N5p7Pz8N9aVCrQzh6w7EV95VN2LkPyJ7ho85YMDzPBIqzisnqDfY0kyHVI1Oq9ltQpoJgteFj3i1O95djeGH7JmuSpcEbuDlFdFWqlj-sse23ttbeKDy3h2g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJFaGfybtTO4gRwGmWL3Jpc0k/photos/AU_ZVEE2CUvgf1X1ZZjzwshB8UjVKeLdA3GfZ80HQKkdaYXNHqFkG1as_9RTgpZbyiVUaJu7PidDcsGA0N2awJWNCQ5Fsekhoo9Mlh1BLCEUfzgGEPsI_KF0OGeUqnfEbKq40ne6Nn1TIQTC6_mqRgf-gL_QkrG9Xv7NDAcTnmrBD40leVXpiteKS04gcTFT3Cl7SDnZ2iD9tDxN33z6OLBUF-_aRObmdE9GVWQFxxvqg9Q0RweULcsvjqjWsGxcq3r5gig-YaMWqg4aSJoefW92GFK14hiVREFXgJa9XeYi4jI/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJFaGfybtTO4gRwGmWL3Jpc0k/photos/AU_ZVEGRobhW8EmnFy_WMtDtHZPEK5j2gDCfnPli0JOxquaBnbr3PXcNkAwsDWc0fgVZX2I0_hnzHEc65HsGU8M3q72asUk5LumINyt5TAO_ETzpLtaTxFBigpCwo5i3b-4x7yjFD6b8hWoGrL9HB6m9HL8ulcJdx8LJp2wPea_BNBCTvD1XEtJW-IfFHaBY3skWVG5a74FkUz9AnFjHwKLd3uxjAI64dpdO7v1a_ZHW80pvuxVdMXIRQbQEFuxYKkvv4JldubcrnxcfDwlM1HR6hoj4M2Ul8JlNd7uVJ1MjVZI/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJFaGfybtTO4gRwGmWL3Jpc0k/photos/AU_ZVEE5Log8fGWEEv_bc-x1_6Yac3bnWgxGql5TLQreNkUEl0oG-qBCPCEKtm1-x9cA5a_yCtQoh1SkCFWboaBDtvnXoTPm8rvV2hJ5PbweTO99E6y9yVHbN6bmLr175RV1IRH1blnfO9up9fqTeofQ2QqZJ6SFHJRUtv_uvvMhuz3J6VFLhu_3In5gOv8B8s3-x7GLG8qJAaoEZMtpXu2FKKQWFJjZ6NDtCU-roeoTYEyPT42qIgoTOtF8_MVnByuMlTrztwd6nLxuIWZODFOz3Dpvhyd8hgwclZFK8bBmk4I/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJFaGfybtTO4gRwGmWL3Jpc0k/photos/AU_ZVEGmX1-bDrJklMnNUjgnKv34LGFVeEDphsS5N-RHuMrS2_cYJm0K5fhKIACCQ81NXTefnNvttNG_2RAvfSn2pHiYw3O7yr6YHQBesSqkniwwbiN2rrqfveJJi6nHg6uKfRLxr_YaGq0_EUVWLhm_ACaTjD65vDRCY1VYfRLaMoQJ9SPjabikGINETNE_H7nTKi9uBH87oWJwK-HR-aU2VEB7f61Z6anC6koZEO_o-_9SuQbTqExsszNOf0xoRD3uPXgW1zNCfEKqpz_jrZY0owtqX469ZLL4Td3Z_sUW4TA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJFaGfybtTO4gRwGmWL3Jpc0k/photos/AU_ZVEGpbq3plgR9RMUndiz-wIjR7DhGzD-dIrcS11eUhqA726Gb60yZ02xN0l6iQo_4MDLiz3t83l2FT5T7e80lsopUd2EgCyZW4o6vkbTZMSvpZ_HUndl7RS8EWjXX4VxC9rOfdu3myFDV8GJE7GX0P0oegWv62TOA9yBAeCK5qWktsYWbUx3ZdtoYi8UuCKRjxp-iOIEFuMTnpwC4K0Kmqhqv50CGsH1wm5xSQ7fKezk4jKr9wnXCyvqd8j1sXDqYlMdSqPaaSecUPkedWRVyJuSimmMrmYMUGw9w98z8r3U/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJFaGfybtTO4gRwGmWL3Jpc0k/photos/AU_ZVEHNTuFOGX5q9Qi2q1lrQGqJCsZ5O8_Zbhw5bWUqYxmjgLVoHuJbjBaaUDtXRiXqxmUCj65fk_BWiCT4YDQDI6DkPW4bPBpOxt0hn5tdPntVCwjaeVabZUYE6utJty4F1z0D49naX9zUFcmid56FeTuy9Am4ZrUoxHAtxb1w3PRfgAQG6TIZYoH5u_dRNYkA9LCpAujhSzBwn9xFa1JFiS0d67hZ4PLGS_HIUUve1h3Q5AQGwzTn7d20If3mxHiJBIoKo7ERAL5jK0ZTDfT2WiC58Kp_bnwwK-OXmLZa1eQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJFaGfybtTO4gRwGmWL3Jpc0k/photos/AU_ZVEG-8Wn-AAw0nARRxrio7-XD_zp-cQ-QI54yLeGqteny8NHrxMOxKGJfwWWl987Z73V-rraki8yj991j6alA2QfkG6yu_mEbep-PYP-HM2oivolNvCQ3KYd42VtzFzZ_6rtoEqx3ElnBpMDlgVdVE33F0TcOEhgHlAoM5GyIlGZbdJlQMhizySBi6gt4dZrmfjkiUxp6lrWiapx3J3uwYbUuinNCAob7NYKdEx2Eq2z8rp1XWbfk4UZrbd9uQ_ZipFmpp1IotUY9tnTtUR_d8YOUWfLYsb5JY9aC1FcTOp4/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "The Kitchen, Inc.",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "35445 Beattie Dr, Sterling Heights, MI 48312, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Detroit",
+      "postalCode": "",
+      "state": "MI",
+      "countryCode": "US",
+      "website": "",
+      "phone": "(248) 545-0641",
+      "phoneUnformatted": "2485450641",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 42.554326499999995,
+        "lng": -83.0408023
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJk9WmTwvbJIgRhuY7B9fryOo",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:14:45.291Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "7:00 AM – 3:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7:00 AM – 3:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7:00 AM – 3:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7:00 AM – 3:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7:00 AM – 3:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJk9WmTwvbJIgRhuY7B9fryOo",
+      "reviews": 7,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 7,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJk9WmTwvbJIgRhuY7B9fryOo/photos/AU_ZVEHQYVPnDekkrqkZwuImWxVQjOYE2w9y-W7xbbJRwuEsBuRnqvQocq-kK2vY2lV1nzlJZeY9OYo3GS2OvQZxiOLvnRD_Nlon0T3FWsSx7Vw-Iif1Y3e5OcrIiC8M_VR2JLqrts3lj9zXlhgDMOgPmxY1OaAg2qGi_9BpYhXsU6kdIxzhHiHeCuApTJienopkemB6iT1_tbg7EthAhYStQ6K8S1N3qDtTpedRfjlvdXi2qLVh-P11cdgPNzPVE5sOowEfunVW7Mbgm4nlt6VJ_Whm8hYO-puydBOqdN1qurUW-g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJk9WmTwvbJIgRhuY7B9fryOo/photos/AU_ZVEHQYVPnDekkrqkZwuImWxVQjOYE2w9y-W7xbbJRwuEsBuRnqvQocq-kK2vY2lV1nzlJZeY9OYo3GS2OvQZxiOLvnRD_Nlon0T3FWsSx7Vw-Iif1Y3e5OcrIiC8M_VR2JLqrts3lj9zXlhgDMOgPmxY1OaAg2qGi_9BpYhXsU6kdIxzhHiHeCuApTJienopkemB6iT1_tbg7EthAhYStQ6K8S1N3qDtTpedRfjlvdXi2qLVh-P11cdgPNzPVE5sOowEfunVW7Mbgm4nlt6VJ_Whm8hYO-puydBOqdN1qurUW-g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Eastern Market",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "2934 Russell St, Detroit, MI 48207, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Detroit",
+      "postalCode": "",
+      "state": "MI",
+      "countryCode": "US",
+      "website": "http://www.easternmarket.org/",
+      "phone": "(313) 833-9300",
+      "phoneUnformatted": "3138339300",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 42.3490499,
+        "lng": -83.0418984
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJq0mQsdDSJIgROAyTCUvrVjg",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:14:45.874Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Friday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Saturday",
+          "hours": "6:00 AM – 4:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJq0mQsdDSJIgROAyTCUvrVjg",
+      "reviews": 3823,
+      "rating": 4.7,
+      "totalScore": 4.7,
+      "reviewsCount": 3823,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJq0mQsdDSJIgROAyTCUvrVjg/photos/AU_ZVEHsifZl8ffxV1cinj6CGiV4aWAw98Vt0DX1Z1QX0trMLkduxDPvLljdWFgznZSBEUTLXGMUDY8bTrlV-SLiVcQIJo_H1BhuoOQ1WrBBZxz1Ac53oP7f-yiz37TNr7esmjhKdYblOPKQKaaeq2p0NPNUe15PFdmDG2S2q6JcwNhU2PIysJwpA9NuA34dFpcB9wv8T3itLD9YEM34ANvOOnM2xnacFfP3Ezgu_PwYWpPMN7WSa_alj3wWPJUo6RC5-86nChO2yse32hbFyKmBscCQqLP6tR6DD5y-VzuPM9sqow/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJq0mQsdDSJIgROAyTCUvrVjg/photos/AU_ZVEHsifZl8ffxV1cinj6CGiV4aWAw98Vt0DX1Z1QX0trMLkduxDPvLljdWFgznZSBEUTLXGMUDY8bTrlV-SLiVcQIJo_H1BhuoOQ1WrBBZxz1Ac53oP7f-yiz37TNr7esmjhKdYblOPKQKaaeq2p0NPNUe15PFdmDG2S2q6JcwNhU2PIysJwpA9NuA34dFpcB9wv8T3itLD9YEM34ANvOOnM2xnacFfP3Ezgu_PwYWpPMN7WSa_alj3wWPJUo6RC5-86nChO2yse32hbFyKmBscCQqLP6tR6DD5y-VzuPM9sqow/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJq0mQsdDSJIgROAyTCUvrVjg/photos/AU_ZVEGgw_UYLL3yKcvfzbOWkLNxNVauNkZs_CVO-Hel_J_XLD_S_CprYEzKLsAoKcZnhf39xiDq66DVUZkHC9NDN0D6yd_Wmu9VXr0ML3pozF0UfoL4c55D9p_KaytKTzQgXGE5ges8XgtMCWqdJqDawmkP3KEc6wBtmFymwCna2SZm1XUCahmeoIsEwNu5vzso5TBZrFB-8hYVfqvYWIpaha0uqf9ar_vQpG2Ug-k2sPj_VZJsdQePdX9EY5Il-2HL2d9hnnDIan-N108gAnovELo2v7kRUTYgtLOCnIXFJUadcvChIRFO0f1KNmPDKLUezm0Arp8rEGvJ_OiroR00up8u51GGnDkxeN8dGArlG3Pr8LZUzonvN0yArKWb_TlGY1wVPSF8KO3PPLvlXr7toJU5a8MiouwmgFK2RUFyolsBNGbE1uASbuhur6IY2tGS/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJq0mQsdDSJIgROAyTCUvrVjg/photos/AU_ZVEGXvEe6Z5kCtSdb2AvyI9_G7TGjCQSoQliZorXzKafbVHxliqElLih4YrOjUpqCq2d9_mdaXQon9iI8L2Q19YmZggFgaCEnaeiUB0-wI6bq6hvazqRGtqdqrcFnzQyDgUU_rYAK4CZ5-0ZIiIV-CDiezg_7-EYXChMZ8Cb-WG9dq2Ah2h8SJyODurn-JZ8gshlCU_Hh6Y51QUT31S2y3nDHDnS5ihXMc3zKTqzIw_DbbqkzmcP1rF-xJHFclSDKOs7aT6ylrXIlGqFg68VEGEat0QuIHNApB0hv1DQjzvM1Y8CsgZ4fzoOPUo8OXm_WCURju6QbDkEzeTHr354O-aoCeYlNM56UTXLDnetZIzENGkQdCgqExnSpNk9D8sknVUSi5I3tsvRAz7d1jSvgGBnKWreJFB8_n5k9OqWqSysQB7U/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJq0mQsdDSJIgROAyTCUvrVjg/photos/AU_ZVEEgmhqXNpmA3MXEi9wKPk4p4H3QA8SvMyAShd-2DcdKSrmnly6UTgPu_ICo43ZHmb_dRfpFDDUPUmK1JMRZm2cgpn1PHbfdfOIupkw1dXHxVPCowp-hwL-x8nbOu4QmCJ0gdgclz1inrpB8prqOAk9bGpQonn6Zk-QhNa6PkGVFeY72DLRMdnFEtTE8i6PH8Yigi37Yut-mguiseYeLsGkD5TdqoRcpWtarZW8j5l2EFNvLeA1fKE2NGaeVgfHU583E65opw3FtcQBWYvReA0aaaEn_dltlUmA9pOa3s5Dlb4K3hxVmVw4nZ1F-tmcJiKRLjDDJWJj2H5wA8G_gzEA1FvajWg5p4Ku-yDzM6YCZRIjDz2MychTTgm-EKICouBVWnlyfJ2KQx_ziTLwDaJR6MWgvZDuXXc_B5YOBGjxz3A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJq0mQsdDSJIgROAyTCUvrVjg/photos/AU_ZVEFcgFGNlpaAed_zabdpxbMSeGY7tqUC3_bOkl_0ZP_sLKn5LoLusP5Frc3aMn3VTXAd1n0RNHFOrltbYFN08WZFUVZNjHhIPHgosG6WndcSyep1pAo-N5ZHVgNMFN4LqIJkfWsj-F4_jQKE8rFpfFhaUriMOb6EsMdwTmlX9TpwF88cX7Gn-ER5XXlemyHklobdT748qdDszxK1fX0KKS2UBsgF0a8d0n0H00DoCOn7dDgljHCKi2horQsRQEdjB9fpSm1UHzuVYQQbo0u_C-k4Wgz2dnLr7C16UngUTwtxLQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJq0mQsdDSJIgROAyTCUvrVjg/photos/AU_ZVEFjUfKauZ4QDAcL1K1GGfHTJHtOY7zdsvrjiELjVO5WK38o6SruaDjLvnSqXjPL8Ujquo8226k8riVDv1nYlCbkc7cCnfydEk8Z-QTegEWt9E5jjF2WKGP9yXeCi5O-_J6tPHtGZ_pgBnt_zJ9Am0XsBy3r3j3ft5XI8Y-VvQqVm2ECGu0GzPJSH-xW78LLQ7KaFuAZ5hoNe7B9wKqbpfO1Imc7Rn21ZuLA2aNZ6QI3JL7-MQUFJH2UFDXl9VvxFDEVBQGtKom2aDHSLypXHjKnVYcHVB2-PIa6Yid8IOCtvghLQBPRJYxZpVl4cK6-sqb3kAwB1QAZGJiBSmh00eYcrHMbmybDUvIlYxE_CbglSNN4iTKya4Qp5uQXCWcusOaXPLMIV5ZuUCaWZFMoFM4Xz9vDr0vwn9EeSyZOxVQRHFZJ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJq0mQsdDSJIgROAyTCUvrVjg/photos/AU_ZVEHnpFgP-VUNE4L8TBoYssJNX3d3cpvWcJyjplSyBqAikuCd5IIGKrkJ6-YSOKsYd6mgjZQBIcHejqeB1cpTihxzupAMCjF1rxgZBsgIrmSn7-ZnBL9ZavWu1yANTCVk2L2eMlB94i4MrSz-A8Mu115-q8Lm8eIUzJUI-cfRGkNlcdLTzbR8BBX_jMKwRGIx5DzjjZQ7_--4ubzmorVfcXyLJcrDQigSNydaCTGqcmq5BwXJfXh5lAq6kVzhNaKP2-Yo-WkpQO9S5KySN2GBQ5IryGbPJd47W1ebxWeSLjrXsN2TGWukESw6za8ah79E4ZQ2piE5AgOqaK7kUsmcIsQ8zmueEccvgttjaj7aAYtIYbmrbOGxt_dpg6DhzPuTLygVwSLLkOc0JJlMbxr_58Bmhl2NvashQVMACWQTE2POGQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJq0mQsdDSJIgROAyTCUvrVjg/photos/AU_ZVEHhM1KvVsGkMIFKGg1qUT-YTkZVFfe_N2yte4oMVhvjYHBGCO3Vn3IJZr-qa8OFq5t7gpL0sYl_rcqSYwgJJHGbjMKgpjgIea5gfWGA5KKIw966LjauvFOmqAzzI_OSVhBiDUJOogL19LDSCe0r9hsxPpAkVvq0oyynCw5CbNJJQL36OffYY_lkPIrM6BNh5kVAPhPgr4wsPB1fF1uUl7hxX5CJGLvoKg-yAkCOywFTyZqC3PaO94tP8dGcXt6nUdJ8UAjxjxFZSYWClMvZxVcwsD5YoNUa68WTtMZ09kIS7WLj0AT-CZEect7ARxoOnZ0rQWGVs2gTyJiIZQ44Ymo6c9t7hxF6gN1PHDo1UTF67Tu_ssTEXSI-MJpinM07c0pjiKFd5R2NxkVeYowv9rSF9I2Tjn4JQOmV4cxK0Z8/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJq0mQsdDSJIgROAyTCUvrVjg/photos/AU_ZVEERt7k9yU1NxBkntS02hIe7o3oeVnFtE0QiDCsgMIgB-CniUIPYNtaD00fpw20VjD9uXJzGx2a3rZbq1ewdOn4dOogNplvSk867n0Yas1nvmrV44JFbeFvRVud8aPIbNQLj1M4NrYfPYfHgss4ogtwZJqyVPb-qWOiD_QxwC51w2zKDHOGyixquyxEnHGtCoWIdQC_8xNUNd20b-VRW5OUqDSnJuCPp8WZKRndxGaR48XlqcbF6mua6zBhdRWgjvumfx0A3sHY6v1HpFLf-NJxxad8X3Us7CqihMgL9p4SJYNC9yhTtfgNV7h3jNwuzA1snrmKkUjL0tZG7HuJpJpp1srQrPOr5YjbdnxwBheA73X9Oep4ZEArxM7szWFNNYNrFeMmkylePBT0MG2ibDd1Slyx61pGrd40nC_Qt1bPXaA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJq0mQsdDSJIgROAyTCUvrVjg/photos/AU_ZVEGPHho-fynmYIwrI0r9G9yKkSg3yX4-teHa1QOucY0sUsSPl_IkmKKoYv6Jxqn_7Be0mPsK-SNR2nXFG-GQCKbLgAfA_uLuEjrFE7OH_ckjnbPDYvX4zS3LNI4FrWLKnLi4GGSQgBh_GnFMLvp6pZBF2ufuiRSWizvGCRwmH1Pa1Qo9FsCqYnY4hO8pt95sQrLwIB_VCwAI9EowNVRZLkDPzONXraz0heisu17DfQsM5O-4UkFooav1RjXKfPTHHwEqq9kBvvMeJ0c8kH06BvrSxrZoS4N8StGuiFxaULBjzxNChqQ2h7JhIo9_yA2BtjvfHtUwm6q53pHONKXgzlfa8-D8gMRBRR8l0fyImvbVXl8iKlDhaaon0d7bIXLy_lYyKasu9Wq7o5QbV2bwsYFy1oTDHQulQnOiOPgSV-nw2n4u/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "The Kitchen by Cooking with Que",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "6529 Woodward Ave suite a, Detroit, MI 48202, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Detroit",
+      "postalCode": "",
+      "state": "MI",
+      "countryCode": "US",
+      "website": "http://www.thekitchenbycwq.com/",
+      "phone": "(313) 462-4184",
+      "phoneUnformatted": "3134624184",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 42.369479399999996,
+        "lng": -83.07305649999999
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJia0svDbTJIgRfO4vFqNRPqA",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:14:46.250Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "11:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11:00 AM – 10:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "11:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJia0svDbTJIgRfO4vFqNRPqA",
+      "reviews": 282,
+      "rating": 4.6,
+      "totalScore": 4.6,
+      "reviewsCount": 282,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJia0svDbTJIgRfO4vFqNRPqA/photos/AU_ZVEFuJBXycbn2Pmxu44vzX_AWYXxrVZvXIIxx-ex_pNX05RFG7JdeLMZ15UAk1oT3drlWIzx6EnErsPBgpSoYoVE-P0Snx8YKSCaK6aRiLNaeD0C7bZJbX91LKSmPpnwl7IV6qDehh_msKdfiJYPJb7Orl3xvVjhtiypq_zj9QmdaW_tStF08Zp2UUhtQhaMMxiRCcaHISGfvEpNiuao06jbrTQUYRUH6Hot5r5HAOjl9dEqunHUQMW5l6UcoBfJyIe574M--1yUH2OUkz08Y5KiSoSlQZgqEImplXUe9KOhknw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJia0svDbTJIgRfO4vFqNRPqA/photos/AU_ZVEFuJBXycbn2Pmxu44vzX_AWYXxrVZvXIIxx-ex_pNX05RFG7JdeLMZ15UAk1oT3drlWIzx6EnErsPBgpSoYoVE-P0Snx8YKSCaK6aRiLNaeD0C7bZJbX91LKSmPpnwl7IV6qDehh_msKdfiJYPJb7Orl3xvVjhtiypq_zj9QmdaW_tStF08Zp2UUhtQhaMMxiRCcaHISGfvEpNiuao06jbrTQUYRUH6Hot5r5HAOjl9dEqunHUQMW5l6UcoBfJyIe574M--1yUH2OUkz08Y5KiSoSlQZgqEImplXUe9KOhknw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJia0svDbTJIgRfO4vFqNRPqA/photos/AU_ZVEGcTGu_4QNbFMBsALyqKPQ8xXZykh5iUmwjqY_qR9QfoubImyVPr5KvC_GTsvQZeKhRzScg8hVYYuSoFENFSB0BsLrv1FnNq7ZbevGDcaMflB80sFkGsHSkf87K8y4uqXuXyUiyna2P8lEm1PeYu85LlabI9BhQ9-aJAFQ-dje0_ME1MRPXcaCpVXk5ckrvJe3ku8p3JO8RIHyNm1v0Ead5PGXxvJst5bdqvEadLYMuk89AXNhWxebZaqC-Sz67VoIKhi3RlRZh7mZEz8etK0oYim3dfOzHTsuuXHK-yqPr7w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJia0svDbTJIgRfO4vFqNRPqA/photos/AU_ZVEE9p6TDRgWKulY4Bx_lo46mXRjvxU1ARvPoENEcGpx15Q4z4lrmNA8-dWzrYY9cio_EaNG0o0V_BY4e197QOxlCjq6pM11rYqCP9m2I9HBt-n7c0JgyASAbMXUKJdZvUxF1DsVUS2avOKD9QfUm6g5CIk23bO6_pbZ_934jz-Z-D7P_04W7tLNWXotwKUq-AAaizpydR0meun4IMfMrgeseaMRIdNj0E7-5NRWgv6uDFjG6OYK3-ZMRGR4ideT8IiSkmRfEBTPec5sHVOJph3D10NXfLJ4GuoRQXt1Wlh9ba31C-uOpmLpcW2bx0MrGwweXYzem8ryEjobdbQ9A5WCpZpr9o2exWSOlRK6P2QB8REIquaSMeiRbmkV1O9utzZ7qLsADgbMAw6FR9VAJ68OfmLhDIS81kXzjyantc-rGYxM10JatAmybI5B-ZP_-/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJia0svDbTJIgRfO4vFqNRPqA/photos/AU_ZVEHdzLelxBOObAwHCF4zjARDkn69y3PufDJEP5wE1b2StjQAf4tAXOVOFJEkikKh8aEaC89RBDa-qR6Am-lJZAc8VZD9_E1loob9vPweWSntTl5bfkhssqXELS1iOZCnl0gfL69UvZx4AwETffnYXGl6fZGW9-CulApbcTN6C-Hd_gJA5NMeKDpfA4FOwwPsDwsQbR1SZiQpnujttpVw8hb4VtbDdBkVltoCiw_A8oHu5TdQ5aHBmJdj_VL3ynWCqeox29qBPNYTMzEajM8b4Dr1Ak-nCkawB0edCPEtftvJ1Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJia0svDbTJIgRfO4vFqNRPqA/photos/AU_ZVEG_r2TkglypTaYiAdEJ88eeT1UZUsySxK-4he4twvrirSiZqG33MEfw9OQ8zCQjJRcr8xF8wceIUxnp1kzsR4nEZN5ku_aZXGZxj9rx1ywN4s7gCrKfmum0U-gsxfKbchat_Uow7O2Y-n4yTrsv8KQSkhQCy--n-ZAAZLsHtbieZzF6FWr9g_vf64pN3K0VcE_xldOA32XDjeADp9kCizq7xR1E877WUQtQCToNNHqB5WkNax4xSa2NwHSzgJw_CfCTs7JsGbVfcKBbx8g3Xm-Ee8_nwa4D3G372KGPKuljCT3kTqwBBjqD5CF0iSeWnBy-jlQb6gigS7wV1InMfQfeaFk4KUTJorgBmVtVW9GvOOMIDsg1IK-m_lXzcSZfZBG6z9aYzXshgOxJGdQwPgmUx1Ik9AOdG42HkpNKo-rb-uJp/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJia0svDbTJIgRfO4vFqNRPqA/photos/AU_ZVEEIuxaVxZV_yUimev2iUl_yWK6PZCq4prFCbtXuNYN8dKEoRXwPRQAim5CjyWnQGz6IFq75R4P08-9F-jHjodRMkEoG8sNGBN8_5ULHqW1GXDxITnuATfx1n2-UQH3d2wzOHWOQUYhL9LCMtP9RbPmlS2xawvySSEt0QVfUEpIIS6UIiHuRVLCDny5ZJD8e-geZECZdNymtr37haFDhtFZhyEOcZ4JdBbB_Z4BwLZ5WUVKxtj3o7N-HiV591nY0uqc39CYgzBx6mBOswlg_X31dkqYt8_OVPQSdNGwbn8ogGg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJia0svDbTJIgRfO4vFqNRPqA/photos/AU_ZVEFvzMrGKBuiq2nRqQye43GJlfq334qqijlu8GYGP3ygTTp0T64e0UYsaLL7WgEMVUNBo_STG2YdEj9Oa68eRK4TNZLCtacEhfWfCvg3k8sJoY5EdlKlFg9OiqenW1s5zecdjA2SNDxE52EgxnuYHGVCo4bDqdv7M9cYa6O1cTgLH8n5ZtEYt-smnP4KvohhBjTIVrREc0mwpqVWjuSEPBLl4LviY8K4KPiIdz_wVFj9eLfypPidoNN-gW9OvwkQFpDytQEMR-aJdLjB3hurJB-SPIR0EBVl3nPnd5jJ0sUKorcX6SbTxnjtuofgTRvq5reWMnG8lnagP6P4svzIS-zqq6KXo6ZCTsWbFTPHG0eD-1JaTAHGn2lHmnUwdsflXWDEqJg8faRtiK_vkQvzJej-BXwU-T-C6-bxuM3j-9tAFQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJia0svDbTJIgRfO4vFqNRPqA/photos/AU_ZVEH06pQMlotkJFOlRR1GqTNAlDccrQPZkyWr8b6V-SSg9WXK9jNDZjKnEv_Xc-XK2srETNU5k9TiXnscNmpcHnJCGFu3CBsJ5bkvixOFrU6mEHwxW1hkVXNa-1umGiyyTcXOrYSfpcdm0W1G7WkuWlX7R0Y1e57Vg9YBvC6PE0Xqvjkn0sLepg4yPsf9oI5om7MoGzntiMz9WACL0dAq5hcrwhf0eVEdOadbSMRy4PWad8UXxPsU0L0OGAiZR1k-VQfLt1QiATkrZXIJjN4WUM0ZkvL9fmN3Kdve5ntmNNbwrk9Kl2Ers_4JjKLH_EUr3OMuvEO1D57I3ompGDk-qfdSXsLezCp9G6WafeabqROsChOed8HgHIdv7Jm_4Pc94Lk4BU0l-_Lac6ggs9bgojwArA2aL0WVFPu8Ji0orJ7Xhe8q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJia0svDbTJIgRfO4vFqNRPqA/photos/AU_ZVEECF1Nqkjfj5xlkMjG-gvvRvkCAI83yAWBltPW1eAiT6tEe6NU79qyutj1D4b46HZHqaJoaHkJdb8mKZ0p-IxPvHAWdArkkJWUExhL0-jMzq3Pf6Izr7ExQwTLfzLoqyshy-plkFx0TNObIwHpVC3RtgV990kvFleNkQc7rRaUHU7Hxp4nzU79tqAr-AJYy5j__74mmWMW-GnyvVnQg1PU1t1YG3I-OiKn-VuPDeyb3m9Ej5pverMjUFnT0iI3oodb7wkTouyNJAANlHeIU76SuESyH7R4HmFvl8QDOa_EhkpS00WPxigj07Z0XDi_IfGC8zjWibXDyY6pP__mvQ96_FRCHndTh3h7Viqwqcr2Os5dnP6Bp13NsOiWfF5CxxvWDgMJ8Elvz0kOTr5Eb3v-RnAlAE4eIr725qO8mY9eZFw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJia0svDbTJIgRfO4vFqNRPqA/photos/AU_ZVEE8vQphhHGXcucrCeXDAb67TzN-ihq4S1DNsv46xWu0wsEDOUMj96PpwRewadWAbZHv4K1q8VCRp3V8xcA3k6umHBiAYcJJomuHUWq8hRyDRMDPVCRfF_9XvkDFIOAIHos-QSU596Yw0q6yAnl_bzJa5QwIiLFJcIiA_ZlTxrOjz9oVvuTBEFjRHC1NiXbzctGm2q1g6cbXZ0qgrXIcp56M4SJ_3HqiRxvjVESwtBJOdDuuGwIKDhj1drU_OIPeelx54aKZIPUlJpnOrOVaHTrhEKQgQDeMNIUHZAt7AgSQdpM5FbgDcKxxUjVnl2Z5BWznDN2-T5sA-BCu6HomymRw0NBEuK4Tf64b90JgjI2ORmGyrVx4s-Fn5yqcv68gO__dDO8hjYbDMiVrlt4s1VcPv2RGok2x3JuKVhlN8Jw97g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "CloudKitchens Detroit",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3181 3rd Ave Room 1, Detroit, MI 48201, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Detroit",
+      "postalCode": "",
+      "state": "MI",
+      "countryCode": "US",
+      "website": "https://cloudkitchens.com/locations/detroit/third-st/",
+      "phone": "",
+      "phoneUnformatted": "",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 42.3426525,
+        "lng": -83.0645521
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJoRCBDL3TJIgRfE-0kIFnZbE",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:14:46.521Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8:00 AM – 5:01 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8:00 AM – 5:01 PM"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJoRCBDL3TJIgRfE-0kIFnZbE",
+      "reviews": 0,
+      "rating": 0,
+      "totalScore": 0,
+      "reviewsCount": 0,
+      "isAdvertisement": false,
+      "imageUrl": "",
+      "images": [],
+      "verified": false
+    },
+    {
+      "title": "The Original Meat Commercial Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "2934 Russell St, Detroit, MI 48207, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Detroit",
+      "postalCode": "",
+      "state": "MI",
+      "countryCode": "US",
+      "website": "http://theoriginalmeat.com/",
+      "phone": "",
+      "phoneUnformatted": "",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 42.3491815,
+        "lng": -83.0419692
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJq6rasdDSJIgR3KIlrZr-syg",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:14:46.851Z",
+      "openingHours": [],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJq6rasdDSJIgR3KIlrZr-syg",
+      "reviews": 0,
+      "rating": 0,
+      "totalScore": 0,
+      "reviewsCount": 0,
+      "isAdvertisement": false,
+      "imageUrl": "",
+      "images": [],
+      "verified": false
+    }
+  ]
+}

@@ -1,0 +1,1058 @@
+{
+  "city": "Charlotte",
+  "state": "NC",
+  "kitchens": [
+    {
+      "title": "Brookshire Commissary Commercial Kitchen Rental",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "4431 Brookshire Blvd, Charlotte, NC 28216, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Charlotte",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "",
+      "phone": "(704) 388-0202",
+      "phoneUnformatted": "7043880202",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.2690779,
+        "lng": -80.8834748
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ-wyOs3ihVogR_bDwGTOfZmE",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:25.299Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJ-wyOs3ihVogR_bDwGTOfZmE",
+      "reviews": 6,
+      "rating": 4.8,
+      "totalScore": 4.8,
+      "reviewsCount": 6,
+      "isAdvertisement": false,
+      "imageUrl": "",
+      "images": [],
+      "verified": false
+    },
+    {
+      "title": "Carolina Commercial Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3500 Latrobe Dr, Charlotte, NC 28211, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Charlotte",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "https://carolinacommercialkitchen.net/contact",
+      "phone": "(704) 366-6100",
+      "phoneUnformatted": "7043666100",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.19719690000001,
+        "lng": -80.7999375
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ__-PkA0gVIgRJboVgsXyWIg",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:25.592Z",
+      "openingHours": [],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJ__-PkA0gVIgRJboVgsXyWIg",
+      "reviews": 2,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 2,
+      "isAdvertisement": false,
+      "imageUrl": "",
+      "images": [],
+      "verified": false
+    },
+    {
+      "title": "City Kitch - West End",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "2200 Thrift Rd, Charlotte, NC 28208, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Charlotte",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "http://www.thecitykitch.com/",
+      "phone": "(800) 803-2514",
+      "phoneUnformatted": "8008032514",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.2340576,
+        "lng": -80.87282019999999
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ9fKItgOhVogRm0V-egm6YSg",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:25.904Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJ9fKItgOhVogRm0V-egm6YSg",
+      "reviews": 90,
+      "rating": 4,
+      "totalScore": 4,
+      "reviewsCount": 90,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJ9fKItgOhVogRm0V-egm6YSg/photos/AU_ZVEHvTkC-XeYXuY-AwttiA_3Xap_QdmkCAfMqcI4dmznNG5AVTf6hw3vJyKrIRFmH6Wsq3NVQap_f2I5h-gvnbJHgoUHUI3uZkUnT6FxjoaEB9h-iB4R5ohzU5vG3dMksSFODaufPbkgAOuaddIfg9DiruUA19jc3yuCCIRfXnuOCc_dtic4C6vDH0v2OEYCjk9dgn-gS22A82yF9Fq13sGTb-CA0MymewPK_cfCgFkKeE5MQJ3KQBtZuOdOqbeTZnyMdsMHLKIHr0GZx6iLisWEDH71X7EGOGe1GMSPh7eMQX23vczBht5kB2zHUmNZFMkuAeaoqf6PlmEWiZ1fUghkMmQSGJNF07raaoY-SpqiEKJRVT0AlFFZpAjphAOL4zin7AjW5FxK4XcULrZevvV6rsMcEaZYxgbr7wKUoN8Dysg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJ9fKItgOhVogRm0V-egm6YSg/photos/AU_ZVEHvTkC-XeYXuY-AwttiA_3Xap_QdmkCAfMqcI4dmznNG5AVTf6hw3vJyKrIRFmH6Wsq3NVQap_f2I5h-gvnbJHgoUHUI3uZkUnT6FxjoaEB9h-iB4R5ohzU5vG3dMksSFODaufPbkgAOuaddIfg9DiruUA19jc3yuCCIRfXnuOCc_dtic4C6vDH0v2OEYCjk9dgn-gS22A82yF9Fq13sGTb-CA0MymewPK_cfCgFkKeE5MQJ3KQBtZuOdOqbeTZnyMdsMHLKIHr0GZx6iLisWEDH71X7EGOGe1GMSPh7eMQX23vczBht5kB2zHUmNZFMkuAeaoqf6PlmEWiZ1fUghkMmQSGJNF07raaoY-SpqiEKJRVT0AlFFZpAjphAOL4zin7AjW5FxK4XcULrZevvV6rsMcEaZYxgbr7wKUoN8Dysg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ9fKItgOhVogRm0V-egm6YSg/photos/AU_ZVEHEdXetR9trUW9xR7cSwaIxxregmonsZA7Mlgn5Oav9Uwn8Q-t8wk4NsPtuMqzs1b0_4A_cKuyEG_UjZmdRAko0Lur-hB8LJKWW-MX66XAfL9rrwPqizTfih7KAgQBp8jIdRPU9Dm_bo6KtAtVrTa_HbEg1Hp9WjxSQNQYRnqrPmCan4qsxswhi2-Q4bwu5r4gJCRhAJ2nKaxPKdMornmoYdXJSf_Lnb_1AnRx2CLEJgtUJlDdFCeb888wkQDlrhJ13YcQMbKYyPykjjNceYp1ehfOZHL3aEMsnY7qSVS1FoA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ9fKItgOhVogRm0V-egm6YSg/photos/AU_ZVEHusz7UnRSqNPg3mQCQ9JaajVLSVeci8UD7lCtGkcWES5KRiM-E2j2coqP5nilB170GHtnvP9gM4kX3rMVrcPaVywMreIoPVTIqfHMkIIZQx-BB73qvkfKP0XICcS90SNX4O3YTJUgKo2dj41Pr9h-pxTGfOvjeMWSdQqKkZc0SRBCUe0566Tk3zxy4RS7s6vlpVtW5IyrJ5c9GSegU12FioMAb9OI-gtpCjftgHwbu0xEfRyQR-zH0zTfX7miWjbUxhIA0LeKY5clbFKUJ8fQsGbRYUEZ1Mzsod-jqN1A_xg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ9fKItgOhVogRm0V-egm6YSg/photos/AU_ZVEH6OfCSdWNesiqx0E49uhhwT_ZkbDA2dihNdJ4QIwqgkEiRAlm6-wC7IVsv8beMxm5adLhoKEm3sdXtGLbXHyI48zQMdKg2MkqraBsjVu-LQPGJYbRH7c0wT34gePHqN7TZ-Ng2zQn-asy27EWWpKF5RzAjTh45U7BGr0NcBBq5yRFToadijmhGBNFpF_lY8tQJx_BHPpPbnG2c_1_h2ml94MtPOM85fMR-FGeN74Jg7a1Pmtgje11tNX5FgFdNinvdihVrru2szPtvuKnfGi5apBtY2AlwyEhAAixQpoSgVA2XuMRFP9mzxUxzoYm4YJ5dpxhUamqueMrhq2vqjHEjrDrGjWemp_RHriLgROgM9CNntSP-_yVzWk0v3SoKjZP1TE9mWqUb9CawhhG8EGuqHI9M9chMOeb5pQPYm9-hQw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ9fKItgOhVogRm0V-egm6YSg/photos/AU_ZVEFboILEgggMg1rpMse4Jha1A_Fg5XsvxSBXjFgYLKF_kus7Jm2kNHBRMa6F16i-fmYsjcY84zxZE30QBfABCgw29iXAu-aFCa6O_FYcrDxDBAyGgMvzsSSt7X53jqmHEudMM5ziL5Bhn6Awc0JIYRqigK7NiXZCrsFJBogHK4dt-WDArw_jGb1w4bGT1U6cr8k2VDffDcg6u7Okk9ocD5WcjPLYEBjEHD-c-aTVXB2qyXvj6mgQ_wIPI-VJC9KY3IYRAvTzsQwFnN4ptfFkbtyC5TyOLHwJRfi2AAMlTJfLjw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ9fKItgOhVogRm0V-egm6YSg/photos/AU_ZVEHSmusMG7jRtb4LKwtJs566754B6v1Sb0VG2Y7opAXOm4luCQLCUz2wwXXWkwKOp2ZqcLk4XFlVRX7_qZ3qkO5KUyXK8XTWJ6dJorBp_1gtBltA281o-Fhfb9kWkzHayqTID0Mzfiz8YLrArkE6Rou_DsIU0deZfRsVFP-rA_I7755jjNACOxHT8AAoEfb7Ff26dqqZkogaB4g72kXoL634PAf4OrzkF-BOas4W_SG-2Rr2tZJ9EwiRLcoBIwr9FM3Q0dWnqyYcZdCkztJkDYeN0FFkMUrtrTCmEbzAeN4V5oivHHwD4sS_EuHaokPXqHTds9zuIl4q2oJeErKrQeNXWpH0E84paEnaKq3sdQxXimlv3yCm6YzVXp0gXoQW6D3lboN8sUJ5uFrHBdv5xOTpJ7kVFcFitNF9th-R2BsU4A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ9fKItgOhVogRm0V-egm6YSg/photos/AU_ZVEGJ2QQpdO0kxdVdeooLnL_zUK9l0UjlvLvwAsjXYRdzvMo_Yfsw2T2Oi7tKNemyrTLyl7xFvkxdo1nl3gz0CdahGEYyG5LFUs53AcL8JjYmQlg5CctLzmh5AZZT4B3cTCHmyIfmkcS4SUJsotqFSVqiQsRbj_N0vEnMWN2os-HVtYUvphMaizhoxU-FNFDXmGu_wk695hZwi0OezH0Ryf4AROq5ooLfK73_fXuiytAXqIw0QOP046S1C3QdFzcZ-AkTVafBk78pPtXNkSeD_8aviOlsky9FRbFa0-hDZRVMgw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ9fKItgOhVogRm0V-egm6YSg/photos/AU_ZVEGHahhOjd3D8LWEzbhKZiwFILt0qGiS6hcr2uHJnnNQPur6tdwv-x0PsujwO2VxcAHeqVnnr3vM-xYBd1MTAJ9-YrzdeWvLoh2FxgSEMr7EqeSTe7zgcZFD3eAly3qZkitN9qlHlYictB7aeaNrPOfeBUIhBFDncfuhardD8tvW13ZS5Dml7tM5NbexhueZuWYzu7JnoIRJOlhWc4Baw_mwvg6lUqvMnF2XCsEBAMzvOUQrxX43XC4cQHVT2oheEbanFuAuHx7YjQrWOZ3VG4REFuTyUY5q43B93NdqIvY_GA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ9fKItgOhVogRm0V-egm6YSg/photos/AU_ZVEGexG6vrLqhQpevGMiqxznOGLdNdhZezQwDSmnv3HuAjF5_077mO_hnmQRApkSS2ETk24uw6Z6AWk5juKOupKPeWIxuYqiF2R818JORhjLNMXkS96z2bSutciSQKgVgdSIMlEWBv6lvO1fiMAP8dgI7tmW-6rfzKFHZzZaxuaOPIN7a1tdZmMOvbLf1B5VA3DX37BUuQCE6kkPFiXCtfc_zFAiLTS_FizbdAWm7hzCAgbq_rl7gxYuzllJdtgPAn468OpH18E9-evgLEleKsCiBhrujSxWJ97vwvn97vfEPtA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ9fKItgOhVogRm0V-egm6YSg/photos/AU_ZVEE7hUmPHGyubU546JWAarlVvJBk1cUQH1_2tFvxBbbg5SSMAMsQ-6twfbJB0FCegTPIb67R_P8A8VY2hrwgp4kcAyPNVMgUoyrd-CnvbQ0_mBRMwmaku-gTUwjeh4lmVg882Lyxle2TumomORWosL4-jicwwj2PMEFBBGzHMF-4A4snPADEY0wEPbcCIYYU2iQw344boWKtXmbxJgp_h6U_2T8S5lHsy2WMF-ujQmO75YIjB4jW4OOW_z_vWgwn3WqIRvX79IGPMCZBbp0Pa6sfyDc6tIpx3XwCJX6s9Ty5ADIJnUJjEEIWw-72_iZPzwkb91HFhgn-EFhBF1RGx1FjJyRffJ4UReAi6EqY4x56GS_ZyGsS6CzlS4ScyrGDkAY6zYGX7l45-peFWWn5hQTGv6SWuZDI99HDROlntuYq3h2Y/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "City Kitch - University",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "9545 Pinnacle Dr, Charlotte, NC 28262, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Charlotte",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "http://thecitykitch.com/",
+      "phone": "(800) 803-2514",
+      "phoneUnformatted": "8008032514",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.3292639,
+        "lng": -80.73876969999999
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJjT_tx2gcVIgRO1410CbdpLs",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:26.185Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJjT_tx2gcVIgRO1410CbdpLs",
+      "reviews": 29,
+      "rating": 4,
+      "totalScore": 4,
+      "reviewsCount": 29,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJjT_tx2gcVIgRO1410CbdpLs/photos/AU_ZVEHn3w3AI7V-Evq1AOJLZHR4S3htQz894-g-Vh4Jdl9bRK2EN-ZzZdLLJwL_BG5o-bTZtW_MIvW55nnO8B9glgdMrpu9A37K_8FLn_CosXWHJepCpE5d6AfDA-siZu19dhTup6YJfm-vaHlyiBd8iLEWi935NnTw6oLkuRJKEms8YE7ldghu5CTbpXzDco9m-G--5m7j-sYlFk4HGFdVzh73oxdPiSlo47pY2iPtw839s-czpj-9l4qin3_KJdBTY7PCxdTUOix9IvIU_Ou-3c87AqUAQRwnmJRXzLHaSsJf_m7HtXm8zwcUpB5qOdtaxOxNjyq2WJiv4PwKfeQcGJiBjMswI9D003PWiuZ4szTkzeXo4yIQ9FqP8D71j21zGfI_MRmK10hH_eAQ2X3bB5CrHs3zeDz4JtGktty4mnyOHfE/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJjT_tx2gcVIgRO1410CbdpLs/photos/AU_ZVEHn3w3AI7V-Evq1AOJLZHR4S3htQz894-g-Vh4Jdl9bRK2EN-ZzZdLLJwL_BG5o-bTZtW_MIvW55nnO8B9glgdMrpu9A37K_8FLn_CosXWHJepCpE5d6AfDA-siZu19dhTup6YJfm-vaHlyiBd8iLEWi935NnTw6oLkuRJKEms8YE7ldghu5CTbpXzDco9m-G--5m7j-sYlFk4HGFdVzh73oxdPiSlo47pY2iPtw839s-czpj-9l4qin3_KJdBTY7PCxdTUOix9IvIU_Ou-3c87AqUAQRwnmJRXzLHaSsJf_m7HtXm8zwcUpB5qOdtaxOxNjyq2WJiv4PwKfeQcGJiBjMswI9D003PWiuZ4szTkzeXo4yIQ9FqP8D71j21zGfI_MRmK10hH_eAQ2X3bB5CrHs3zeDz4JtGktty4mnyOHfE/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJjT_tx2gcVIgRO1410CbdpLs/photos/AU_ZVEH8iluKcSAdfK5vapadOBm6prbrcI1FIhY5dBB0wNhjFI0PIdPqEyfmBW9HWHajjPR0Jn_B5qn9LfMvNVA1sExh-gZnHjNVn8gXagzQrssW7dJvg-bNC-ifVTZ0U81JjHlCL8b346uxIowoEhdVjBa50T6e_I5o6mePlbHRcyPiBZQhEJzWLYVgXpC2TyBX0vhydiOJIJYNbObxfFvt65dnfubybErRdK8h85_bBBg7BQm547fbHA6gvwVQVKl54YCx3UmPniiWOBTiJUfzbYpu7PYbyEuHMBjNDBYJtpteHoS2RD2Gs2P-9KhwNGd9_naUq5z_yublyFY8SBQjGVFsD3oZX11HSPk17HMeyb9l1XceR2eaVWneEy9CLRHJug0d4jyQ5sbNljMtDMCngfs470zUtxiDPiqckPTzkRwDnw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJjT_tx2gcVIgRO1410CbdpLs/photos/AU_ZVEEFHGrps0lmqFQ4v2GQXYQBUfD0GXRcpZ9ngxr-KV-_Z5iLEkMQCHd7kTlw1_CL7lzet4WWyuKprThW7uur4BWfWBrgX5cB6qE0L76nLOim2nGM-hm4pBNM-ntLSYC8AoHEHcSwcXr1xfzJBMc-GYIPi50aUeoToUmdj5UP3JAa2J1-SxeOcHd6u-VmainKFArGgTPLRazy9gAGHRLkSfDALU7HWMmD2xfQvbYb2A9RqdbsjtYDR326Yl-VWkYjHhtr-clRMrA4REQXPhxYMQu44TKm7w4d1aRao88MoC0RB4-Oh3upzX8M3P5dbIuvC2plLxURd5OmjheICU71fEQwuJEFHy2znK3aoNtdocLHqJ6HzDpKrnBW2bYN6LOY8Sbo_HXjZ6d8YcxJtTYaSATnAp-IHu6vK8NX3zQ0mQKRXQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJjT_tx2gcVIgRO1410CbdpLs/photos/AU_ZVEGlaN47ADgBwCcMeLcgSoV334On2BXELabPa3WHVz8SPBZamExxOwhecMLJ0RGH9crCZUPF-NNKqzWMb144VoWJIH2Jf5MizgPJ3ylmOWj5PayW-fKgvNbRJPAFG5C5Ls1iGX__QMhKWnsyuG65R6p-3X1pNsbI9YfRaQJn89GOkMFEEfEfDpIQ8ATSP3HwRrDqCGgjMzOLM71mbO1pKoAxANQMqudE-sJLGdsyFA2XfrK2-b5ZH9ldAblsAFaVWqM0ysglJn-ib3yFlLrSdWLEVyV_P39SttnyPzwq_xN-oK8HFRt4W-3Yak-DLOUJlLMm11yUl4Qjb1YbJ7LMkFx5hSYwSQaecdm5FS4hvTE3BQJhwnV-x6ZeNaWR3bhdHPht2Gg75ucEQv3kczNFQ49n_w-WZUWJS-OsLR71BhT5gg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJjT_tx2gcVIgRO1410CbdpLs/photos/AU_ZVEFSKk_DWCcfEw4CCQCynFDXVds9qzhNkPv48_OsNYQ9MjC1Tn53qY-1Rw74jfNme7El2MQcEqKY6UvKftMWQifOo903h61DsFOaQLO4iXcCkt2-oKJxkiTpETz6Faew4sXMvpoN9lTXWnL9lrth1Q5j3iadprfPxIU-BTSuLVSltWB6gdWgg-mk9iWb_12Unwxo30fWyhyxH64iX3besYkmyTidxs-QN1nkONGU6Otf4mhglFPZay68tHcGnTvZn3Jgv7-kxUURjIbHmMjrDinBVivt92rh5gMooesQmvq9cvgfRu8S3Xzx_GTzzbHCUgfhDZ8lQskCUxiaSkkoqPmbodZOu76CTPaO6nxHCDhpK9SXjSwsIyj3289s_MajShihlXAkSdDbDYAp2OEZ_LWXytrSmmPhk2BV0GGOLmQb8g/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJjT_tx2gcVIgRO1410CbdpLs/photos/AU_ZVEHvAYdy6wldYUaRyZFQidg6gAKTdabSrRAFdAwhG0y32VciFCtMOp43f0S7UeD4R1Gu5v6Dp6AzzsriSqJgYkSx1QCl295ri56PsXpZedhf4aIz_sy6ic7QUrhG2DTN611NRopxrqNzshRY16SEca_n1fg9VsjjNiWy-TO3Hg-FN6vOcDCfFAAokoFkis7J5UElel8Ex27jCUIB-la4TjavluYx3jm2fsSQmviEdsNYOuKZhL9-44eXwOJ1BL5JP_uq2s2xGA8EE3PwcRcrpE9iByig7AqwsB-FovYyB61M7kiV8mqh-HA9gAlaENmkXIvuuKgxbHNkHE_f21JlbkOr-tAJxw_AZCwWdTOMPxqeXLeV7zjLQl4waPfwQFORMejb2gZVvl-iLQGac4epcauU7jA3O1YmQire3iZNf_JL8ibi/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJjT_tx2gcVIgRO1410CbdpLs/photos/AU_ZVEG-6iSRjg2DIaXGCs4d2rRaA7xmNSnW7mzCRHyFMgdtrZ2lyVS7HatlNhcIJWq8AHqAR5njKrlgfVtPqTRjMOQYtK-sGK3Wl_y_KgzwZciaTFuW2d4g3gpBygIZQNLYRWFiby0iyNwRnDCEmu1RAxQYM_-lnrhNWhyWUGgmQACubHlYwv6xKjEva79LGL_fE_-bltz-N4AF32wkJmOZEmKtzUXq2APG_7DfHrjRme9tjnlSZFWgQLn4otx1pIlkcF3lIAx6NB4wB-1DXuIQ9pEmOlt8ygVQ4-sDAwGQ7UjYIhTiJkncxbURrUFaZ7_SvN8xoit_oSkU_EJdGqJ0jrOASktSvqr86YLgKOpis-CnIgH23F9gZq0l3w_j6YcR7upmNSMsPzE5wsywA9KNNveab77FD8X-TKLDNgeKAMWg_rwW/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJjT_tx2gcVIgRO1410CbdpLs/photos/AU_ZVEHq92ul4a15lwYXXOJH2GSW0IR3brp3gKDBUJC9YXpHFcnQurmQi11edvSVUm7FQ4z4RLRfMizHGywsj1omUujJ0ADfwAvlEH7AEMG2tesQ2p6G4vW5ON4RAAO0wzkDMi9fIuCS4FbSYf7Cdi5LAU6A98XxoBa30ozWd_VPKYJsS-OJ9imeeRK6sZT0bl5V5QvOAyRNyLORLLgRcHiyXS8s5vBaetas3MXhv6Vqb70Jakc5YbIHtbeg4gsCvZoKK_jTzmzHKQTxRpxuZi0BsaEz5qKmTyjx_iPM0KPZycM67yIplbK3yN07bQRGeRSnNS-uymk80Le9S60tnK2n49CU_jh8234hQLFX7DhWEmTo5A-AM4PzarPLzdIr9-t-Xb0GXGwhgHzJICmbSkov7tSD9_buT5xF41qcLkWp30uFJw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJjT_tx2gcVIgRO1410CbdpLs/photos/AU_ZVEFsw7e_5ZY4cdXm4NANw2Uh0sIEGi5RnRDqcWwhfezRzcA1iGVetI1AMXVjp2dl_26knTu-UThH1tqeOBOTcrlBa_pbsCGrezypCZwvo_onvXl0D_yOqRSUlLtLy-uqeNZCnopao2cOQZfjj44SUCMP3iD5OjavCojlA5RlNvpxqhAnKdnb75zK9vbjzGTFB-65XIm3UhMcizoMxVj67Ob_f3Hivs_rF4D42dFa8FwkM3_lenY2Bv8hLMf40Fa7IUt-pa8oLXbI3kRIYWhGbEbwWQezw1QEu8X8S3loxX9OxeLkOKOhXucIkQQ7BCyYH8V72OzL8SUrYnP8J1dw4bgc3xop5B7-cIwAJEVJsp2p3znApW7H_0Zxptgma7y0iFDgABzWBQCGnp4ZQnQqM_z8Pgt9WktlY6CFP8gqUHvP1Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Dishefs",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "100 Waxhaw Pkwy, Waxhaw, NC 28173, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Charlotte",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "https://www.dishefs.com/about-us/",
+      "phone": "(980) 342-8249",
+      "phoneUnformatted": "9803428249",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 34.932688299999995,
+        "lng": -80.7483769
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJq6rqWsErVIgRbwzP8AE6rmQ",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:26.462Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJq6rqWsErVIgRbwzP8AE6rmQ",
+      "reviews": 2,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 2,
+      "isAdvertisement": false,
+      "imageUrl": "",
+      "images": [],
+      "verified": false
+    },
+    {
+      "title": "Stateline Commercial Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3555-A Centre Cir, Fort Mill, SC 29715, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Charlotte",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "https://www.facebook.com/SLcommercialkitchen",
+      "phone": "(803) 630-1267",
+      "phoneUnformatted": "8036301267",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.0936425,
+        "lng": -80.9248873
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJYd6oQISbVogRD94ELtMHr80",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:26.739Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJYd6oQISbVogRD94ELtMHr80",
+      "reviews": 3,
+      "rating": 2.3,
+      "totalScore": 2.3,
+      "reviewsCount": 3,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJYd6oQISbVogRD94ELtMHr80/photos/AU_ZVEHmmM-3TpxnMYKPPA_28q5HGMMf_3rb3utRNCC-s0B5lK2H_aa1Qhgxa2uggvsnfaDrjCSzqM8BBxLG0xdl2RREHvrgPOd3K5NaKn_ltEB5RQjSYITJgUU_8JQI8iGTcev8OgLHIqOqV1XobBWRE94yCIWZY1ngRLdwIBeKt4WAG4FjkiC9iQdtc4hgwwLyfk6-sMIu6s6ha6zwpfH1DMhAv9p_C6y2qvl1RF7BvGNBPQW93vLBr6KT2NQKlhXcInWPN3sJP0PT_y5Phzc6A57mjVIp03LzrodHjcuXsvRIcQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJYd6oQISbVogRD94ELtMHr80/photos/AU_ZVEHmmM-3TpxnMYKPPA_28q5HGMMf_3rb3utRNCC-s0B5lK2H_aa1Qhgxa2uggvsnfaDrjCSzqM8BBxLG0xdl2RREHvrgPOd3K5NaKn_ltEB5RQjSYITJgUU_8JQI8iGTcev8OgLHIqOqV1XobBWRE94yCIWZY1ngRLdwIBeKt4WAG4FjkiC9iQdtc4hgwwLyfk6-sMIu6s6ha6zwpfH1DMhAv9p_C6y2qvl1RF7BvGNBPQW93vLBr6KT2NQKlhXcInWPN3sJP0PT_y5Phzc6A57mjVIp03LzrodHjcuXsvRIcQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJYd6oQISbVogRD94ELtMHr80/photos/AU_ZVEFvP7Wd7VGhk4WYc-QyJqx0sCgu-zlPIbI6UMjoIigPZvQy_gBNhaUmHy4anI-7JZXH3k4NfEmcRR_Oy6mslkaqj0aIVDKc2zT5T1ltziPsRBpcPL-SbqW8K_X0mZitm-1rYd8w2ZJNI1P6H-zgnpaK9CR8weyhn8SqKidvyxPbfcyXMKCDvdM6YGhIf1yQRF46R12odVO57kMlx37MWE5V1UmR-Uk46C2QMuD-ExqRXch5tZPl3iV71OkAF-1GL0T0nktjhtgZcMVlCFjzND5FFJQzPkpySJ2YAdI1xeN2sQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Charlotte Commissary",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1024 Montana Dr, Charlotte, NC 28216, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Charlotte",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "",
+      "phone": "",
+      "phoneUnformatted": "",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.2680888,
+        "lng": -80.8668181
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ_8HPcAChVogRfNiFqEeT-yg",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:27.092Z",
+      "openingHours": [],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJ_8HPcAChVogRfNiFqEeT-yg",
+      "reviews": 3,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 3,
+      "isAdvertisement": false,
+      "imageUrl": "",
+      "images": [],
+      "verified": false
+    },
+    {
+      "title": "Gracious Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "605 Phillip Davis Dr STE 2, Charlotte, NC 28217, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Charlotte",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "",
+      "phone": "",
+      "phoneUnformatted": "",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.191941199999995,
+        "lng": -80.8883826
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJoeWgAWKfVogRfd6gdlbs-fQ",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:27.385Z",
+      "openingHours": [],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJoeWgAWKfVogRfd6gdlbs-fQ",
+      "reviews": 1,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 1,
+      "isAdvertisement": false,
+      "imageUrl": "",
+      "images": [],
+      "verified": false
+    },
+    {
+      "title": "CloudKitchens Charlotte",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "500 W Summit Ave Room 1, Charlotte, NC 28203, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Charlotte",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "https://cloudkitchens.com/locations/charlotte/southend/",
+      "phone": "",
+      "phoneUnformatted": "",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.2200813,
+        "lng": -80.8606949
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ16BOEeGfVogRaGNRJd6T2qs",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:27.676Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8:00 AM – 5:01 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8:00 AM – 5:01 PM"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJ16BOEeGfVogRaGNRJd6T2qs",
+      "reviews": 0,
+      "rating": 0,
+      "totalScore": 0,
+      "reviewsCount": 0,
+      "isAdvertisement": false,
+      "imageUrl": "",
+      "images": [],
+      "verified": false
+    },
+    {
+      "title": "Gaston Commissary Kitchens 1 and 2",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "824 North York St, 514 Linwood Rd, Gastonia, NC 28052, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Charlotte",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "https://www.facebook.com/gastoncommissarykitchen/",
+      "phone": "(704) 214-2268",
+      "phoneUnformatted": "7042142268",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.271834,
+        "lng": -81.18531490000001
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJcxigkXvBVogRU41mTV0g1jE",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:28.005Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJcxigkXvBVogRU41mTV0g1jE",
+      "reviews": 15,
+      "rating": 4.7,
+      "totalScore": 4.7,
+      "reviewsCount": 15,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJcxigkXvBVogRU41mTV0g1jE/photos/AU_ZVEG6-UTp5CmcE5VFaSSqb4XCpmMm5ZJTS6-OgEM0N1P7tvMhotk0FiYGCSPAdOvynopRR34pD_UTvPep2OxolZZ25oUdkspI6hsV3p8wQmeqMAvzE7r3NhATok2PQm2WbBrM6muaZ4t0CzaK5HTHbewWsGdDEudS8ZQutCD6eJAUehFUSFOnWYCcl4jKbnOSUWEaYOxT65oPy_NoovPOoR1Xq7g9xwiavkffKjndJ7UduVyDcE70PY6GD3ongaWXKS9kLFpJTyuWYk01TC3SExBoMkF-35moiPD2UHy-f54d5w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJcxigkXvBVogRU41mTV0g1jE/photos/AU_ZVEG6-UTp5CmcE5VFaSSqb4XCpmMm5ZJTS6-OgEM0N1P7tvMhotk0FiYGCSPAdOvynopRR34pD_UTvPep2OxolZZ25oUdkspI6hsV3p8wQmeqMAvzE7r3NhATok2PQm2WbBrM6muaZ4t0CzaK5HTHbewWsGdDEudS8ZQutCD6eJAUehFUSFOnWYCcl4jKbnOSUWEaYOxT65oPy_NoovPOoR1Xq7g9xwiavkffKjndJ7UduVyDcE70PY6GD3ongaWXKS9kLFpJTyuWYk01TC3SExBoMkF-35moiPD2UHy-f54d5w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJcxigkXvBVogRU41mTV0g1jE/photos/AU_ZVEGAal6RuQCFk_lSIoiFyjtXhq52rBbkFo-QmoSVEp9IdRJQS5E3ACIzJ1RBnQLw5adQOn0m9aLs5DUC0ntxgOZLSUqMZpBA1_87jNn0_jdAa-2HRVW7d1xxrzbFMYptw-_bUzED78nyNl2wkOur8V_Ua83lvuXhjgSceByqxldIgEUum9J_rHvql38vGV9y4p8HDKNwRRdqLa_c9igRcuywOOzCl6aNnJjgkiDdVl8MOMCJ6KVsBW8Kf4n7xA_dAjGG9p6fDRd2rm917UfX2OOqnMjy2g_ThJFiSnOQv6qzJQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJcxigkXvBVogRU41mTV0g1jE/photos/AU_ZVEF4vAipUiD6NqjxoRN9HsxPA-lkssCvhuPfsr6pubLj67TLvEnWw0IWhsHgvtO72HDPrFCV_hHD_7GGKXgSEm9fA_7ZK8IRDKG_Vfk654n7RJf4mUEXVWfczimej6FIHm8-_jz2dOpWTzispPB2mYJvlPhwY9Gx3pdCSGD1QcP8eQrgWTRJrX_vKWUlq5-ywnPtArgAl6MdY2QbLuHD97ZLw7y9jYu8oskp57HEN-pUYJBX_3QeDHJKUPjbVzATwXwt4U1SZEEuibOxYPRvTb6zBLfK2pv8ZrJ6eC-aj60fog/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJcxigkXvBVogRU41mTV0g1jE/photos/AU_ZVEEfBOZlX0OlEeA-mVswVV-0yhnik-bKlmqybogMBmKBJzA6KFEw20Wp12MLSR2DlK7wIf8xNL-xwOwLvfQc2xIQSJ8FWhf_TbI7r8oWKSiQlNmu8wKA9N2V-1Ku6i7lLW08HzMuHT74e5lEneCSLMpI65ZKStA5jXYVUYdwRIltwW2bqnZUIPeXeNOfggzzmFMiCO8aKd3Ln0PxeArjTvibkzMgHkO6GzUxYVWSZVqESA3vrLqIqWRFKz9umbODfgaACPvozslEdO7d60jdZXrOGkBUsf24J5M0Z7InYKeL-Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJcxigkXvBVogRU41mTV0g1jE/photos/AU_ZVEFdD7o1o8AcsTMqpVb5X1hjNlwsoJmf7qymApE4eCeTp_-VKAdchdzsIBSvL9j0ayEOsLYqdgLYmwqcG6A9MTE3UyVXWHW0Zl_Yy4JW6o_YGq4jGRCIMA9dvl29--D_PxPUgUcTxtcZH2Yn6AdW_imACcjBK7A3Z_rhIQNc0JpdG_xS4zpbiSG9228fpVg2tSjOp_KgCjBjxA0nimUWkttz2xGs4acCN4htCFavySGVyJKXLjqG0aMCPE7NKIPRbFu3_6fveOc2--LcPLocHV7ACkh9p0ls70qdLVsm0TqvMw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJcxigkXvBVogRU41mTV0g1jE/photos/AU_ZVEHSKj_gSEIXAWx5dsp0WCYRUb7iYwZVhF_M5avgBgxIBfjBG_V1IcUT-0AP8t5I_DLFg0mWStCcskInd6aaJ_D9XO9yJVWWwxb8HPgEYO4Qfq6VmSJZ5coJ_Cf57XcP5tqoalnWZyXS-bCPemfnegSXH6Ge3jrl8zAWExD4Y_G1Od2xRT30naGOVzAHaI9x4KAJmpu6fWoAaEAIgQpuZCipip26IaVJMSZqfgdj1grKqWQMS2VYPpuANQ-M-Xd1iMKKFusg6LThyb9StAxWtWy7F1NXr8m7Vlz6PwY47_YUlA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJcxigkXvBVogRU41mTV0g1jE/photos/AU_ZVEGPqniM0mLbqcKZ7yvTCKdJ8FcEIutezTq-Qg4wuFLgNbsEaUh8IrupsBbH-L4pa4GYdQUdAFmeo3Lt0OD2yuqFjhJMyKu5aJuoNOZZFGFX13zVQIduhDpW54BbSx05aYUHyY61Dedci5ZbFFOzXSuK0lcRvhSABJornXDeE15LZFDmmM9l39Td-WEb9GV4rbr-p1hLlW_4AVg9N-S1_QLXNKrFutRAtCPLlKG7efmgTHubfk7sIVgqSgvJRy0UzPN-winDr2HyGz1FnWrKhsWsuNn32W3s88Fx60bvLUmoVA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJcxigkXvBVogRU41mTV0g1jE/photos/AU_ZVEHSrOcU2tCmOzO89elGxYpz_XExwNp1AUi4tXjj54WWL7Kf6dNg3ICj1-fUnCW_Aex7F9Nj5etyUV7MbK6g45lsEQ85JgiBu27LRRCL3JrAgpYMNtvE2RCEpxUtZUNqCe_t31dh2ynLm6GYRGUqCzedzTkN-1a9rntI6brGIt1aDMPkxhAGeTaa6uheF6FA2u-zY96JjxLKc_IIyqcTBvRB-z2dRduwfRnHnpvNGQogen3yt0nz09nsPNeylYQf4-dJGnv5m-DPWYCzZzE3bD1aeekNQyjiCGOm0AFzkLfpPA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJcxigkXvBVogRU41mTV0g1jE/photos/AU_ZVEHFmmLI7c6K6mvJfMjXNBW_e_rkZUAYg8WeWUIZDFK0aQAMon7EZ207CwL9v1ctEFoB66r-QdJLyH2SqXIpyd3OVtb3P8hV2lYBTmKxTQgXJz_yyDBddApEcbudo39Uop14QkQwxdLzdbU732LYVMdh2wU6RpRTBlPBYAcGzU7pFLzm_DBTUOXEDQ8sE1MS44SDg1ZMuZkwAR0iMK-ZzIkERYHb6pX3rBxZqar6pEBx1VpiEX6YYP-MtFZd9WTL17P7Et_ymkQf1k90K5ScnCT39GJC4LAPVP3CtCHgas9OZg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJcxigkXvBVogRU41mTV0g1jE/photos/AU_ZVEE9BINkkhE2YEnwVh9VGe0GxY7nOI3ZGRCEHtM4IR8Xz9YTYRI3FoL0PI6YZnsz_Ja5Xlye-pf5gBhFfOAhVvV069UPtM9a8xmr0h-5FTqdPBY4Euwt5PaqZIcZmbr1nIaXKwVBFQLZZKt5BYF06MsTJ_c8XhrmwYVpZiLrFM5IuKYuI8DXbGIwTS2448Skgz9YG_d5hBJDXgilKAEABL5bFDA-ODs_mxdVvQJ6hviRyl0UDlLO60E-V91aoAsDy_gpteCzg0UA97EB4TZKbyrUgb0MwG24Hh91HLNERv8wGA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "DPC Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "844 Kathryn Dr SE Suite 30, Concord, NC 28025, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Charlotte",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "http://www.dpckitchen.weebly.com/",
+      "phone": "(240) 670-4492",
+      "phoneUnformatted": "2406704492",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.3748053,
+        "lng": -80.5498569
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJn6r2So0PVIgRfBWlNqT7WLU",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:28.276Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10:00 AM – 2:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Friday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJn6r2So0PVIgRfBWlNqT7WLU",
+      "reviews": 12,
+      "rating": 4.3,
+      "totalScore": 4.3,
+      "reviewsCount": 12,
+      "isAdvertisement": false,
+      "imageUrl": "",
+      "images": [],
+      "verified": false
+    },
+    {
+      "title": "The Kitch",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1178 River Hwy, Mooresville, NC 28117, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Charlotte",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "https://www.the-kitch.com/",
+      "phone": "(704) 910-9089",
+      "phoneUnformatted": "7049109089",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.6041765,
+        "lng": -80.9113252
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJGbl37VCpVogRsZ-SB7sru7I",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:28.548Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJGbl37VCpVogRsZ-SB7sru7I",
+      "reviews": 1,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJGbl37VCpVogRsZ-SB7sru7I/photos/AU_ZVEFhvmFELGSTRB35uWdzs33z8Y29xcSo3Fd99Z5clLtIxhGQRsBsrN2ey1TnbWDPG3CcWqsaxdzqWpPrD78fU7nIzL1a7yuWfrUNPBlwYFqAHXamiSz4xaBPHcPIS1lhg8lCz2x_TPXTTE2xFGOxnQpgaAaXkrbCgz6EQudbPxNqW7MY4pgty4alR2qfG7xvmZXrf0wK_PmXK7Tfum2V0d9i_CrAidPXSK2vmOQjCNBHnEY4HtiFwW5MfqnRTN3nqLSgLP2c01So0VLwv5VgbMwSFa4wMtxddAn95k_h_KiOpQHEgmlsdargieaT6EodTLLtSoRA7kB5Fx_UghhdUnI57TjK6PBbqydw8l2ntGN1tvajZYqg7o5fvhPBgQby4U-Ooye5Mur3bmMdoMAxYcWmXTjfMqaytUA6U223vDvqitkT8lCPbfxJxNemF3_u/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJGbl37VCpVogRsZ-SB7sru7I/photos/AU_ZVEFhvmFELGSTRB35uWdzs33z8Y29xcSo3Fd99Z5clLtIxhGQRsBsrN2ey1TnbWDPG3CcWqsaxdzqWpPrD78fU7nIzL1a7yuWfrUNPBlwYFqAHXamiSz4xaBPHcPIS1lhg8lCz2x_TPXTTE2xFGOxnQpgaAaXkrbCgz6EQudbPxNqW7MY4pgty4alR2qfG7xvmZXrf0wK_PmXK7Tfum2V0d9i_CrAidPXSK2vmOQjCNBHnEY4HtiFwW5MfqnRTN3nqLSgLP2c01So0VLwv5VgbMwSFa4wMtxddAn95k_h_KiOpQHEgmlsdargieaT6EodTLLtSoRA7kB5Fx_UghhdUnI57TjK6PBbqydw8l2ntGN1tvajZYqg7o5fvhPBgQby4U-Ooye5Mur3bmMdoMAxYcWmXTjfMqaytUA6U223vDvqitkT8lCPbfxJxNemF3_u/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Nunya Commissary",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "2407 Kannapolis Hwy, Concord, NC 28027, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Charlotte",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "http://www.nunyacommissary.com/",
+      "phone": "",
+      "phoneUnformatted": "",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.442321199999995,
+        "lng": -80.6118857
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ8avO7YMPVIgRbGhzkpSIeqE",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:28.827Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJ8avO7YMPVIgRbGhzkpSIeqE",
+      "reviews": 2,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJ8avO7YMPVIgRbGhzkpSIeqE/photos/AU_ZVEG59q-zFKeG-SkJZD6e2MLv21osoCigYPJ2gFGZf6EPnY_AEpzeYLCBgVNdEa0Wu9k0ZWN1vVdEC4d-Z5d3tT5vrjnAnxIg3cAFZQ-kZEXIb9vTdObaoDSYCxfSopMVk-JgAHqffVEMHg1zz__Dprr0bmVvRIt8AF5s5AcX-Oed-5x3kjpOlSM86g2LGlS3vkqr3rjngeUjnlo5F5tPKDrmyxJtg6AqBhlNXIYJUPExaRLlF7L6GzBrHFAtPsc57RHwFYRPQ7rkDoKDUM4l7X5pfoA7-kzjQf0a97xpwKmjkA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJ8avO7YMPVIgRbGhzkpSIeqE/photos/AU_ZVEG59q-zFKeG-SkJZD6e2MLv21osoCigYPJ2gFGZf6EPnY_AEpzeYLCBgVNdEa0Wu9k0ZWN1vVdEC4d-Z5d3tT5vrjnAnxIg3cAFZQ-kZEXIb9vTdObaoDSYCxfSopMVk-JgAHqffVEMHg1zz__Dprr0bmVvRIt8AF5s5AcX-Oed-5x3kjpOlSM86g2LGlS3vkqr3rjngeUjnlo5F5tPKDrmyxJtg6AqBhlNXIYJUPExaRLlF7L6GzBrHFAtPsc57RHwFYRPQ7rkDoKDUM4l7X5pfoA7-kzjQf0a97xpwKmjkA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ8avO7YMPVIgRbGhzkpSIeqE/photos/AU_ZVEHGy0YrrvDkTSqtH2JlsPY72j_zSlXEJc5SDr-5rG8u0xQk_9WMolrsLeMqIfyTfUKP-nvrTICzna3_AtEkTrr3LmHV7DSkru-y3D3hdbNiR2rtPC7sJEPo451Hcc7tBFsWcjN84IgiXvlrLHCqsz5PqKEyhZlFj2Px-AA3s66lVejES2f7tlLLp_cUqxda1LfLWp3dcEovjMzaL9v8O8-dKAA33KaNa8FeJNvIgNu7qcadRAmmXAUi7i-uT0UR9JM4jXOCth4B5rV4sQKcj3lyQi-FvVJVIDnvW8mpCzUEcw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ8avO7YMPVIgRbGhzkpSIeqE/photos/AU_ZVEEFic8BYVM0MZMjnW6qegL1Ia2BDt1njAXrL-bHx6CR9DPRDOHMhMPIoyushcgeNr0Py-YJMcbMkSGNGixPQxUOtppO-wmU5es07iGNVrXQH4SjzgO8OYx_IbW263z2YWH8pFEz-4Z-AJOxwzZayxktzdNzOqGgDLRjeCxCcfC_tsWbICZCD9j-g7FPvf75MsmJct-Rw5f0H6K3PORT1IlziTCIyktRw0O1-a5KDHNXIyW64GHLeSmWww6hivNGUakybuABG9VBBE0mmGzVvziPzCYdcLCVLgfIynIc09p_Cg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ8avO7YMPVIgRbGhzkpSIeqE/photos/AU_ZVEE3C6Qdzf5kdnM70iAcH6XLXIzMWog7MCd_Jcagbd2lc6cA5YspfdewC9r7CA78GAqf_XMTD17knYg29n2KlZteNLRTADNz-cCoIGUMY0bW6e2RFt1v-xpBTkTzia3cRi3XD2YjlJPlCEfDonlS8gGJedXGSY3KdJVr1yip4df8k-ZD-xzpcoPFvbgSicQOd9HUQiySxSP4FxCTKJafCzRRs280ePtMqnZivyXlZm1nJWfdrlpUMnxJfub2B2qMg7e62-_XUHkIeMCCQwbpm_PfePR-GCpJCrusdx2Wzt4kbg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ8avO7YMPVIgRbGhzkpSIeqE/photos/AU_ZVEH_e7kIsaHGGhBGB7RJS__mpr0hQCum93EnUlcYOmGEA9vcL42phGAXt1wXm_HRLcKoSLPs3lw1cMdQN_2pIWUIbp2GMszuT3MAB70u552diOI0KD0Djm_BE7TDv6DD2DVBX8Z7tQpQHTrco3HgAa1E_QvZe2Z3RdDZXdyyUNNlo4jjciuF6a_zOETV6lLYui82B1tx68b5UGTScLoy1QKK9QY0nfusf2-MosNh5Qd6jHBbVP5QPtk8cbyi54x53-Q_vtZFFe_2TQkaX844w3EKJ8yA0BAI8vFSymaSsPX-Eg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ8avO7YMPVIgRbGhzkpSIeqE/photos/AU_ZVEGwsbnWAFkKHHkrYUWiZnBz_g--oY2anzr54mUzeLCGoV-Y_OvkyAZjFur_mmc2EfqBlJKiji-x4Pp5v3qLvjkLOeSbCUfCaVn9eVpmXeFqO12w8XL_e_Hot5siqioauNqcrVz-h2sOAW3Tea59LXiYeANg0RcrhYvMQohxJeQfAlhIFWL1TeoFO2aeLp9GtjVFRf4a9HV4XDBLRu5GgY4rFi_WxyLxdxoXB98ZzlBuQXTZylnR4byai6aEuTMWVOjvs5dnKrGCOtrtanWGPJiaqioiodXth21eePh0lt6g8Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ8avO7YMPVIgRbGhzkpSIeqE/photos/AU_ZVEGzfIFS3xwNqaghZMB0OpwA5mShZ3OXgm9UF4yb6-FiJV-XuvKECaOTPcKwhayRdmELPlxfN0wrElYxWhC0RkXrfog-KNkWRhMrR26P343-BkU7RNSHKMdLDG7551ERXGO1Jax_xvD-9XiCXJHFTggA6_hhFYtgAw6ApGK5W8rXhu6tm2z4wIV769lCARCDoIK6B2kwYSHFPbiErSBSO5DH0Px1qNxe3Tsnglaqp3qYyCXFJR0bhatSo8bbMuMRPlpTbNk2usCpgPmHfA5V5Kbf2f5HLNnimJknf3Dau4nKnQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Chefs Commissary | Belmont",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "7005 Wilkinson Blvd, Belmont, NC 28012, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Charlotte",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "http://www.chefscommissarybelmont.com/",
+      "phone": "(704) 751-7600",
+      "phoneUnformatted": "7047517600",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.2497238,
+        "lng": -81.02175319999999
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ9YpCPnK9VogR8kcSFkrcEeg",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:29.178Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJ9YpCPnK9VogR8kcSFkrcEeg",
+      "reviews": 3,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 3,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJ9YpCPnK9VogR8kcSFkrcEeg/photos/AU_ZVEGRPNahysI1sP7f1_6H9e_NV-zJXqEeYYjbwBAnjJwLTWpZh1CRuuVUR7_WWGf4cKZBJv4RwAdrJ9y5pnS0S5USbb0Eikopz3yG5XWoJi0ODPdp4fG0Uv8N4I6ScEVgaN36D8d0lbl5Naxbhf8HvbZsMHCgMBlD9YI6L0yDgXXwMosR7xt6Fq8w8LODXxq53oRg864wjMHmIkzKEdfsVMjX6CoLM1Sz6hOuNJ557DrMBZUPb8XF-mE45sKBluJX0qdF3c8NijNfh-2CjMKoUu3do-zWiJro5QwuGRRA-cUF_A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJ9YpCPnK9VogR8kcSFkrcEeg/photos/AU_ZVEGRPNahysI1sP7f1_6H9e_NV-zJXqEeYYjbwBAnjJwLTWpZh1CRuuVUR7_WWGf4cKZBJv4RwAdrJ9y5pnS0S5USbb0Eikopz3yG5XWoJi0ODPdp4fG0Uv8N4I6ScEVgaN36D8d0lbl5Naxbhf8HvbZsMHCgMBlD9YI6L0yDgXXwMosR7xt6Fq8w8LODXxq53oRg864wjMHmIkzKEdfsVMjX6CoLM1Sz6hOuNJ557DrMBZUPb8XF-mE45sKBluJX0qdF3c8NijNfh-2CjMKoUu3do-zWiJro5QwuGRRA-cUF_A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Halal Mobile Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "5427 N Sharon Amity Rd Ste. C, Charlotte, NC 28215, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Charlotte",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "https://www.halalmobilekitchens.com/",
+      "phone": "(980) 207-1014",
+      "phoneUnformatted": "9802071014",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.2313502,
+        "lng": -80.7410653
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJs6FFXkAfVIgR-l5YqfOGs8U",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:29.459Z",
+      "openingHours": [],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJs6FFXkAfVIgR-l5YqfOGs8U",
+      "reviews": 11,
+      "rating": 4.4,
+      "totalScore": 4.4,
+      "reviewsCount": 11,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJs6FFXkAfVIgR-l5YqfOGs8U/photos/AU_ZVEH8r6pR_aBUGFp6w7jBUfMNA0JuAZOXb_hRWDGzY9YHAe6_7g-1zTTXcslzEuhNrBEwbUYa2gaogbHvbqXh06Fpb4qQltjJ37ewkG9Y5catKuf7JiuN6lurqfxYvbH3jsjvnNqjunsKPDqIoOd3d8DQgF3YfZn5cQ6JB0TZ9WUoKiRXlAyFabbdMMIlamzZmeAdoUGH4OmeVzRjMyuAjcHMfV57pZkvfc74kXaDER5ZBoXBAn_SfO27WolSFIWYJZ3HX6kfTGSL06BYLB3rgWSpRBat8fv4x51dLtqRzhw0kXB72BRbNlMqw2_H4Odq4217hgO23J3HD2OaIYT82SeToVjlXX-l9p4Gqe1oNqqLsNT-j8a33zm1oGtxPm1coPt_PJH4ULvzMz84RU4bwBnI6xn20HvJ-ziXBoGOAYQzBhAv/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJs6FFXkAfVIgR-l5YqfOGs8U/photos/AU_ZVEH8r6pR_aBUGFp6w7jBUfMNA0JuAZOXb_hRWDGzY9YHAe6_7g-1zTTXcslzEuhNrBEwbUYa2gaogbHvbqXh06Fpb4qQltjJ37ewkG9Y5catKuf7JiuN6lurqfxYvbH3jsjvnNqjunsKPDqIoOd3d8DQgF3YfZn5cQ6JB0TZ9WUoKiRXlAyFabbdMMIlamzZmeAdoUGH4OmeVzRjMyuAjcHMfV57pZkvfc74kXaDER5ZBoXBAn_SfO27WolSFIWYJZ3HX6kfTGSL06BYLB3rgWSpRBat8fv4x51dLtqRzhw0kXB72BRbNlMqw2_H4Odq4217hgO23J3HD2OaIYT82SeToVjlXX-l9p4Gqe1oNqqLsNT-j8a33zm1oGtxPm1coPt_PJH4ULvzMz84RU4bwBnI6xn20HvJ-ziXBoGOAYQzBhAv/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJs6FFXkAfVIgR-l5YqfOGs8U/photos/AU_ZVEE5tEm_OO33M_RRc1mDLWFC48EhTLFQpqkdImwEXfA2YmJOoFw3eUMiEDJBjTOr4caG_zbhM0lgiDMJWByMrR6jLlB4yfNgaApAlTCoE1ilxpySRaWxtVQIzphm47yEpPZbhy8fatF_dxpmVLx1Q-gYMJpI6wKMlisv4O7QCgb6k_YjA7puDH9QXHH5pcVXnHzSqIlHWCLq9VcW7gdzrKSmR_QC3r6nJKQlwxDQt-GpY8zOaYGH-YgrX2L9qMgFpH_S-BQJBGw4L_yjMxFVz3xS76UHz-YydU5-hAE8zIlA-8y0VoNzs3v755AuWJojkmL_mL7ynuXUc4LQqzdgB-NdfzAEzmpXoTfKjgHsrm1-WvJiF52C8ZIvIcPLhX5G_ho2EPzkZr0ozt7ZEHNHuTbsbFMjA19D5Aorw3QuNA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJs6FFXkAfVIgR-l5YqfOGs8U/photos/AU_ZVEFOfESdbvm0y_-X6nXtLeSJjhd-xxMYjVUIC4pAJJ0T7Rlu9-MfrnDagt2bnHUU19qdwkGmnOPKaNwAr1IN9A68652srRCUEs0QzOq4GTlrqypKjXSDIweBVKb5vRzT-tqjJCJuwPohihiolpcd4-u_IipUPopLLRcs_pR40fcpJyn7zREdgjrkMyIgknMWx-GHoeJupdMuI6IWwNN5ZjV-2NR8Aufz1QYur6z9tGHy7RxhnGA3l3XQabIEGiSJQCm1kNPpwceFsQ1W-WIYMofovLznCuEwR4e-53UxRjf1Cobqg_KSP24bcZH37ixkteCW_mWPR2TBJLxadEGpbLIERQFhABnb5nJmD_bVp5hj818WUBUCe5Xg-S9oN5zPihe1q37uWmaA91GZOuQa0ardBOuvbV_44iQwuikvNQ8/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJs6FFXkAfVIgR-l5YqfOGs8U/photos/AU_ZVEGoVI9cEES1pTWbjArgJyroFMg9H4GmvtCZQh3Ghm3AlrccyM9W9QSCFxAhySfJdzyCcp1pKodNMLy5zhCZgeSskjC8yHXgTbTZSEGaIBaT7T-CPcjgvFjVQfPUNAh3NjSyo1kISwW6rpwflZn5wodr_oIjL9GCBk_XRlS7Pnd1Efg4hivjfBX_WNJnohVu9ROVS74fBEbBmZG_KOB7apt57Uc5bcYSFO49sto5h0L6dFkU3L-e6E5fr6cJzVDeBamNsFkRIIVF2kk7K4WUG44snKMRLh3oDlOSYcag_5_imFAD-XhWcqG34giCuZCMGWupCD7wkoh9VaK4aovk37a7Tm9i42DX264oeti4nOOm02OWFUqqoH35tGVDxmAXVNj6d9d03nT_HasPTH0a35Niz8EzBADFJuVFIcmgATQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJs6FFXkAfVIgR-l5YqfOGs8U/photos/AU_ZVEEj6AZH-9bCo7J4Usek9uzD8kxGWs4tPTAsf-r30EqcC2LzgClcioJIYOEdwfzeI5x9pzlLLVLeJFe66QqiJcdHNkG7VUlJ56hCfw_U5HNIUt_4Dbn3e766y7KwfJi01j1pSywIGuFCYxrCFJrPbf58VDYORPsLWSvaQmXOqRqvHVFXfEAlYfpHpAXHUwXDORevvy5hgfca9grTnaIt5__6-ea_KjT4TgKcLMnue0OFX0YFM-h-ZlCI8pdU6LFVvXeSbyIzs_QzNXfje0KtIguhnhjpIRLIjsrJnH_xO3RQQbM9BTqY1SX32bs9uVkNKfsg42hpVFy1Qjg3qPEPrg05cUYEBjGTLtahnCcMo6OyWW2nkvkRmfJ2QMWviuG85B_2KYLZGSSrN0oMkqk-mlT5g95LNfo0SrKicWm0TqoE9Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "City Kitch - Greensboro",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "601 Milner Dr, Greensboro, NC 27410, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Charlotte",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "http://www.thecitykitch.com/",
+      "phone": "(800) 803-2514",
+      "phoneUnformatted": "8008032514",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 36.0869287,
+        "lng": -79.8873461
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJd_h8F-QbU4gRLUuc_zFcW2E",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:29.788Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJd_h8F-QbU4gRLUuc_zFcW2E",
+      "reviews": 44,
+      "rating": 4,
+      "totalScore": 4,
+      "reviewsCount": 44,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJd_h8F-QbU4gRLUuc_zFcW2E/photos/AU_ZVEErl93meM7N2DwEinaZuoNvhGx7ytwTvD-9GmEfMb1XvOMe9tCk_MlkzaTMR54BJyWafoGu4sBSJPlsIFxUwlrd_EXqBdYJZ_dcJdUmzXYLV0YDDo7GRTK1eWf4bEZSRB5_JmskqDQLJlS2DmOqLtfhyUVMY2FUbzk4wy4Ta32VynAbrtqqCtdV3htG_oVp0_d562BdSbeDlXi2sn-wad4ayJE1aeot1lOPNO5LP3OcPRDoH2HePOxwvhHvhKt_27NMePgNvnskYq79ixKCdsVQjMDIAtQ3RCos4zzVaqtUsQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJd_h8F-QbU4gRLUuc_zFcW2E/photos/AU_ZVEErl93meM7N2DwEinaZuoNvhGx7ytwTvD-9GmEfMb1XvOMe9tCk_MlkzaTMR54BJyWafoGu4sBSJPlsIFxUwlrd_EXqBdYJZ_dcJdUmzXYLV0YDDo7GRTK1eWf4bEZSRB5_JmskqDQLJlS2DmOqLtfhyUVMY2FUbzk4wy4Ta32VynAbrtqqCtdV3htG_oVp0_d562BdSbeDlXi2sn-wad4ayJE1aeot1lOPNO5LP3OcPRDoH2HePOxwvhHvhKt_27NMePgNvnskYq79ixKCdsVQjMDIAtQ3RCos4zzVaqtUsQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJd_h8F-QbU4gRLUuc_zFcW2E/photos/AU_ZVEEGv0V-l89qBmdotsFq1EP1KZUfevCR_Z5aD9s-3CSCEvh1jCWAuD9DCAs38DEqmMIXsVs92MA9AdkXW8lR5Kqp8luNGVZ2FVVSu7SL0IoMxPVDRgrUy9OGVGah_rlmUlDlDgbAqI5ZJ21K2bIz9mLWvlx_xEmCUqGI3fUIn6xe1Zm06klS3DSNqg59GX_q_qX-OE8szh90nEmD-ejG-6kNjy6yyyeoZwVMlBuDAI0Sr_0o8_oXa0ThtvdBjHPKbJRn4epyAnSYQpeDhHRzfT9aS1yqxC0z0hsJm-yTMqVpMom83Um-ASRRp1lYIOKU-2HzmgradloopiL8Zu4Sq1npFanFI85A71SKGvL6HZJRvLNIcQVLC55joEaf_A_8GGONsggHWqpKOyH8vuFz91IMDuHDGta51D_h7Jrozmh4Eg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJd_h8F-QbU4gRLUuc_zFcW2E/photos/AU_ZVEGEuOmE9SESWSJJ8Dfwh9OoOdUqH3_hzIz38zJq4e4teLeRMHIRxNOhDh4gmjjjIBv2tQG3DWsHEgNF5Sw9l-OX9yy80XDqdRKEhvwcSK8Q5oOri82W0mibzkyDmmWUYh4JkBFl-IbVdT-_4eDfRRuyKT49wXZVPH6S1pNMY67vYai2rcQr-OJKEy266MgPfFwQAk_0xUmFwyaZQ3dRMQkR-FgZ8Cbi6O8JLzh-Ei4IxLihtvC-2REsMvbdmuiVaIkjDjc8_rzb0raJLa5MfcPvEe2S4-0t0zyHwwU4776_CA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJd_h8F-QbU4gRLUuc_zFcW2E/photos/AU_ZVEFMO4J_JTxm-knZrFdAvYyS65Lq82ILT1e0Fl9rEg1cK81I71rzU41Bmz82Os3FiuyM0czHosmWmDiR62PZ36xsJbDwWQ-WFcqeZ7n4af6Wsu7aEpx2V2K7muQdva2KMCTm-H4hG3sLrNNWcFPa6X1ANGjIkbXUozLAs3vgMpPFy925PzorfHvN87T9wlFA0cpRaBacAEyopAkkep9D3twMMjfJZdYOEf_8txq6eyyxdjTXNgxcyJ5UD61JYY-AOaWHrx74SMxcSwmnTwDR5I93tnywWf8urRHv3UWPsRNjUFOmYROlhrYJq5LiJ3pv6ICL9jo3YonUlVGSYZjj_iVktiM4XlDTtwC9S7-8kPG2WGgqBM5pM73_oZZ6kJxfZyYtkUTbShaSp_6sz0RVu-PGsgG6uDlWJ2WwRmO20RyjlYmT/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJd_h8F-QbU4gRLUuc_zFcW2E/photos/AU_ZVEGs8cqRogNrHC0FYFk23kbDTpFjIydMX2OIwgh-qZVOfMe4f2pnafPxGPdmTOIMCx_3GIBTWwZiQTgp_S-wc7v3hH4oIsPjuxvcAqeqSCp2iLNTXHOazky0ugARvuZXWcTExKMF-J6YO4zpZN2INW5mZ8mzuD5EztOhzRYXQR9aPUFNvbn4CXPmjVflzoWONH6Qn51w0LchBC9CJ3-BLOAwH9V8bUXAP8MPhRLD-Lf6YavChJR7svxXF7Vp0NLcpBcV6R5SsCxW1fXG0Oh3eFN5wvBaHlp6zj_4Vy9s2hekJmaYSVFxw5acDic_MDExpAi5PMl5QCAJvvKTqbLEdrTWb0EKq9qTiI3ncTxPW0SCknFWLrTI2s1nae_GwsUr5OC8jmRbGWcA-te5ERp1KV6F-Fi7jEWYddNYOn4c_qBl7Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJd_h8F-QbU4gRLUuc_zFcW2E/photos/AU_ZVEEC8AOikvVF2-yUole5vE8FVxhTJLILJoqwv7BzVROh474j_absZcKclIw7IWA-mtBRQLxDNBo2vWHiandiWv-Q2oj_zg8GLu2QDReMHZMG1ts8dhb94tRwGtEoNjrHZ_5QFAeECcp1zUD2xo8aGrAWA48SBwpI54SexjQdT55I0fxylvj3Sy6YnZ2QzL00i_I5TWM1KAineYa_u9iscM0qlzgV-QsbTfrgsyko4rQMnn6rDi2VSj1ypksRy2OC76q_uR8-PfR1bPWlRG7QFwQMq7OUJ_n1CkmCiUcoHHJsIlOGVwOt0Bzr0MT93Equ5sDBiqfxHJun4BcO6ZwYMiFqDtNKW-Ic0b5gQdcqQ_udzridYptTN0H8QpFD2itfwS2lsHhiSNqWPv-rtT7wCN_uy-BwWE3EHVIcpiXlXQtdb-U/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJd_h8F-QbU4gRLUuc_zFcW2E/photos/AU_ZVEGRQubg5K5k8RBFzmRFs6kg7Tu_mE09nOa7InDnQ2RwYw6zRKV-Mjscj4RbxFvoIAHBscg6JlqtFhW9zHeXY5mDUSM1LJA-pYHTDP4t702WpxB0oSRucFHuG9pfY9qYhBoBZem5BlX8WrSoUdYJrB_TqbYxllVmDTDXMngu9JXhnKfkcoeSu9eUFT4B7y7CYSJ1o-G0WUZ1zapcIZ0WMybi0vS2-pczIWB-UawAzA654vPNVXieU-220zGDJGfFA8HEHH5XDlltEJzHZIZVngGaxG1OMC-lcfYe2ChYjtnmCg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJd_h8F-QbU4gRLUuc_zFcW2E/photos/AU_ZVEEy1xJEnJq0B6DlzjgSJKzoA_ABQXcd4YERDwgg0kAEaNKK3NnRi2NCntDCwnz6LqhmJElaUKIabva5Sqscj2tcJYFGrZNclZwhTenJ5yfz5Gs9BXAqiDg3pkTpwDPNbqgfa_Sa_k-CGTBy_Ls7g-xc2XSUFeFr2VKN2JoETme5z_EZjkYFs6agXxQoh96g0sp_3ChII9M_HkqRT0tyWylIJIwEJqwN3OA2WMIhz8cMBr_rVKm4nMnwOMTs-fwguma7X5gErIbUAKGh-Xnih4JR4Sd0mC4cfT8j7fes-89r0SVlglW9m7FHbF17MvUSwpZLyQa0NQViow_9F0ypML1jwEeQ8DKwRSVqUjSaIJPPY252N26xLUFfOfijee--L_29heQQmZLqU3CZr-vdpiG7AClaGrXdW2TQPCJfVd2Qvusq/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJd_h8F-QbU4gRLUuc_zFcW2E/photos/AU_ZVEGeD4mGnRToBmZwJof3CG0l9HUMUrO_w7gU10K8BfVQsP097qm4pGmVIBE0HVT49hhQNoGZk0NoA-US4Ru8KXKBlC1c8sm1xk4E5d4uFV3Xelgi0aVRTGl76eZQ4BAECZAF71cLdxhR5PoWcZYzCLXNm37ahwbYt638gMYA74r7S9EB48i_QDBcAlcT85BDidJUMx91h80gczO_vtzUXS5qCBseEEKozAKYHE50Mi9zTTQdjHr-ShE0o7ItlwbA2b0F622sdtH-cVCkoNFB_ONlOlzmMuaEf_Tssacw63jEnorqeoe4jud1S6XMjsfLrDiyNhcDHbbZajoRIqHU1cdQ8njyAx62jiS5-gc_kA0JB7zh6xR_PTxYnXM7_q8NpR7cPXFBIisPb6RqRbCreWERd3130Id8rZCkyuMybGlsvao/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJd_h8F-QbU4gRLUuc_zFcW2E/photos/AU_ZVEGh5f3HjA3XIEg2VIC0ioTymcOgnDu0QdBEqbgErCOeKs2qWDbyh7iucfn7_2K_weIvG-RRWGiTQAvxnd8IduU1krxJwLQvrSVtBeRQsFLGiQD200Ff2gJP2mYp30ULmW5Tq1yKrNdUhZatjdMf-KCHIh7-yhsI8dzeJsj0B0Gkcpt0eL2n88lHVTBIUstZxKU8jacmTeDOeupPYeeimISweyl4Mizcr2MuqCgRhyoS7XLs3WYxN_oH6E1hHouS-x0_WdgUxqd7wYNeDQ-1NGyQbYHZjyQ4by6IvIaHWa293IlWzcXyeJfIvnwUrZeYZCOAlEeHhECahifevJqsyXir_jJdBsExbJKZrPS9i_LkgmgsHWuV6dNZ9OBqJjilnBVqxmF-dmCTqEjKkhOil-q864A4lwHHSOhc88BsmPjpqA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    }
+  ]
+}

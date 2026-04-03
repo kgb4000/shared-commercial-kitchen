@@ -1,0 +1,830 @@
+{
+  "city": "Raleigh",
+  "state": "NC",
+  "kitchens": [
+    {
+      "title": "The Kitchen Space",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3805 S Wilmington St, Raleigh, NC 27603, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Raleigh",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "https://www.thekitchenspace.co/",
+      "phone": "(919) 943-7074",
+      "phoneUnformatted": "9199437074",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.7273821,
+        "lng": -78.6487855
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJsflvrP1frIkR4DrtcVr0mnU",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:39.438Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJsflvrP1frIkR4DrtcVr0mnU",
+      "reviews": 3,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 3,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJsflvrP1frIkR4DrtcVr0mnU/photos/AU_ZVEHlysFHB3bO9JJcMLgzn4gAtoBfEU7uFe0qLU_f-YYhpcVyPhYqMNkfiVWVSjUB6cq1c_wXoQsDVP-0S8VlvQfCf40W87OtfKfkEsSumgTVaZVuBgqGTSLAmI6lNF5myPtJ-c8QTI19znOL2RMbP18ClrkYvGQx3YmX64bMc46iJ1ITUiFJXiypIirzwOr2tjb3Z1Acx3szIS9a13nE__ZFkY28n-wgku5RBh_MiaUtMLZaTi_1BpYxc-3Aa_QDY8_hI3l-pQSQAMGgHod-bDl1n1GIA-7deO-2JMBnUgssZw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJsflvrP1frIkR4DrtcVr0mnU/photos/AU_ZVEHlysFHB3bO9JJcMLgzn4gAtoBfEU7uFe0qLU_f-YYhpcVyPhYqMNkfiVWVSjUB6cq1c_wXoQsDVP-0S8VlvQfCf40W87OtfKfkEsSumgTVaZVuBgqGTSLAmI6lNF5myPtJ-c8QTI19znOL2RMbP18ClrkYvGQx3YmX64bMc46iJ1ITUiFJXiypIirzwOr2tjb3Z1Acx3szIS9a13nE__ZFkY28n-wgku5RBh_MiaUtMLZaTi_1BpYxc-3Aa_QDY8_hI3l-pQSQAMGgHod-bDl1n1GIA-7deO-2JMBnUgssZw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJsflvrP1frIkR4DrtcVr0mnU/photos/AU_ZVEGataLx67GsYVIFMEteE-Q6t_OSLkqJcF2Nlb45Bg6OUlAzkQBEFq3kC3fg0kzC6A9yPmokggQehQde-vk3oRea8bhQsVvm2qTUtEnL-Kpu4Q9RofvYlG-3XrrAKg1MzqOI62Z3gDgPtBvWbPZ7kHUZ_MC5pSSd3gtfV603KdsRMTdoSEN6bWXABzGTTQjm5OsKYdzPSS3PCaUsxh2LrhyicCKv6l6CNqAAtle4su0mO-V1rY265OwGEsFJyUMj4AHqsQbe223I9bNYJmy1Jh87J1FZMD-1nKBYAX_YgIVldw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "HUBB Kitchens",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1519 Brookside Dr, Raleigh, NC 27604, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Raleigh",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "https://www.hubbkitchens.com/outkitchens",
+      "phone": "(919) 283-6387",
+      "phoneUnformatted": "9192836387",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.798788099999996,
+        "lng": -78.6249928
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJq6oa46herIkRh6t19s8rbCM",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:39.733Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJq6oa46herIkRh6t19s8rbCM",
+      "reviews": 4,
+      "rating": 3.5,
+      "totalScore": 3.5,
+      "reviewsCount": 4,
+      "isAdvertisement": false,
+      "imageUrl": "",
+      "images": [],
+      "verified": false
+    },
+    {
+      "title": "The Loading Dock — Dock 1053",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1053 E Whitaker Mill Rd Suite 115, Raleigh, NC 27604, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Raleigh",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "https://www.theloadingdock.com/dock-1053",
+      "phone": "(919) 364-6577",
+      "phoneUnformatted": "9193646577",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.808976699999995,
+        "lng": -78.62125429999999
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJIS7ty9JYrIkRNmKZBFgof_g",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:40.020Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9:00 AM – 5:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJIS7ty9JYrIkRNmKZBFgof_g",
+      "reviews": 90,
+      "rating": 4.8,
+      "totalScore": 4.8,
+      "reviewsCount": 90,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJIS7ty9JYrIkRNmKZBFgof_g/photos/AU_ZVEGiYsMG5fTahRMy9yzqM9r8cTJTux2PHTz4breSG3a01fRKpQB9v426prkvi5uXy3TwhS-a1HDv1leqJ-cNSdRAxjysDU50SlTo0MZ6Ojhh9NyQrG3Jag-Px55mmiAB8a9flMb5H3P5XO2HAzaX35zobCc5HdPGPPib5CV7dVKB6IJ9CBpOotpl8cfWwNpQuQWWaxxU2x32nYcZddAFXKoDFmJyuv_jjdMk0eB3viGe-7QU5ZRrQypneWgaPKjHGhWKhuZ2drWsU3QPdUyyylBk6r1QdFpN01wEbqo_-QJHQw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJIS7ty9JYrIkRNmKZBFgof_g/photos/AU_ZVEGiYsMG5fTahRMy9yzqM9r8cTJTux2PHTz4breSG3a01fRKpQB9v426prkvi5uXy3TwhS-a1HDv1leqJ-cNSdRAxjysDU50SlTo0MZ6Ojhh9NyQrG3Jag-Px55mmiAB8a9flMb5H3P5XO2HAzaX35zobCc5HdPGPPib5CV7dVKB6IJ9CBpOotpl8cfWwNpQuQWWaxxU2x32nYcZddAFXKoDFmJyuv_jjdMk0eB3viGe-7QU5ZRrQypneWgaPKjHGhWKhuZ2drWsU3QPdUyyylBk6r1QdFpN01wEbqo_-QJHQw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJIS7ty9JYrIkRNmKZBFgof_g/photos/AU_ZVEGuuXm9ZPnzUlgn9IAlvzsTkQ0vaX6Hiqp8r7UJK3JAFBgWFe2seJt9brvrvtdzfdgrGJUDgbaOiCM4FEI5LvOPaoA6uaHhwCnhTETf4h0gIenhg7yUWtYNOmwY-Z2gr74JGVfPytkUMza6Oi8EY8bxIta6XhTYdYCM8Akz1S5_ON2pWWnEpFiUwckA3xdbwM9NlJcBYLfzHPCzbZy1FfZw9odktxoB6jl_AInai1kdIQ2rYy0LdyWwdmN0Y71zfyxtWBTgQJD9vdjx8UMqGaX2KzTudaSflfHbnkHr6x_DQg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJIS7ty9JYrIkRNmKZBFgof_g/photos/AU_ZVEHeH9TiMw7sAcfhvKviJd2nn42wgTYEqU-F_xAzRVk7FsSeaTnZONL5oOOFxjJXzyKThPbOTzDWopUMoGT3xz1XZJrMKUMfsJmYBKjCUucwKqKNlI-1wIR4ZA8cDLKucCx58-8xrOgqxrSBOtjYUJ4NMDhOtRrECFNbksuTubRKrW_sTbpyoZ4bKW2m20CdbKVntvuh4mWPudVzfwm_eJbvhkwuJkXMhHRjiixFSWTGCTdeM_qcnMSVULzaPN-NZGh0201O3kqXG1cuqovugRoaqVVsxbIhYoZ69Uq3SdopQg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJIS7ty9JYrIkRNmKZBFgof_g/photos/AU_ZVEGf-8J4td8RD9SvOsLbtDFxxDndVLr1SokwNcuP-bjvTobx48HzanUb2l001q4Z8guNQotU-ipqVHiZ-FOvo1CiCE0nhkn4kqaOW6LhK7MQlptULsAz62IN_3Qy8XwYNs5KQgcJp1Bbj3vK7fCuPJAj3Y1a4cUWbofBN_ZnjEOx53pPleOAtAGkQI6i-fItDYTU-JtRt2vljJlyLIAWIvYMuHlqWWWbdNq51ow3P66ptAwE3QGzbH6AtWoaqWGLV-nAJ_OEsvGqJm1SlAOLXnKiVTDnJHad5zVdxj59YgG8IA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJIS7ty9JYrIkRNmKZBFgof_g/photos/AU_ZVEFBrEeQEfS0w4kiWCx94u6fTyKtWZONEwZLJfvn21Puyq_Z6bYZ3p6EPmfPeC9Hq6gTOXRPjmjrb3sMGwhEv5EcSehnR0YlDuWuWSECFdODRbgkjtQGZjIvCIMsZtJDgO7e7oJ4KDumILutvH9BUBPxM7vAtol_ZcPtCe5fzcAb_3e1DNqEyyvhGkjwOhO407UbZNYslle3CTrv3GsF3CR1hS3HSjAhZNsnm96DBdmpQbti49vm50xTiJeOwGmXn5SAdXFsFzawUNBlAu7lp9x8aneYCuCTKOY9f7W_nJ1nkg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJIS7ty9JYrIkRNmKZBFgof_g/photos/AU_ZVEFjlgwt6X8Ykjd4ZYZZM6fDdm4n4Nn79nfcRCgv0X41O8t26aLUhIqyzoODodVHCsUOpDC5-mdR67XjDl_SRJ1WspeLBU7pcEeiC8v2oFyHXvSkiN9SdqN0eGc7FMKFEX4_Du5GwCU_-0lmlQ_ibcBdXFIfQueut4g4j-YNl0JYXHxtQs3VNviva_cp-ZCXKvik03qU-upoTYHYpVyZcizRLfkhoKiAa_tfeMDL0s35RpJiy24jtopJyAHwUb9Uh2MAO6VowSeXDaXth8iow2R-31pdrv2P83d62ZJ1bAfAHg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJIS7ty9JYrIkRNmKZBFgof_g/photos/AU_ZVEE4rPcsOf0ue-GGhjhI6OiLstisZyGyN3pySki5tyCYypSWRRqGIMVFpLFcbD6YkLck0iG6UK7LrItJtwIyhmkkpcWTeg79ex5wmG-J-xiR1cFdppwNYYH6pyVxgWw2tCFgIj6euSE8ordYkJHUkW0gp2iplLQu_MCMMY4lvkp52C9qk5qkgWP5RA5SkrkfAQv7tP_rdFNdBUNPkVhigZZWZ06yI-QHmzBsCmRyJSa5gM6JCRcHXB41V4I2G0m8TwdTOReF3KMTzXAEoogTVyjpb4XckD_1JGNiyUKox0qhFn-tk1bfk4gI4I9Fnu0NPnwtgztvGEQe6YyNyhTBfffqTIgy43vEpCONtHe56f_M6iDPHhtyRx0SQw8uMYPoVSZoJhPW6NMOMdQ6Z4T68zggYsvYsNxS7XBx-IGnB3DKVNJE/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJIS7ty9JYrIkRNmKZBFgof_g/photos/AU_ZVEFqw-BJCx9W3vlwVMgTlDgPRUi8NUWmi4pfCFzBxcVW3P2pJthhAt4kqYcrsN8RqPK_I81GkUw8vrAUgte9ongjl2jkr_zcnLGG_E5WEVaKGwcSqyu0Xwkw22rExO_6yon0xL3iaiy8afNyx1QRIBrjSDrcs0V3G4u4g5L3jdvQXmYf6WUBidf45cDF7bHy8A6HFzwtvAUp-ypOfZGo9rmj0h0P4oQO441fy6qpM6wKfrYYnkPD5oFnvFauLbALwDtgN9eq4nf7a-AMBsKRzmnxM4w0GgqRaTQlx2qt8bFc2zx_t1wByekMyh0lrHKv8VIpN_TeruHe8P9_XGl3FQBquNOLW1vXK6J32z6hsHF2uooc_-xAOlSzeZ7Qd0jN2wW4x68h1gGe_zPHvOw4pjbpqA_qZR_pwxBjKuAvVPo4CzuL/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJIS7ty9JYrIkRNmKZBFgof_g/photos/AU_ZVEEP9OVrhYMr-ENvLSvLXPyH3Hpvnd-MMjPqCNjfjI1oIG67Ght7rIjzPhNrgMddueZzlm3snlh8Ij_CO9XTqHODcgLu2Q_u0xTvRyUbjQb3HtjPDldOJHXd6JJXOyFHGSJ27NGE-ujyTPQZ5-BkuQRtnq0ASvI-dEGF6w_IzOxwbTCmlwoT2ggHZzavIRYYQRjsa7NMhJe_X-7ffdBRr-qse5s3jiGuedb-0EEAk_8KQmRrGtNibJoJJJ3Hc1pw49GZJMhmHltMXsmGcruCHUQQX1pI-BHfIPiRcvny8FeE5ZFPPhZcoGIr3EGbBTaFO-0uqYRbge0bIl2tApgJF0F5Dtix9I1AB5CLoksPKa6TwCISILJ1cxVtg-OlHVLXg2Zg0uueX1mztEgJsOy57_9CGHwqG5uwQe86cMVZvpY/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJIS7ty9JYrIkRNmKZBFgof_g/photos/AU_ZVEESkA3KvzdzZp3u-eEmJTj1lrWdcREVKHQ6Fd9rMIGylsTX3iT_NhJ-vz73UKSSAOJOQWJzbSm8tJNdzK57gZ5HMG6OXQHanQK-VXqnBLaiXID8xrk2cedH8kMN62ynFGK1qSaKKjZCHayITGPbnoFPMJKIuBcnd_Z_rgdMkecrKuYOPCleuGgS5zVeKJd8Npp97U6HyRkFW6q_AccOLdMVJW-gyzmv7zwMjbgXooGPefkUssXQSs5_QprG-9YgqFDhHMEtsBtLx1HKlj0G8Irh1WCEhiUxMJVWcYnIzHnabw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "2505 Commissary",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "2505 Whilden Dr, Durham, NC 27713, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Raleigh",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "https://www.2505commissary.com/",
+      "phone": "(919) 452-0751",
+      "phoneUnformatted": "9194520751",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.9515935,
+        "lng": -78.8826393
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJezQsS5flrIkRyisIfVC2iIg",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:40.295Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJezQsS5flrIkRyisIfVC2iIg",
+      "reviews": 4,
+      "rating": 4,
+      "totalScore": 4,
+      "reviewsCount": 4,
+      "isAdvertisement": false,
+      "imageUrl": "",
+      "images": [],
+      "verified": false
+    },
+    {
+      "title": "Catering & Home Kitchen Services",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "160 Sommerville Park Rd, Raleigh, NC 27603, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Raleigh",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "http://cateringhomekitchen.com/",
+      "phone": "(919) 412-4429",
+      "phoneUnformatted": "9194124429",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.6939274,
+        "lng": -78.6504799
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJbb7W-azzrIkRMvORyyrvzLk",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:40.581Z",
+      "openingHours": [],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJbb7W-azzrIkRMvORyyrvzLk",
+      "reviews": 3,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 3,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJbb7W-azzrIkRMvORyyrvzLk/photos/AU_ZVEFKsnk4QWNi8Ib7QKqYwvVDrGf3wjqaZCYySE-LbZzeKyMZPjOUejQSoY1OESE4F4Rf2U-M2-9NKamuaGt3oElS7DnMAl0JWTE2h25whOZiZTOYmlohjSpW-y-ohgvB_ivhiE82dljgP7w0b6hCFNFoS7nkNCYX6oVIfIZiPW52xHbYJg215GYoYb7D_kUAb4DEHwUdQTyh4JYlWkMR9d22XKH8HdsY8U1mpEA4GZYp99BQMOrnMlY8ZGEUrZ31YRtBVTu0QpkXXhl46-5uj26qwxCAxFtURHO5OuoFtDyrEcnfr1scHz04SsfcPBYXoNDj-z0dp_hE1QlKBYr-uyb_d0_x1iCJf1a4bMJEkMp_N4WV6j8MCFqnk6P8bQMynW78GIvMS7mPdu4nJaz16p-fW6DRmUx76zmiry2Qve6Lag/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJbb7W-azzrIkRMvORyyrvzLk/photos/AU_ZVEFKsnk4QWNi8Ib7QKqYwvVDrGf3wjqaZCYySE-LbZzeKyMZPjOUejQSoY1OESE4F4Rf2U-M2-9NKamuaGt3oElS7DnMAl0JWTE2h25whOZiZTOYmlohjSpW-y-ohgvB_ivhiE82dljgP7w0b6hCFNFoS7nkNCYX6oVIfIZiPW52xHbYJg215GYoYb7D_kUAb4DEHwUdQTyh4JYlWkMR9d22XKH8HdsY8U1mpEA4GZYp99BQMOrnMlY8ZGEUrZ31YRtBVTu0QpkXXhl46-5uj26qwxCAxFtURHO5OuoFtDyrEcnfr1scHz04SsfcPBYXoNDj-z0dp_hE1QlKBYr-uyb_d0_x1iCJf1a4bMJEkMp_N4WV6j8MCFqnk6P8bQMynW78GIvMS7mPdu4nJaz16p-fW6DRmUx76zmiry2Qve6Lag/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJbb7W-azzrIkRMvORyyrvzLk/photos/AU_ZVEHfkRWAyiQPLGvIYEXdiekDOb3XrrCET2EGS0DjzLgDw2N0xRRMW0uk8cDe3UiYyJhPTaI-66AhBCkHqqgdJwRFY37EmdhHr0kJQpxaViU9n4bdvGgpAF_qKrXllASafzRcJbzkUHyCRFjOkdeh_56FT7_4nuADHrxkQsGyvZ4QtXq-dnltQpG5klrxdB_c6tKid01lwehq4wbfUB9CofoOUBfhhFQUnfX0ZaGkBzweKlbaXju8jGXVfS32HCkM1KYeNFD4DV3WNKIzpviz_MjBQ10elxeMfY4paR9tvJ0hJ9w9MKTS7o6tk1SnM-S0YfvjOpwkdy45qNq5Cq4YhYZlF1_lpVoxuwadKuoa0G1e6hScHtVo02Vhfj31ETyTBxhx61t34nb-ThCfaKZFh3p1LC0pBZo54YvHl2Z4vxD3nQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJbb7W-azzrIkRMvORyyrvzLk/photos/AU_ZVEF6tqISI_TGtkA1DmX74K2oFzpfrNY7e64EAsl4g5VcWGt3mqRgy7TJRbCDrHxm3Zz0gDhgiK6SHfDaYOoUVV4CJIBqhOBdJvFzS4JXMSQaS_JSaotRAUqUFH6ok7bcAGIa6-GHGt5un44_zw_rbEmsj5N3G-jwNI_wuuJF_jv5VtBo5Fppll8oisgQ3_dwclro5OZlj1zhi5x0oGPs0AsrtbmpcGpoV17kJTcpNX0Gano9OpCXcXhyXPa4qeempy1fcu3_BhS_nQkKC8KqFdmSFT01iE_9EWNY8vNdqrhDT_2fLSfqLmdTgNnG0t2IHez9Ad8J2jf9TPWjAkhYoyTTb1kAXyLFATydHXRfG-nC5Vz8HQQ2LFy7JT91SPIWa9fQbewq2raE0ljTQ7CmIWZpNQCVibg2hRJkA4iGhevM_kg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJbb7W-azzrIkRMvORyyrvzLk/photos/AU_ZVEEucjZcQt_yfaYxnkAo7tzN-_IHeHJ7iKOcueR4Z_JFqUZFuidZaqglkmCnPlL4rs-TkHpfSLe4C-lS4we-AZ_tlaxvCnqruuW0fq1aPz1PYJtSa-siQUAz3cY_kB63CT3WrdG2sa1NG3Yrm6YvRAOpJ3bW5AoWqUE7VvF3LTxMufOylkTyudtdJMb5WZqIJN3DrSNlFwt1TCoBRF7AfbaB-xkE0tNuBKEspOV2Vo-Yq4T7zojYYWOJX-FzzmKzbKszFAoHS4x1MPdKMORBILCxXbX6H_cNUgpYXOa74l7ICpK5wGc87gICB-WDNdtB1kEOlw9ZJe6RXWEKN4zJe9heunU7Bqm-MsefjzB0v1TT2x90lts5o8E-sQq_d7Fqk8FSz6o0eo_St40jx8Nx3b8rFGhvcltnXTeBfeKPkHmYVw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJbb7W-azzrIkRMvORyyrvzLk/photos/AU_ZVEEdJbDm_on5y1kwTjN7a_MwLIpTN8oQOPua4AzeHI7f2FCuPgE71CxMB17Lqer-P1nUoe8mvZW87kG-Drn3fFbl1NBvUwj2HNi0RyoJhGba6QYBjQdo0FyVZdBLUYkQlKaZYygveQoylrRfDm14pKPVaK9_bpJ8j7nXdvkxWQnhd5c0jxQOrZwPazp9xaBpNlYS0VIm9BTw3LBbwn2OFa4MVSU4xjNH3lFTKFd6IEdO-y8Cq4PzOLT_-MQW9pZ_3yvdIDiCH4Edkc7vOH1lr704Vz1nfhcgWDo_NUaNMV3FoEqJ9bTeDk6FikGC4QXHddr_vOXzUntEoLEN1_z0FRjEutR89bWP4cy7enn2IF24XsLOwnl11NdXKoAuIBgqqcGvERDZYWELAf1itJMq2-iKk1crC4XTiRRP23W6rhgCQQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJbb7W-azzrIkRMvORyyrvzLk/photos/AU_ZVEEfD65sjZs4goIoqo923WCkiQYjku3VWNqW04TXky7XPAsnM9VN1WgxitN0-JMHEyLaLtiByGSydahjeTnB2NzM8-jxjYTYjA2Z5FZ0ZQwK_ZY6UHPnO2eRcgyEcHqvXTfP_GY8DyCHA4GtMNpl78USz1R4DRPA6tneIaC0l65-i4vB4yqE2oj2IrZerKMGES79QlWAR_4ZFJxM-mBXC50c0LAl-OvwWegrXwQDMpiREuJ9LcjK4z3EgbPeLDgsrt1c6repP_6K_zeQfZ2rXbuaEtCeAwh07NFJ8DP5tdWRFTwmK-IYkWqNnpBa0FX5zQIcnU0XkIGjbj8tPeMhHs57L4S-mMjsOd-V2Pgk1fJk1PVOq4F9D9Gtg8y8ge__bSqE2TWDyXXPzfM_NfhXmE7eS4i68y1JI-WmCe8H8FrzWOZy/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "The Nest Raleigh",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "414 Fayetteville St 4th floor, Raleigh, NC 27601, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Raleigh",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "http://nestraleigh.com/",
+      "phone": "(919) 617-6378",
+      "phoneUnformatted": "9196176378",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.775163,
+        "lng": -78.6395388
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJoa3F1HNfrIkRKAQi5yz5AkA",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:41.145Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJoa3F1HNfrIkRKAQi5yz5AkA",
+      "reviews": 101,
+      "rating": 4.9,
+      "totalScore": 4.9,
+      "reviewsCount": 101,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJoa3F1HNfrIkRKAQi5yz5AkA/photos/AU_ZVEHKseNGqMOws-pcN5Bsql3r-buumYqECFyv7OEilcnzoKWn24BDbnhDfKmhXDHSAA4UvjMe_4S0oT8qGkOaVxSoH0-JVx-iMOGmNVG60u9_Ytbshd3fBHcBRJCh9frl_0VV8RtLCgNzxlegNQ27Fy9DskZTsDiFPfC9iKKuw0bDG9s2N4-tc_94w5QrAmmQaMGM24094V2iVpf2npF2JZIzQiVq08ERQV9kphjjaJk2TRKshPFF4sJYW9kUvpJVSLN2B7qGcYHuONfoM1z0SRdiMD9ujmi_GOuA3sliI9k4YQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJoa3F1HNfrIkRKAQi5yz5AkA/photos/AU_ZVEHKseNGqMOws-pcN5Bsql3r-buumYqECFyv7OEilcnzoKWn24BDbnhDfKmhXDHSAA4UvjMe_4S0oT8qGkOaVxSoH0-JVx-iMOGmNVG60u9_Ytbshd3fBHcBRJCh9frl_0VV8RtLCgNzxlegNQ27Fy9DskZTsDiFPfC9iKKuw0bDG9s2N4-tc_94w5QrAmmQaMGM24094V2iVpf2npF2JZIzQiVq08ERQV9kphjjaJk2TRKshPFF4sJYW9kUvpJVSLN2B7qGcYHuONfoM1z0SRdiMD9ujmi_GOuA3sliI9k4YQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJoa3F1HNfrIkRKAQi5yz5AkA/photos/AU_ZVEE7Yf4yITKleZfZLPprq7sfKuQgYWuirZe4dnrA5qdk13olXwcv4kJpfRkdTvg20hD4YcXgQeb1JwAqt3HWjjc9alT4bKSEo__UWM5RCSI1W15-wE_GtU3ZwwxP7Lmx9gDUMlaDWPpHX7JDWm0QOvRr53_0aWuemN1aJTnwtbqUbH9ao2Suedw20G30afq7zvIqSUKeQ6X9QnyPFTWaWxytv0CV60P8PX5j9fOE1At9Xm_SCd3DQCFMSc21v-wnkTy0dFWteCHWlgZsTMQ-BLv3hO_hvPH95XLhjME1N9vjkg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJoa3F1HNfrIkRKAQi5yz5AkA/photos/AU_ZVEE04dwpJhnZOpo3NfOYTG0gAIwm68T_ISzMhWCVrz0RE56szoeaA8S7-U6syjB70IWyeu2QnTo4lphodtEPKaqGn4m9HqC-zgMxpJMNR38FSzgbbNoG5IqkhmKedYeptH874hlAFJonggQlGei_88CIZUH6bqrKsC-w98uDVYKdbjeRC8JPQQTb7Mg7fv1DxbkWffm_6nssOcdHF2IeJ_bhuMkA1QnZgIUhwb0KSLJy7uIYCglQO30HWdVk6O-orSbF9LqUrXhz10BTKoqiLnbBnpZJo9qSsF8GWg46rwaVXA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJoa3F1HNfrIkRKAQi5yz5AkA/photos/AU_ZVEFbgiwU4IS3Iy4iK3CQ4PRc2Hu-5ST8t0ka8mywEQE6Uu3vF6Yp-l3v7bsZGlNi6EGiaFgGnaNazstCi3AyIH8ExjVRM73AY-Tl3wEfEuWuEBW3ZXpsxwwcTKmw3Ewp0mOYO18qOblUsdOXBnIC8T3SqnouVgrtRvq6kYlvMp0VfG3KYUT8gQFBoSRsFstIfW4theo9akpQzvDaA2Oda8E_22oW2CJLWEm3l25s3n-Pe4Og_5LhyN_hNA4vdwDcCUdUIeeCP-7nqa3lMiFSuU953j6y9HYkkQqNT1W7YWb9Iw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJoa3F1HNfrIkRKAQi5yz5AkA/photos/AU_ZVEEPEHxpiiZdsnp8IMi5d0BoOG2D2FECLDtWAnO0h0ZncYlzeH3I9FiBDPHhFeF9OKHeHq99qptzcLEsVj4cggBOwWvKIVxsKiwS-p5Lxk9Nia8y0jPtwoHdRr2XWQhvsFpizl8gY0PgHQ5lNV0H2qitd0bwJswW0zOz2Q93eMhSu1sKWDszTjm0xO6rC0h0lPXziGoQo_6BAlOBnK7_V1_btMWKF9IORkIe7Xx_qqczNphH83Cqj8Z-5-WkD80thCC_NM_zNQ5tlZUTSnFhZUTw52ISIYtpSqomSESVNI-Umw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJoa3F1HNfrIkRKAQi5yz5AkA/photos/AU_ZVEGFtPveCy4TxUmecGkrJ5GZELJTmtUbM2vQ5dHUug_eY_pwGLRn8E2ueW3B4ml47eRttLKAfsdO7oQF3VUHJ_IpMy5n3jkKLN52UMfuANj4Cu-RZFKxwtpCz6nppU18n7sw2Z9V3tadG0IRAQ6wFNMc4B3N9XsyOwzyONYr2YDmCC-WIMuBM1j-ypHSQz25mvlL5aAb43kMGMWeRm6A0Fs437Ny2SMBe3zv_0B-ZC1fdk37-1T_JNeNu3FjmiXWxAP748R0KjL_jITE_C_WcTNlf9LNOS6Vnl86nb4e8ofutQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJoa3F1HNfrIkRKAQi5yz5AkA/photos/AU_ZVEEz3LWx8NKFQV-sqZ8QaNojyxPVwWSaD4Uki_BDv9K3if5qRjzyUaQNhdfbnZEcBabG1V_UHCzZZ-zH_ElTeUP4W8Ev3muJhv2G7NQabf08hL8l9ZfktHI1cKUq18YmkMr62e0PonfitTDANVKUepFe2zMxHHwAyw8kvgWWM1NzwQ7ewElbMI_OkkO71cSVE1E6aWvIXPkL-16sp-vdCShN5WsML4UAzGdNNRSVeG4S7BiOit47mLx2o-QIMdU3zup2k8uLxNSDV5sqhu0LPV1dQRTWw5QN7J1Y-fvOGSCUww/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJoa3F1HNfrIkRKAQi5yz5AkA/photos/AU_ZVEH8azR6FHaz2ZSfAi4SftSaaYOe7GkZEy1LogYP5QngbNUoQ02YSsd_SpyYLCGUuJXSNxH8IEbA7LcgIJS_NfsyYWtNumR6urrrJUKhWSKwIQ8Ku6faRnnJW8xxhhc1d4c_VjlbuC-Jcb-GMlMB4wfMBHRVMoESr-_5Df_EAz36eT_jH6P05fH8OT9XCKKDS53pD5hjGncYZLrbY2ylDwH99gOQOsXRDzzzCMfXlaUOjHHXuYRgd2RFyMERZ_st5MW6LfnXHJwGkbW1OcRxY35ZYfjtXs5ZjsOVYPMG80ri1w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJoa3F1HNfrIkRKAQi5yz5AkA/photos/AU_ZVEGpjGPVOH9Vqkiivp9iYPtzWkHNjVR_Tt9na9RjRNGnX0B_B8_ZyMuLZDNcRTG14726xynT-_wRYkYhG5CFVQCI-qJ7KKc2NQuulE__sNB884yWqQkBDnHlb2QWajILm7aPkwqCfUQFD_FC7cAD8qi4BiGx2S0K6qh-QctGaxVeEu-R-rhuZUgGhahMWvJeLg4ILpgBRsN0qp7Kfl_0IZ7AwwYXPl9fe7FNov3sPCErU1ZIecFlmsEsxrYDR4Ly8r3qRY7Med8n-02ZxT0-kmnhUwUlSCA9ietujlJEqASSdChcwz0InZSxMJm5wBy_fDCZzLjv5HPEjP85IV1k8PZri3nKTRiMvYcmyebtp1beb9uScmM_9Yr5v247CNyu0HoC5m2hdVfIm4KwxFb-2Wi0hrytodaMRdJ8oYMxKXmZ5q4/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJoa3F1HNfrIkRKAQi5yz5AkA/photos/AU_ZVEHB63IEGfEhanO8ztNnPEsccHrboE-ZQh19zS3K4sBCPsSvxpQAyPX92gDZVTeCv5x9mBA60rJ6AgtE-ZwIwtVgzFRMNdF42z4JHtWQKU0Rbp0FmZM-DDGPNIHqFv0FPjXH3XNuFyYt6n0eswUEOqn8s6u5SCNpPexO4Sri9iTcsL9kIVh1bhucbK4rS0mltefBNXW23ToNrfSu-b5avR2Bmkp449LV221cIeAFBvKLSMqPYHRMKzRFVpJdKKASb_KcsH8E_Eb8BbYaQGyGK68pLlV1BYYPUaQkgtFqgr_G2w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Community Commissary",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "160 Sommerville Park Rd, Raleigh, NC 27603, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Raleigh",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "http://www.communitycommissary.com/",
+      "phone": "(919) 594-4767",
+      "phoneUnformatted": "9195944767",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.6939274,
+        "lng": -78.6504799
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJC-Pl7gxhrIkRehwGMoNjF1M",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:41.766Z",
+      "openingHours": [],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJC-Pl7gxhrIkRehwGMoNjF1M",
+      "reviews": 4,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 4,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJC-Pl7gxhrIkRehwGMoNjF1M/photos/AU_ZVEEN6drT3yyJwgnH-5dtycH95VAxKEgyLdpmR7h8RkELGPPzMxphZOlPaEpB5JqR8aeCwkUMyAtb4BweE_U3fdPLYN3lH_taouNlYJWXGsf4WeInF2d22LRNhTAMwxGBG4z0t6PJDWoUzTr11RJW3MDHc8cFVl2yYfiZx4IEBLsgRqTt4MbLl5I4ktqZRNwRkqdaAkgn33nBGEd19_Ji4ob54gaB5C1NcPDK1co3ACdtHO_MuarnhXKww9bTDiBNNkA4T5gn_HRZ7qGurScdSGcXUOyhATPdzUeVnydjPX-zWg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJC-Pl7gxhrIkRehwGMoNjF1M/photos/AU_ZVEEN6drT3yyJwgnH-5dtycH95VAxKEgyLdpmR7h8RkELGPPzMxphZOlPaEpB5JqR8aeCwkUMyAtb4BweE_U3fdPLYN3lH_taouNlYJWXGsf4WeInF2d22LRNhTAMwxGBG4z0t6PJDWoUzTr11RJW3MDHc8cFVl2yYfiZx4IEBLsgRqTt4MbLl5I4ktqZRNwRkqdaAkgn33nBGEd19_Ji4ob54gaB5C1NcPDK1co3ACdtHO_MuarnhXKww9bTDiBNNkA4T5gn_HRZ7qGurScdSGcXUOyhATPdzUeVnydjPX-zWg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJC-Pl7gxhrIkRehwGMoNjF1M/photos/AU_ZVEE-Ub830ID1SiJkb4YtIX7kMvtlexz01lbVnDPAEa45d0yV09QfG2GVznnNUP82GYuLzAY4twpg0xK4JhDUuu_y1UbHA5b88RaGUBYLldsfNcB2dNqYAjP-sHDjlWwa-MmCR7HfIi19cYNLjG78lWtYl_UI035V_Q7vTBO3ALaph2XAaVFb-NIG1cdlMKrhQ7FfQna7405sXHPg1-L5xbTwg5JTSBlN950TV1NPsZJpKvw7GtBsmLNX_dZynZrFZbKtR0XNLPTem26I8t9H5iNozAbr6MXen_vtdsiwhT7V9A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJC-Pl7gxhrIkRehwGMoNjF1M/photos/AU_ZVEFzcUQYPiGwGiVR51cUPMmyURaXgdDpAaLt7iSCUbySHfmac-cO_68yuKPT6C8S0LNLZdsOWORlDjYq26Fazvs_PukK49ABWwuSg8gHT7gJ9hU0ebCuPbuvuqmfOugFIZp4qznES_76FblpgZeWwGmVt-PD7Y9r1Q5GQPkBXUXjjPgaQZpaDSruI5aB6eFlfzYSYkdZFA4wDECeHVyAq9WQ4hutgkhD5gxR415ShMv943bC7Tqqo8WbLAccnWoDXr2ZZvEg4NuXaSXhlsEjqQ3sB-yKV2zpG0iAtQX-PU3B2Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJC-Pl7gxhrIkRehwGMoNjF1M/photos/AU_ZVEHHfIfo3m2nk9knDa7TpBhIPGpoHY5vv5GgOSa9BO7QWok0yng0GD0gKTlNOmH5YLVXd5fHJLpRFpwivXfmrJCdIQOUwxwdGgvP0KmtRouL8yku7qdD_KJS1IeoUbk8PJLFBOaCC92oq2tF8hm8rNwkyk2nwnd-xM-Azh-enkcuhJ-GYuQnd8e1dqx8HwOro5mLglnuXYeb859wQlgpSHkNbO_4ZExZOkvU56dMsn9gk4NxNeG6hTnrG7LbfymIfO2OL58AiCV3MzCakyEyAiDd434Ho2mmLX_4hJ668fPgww/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "The Kitchen Archive",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "2161 S Wilmington St, Raleigh, NC 27603, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Raleigh",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "https://thekitchenarchivenc.com/contact-us/",
+      "phone": "(984) 247-9988",
+      "phoneUnformatted": "9842479988",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.7529733,
+        "lng": -78.6385991
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJO_Yi3ZZfrIkRy1a5QTZ4EG0",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:42.038Z",
+      "openingHours": [],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJO_Yi3ZZfrIkRy1a5QTZ4EG0",
+      "reviews": 7,
+      "rating": 3.3,
+      "totalScore": 3.3,
+      "reviewsCount": 7,
+      "isAdvertisement": false,
+      "imageUrl": "",
+      "images": [],
+      "verified": false
+    },
+    {
+      "title": "Carolina Commercial Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3500 Latrobe Dr, Charlotte, NC 28211, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Raleigh",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "https://carolinacommercialkitchen.net/contact",
+      "phone": "(704) 366-6100",
+      "phoneUnformatted": "7043666100",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.19719690000001,
+        "lng": -80.7999375
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ__-PkA0gVIgRJboVgsXyWIg",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:42.359Z",
+      "openingHours": [],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJ__-PkA0gVIgRJboVgsXyWIg",
+      "reviews": 2,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 2,
+      "isAdvertisement": false,
+      "imageUrl": "",
+      "images": [],
+      "verified": false
+    },
+    {
+      "title": "Shared Use Kitchen",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "Clifton Rd, Greensboro, NC 27407, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Raleigh",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "",
+      "phone": "",
+      "phoneUnformatted": "",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 36.0600448,
+        "lng": -79.8577162
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJATx2PCcbU4gRrB-C-dfNGJs",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:42.683Z",
+      "openingHours": [],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJATx2PCcbU4gRrB-C-dfNGJs",
+      "reviews": 1,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 1,
+      "isAdvertisement": false,
+      "imageUrl": "",
+      "images": [],
+      "verified": false
+    },
+    {
+      "title": "NC Food Commissary LLC",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "813 Griffin St, Fayetteville, NC 28312, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Raleigh",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "https://www.ncfoodcommissary.com/",
+      "phone": "(910) 807-7850",
+      "phoneUnformatted": "9108077850",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.0325291,
+        "lng": -78.84653670000002
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJzRVlcbYTq4kR59gb7coPfSg",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:42.955Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJzRVlcbYTq4kR59gb7coPfSg",
+      "reviews": 2,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJzRVlcbYTq4kR59gb7coPfSg/photos/AU_ZVEEGk0vVX6_KFCrmcN6LMBcfjuK2_4EHFiXuH6jz9ZOQJWRmlzorr6J3sSQIStC4-dfGsjsK5ac5Rf89C1WuQwIuc5GQxoz5sdwQYQrvyaypkeAtRC9Zlp9NuZfLV8mbjoABfnpteBeYjDK3ccQ03cipCXy6rAtDwFZajbxCmiZXFEMLDRIySwfCkqImOhOAgvpt9l5QNMLC7sVG9OH0NJvurckuz-HgD8iASMXxGHXPhfugasZvUw77MYNfOCG87P4Tqc6B0oeEqqyEqKICFu_dnlTl17ebR1CoSQx6m_w8hA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJzRVlcbYTq4kR59gb7coPfSg/photos/AU_ZVEEGk0vVX6_KFCrmcN6LMBcfjuK2_4EHFiXuH6jz9ZOQJWRmlzorr6J3sSQIStC4-dfGsjsK5ac5Rf89C1WuQwIuc5GQxoz5sdwQYQrvyaypkeAtRC9Zlp9NuZfLV8mbjoABfnpteBeYjDK3ccQ03cipCXy6rAtDwFZajbxCmiZXFEMLDRIySwfCkqImOhOAgvpt9l5QNMLC7sVG9OH0NJvurckuz-HgD8iASMXxGHXPhfugasZvUw77MYNfOCG87P4Tqc6B0oeEqqyEqKICFu_dnlTl17ebR1CoSQx6m_w8hA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJzRVlcbYTq4kR59gb7coPfSg/photos/AU_ZVEFaFES2_uqfAXxxsGE0dN95lu_EvX-w8-pKPCTs47ID4GOEBNi6v618T3Fr_iI4r-E3zAyMsHS-cEfHRKSgG8MsS5gvCy7GldR4OehFuWys6F7pVkzrO_m8Hr0jWZ8t65Oh9WsfUnBeuH5UZC3aCWvCy7w2oZqh_e7a2LRGS6fUsLlPvgW991oFUvbgBrTeMFyvQOb3DZcji9ddHscg2g3ydgYDcziqpy-CmludN-VCR8y7VLibIRlE-HerB-FshAsi0EqEBAiSsylER6RI9NsZLsHBB9i8K3xvHubHgsR9NA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Esser's Commissary",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "1902 E Geer St, Durham, NC 27704, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Raleigh",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "http://www.esserscommissary.com/",
+      "phone": "(919) 283-2640",
+      "phoneUnformatted": "9192832640",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 36.0170752,
+        "lng": -78.8572865
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJH2kF4-XkrIkREgeI49fLG3k",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:43.236Z",
+      "openingHours": [],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJH2kF4-XkrIkREgeI49fLG3k",
+      "reviews": 2,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJH2kF4-XkrIkREgeI49fLG3k/photos/AU_ZVEGUQeD3EceXXtMHLfkQgesqZhmKA2_hcl7c5yJNVPFY3lieCtYtZwl6SV3fkVSTKp5tJkuZk5DSPyZXE0hWQVODM48nb0qMAp73N_8GEoYMf0g0yaiVNRG6XthW-aFtvMZUfXvFdHAZkDY90pTD1GuDRwppfrprz1hzVN2dwiP9v65TBj6lMM-lA5VAhYAoB7G7rDhsdlzJ1O92eMwvE2AvK6__VTLxr3pTX_gFWDwwMduy5kBsMs_JlwkHDy1v204hkDPKxLpGifFyaj3wtbM5u7CsnWqAs-kjCD9soC8EJzhpP-aDLWRjwrwKmz9U6m09HkQFZOhJDMi-bk0UlU-rMxnAkGCShEFjOo1OXGbfYNH1_7ur7lTJoTa7XVdbZgcoin_K_O6k8w3qLvFksEUFgWTWt5_YGpleAsRo3aN7m4Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJH2kF4-XkrIkREgeI49fLG3k/photos/AU_ZVEGUQeD3EceXXtMHLfkQgesqZhmKA2_hcl7c5yJNVPFY3lieCtYtZwl6SV3fkVSTKp5tJkuZk5DSPyZXE0hWQVODM48nb0qMAp73N_8GEoYMf0g0yaiVNRG6XthW-aFtvMZUfXvFdHAZkDY90pTD1GuDRwppfrprz1hzVN2dwiP9v65TBj6lMM-lA5VAhYAoB7G7rDhsdlzJ1O92eMwvE2AvK6__VTLxr3pTX_gFWDwwMduy5kBsMs_JlwkHDy1v204hkDPKxLpGifFyaj3wtbM5u7CsnWqAs-kjCD9soC8EJzhpP-aDLWRjwrwKmz9U6m09HkQFZOhJDMi-bk0UlU-rMxnAkGCShEFjOo1OXGbfYNH1_7ur7lTJoTa7XVdbZgcoin_K_O6k8w3qLvFksEUFgWTWt5_YGpleAsRo3aN7m4Q/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJH2kF4-XkrIkREgeI49fLG3k/photos/AU_ZVEHSxTrX_IYBLvkdFDzmCGnAo5LbkVLqoTz_r4S4-Yv92UjJJ0yMw0IWX5rPF_ujudVFQBcQrz2qupjNFHtkgYpTiufbqhlJ_DfOtd96CoMy1ma87T6qMBZA0siuIG_gbSsE0vlWiVFLIxJ59Q6AAh9QmXElWn8fLc9QP9hH5JCjGNwWYAMd2sI84mIqVYVhEOocXxUyuLLCu4UhnZ6yCv_gnPJHGDxvI4UeZ5U12YQWh4U2fsaZ2YUxmzvhv1o4oh-me0WMUP0SyZH5THHJKoAxDq2Z19Zp9GnuHZrIw6UK1WTqIMVQvjh8TUa58ZHWBrYN56b050rJAiZpxUHMKRHzY1NKXoLCyB47xbHKYt1UQZe02HE25wOEaRJdfuaHLQ9dm0aEafrl2j6TTxw2KhbWCPqPHG63V78M-7t6a24/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJH2kF4-XkrIkREgeI49fLG3k/photos/AU_ZVEE4WfV6WcmfRCyLEpqmmlZde_dndrCF9gio-P12xSC3KMLvLv9jLH-H6uQ8SM-4RvsFpsig5Tb1EFu3DwoE2EM67M_nXxWswW0FUkAMD7gv7yUkaXwwI4ziMxRWc1aLcrKdyKE37BXJ0eT0oHdYVHP3QMqCTdvvV-LuEw3t5-Z602vjgeTD2ktf2X7FGxeQMBPbFgFOAKnlvB_fS8dFcDV9KTAbqLgbZr7q4gojinf7COfZvAmjCKuC6E0CurmFuFC8-RRaJ8E5mVgGCQkPjcGlmR16RwFZ5i0jGyDdEjA_XCDvnl_Y70l15u-Iy-eYIUEY9c-_wdeBV7J_YJC317cBOhWdUzFwF3dQAeyiY4NIr0AIS22nmBtHTcFTvraHbwl_XBGkkVHEaUqlhn8RVPkzB9Yo-N0BkPAHozijqWxpoA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJH2kF4-XkrIkREgeI49fLG3k/photos/AU_ZVEFS1AHnrx5ffl_tCzw8Hg3flxIVR5X1P_n1t96MHxd8T1Z5mm_OHZXWBGDoAsy74PF9Kj-C3Tz6XzXsF99eJ3hs7htyIadAWSLGEeGha_-8A_hKMTV5WCYjvY0jcB4K_zigaXVFKReK78-wMnkMN3eHSxkFpTLzuok0z1hYZ4vJ-IaW1KeyQe_q0hWw8xR54uLFAs58KahCWDye05OKjCrs5DI6tPaev290az0P-nEfp-TzzapKQIsG1UmyPdK7WiOiXVxjxmtnDv9_YE1DPWPYyBG2ZE5Kng4sdsup0HvHpQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Nunya Commissary",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "2407 Kannapolis Hwy, Concord, NC 28027, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Raleigh",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "http://www.nunyacommissary.com/",
+      "phone": "",
+      "phoneUnformatted": "",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.442321199999995,
+        "lng": -80.6118857
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ8avO7YMPVIgRbGhzkpSIeqE",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:43.512Z",
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJ8avO7YMPVIgRbGhzkpSIeqE",
+      "reviews": 2,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJ8avO7YMPVIgRbGhzkpSIeqE/photos/AU_ZVEGqX3vYPReyfHMdNACOPSoWjfJQC-S4Fl8Nj9LGHeFzQ9V7xWuFmy3xvGDlKNBBxBcYL9R9ShejwD6z_-rRWUredgDX0jYvJAf6HJPEyLX2V7kun-lY7_JOia9YBqwNX7BPmCqrbpJmM--8PBJnxy7z1PbvcYBZD7Y9UhJornyXIPYbUnfSq-XGhVF9LCggTfvcU8-Kr9hInf3Lsa4Sm_Y7ijU645F82WJkZsGX3nHf6zjGc_clDqYPAXdnN1SvnxoH2p6c62En728z1Qt5MMbSD47EWsChpMooPmi3zlwoSQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJ8avO7YMPVIgRbGhzkpSIeqE/photos/AU_ZVEGqX3vYPReyfHMdNACOPSoWjfJQC-S4Fl8Nj9LGHeFzQ9V7xWuFmy3xvGDlKNBBxBcYL9R9ShejwD6z_-rRWUredgDX0jYvJAf6HJPEyLX2V7kun-lY7_JOia9YBqwNX7BPmCqrbpJmM--8PBJnxy7z1PbvcYBZD7Y9UhJornyXIPYbUnfSq-XGhVF9LCggTfvcU8-Kr9hInf3Lsa4Sm_Y7ijU645F82WJkZsGX3nHf6zjGc_clDqYPAXdnN1SvnxoH2p6c62En728z1Qt5MMbSD47EWsChpMooPmi3zlwoSQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ8avO7YMPVIgRbGhzkpSIeqE/photos/AU_ZVEHLbLGODzrOyTLuH0dry8U-DAkZvwbb1A80vEkmEnAI1cH2b1ONFI3PrNawztdKduX-u9rjBixGxK8uFONLQ47dXOx3XI56s_LgcAEfd-hL7ew-Cuxw7frtsfICwi8iGmOtRd3SvzuN_p8gF8pkQuvUAs3B8MCo925mMFr3OVQ1X9OLCc8Um87nIiBuKToFi-UD9zUyRDIv4bjkY1sRT82UzGVyxRF1Eo3Mw3l9RRfT76v52-AiaDC-lUKmffo72khrBSct0jt6uHfbmHYlFx6HaJGawlDmLeTIhsZBfmXh5w/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ8avO7YMPVIgRbGhzkpSIeqE/photos/AU_ZVEHwn5g33p6fZBepldB1QPJ5qD7SSGpK6qAGPBHdJj-sHD4im-zCF7wNMMTzIms6V6gV5BdAhdj-rlkgXNZQ7-KbfEDQCOc0esgl0DkmUOBzSR0CqT3Iqg2APi2tSQ4yGZrTybYlujAQwflqonzyAfi2tyd7y_vtNyui-UCI7qZHAn2ERrab8LqZSBFDfsmiW7dkT4BuGwF0l6tosLi63E4yvFw6cGfHUz0SGwsNEWmhoFJ-STdUGRNpJHX5uMXqgJGhd0_9sqGvGHfpKfxH4uZOEkJUkzRvQG6B9Mvm2U5cYQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ8avO7YMPVIgRbGhzkpSIeqE/photos/AU_ZVEGX2kQJdeu3AikkHCLRos1-WnOSxv9oowGPePzBeQ5MLaPJxSkNv4yOG6DWMEzDlG61zOEh4eQYxS6nmfEevIXwj9lzs3GCNrxOzW1QYJF-sfthr69zqaoxkerwO4meqHbt2JsJXmvn9CZBKWiCJ5Eh8iGmffqtc0XiKRmNeCBfWBnoTjcnJnpn0TnbTEiPVijrz5Jop62olhKy6EVfd3aD0lijs-VqgtfQ4CjY1WDYHjLJTSoZP0pEvmqyxcJiPsVDeIajUXKhROF44jZ2_7vsTN49CbOr-3mhFZ1kl54Wzg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ8avO7YMPVIgRbGhzkpSIeqE/photos/AU_ZVEFRcZxM1OnzCWiMGkuME6qOjrtkUlfROgw5wUvN8t0HDmKsg4Zdz01QSgXZtyW3xepBtdjqacaapn65tQWd3E8-BNppD__MEzV-sh_9aY9vIZDbVdMyoyJcbdM0NrALr-7jvyhtelefwS9wDXNXc-5OWyNj3p68gUU3-8ZHX56SmrjElbZWRkzhwEUcBBVG_I9cGlum9L54g-h26Y5sua8v4QIyn8UznfS68K83_LZmunfxmvL_x_frLUmpyyF9tdTO3ONTL5IpPaPYE7ajjxq1u_IjfzSj3YskTH9QzHPOvg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ8avO7YMPVIgRbGhzkpSIeqE/photos/AU_ZVEGwq8Zb8e1PBVQbtFIMRkpTT6zqOAT3mf5n7z3hU4zBruezuls1KOLXdyC-TJcFGIyg-8AvQCg9Ae83BhPmlTycV9BRSqt1my1oryPEIgsA8dL6rroK2kzK6I3COv_saSyI1daDrCxqfT4NGHJYDcKevXuJJTCeca2p0tDc9X-0o1vM_RvhInfSrAYbYCn6cOFbJVWK4pEHG_JvGrdLc9SQXAEvyabTkgHPZcorwYSaaUYZlgdobTSh29gXDCtTGDCnSiFUADc2C9ek4xPsjmjKtAh6IvZCaKZEZlYekWcffQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJ8avO7YMPVIgRbGhzkpSIeqE/photos/AU_ZVEE01gs7ZQ5ZZaHceUJuXYmXvwNnJ6ChuFYApP56NiuSGIvgQZzrmV82OvxEYA6GeKeBBmljoX5wMW3hIKljiiOdFvXVFUsuzWgeh9yxqsSJwyFrDloxR3kV25lVT-CzIVIVxzIqfxs0NTW9wlqFvBsIipqTVK3abAUc0gHNReDG80NysyQVSkZT4gKlSSaCWdNBsscRE_l0qzlL2N6jwSNnfgsmyu8LBp3vPs8f9c38j7bqGxrWmizxODAs6iaT9xRSgcLO08qFf2uvdx-hD1OVYzK4DqoYjsl553GbvvV38A/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    },
+    {
+      "title": "Indalia Kitchen LLC",
+      "price": null,
+      "categoryName": "Shared-use commercial kitchen",
+      "address": "3805 S Wilmington St #13, Raleigh, NC 27603, USA",
+      "neighborhood": "",
+      "street": "",
+      "city": "Raleigh",
+      "postalCode": "",
+      "state": "NC",
+      "countryCode": "US",
+      "website": "https://indalia-kitchen-llc.square.site/",
+      "phone": "(919) 548-4326",
+      "phoneUnformatted": "9195484326",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 35.727509399999995,
+        "lng": -78.64848219999999
+      },
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJm66h819frIkRy8TNK-g9UVo",
+      "categories": [
+        "Shared-use commercial kitchen"
+      ],
+      "imagesCount": 0,
+      "imageCategories": [],
+      "scrapedAt": "2026-04-03T05:13:43.862Z",
+      "openingHours": [],
+      "additionalInfo": {},
+      "url": "https://www.google.com/maps/search/?api=1&query_place_id=ChIJm66h819frIkRy8TNK-g9UVo",
+      "reviews": 6,
+      "rating": 5,
+      "totalScore": 5,
+      "reviewsCount": 6,
+      "isAdvertisement": false,
+      "imageUrl": "https://places.googleapis.com/v1/places/ChIJm66h819frIkRy8TNK-g9UVo/photos/AU_ZVEF0lUhq0cZ6qcnGfpl2z51MX2JZHYhgLHZry-q6V_4reutfkBuXriyxE9a-BpRA68lCbl7klW4SS2SVALP90V6iUOg6waSCyilULB3phvs0rMILoAxrdKq-5qVO7s09Px4RtCWafCgQM1-NZGaLDg1lW5zHsaY-fB03-OysOGLphWSCocLwuIN23K_DzySDVyw_JcHrH28Jj1yJRBR2uiydChYaMnoH0ZxmxdanXEb-LqC68ObeLRlLL9an_BqTNq6afoMfKe8bX3aF4SX6_oWgZM1EZiDW-cRNXL586w4xYQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+      "images": [
+        "https://places.googleapis.com/v1/places/ChIJm66h819frIkRy8TNK-g9UVo/photos/AU_ZVEF0lUhq0cZ6qcnGfpl2z51MX2JZHYhgLHZry-q6V_4reutfkBuXriyxE9a-BpRA68lCbl7klW4SS2SVALP90V6iUOg6waSCyilULB3phvs0rMILoAxrdKq-5qVO7s09Px4RtCWafCgQM1-NZGaLDg1lW5zHsaY-fB03-OysOGLphWSCocLwuIN23K_DzySDVyw_JcHrH28Jj1yJRBR2uiydChYaMnoH0ZxmxdanXEb-LqC68ObeLRlLL9an_BqTNq6afoMfKe8bX3aF4SX6_oWgZM1EZiDW-cRNXL586w4xYQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJm66h819frIkRy8TNK-g9UVo/photos/AU_ZVEFxkfF9G9S7LEQwuTS0sppXtzBN2gpPgo-lYiVsntMDQHS5Cb9FHgwalEt4OJRLvAIh1q_RVEpflXajMOOhRUCqpDB3W3HEqadjpw7CYb2YZq5Ol9g65cPlbUKTaxIvTehSFwNu3hNNncDRc9xSYX3Qag67jhmnjFw8N7kFKP9Pg4G7viV5F4aIuZgKEx5vmyrkqo7vWOn5HVmro317neTIznzEqAwQQaoUoDazIFnE0xyRgFeOZvwqKqgEeAms4hGtab5Lh7o3S1oaAYlRJUisoRR29JzUNreWGKFTq2WPig/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJm66h819frIkRy8TNK-g9UVo/photos/AU_ZVEFgvQaa5MXr9wdlpV9qu0eGzeiJtbd4zK-GsoKoG6hXDIyhyjEBF-AvNDXarMqxuqu3ikL66K1wnFvb_ZSlvTWZ5ABdUT1MMkXM4Utf0bfVerdzracw1wsJFKpG4nHlbB35dh7d4gAEy9FvV7yAnAw3fcvunsgP-SIXryu4dp1ObS8tHdxHML6O2YgPbUGvxlRjpGhWX3i8HcYH5BoBI8LREcMDTUn4rls81C6KVHVD8qQ0EEaGQ0AOV5O4qK8olI89zrMeVPw26N0hWkwMRftGOnDVBZUjqUB634oxGx7-qA/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJm66h819frIkRy8TNK-g9UVo/photos/AU_ZVEFPQN7WQ3HivVOzYOGBh8NLK4tjclVySgXe7iE5cuD946ympXoU4XbxUsBDpQqT69R6nsMeR6-bsW2JPvniAv62yBy5KK1qrPSjTh8f-F4fYAH9ToN3mNYy0rlgbE-mKPUQvB3JxpRAdxAi_sns_ydmkU_-BLBFr_l7m20jhrOZrkfGGKaM3Y8jzCUqCb5Ik933nPmY_hCiwyZV0uYqL9FKNnStcKbvU_j3gGZpEobgZvOErqDWWK_qnqktDgW3fVglMCSHQrTliztJONX_PhdnUlLdJi7Pl1p_zMKKgl2Djg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJm66h819frIkRy8TNK-g9UVo/photos/AU_ZVEGbpvU3cErvR-kC7G3fhc1X0Gh3mEtd016Gm556lUklyVxVGM_dBkF9yoR0aRjuX4iuTWMIAdaRKF2ARh-NjxRVVjZrLRQA-Wc7ZlMVcOnOmYpu5ZgArwm75KQyUEBVQoBVaNnP5vapSqvqfidte92fbh2NX6tYuF0f1K4-L5u8e3Y0sbSV0Q7O_au6mZGA-glvdUHS-RwxUgd9BU7gBZNSmq-Ge_3MP8w6YaungggudLmB8_zdUuSGZKU0awY68FBry1ppY3tu3iaBLqLYqI-ZstZ0yE65SSSegYfTmOfVSw/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJm66h819frIkRy8TNK-g9UVo/photos/AU_ZVEFqGQ1ApR-UYysUpLlIOzOVJ3HdwOUHqb9TvoCBq3jxLHhGkbmIRIXlV-MhMxwZhtT6FSNYldsZ4IKFTbnmoEFJznFDuP3Fppw0C1OOcwjKgGCCVJg63VbXuDIzYYar97w_oLMWwVJoXYxPpI5EakjMWEr8KHySi3OpqPzY7x_cIR14lQRzzh3zPfJX2I_HiXjZhldgx0tbxaiZAwrHPbppd9zZtCCm8tgRbuWvIqseMhqnbwQNGvgflQ7ingYNIx3-k26_dnFlop41CgaVnKkqa066UN9RQ4VlKkj3nmzUgg/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800",
+        "https://places.googleapis.com/v1/places/ChIJm66h819frIkRy8TNK-g9UVo/photos/AU_ZVEEHewRp1NsZO2Gx10XQUeAa3RM9pq2zWRa8w1pOUtZJCgZP4rix5k82uemceJczqpQOdZ4ehwpbccefNQfNydiHScC_WWYk_6XHyHE0eIGJ0dFLRXEDJ_C9qIOc5p5OsR7x5pYgJqdNKEgWjSzNlheuH3Am0SEz0i_KM-Mi1xNcY2u4XVxN6jMzMn8QFOMJ4JCYza8hXp77ZuGl3Xym86CWvl6YbQbdpVXJ_BUdz876wbIgDCHH8gfEJVuKpouMvP7uRlhmykoof6v8xYihuZSFopHXo75dykI6tz7h50-wTQ/media?key=AIzaSyBa9YXzXKZ7OdhAMMjGDLUaRg6md3WyoO8&maxWidthPx=800"
+      ],
+      "verified": false
+    }
+  ]
+}
