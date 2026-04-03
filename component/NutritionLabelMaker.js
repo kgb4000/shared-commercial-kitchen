@@ -1069,7 +1069,7 @@ const NutritionLabelMaker = () => {
       <div className="max-w-7xl mx-auto px-4 py-12">
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-          <div className="rounded-2xl p-6" style={{ background: 'var(--light-warm)', border: '1px solid var(--border-warm)' }}">
+          <div className="rounded-2xl p-6" style={{ background: 'var(--light-warm)', border: '1px solid var(--border-warm)' }}>
             <div className="flex items-center justify-between mb-6">
               <h2 className="text-2xl font-semibold text-gray-900">
                 Enter Nutrition Information
@@ -1099,7 +1099,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('servings', e.target.value)
                       }
-                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
+                      className="w-full px-3 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-600" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }}
                     />
                   </div>
                   <div>
@@ -1112,7 +1112,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('servingSize', e.target.value)
                       }
-                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
+                      className="w-full px-3 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-600" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }}
                     />
                   </div>
                 </div>
@@ -1127,7 +1127,7 @@ const NutritionLabelMaker = () => {
                     onChange={(e) =>
                       handleInputChange('calories', e.target.value)
                     }
-                    className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
+                    className="w-full px-3 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-600" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }}
                   />
                 </div>
               </div>
@@ -1147,7 +1147,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('totalFat', e.target.value)
                       }
-                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
+                      className="w-full px-3 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-600" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }}
                     />
                   </div>
                   <div>
@@ -1160,7 +1160,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('saturatedFat', e.target.value)
                       }
-                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
+                      className="w-full px-3 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-600" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }}
                     />
                   </div>
                   <div>
@@ -1173,7 +1173,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('transFat', e.target.value)
                       }
-                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
+                      className="w-full px-3 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-600" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }}
                     />
                   </div>
                   <div>
@@ -1186,7 +1186,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('cholesterol', e.target.value)
                       }
-                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
+                      className="w-full px-3 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-600" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }}
                     />
                   </div>
                   <div>
@@ -1199,7 +1199,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('sodium', e.target.value)
                       }
-                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
+                      className="w-full px-3 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-600" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }}
                     />
                   </div>
                   <div>
@@ -1212,7 +1212,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('totalCarbs', e.target.value)
                       }
-                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
+                      className="w-full px-3 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-600" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }}
                     />
                   </div>
                   <div>
@@ -1225,7 +1225,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('dietaryFiber', e.target.value)
                       }
-                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
+                      className="w-full px-3 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-600" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }}
                     />
                   </div>
                   <div>
@@ -1238,7 +1238,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('totalSugars', e.target.value)
                       }
-                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
+                      className="w-full px-3 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-600" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }}
                     />
                   </div>
                   <div>
@@ -1251,7 +1251,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('addedSugars', e.target.value)
                       }
-                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
+                      className="w-full px-3 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-600" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }}
                     />
                   </div>
                   <div>
@@ -1264,7 +1264,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('protein', e.target.value)
                       }
-                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
+                      className="w-full px-3 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-600" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }}
                     />
                   </div>
                 </div>
@@ -1285,7 +1285,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('vitaminD', e.target.value)
                       }
-                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
+                      className="w-full px-3 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-600" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }}
                     />
                   </div>
                   <div>
@@ -1298,7 +1298,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('calcium', e.target.value)
                       }
-                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
+                      className="w-full px-3 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-600" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }}
                     />
                   </div>
                   <div>
@@ -1311,7 +1311,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('iron', e.target.value)
                       }
-                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
+                      className="w-full px-3 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-600" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }}
                     />
                   </div>
                   <div>
@@ -1324,7 +1324,7 @@ const NutritionLabelMaker = () => {
                       onChange={(e) =>
                         handleInputChange('potassium', e.target.value)
                       }
-                      className="w-full px-3 py-2 rounded-lg" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }} className=" focus:outline-none focus:ring-2 focus:ring-amber-600"
+                      className="w-full px-3 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-600" style={{ border: '1px solid var(--border-warm)', background: 'var(--cream)' }}
                     />
                   </div>
                 </div>
@@ -1332,7 +1332,7 @@ const NutritionLabelMaker = () => {
             </div>
           </div>
 
-          <div className="rounded-2xl p-6" style={{ background: 'var(--light-warm)', border: '1px solid var(--border-warm)' }}">
+          <div className="rounded-2xl p-6" style={{ background: 'var(--light-warm)', border: '1px solid var(--border-warm)' }}>
             <div className="flex items-center justify-between mb-6">
               <h2 className="text-2xl font-semibold text-gray-900">
                 Label Preview
@@ -1387,7 +1387,7 @@ const NutritionLabelMaker = () => {
           </div>
         </div>
 
-        <div className="mt-16 rounded-2xl p-8" style={{ background: 'var(--light-warm)', border: '1px solid var(--border-warm)' }} mb-20">
+        <div className="mt-16 rounded-2xl p-8 mb-20" style={{ background: 'var(--light-warm)', border: '1px solid var(--border-warm)' }}>
           <h2 className="text-3xl font-bold text-center text-gray-900 mb-8">
             Why Use Our Nutrition Label Generator?
           </h2>
