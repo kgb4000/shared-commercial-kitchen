@@ -23,8 +23,9 @@ export async function generateStaticParams() {
     const pathModule = await import('path')
     
     const dataDir = pathModule.join(process.cwd(), 'data')
-    const folders = await fsModule.readdir(dataDir)
-    
+    const allEntries = await fsModule.readdir(dataDir, { withFileTypes: true })
+    const folders = allEntries.filter(e => e.isDirectory()).map(e => e.name)
+
     for (const folder of folders) {
       try {
         const cityDataPath = pathModule.join(dataDir, folder, 'data.json')
