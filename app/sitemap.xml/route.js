@@ -20,6 +20,10 @@ export async function GET() {
     { url: '/resources/food-expiration-database', priority: '0.6', changefreq: 'monthly' },
     { url: '/cocinas-comerciales', priority: '0.6', changefreq: 'weekly' },
     { url: '/food-licensing-guides', priority: '0.7', changefreq: 'weekly' },
+    { url: '/ghost-kitchens', priority: '0.8', changefreq: 'monthly' },
+    { url: '/food-truck-commissary', priority: '0.8', changefreq: 'monthly' },
+    { url: '/bakery-kitchen-rental', priority: '0.7', changefreq: 'monthly' },
+    { url: '/church-kitchen-rental', priority: '0.7', changefreq: 'monthly' },
   ]
 
   // Auto-discover blog posts from app/blog/ directory
