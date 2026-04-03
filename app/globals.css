@@ -76,3 +76,12 @@ body {
   transform: translateY(-4px);
   box-shadow: 0 12px 40px rgba(30, 17, 8, 0.08);
 }
+
+/* Footer link hover */
+.footer-link {
+  color: #8C8279;
+  transition: color 0.2s ease;
+}
+.footer-link:hover {
+  color: var(--cream);
+}

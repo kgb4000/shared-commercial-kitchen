@@ -44,17 +44,17 @@ export default function Footer() {
               </h4>
               <ul className="space-y-3">
                 <li>
-                  <Link href="/resources/nutrition-label-maker" className="text-sm transition-colors" style={{ color: '#8C8279' }} onMouseEnter={e => e.target.style.color = 'var(--cream)'} onMouseLeave={e => e.target.style.color = '#8C8279'}>
+                  <Link href="/resources/nutrition-label-maker" className="text-sm footer-link">
                     Nutrition Label Maker
                   </Link>
                 </li>
                 <li>
-                  <Link href="/resources/food-expiration-date-checker" className="text-sm transition-colors" style={{ color: '#8C8279' }}>
+                  <Link href="/resources/food-expiration-date-checker" className="text-sm footer-link">
                     Food Expiration Checker
                   </Link>
                 </li>
                 <li>
-                  <Link href="/resources/recipe-cost-tracker" className="text-sm transition-colors" style={{ color: '#8C8279' }}>
+                  <Link href="/resources/recipe-cost-tracker" className="text-sm footer-link">
                     Recipe Cost Tracker
                   </Link>
                 </li>
@@ -66,22 +66,22 @@ export default function Footer() {
               </h4>
               <ul className="space-y-3">
                 <li>
-                  <Link href="/blog" className="text-sm transition-colors" style={{ color: '#8C8279' }}>
+                  <Link href="/blog" className="text-sm footer-link">
                     Blog
                   </Link>
                 </li>
                 <li>
-                  <Link href="/blog/how-much-to-rent-a-commercial-kitchen" className="text-sm transition-colors" style={{ color: '#8C8279' }}>
+                  <Link href="/blog/how-much-to-rent-a-commercial-kitchen" className="text-sm footer-link">
                     Pricing Guide
                   </Link>
                 </li>
                 <li>
-                  <Link href="/blog/commissary-kitchen-requirements" className="text-sm transition-colors" style={{ color: '#8C8279' }}>
+                  <Link href="/blog/commissary-kitchen-requirements" className="text-sm footer-link">
                     Kitchen Requirements
                   </Link>
                 </li>
                 <li>
-                  <Link href="/blog/ghost-kitchen-guide" className="text-sm transition-colors" style={{ color: '#8C8279' }}>
+                  <Link href="/blog/ghost-kitchen-guide" className="text-sm footer-link">
                     Ghost Kitchen Guide
                   </Link>
                 </li>
@@ -93,17 +93,17 @@ export default function Footer() {
               </h4>
               <ul className="space-y-3">
                 <li>
-                  <Link href="/browse-kitchens" className="text-sm transition-colors" style={{ color: '#8C8279' }}>
+                  <Link href="/browse-kitchens" className="text-sm footer-link">
                     Browse All Kitchens
                   </Link>
                 </li>
                 <li>
-                  <Link href="/commercial-kitchen-for-rent" className="text-sm transition-colors" style={{ color: '#8C8279' }}>
+                  <Link href="/commercial-kitchen-for-rent" className="text-sm footer-link">
                     Kitchens by City
                   </Link>
                 </li>
                 <li>
-                  <Link href="/cocinas-comerciales" className="text-sm transition-colors" style={{ color: '#8C8279' }}>
+                  <Link href="/cocinas-comerciales" className="text-sm footer-link">
                     Cocinas Comerciales
                   </Link>
                 </li>
