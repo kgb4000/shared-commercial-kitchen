@@ -3,110 +3,119 @@ import Link from 'next/link'
 export default function Footer() {
   return (
     <>
-      <section className="bg-gradient-to-br from-gray-900 via-blue-900 to-purple-900 text-white py-20">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-4xl font-bold mb-6">
-            Can't find the perfect kitchen?
+      {/* Pre-footer CTA */}
+      <section className="relative overflow-hidden py-20" style={{ background: 'var(--espresso)' }}>
+        <div className="absolute inset-0 opacity-20" style={{
+          background: 'radial-gradient(ellipse at 30% 50%, rgba(200, 150, 62, 0.3), transparent 60%), radial-gradient(ellipse at 80% 50%, rgba(189, 91, 60, 0.2), transparent 50%)'
+        }} />
+        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <h2 className="font-editorial text-3xl lg:text-4xl mb-4" style={{ color: 'var(--cream)' }}>
+            Can&apos;t find the perfect kitchen?
           </h2>
-          <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-            Help us expand our directory or get notified when new kitchens
-            become available in your area.
+          <p className="text-lg mb-8 max-w-xl mx-auto" style={{ color: '#8C8279' }}>
+            Help us expand our directory or get notified when new kitchens become available in your area.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <button className="px-8 py-4 bg-blue-600 hover:bg-blue-700 rounded-xl font-semibold transition-colors text-lg">
-              💬 Suggest a Kitchen
+            <button className="px-8 py-3.5 rounded-full font-medium transition-all hover:scale-105" style={{ background: 'var(--amber)', color: 'var(--espresso)' }}>
+              Suggest a Kitchen
             </button>
-            <button className="px-8 py-4 border border-gray-600 hover:bg-gray-800 rounded-xl font-semibold transition-colors text-lg">
-              🔔 Get Notified
+            <button className="px-8 py-3.5 rounded-full font-medium transition-all hover:scale-105" style={{ border: '1px solid rgba(250,246,240,0.15)', color: 'var(--cream)' }}>
+              Get Notified
             </button>
           </div>
         </div>
       </section>
+
       {/* Footer */}
-      <footer className="bg-gray-900 text-white py-12">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid md:grid-cols-4 gap-8">
+      <footer style={{ background: 'var(--warm-brown)', color: 'var(--cream)' }}>
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+          <div className="grid md:grid-cols-4 gap-10">
             <div>
-              <h3 className="text-xl font-bold mb-4">SharedKitchenLocator</h3>
-              <p className="text-gray-400">
-                Connecting food entrepreneurs with shared kitchen spaces and
-                business tools.
+              <Link href="/" className="font-editorial text-xl block mb-4" style={{ color: 'var(--cream)' }}>
+                Shared Kitchen Locator
+              </Link>
+              <p className="leading-relaxed text-sm" style={{ color: '#8C8279' }}>
+                Connecting food entrepreneurs with shared kitchen spaces and business tools across 43 US cities.
               </p>
             </div>
             <div>
-              <h4 className="font-semibold mb-4">Tools</h4>
-              <ul className="space-y-2 text-gray-400">
+              <h4 className="text-sm font-medium tracking-widest uppercase mb-5" style={{ color: 'var(--amber)', letterSpacing: '0.1em' }}>
+                Tools
+              </h4>
+              <ul className="space-y-3">
                 <li>
-                  <a
-                    href="/resources/nutrition-label-maker"
-                    className="hover:text-white transition-colors"
-                  >
+                  <Link href="/resources/nutrition-label-maker" className="text-sm transition-colors" style={{ color: '#8C8279' }} onMouseEnter={e => e.target.style.color = 'var(--cream)'} onMouseLeave={e => e.target.style.color = '#8C8279'}>
                     Nutrition Label Maker
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a
-                    href="/resources/food-expiration-date-checker"
-                    className="hover:text-white transition-colors"
-                  >
-                    Food Expiration Date Checker
-                  </a>
+                  <Link href="/resources/food-expiration-date-checker" className="text-sm transition-colors" style={{ color: '#8C8279' }}>
+                    Food Expiration Checker
+                  </Link>
                 </li>
                 <li>
-                  <a
-                    href="/resources/recipe-cost-tracker"
-                    className="hover:text-white transition-colors"
-                  >
+                  <Link href="/resources/recipe-cost-tracker" className="text-sm transition-colors" style={{ color: '#8C8279' }}>
                     Recipe Cost Tracker
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>
             <div>
-              <h4 className="font-semibold mb-4">Resources</h4>
-              <ul className="space-y-2 text-gray-400">
+              <h4 className="text-sm font-medium tracking-widest uppercase mb-5" style={{ color: 'var(--amber)', letterSpacing: '0.1em' }}>
+                Resources
+              </h4>
+              <ul className="space-y-3">
                 <li>
-                  <a href="#" className="hover:text-white transition-colors">
+                  <Link href="/blog" className="text-sm transition-colors" style={{ color: '#8C8279' }}>
                     Blog
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-white transition-colors">
-                    Business Guides
-                  </a>
+                  <Link href="/blog/how-much-to-rent-a-commercial-kitchen" className="text-sm transition-colors" style={{ color: '#8C8279' }}>
+                    Pricing Guide
+                  </Link>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-white transition-colors">
-                    FAQ
-                  </a>
+                  <Link href="/blog/commissary-kitchen-requirements" className="text-sm transition-colors" style={{ color: '#8C8279' }}>
+                    Kitchen Requirements
+                  </Link>
+                </li>
+                <li>
+                  <Link href="/blog/ghost-kitchen-guide" className="text-sm transition-colors" style={{ color: '#8C8279' }}>
+                    Ghost Kitchen Guide
+                  </Link>
                 </li>
               </ul>
             </div>
             <div>
-              <h4 className="font-semibold mb-4">Company</h4>
-              <ul className="space-y-2 text-gray-400">
+              <h4 className="text-sm font-medium tracking-widest uppercase mb-5" style={{ color: 'var(--amber)', letterSpacing: '0.1em' }}>
+                Directory
+              </h4>
+              <ul className="space-y-3">
                 <li>
-                  <a href="#" className="hover:text-white transition-colors">
-                    About
-                  </a>
+                  <Link href="/browse-kitchens" className="text-sm transition-colors" style={{ color: '#8C8279' }}>
+                    Browse All Kitchens
+                  </Link>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-white transition-colors">
-                    Contact
-                  </a>
+                  <Link href="/commercial-kitchen-for-rent" className="text-sm transition-colors" style={{ color: '#8C8279' }}>
+                    Kitchens by City
+                  </Link>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-white transition-colors">
-                    Privacy Policy
-                  </a>
+                  <Link href="/cocinas-comerciales" className="text-sm transition-colors" style={{ color: '#8C8279' }}>
+                    Cocinas Comerciales
+                  </Link>
                 </li>
               </ul>
             </div>
           </div>
-          <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>
-              &copy; {new Date().getFullYear()} SharedKitchenLocator. All rights
-              reserved.
+          <div className="mt-12 pt-8 flex flex-col sm:flex-row justify-between items-center" style={{ borderTop: '1px solid rgba(250,246,240,0.08)' }}>
+            <p className="text-xs" style={{ color: '#6B5F55' }}>
+              &copy; {new Date().getFullYear()} Shared Kitchen Locator. All rights reserved.
+            </p>
+            <p className="text-xs mt-2 sm:mt-0" style={{ color: '#6B5F55' }}>
+              Helping food entrepreneurs find their kitchen since 2025.
             </p>
           </div>
         </div>
