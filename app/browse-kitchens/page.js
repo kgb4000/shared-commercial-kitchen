@@ -1,23 +1,48 @@
-import BrowseKitchensByLocation from '@/component/BrowseKitchens'
-import NutritionLabelMaker from '@/component/NutritionLabelMaker'
+import BrowseKitchens from '@/component/BrowseKitchens'
+import fs from 'fs'
+import path from 'path'
 
 export const metadata = {
-  title:
-    'Commercial Kitchen Spaces for Rent by Location - Find Kitchens Near You',
+  title: 'Browse Commercial Kitchens by City — 43 Cities, 380+ Kitchens',
   description:
-    'Search commercial kitchen spaces by city and state. Discover commissary kitchens, shared commercial facilities, and ghost kitchens in major US cities.',
+    'Browse commercial kitchen spaces by city and state. Find commissary kitchens, shared commercial kitchens, and ghost kitchens across 43 US cities.',
   alternates: {
     canonical: 'https://sharedkitchenlocator.com/browse-kitchens',
   },
-
   openGraph: {
-    title:
-      'Commercial Kitchen Spaces for Rent by Location - Find Kitchens Near You',
+    title: 'Browse Commercial Kitchens by City',
     description:
-      'Search commercial kitchen spaces by city and state. Discover commissary kitchens, shared commercial facilities, and ghost kitchens in major US cities.',
+      'Find commercial kitchen rentals across 43 US cities. 380+ verified listings.',
   },
 }
 
+function getCityData() {
+  const dataDir = path.join(process.cwd(), 'data')
+  return fs
+    .readdirSync(dataDir)
+    .filter((d) => {
+      const fullPath = path.join(dataDir, d)
+      return (
+        fs.statSync(fullPath).isDirectory() &&
+        fs.existsSync(path.join(fullPath, 'data.json'))
+      )
+    })
+    .map((d) => {
+      const data = JSON.parse(
+        fs.readFileSync(path.join(dataDir, d, 'data.json'), 'utf-8')
+      )
+      return {
+        slug: d,
+        city: data.city || d.replace(/-/g, ' ').replace(/\b\w/g, (l) => l.toUpperCase()),
+        state: (data.state || '').toUpperCase(),
+        count: (data.kitchens || []).length,
+      }
+    })
+    .filter((c) => c.state)
+    .sort((a, b) => b.count - a.count)
+}
+
 export default function Page() {
-  return <BrowseKitchensByLocation />
+  const cities = getCityData()
+  return <BrowseKitchens cities={cities} />
 }
