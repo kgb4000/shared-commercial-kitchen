@@ -99,7 +99,7 @@ function SimpleKitchenMap({ kitchen, placeDetails }) {
     return (
       <div className="mb-8">
         <h3 className="text-lg font-semibold mb-4">Kitchen Location</h3>
-        <div className="bg-gray-100 rounded-lg p-8 text-center">
+        <div className="bg-[#F0EBE3] rounded-lg p-8 text-center">
           <MapPin className="w-12 h-12 text-gray-400 mx-auto mb-4" />
           <h4 className="text-lg font-medium text-gray-700 mb-2">
             Location Not Available
@@ -196,7 +196,7 @@ function SimpleKitchenMap({ kitchen, placeDetails }) {
               ></iframe>
             </div>
           ) : (
-            <div className="h-64 md:h-80 bg-gray-100 flex items-center justify-center">
+            <div className="h-64 md:h-80 bg-[#F0EBE3] flex items-center justify-center">
               <div className="text-center text-gray-500">
                 <p className="text-lg font-medium">Map Unavailable</p>
                 <p className="text-sm">Location details not available</p>
@@ -397,7 +397,7 @@ function NearbyPlaces({ kitchen, placeDetails }) {
                   )}+near+${coordinates.lat},${coordinates.lng}`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="block w-full bg-[#F0EBE3] hover:bg-gray-100 border border-[#E5DFD6] rounded-lg p-3 text-center transition-colors"
+                  className="block w-full bg-[#F0EBE3] hover:bg-[#F0EBE3] border border-[#E5DFD6] rounded-lg p-3 text-center transition-colors"
                 >
                   <div className="flex items-center justify-center">
                     <ExternalLink className="w-4 h-4 mr-2 text-gray-600" />
@@ -461,7 +461,7 @@ function NearbyPlaces({ kitchen, placeDetails }) {
               )}+near+${coordinates.lat},${coordinates.lng}`}
               target="_blank"
               rel="noopener noreferrer"
-              className="px-3 py-1 bg-gray-100 hover:bg-gray-200 text-gray-700 rounded-full text-sm transition-colors"
+              className="px-3 py-1 bg-[#F0EBE3] hover:bg-gray-200 text-gray-700 rounded-full text-sm transition-colors"
               title={`Find ${item.label} near this kitchen`}
             >
               {item.label}
@@ -1000,85 +1000,66 @@ export default function KitchenDetail({
         )} */}
 
         {/* Kitchen Header */}
-        <div className="bg-white  mb-8">
-          <div className="p-8 bg-gradient-to-r from-blue-50 via-indigo-50 to-purple-50">
-            <div className="flex flex-col lg:flex-row lg:items-start lg:justify-between">
-              <div className="flex-1">
-                <h1 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-                  {kitchenName}
-                </h1>
-                <p className="text-xl text-gray-600 mb-4">
-                  Commercial Kitchen for Rent in {formattedCity}
-                  {stateName && `, ${stateName}`}
-                </p>
+        <div className="rounded-2xl mb-8 p-8" style={{ background: 'var(--light-warm)', border: '1px solid var(--border-warm)' }}>
+          <div className="flex flex-col lg:flex-row lg:items-start lg:justify-between">
+            <div className="flex-1">
+              <h1 className="font-editorial text-3xl lg:text-4xl mb-3" style={{ color: 'var(--espresso)' }}>
+                {kitchenName}
+              </h1>
+              <p className="text-lg mb-4" style={{ color: 'var(--warm-gray)' }}>
+                Commercial Kitchen for Rent in {formattedCity}
+                {stateName && `, ${stateName}`}
+              </p>
 
-                <div className="flex flex-wrap gap-3 mb-6">
-                  <div className="flex items-center space-x-2 bg-white px-4 py-2 rounded-lg shadow-sm">
-                    <span className="text-yellow-400 text-lg">★</span>
-                    <span className="font-bold text-lg">{rating.score}</span>
-                    <span className="text-gray-500 text-sm">
-                      ({rating.count} reviews)
-                    </span>
-                  </div>
-
-                  {(kitchen.verified ||
-                    initialGoogleData?.businessStatus === 'OPERATIONAL') && (
-                    <div className="bg-green-100 text-green-800 px-4 py-2 rounded-lg text-sm font-medium shadow-sm">
-                      ✓ Verified Kitchen
-                    </div>
-                  )}
-
-                  {initialGoogleData?.currentOpeningHours?.openNow !==
-                    undefined && (
-                    <div
-                      className={`px-4 py-2 rounded-lg text-sm font-medium shadow-sm ${
-                        initialGoogleData.currentOpeningHours.openNow
-                          ? 'bg-green-100 text-green-800'
-                          : 'bg-red-100 text-red-800'
-                      }`}
-                    >
-                      {initialGoogleData.currentOpeningHours.openNow
-                        ? '🟢 Open Now'
-                        : '🔴 Closed'}
-                    </div>
-                  )}
-
-                  {kitchen.capacity && (
-                    <div className="bg-white px-4 py-2 rounded-lg shadow-sm">
-                      <span className="text-[#BD5B3C] font-bold">
-                        👥 {safeRender(kitchen.capacity)}
-                      </span>
-                      <span className="text-gray-600 text-sm ml-1">
-                        Capacity
-                      </span>
-                    </div>
-                  )}
+              <div className="flex flex-wrap gap-3">
+                <div className="flex items-center space-x-2 px-4 py-2 rounded-full" style={{ background: 'var(--cream)', border: '1px solid var(--border-warm)' }}>
+                  <span style={{ color: 'var(--amber)' }}>★</span>
+                  <span className="font-bold" style={{ color: 'var(--espresso)' }}>{rating.score}</span>
+                  <span className="text-sm" style={{ color: 'var(--warm-gray)' }}>
+                    ({rating.count} reviews)
+                  </span>
                 </div>
-              </div>
 
-              <div className="flex flex-col space-y-3 lg:ml-8">
-                {kitchen.phone && (
-                  <a
-                    href={`tel:${kitchen.phone}`}
-                    className="bg-[#1E1108] text-[#FAF6F0] px-6 py-3 rounded-lg text-center font-medium hover:bg-[#3D2B1F] transition-colors shadow-lg"
-                  >
-                    📞 Call {formatPhoneNumber(kitchen.phone)}
-                  </a>
+                {(kitchen.verified ||
+                  initialGoogleData?.businessStatus === 'OPERATIONAL') && (
+                  <div className="px-4 py-2 rounded-full text-sm font-medium" style={{ background: 'rgba(122, 139, 111, 0.12)', color: 'var(--sage)' }}>
+                    ✓ Verified
+                  </div>
                 )}
 
-                {(kitchen.website || kitchen.site) && (
-                  <a
-                    href={kitchen.website || kitchen.site}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="bg-[#7A8B6F] text-[#FAF6F0] px-6 py-3 rounded-lg text-center font-medium hover:bg-[#6A7B5F] transition-colors shadow-lg"
-                  >
-                    🌐 Visit Website
-                  </a>
+                {kitchen.capacity && (
+                  <div className="px-4 py-2 rounded-full text-sm" style={{ background: 'var(--cream)', border: '1px solid var(--border-warm)', color: 'var(--warm-brown)' }}>
+                    {safeRender(kitchen.capacity)} capacity
+                  </div>
                 )}
               </div>
             </div>
+
+            <div className="flex flex-col space-y-3 lg:ml-8 mt-6 lg:mt-0">
+              {kitchen.phone && (
+                <a
+                  href={`tel:${kitchen.phone}`}
+                  className="px-6 py-3 rounded-full text-center font-medium transition-all hover:scale-[1.02]"
+                  style={{ background: 'var(--espresso)', color: 'var(--cream)' }}
+                >
+                  Call {formatPhoneNumber(kitchen.phone)}
+                </a>
+              )}
+
+              {(kitchen.website || kitchen.site) && (
+                <a
+                  href={kitchen.website || kitchen.site}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="px-6 py-3 rounded-full text-center font-medium transition-all hover:scale-[1.02]"
+                  style={{ background: 'var(--sage)', color: 'var(--cream)' }}
+                >
+                  Visit Website
+                </a>
+              )}
+            </div>
           </div>
+        </div>
 
           <div className="py-8">
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
