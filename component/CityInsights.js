@@ -8,6 +8,7 @@ import {
   TrendingUp,
   MapPin,
 } from 'lucide-react'
+import AffiliateLinks from './AffiliateLinks'
 
 const CityInsights = ({ cityData, cityName, stateName }) => {
   // Since stateName comes in as state code (CA, TX, etc.), just use it directly
@@ -361,6 +362,11 @@ const CityInsights = ({ cityData, cityName, stateName }) => {
               </p>
             </div>
           </div>
+
+          <AffiliateLinks
+            categories={['business-formation', 'certifications', 'delivery']}
+            title="Ready to Get Started?"
+          />
         </div>
       </div>
     </div>
