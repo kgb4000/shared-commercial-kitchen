@@ -2,44 +2,16 @@
 
 import React, { useState } from 'react'
 import {
-  MapPin,
-  Clock,
-  Thermometer,
-  Calendar,
   ChevronDown,
-  ChevronUp,
-  Filter,
-  Star,
   Shield,
   ExternalLink,
-  Check,
-  Search,
-  Menu,
-  X,
-  Heart,
-  Share2,
-  Phone,
-  Mail,
   DollarSign,
-  Users,
-  MapIcon,
 } from 'lucide-react'
 import SearchBar from '@/component/SearchBar'
-import Header from '@/component/Header'
-import Hero from '@/component/Hero'
+import Link from 'next/link'
 
-const CommercialKitchenDirectory = ({
-  city,
-  state,
-  kitchens = [],
-  relatedCities = [],
-}) => {
+const CommercialKitchenDirectory = () => {
   const [expandedFaq, setExpandedFaq] = useState(null)
-  const [expandedRegulation, setExpandedRegulation] = useState(null)
-  const [showFilters, setShowFilters] = useState(true)
-  const [showMap, setShowMap] = useState(false)
-  const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
-  const [viewType, setViewType] = useState('grid')
 
   const faqs = [
     {
@@ -53,6 +25,37 @@ const CommercialKitchenDirectory = ({
       answer:
         'Most kitchens offer cold storage options for an additional fee. Check individual kitchen policies for overnight storage availability and pricing.',
     },
+    {
+      question: 'How much does it cost to rent a commercial kitchen?',
+      answer:
+        'Prices vary by location and amenities, but most shared kitchens charge $15-50 per hour. Monthly memberships range from $500-3,000 depending on the city and level of access.',
+    },
+    {
+      question: 'Do I need a food handler permit to use a shared kitchen?',
+      answer:
+        'Yes, most shared kitchens require a valid food handler certification (such as ServSafe) and a business license before you can book time. Requirements vary by state and city.',
+    },
+    {
+      question: 'Can I use a shared kitchen for a food truck business?',
+      answer:
+        'Absolutely. Most health departments require food truck operators to have a commissary kitchen for prep, storage, and cleaning. Many kitchens on our platform cater specifically to food truck operators.',
+    },
+    {
+      question: 'What equipment is typically included?',
+      answer:
+        'Most commercial kitchens include commercial ovens, ranges, fryers, mixers, prep tables, walk-in coolers/freezers, dishwashing stations, and dry storage. Specialty equipment varies by facility.',
+    },
+  ]
+
+  const popularCities = [
+    { name: 'Chicago', state: 'IL', slug: 'chicago/il' },
+    { name: 'Los Angeles', state: 'CA', slug: 'los-angeles/ca' },
+    { name: 'New York', state: 'NY', slug: 'new-york/ny' },
+    { name: 'Houston', state: 'TX', slug: 'houston/tx' },
+    { name: 'Atlanta', state: 'GA', slug: 'atlanta/ga' },
+    { name: 'Miami', state: 'FL', slug: 'miami/fl' },
+    { name: 'Denver', state: 'CO', slug: 'denver/co' },
+    { name: 'Seattle', state: 'WA', slug: 'seattle/wa' },
   ]
 
   return (
@@ -61,12 +64,11 @@ const CommercialKitchenDirectory = ({
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6 max-w-2xl mx-auto">
-              Find Commercial Kitchen Sapces for Rent in Your City
-              <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent block"></span>
+              Find Commercial Kitchen Spaces for Rent in Your City
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-xl mx-auto">
-              Discover verified shared-use, ghost, and commissary kitchens
-              Flexible pricing, and professional amenities
+              Discover verified shared-use, ghost, and commissary kitchens.
+              Flexible pricing, and professional amenities.
             </p>
 
             <div className="max-w-2xl mx-auto mb-8">
@@ -74,9 +76,55 @@ const CommercialKitchenDirectory = ({
                 <SearchBar />
               </div>
             </div>
+
+            {/* Social Proof */}
+            <div className="flex flex-wrap justify-center gap-8 text-gray-600">
+              <div className="text-center">
+                <div className="text-2xl font-bold text-gray-900">380+</div>
+                <div className="text-sm">Verified Kitchens</div>
+              </div>
+              <div className="text-center">
+                <div className="text-2xl font-bold text-gray-900">43</div>
+                <div className="text-sm">Cities</div>
+              </div>
+              <div className="text-center">
+                <div className="text-2xl font-bold text-gray-900">Free</div>
+                <div className="text-sm">To Search</div>
+              </div>
+            </div>
           </div>
         </div>
       </section>
+
+      {/* Popular Cities */}
+      <section className="py-12 bg-white">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-2xl font-bold text-gray-900 mb-6 text-center">
+            Browse Kitchens by City
+          </h2>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+            {popularCities.map((city) => (
+              <Link
+                key={city.slug}
+                href={`/commercial-kitchen-for-rent/${city.slug}`}
+                className="border-2 border-gray-200 rounded-xl p-4 text-center hover:border-blue-400 hover:shadow-md transition-all"
+              >
+                <div className="font-bold text-gray-900">{city.name}</div>
+                <div className="text-sm text-gray-500">{city.state}</div>
+              </Link>
+            ))}
+          </div>
+          <div className="text-center mt-6">
+            <Link
+              href="/browse-kitchens"
+              className="text-blue-600 font-medium hover:text-blue-700"
+            >
+              View all 43 cities &rarr;
+            </Link>
+          </div>
+        </div>
+      </section>
+
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         {/* Additional Sections */}
         <div className="mt-20 space-y-16">
@@ -175,27 +223,27 @@ const CommercialKitchenDirectory = ({
                   </h3>
                   <div className="space-y-3">
                     <p className="leading-relaxed text-lg text-gray-700">
-                      🍰 <strong>Bakeries and pastry chefs</strong> creating
+                      <strong>Bakeries and pastry chefs</strong> creating
                       specialty desserts
                     </p>
                     <p className="leading-relaxed text-lg text-gray-700">
-                      🚚 <strong>Food truck operators</strong> preparing mobile
+                      <strong>Food truck operators</strong> preparing mobile
                       menu items
                     </p>
                     <p className="leading-relaxed text-lg text-gray-700">
-                      🍽️ <strong>Caterers</strong> handling events and corporate
+                      <strong>Caterers</strong> handling events and corporate
                       dining
                     </p>
                     <p className="leading-relaxed text-lg text-gray-700">
-                      🏪 <strong>Specialty food producers</strong> making
+                      <strong>Specialty food producers</strong> making
                       sauces, snacks, and packaged goods
                     </p>
                     <p className="leading-relaxed text-lg text-gray-700">
-                      👨‍🍳 <strong>Personal chefs</strong> preparing meal prep
+                      <strong>Personal chefs</strong> preparing meal prep
                       services
                     </p>
                     <p className="leading-relaxed text-lg text-gray-700">
-                      🥘 <strong>Ghost kitchen operators</strong> running
+                      <strong>Ghost kitchen operators</strong> running
                       delivery-only restaurants
                     </p>
                   </div>
@@ -214,19 +262,19 @@ const CommercialKitchenDirectory = ({
                     </h4>
                     <div className="space-y-3">
                       <p className="leading-relaxed text-lg text-gray-700">
-                        ❌ $150,000+ initial investment
+                        $150,000+ initial investment
                       </p>
                       <p className="leading-relaxed text-lg text-gray-700">
-                        ❌ 6-12 months construction time
+                        6-12 months construction time
                       </p>
                       <p className="leading-relaxed text-lg text-gray-700">
-                        ❌ Permits, inspections, licensing
+                        Permits, inspections, licensing
                       </p>
                       <p className="leading-relaxed text-lg text-gray-700">
-                        ❌ Equipment maintenance costs
+                        Equipment maintenance costs
                       </p>
                       <p className="leading-relaxed text-lg text-gray-700">
-                        ❌ Utilities, insurance, taxes
+                        Utilities, insurance, taxes
                       </p>
                     </div>
                   </div>
@@ -236,19 +284,19 @@ const CommercialKitchenDirectory = ({
                     </h4>
                     <div className="space-y-3">
                       <p className="leading-relaxed text-lg text-gray-700">
-                        ✅ Start cooking immediately
+                        Start cooking immediately
                       </p>
                       <p className="leading-relaxed text-lg text-gray-700">
-                        ✅ Pay only for time used
+                        Pay only for time used
                       </p>
                       <p className="leading-relaxed text-lg text-gray-700">
-                        ✅ Professional equipment included
+                        Professional equipment included
                       </p>
                       <p className="leading-relaxed text-lg text-gray-700">
-                        ✅ Maintenance handled by facility
+                        Maintenance handled by facility
                       </p>
                       <p className="leading-relaxed text-lg text-gray-700">
-                        ✅ Compliance assistance provided
+                        Compliance assistance provided
                       </p>
                     </div>
                   </div>
@@ -265,7 +313,6 @@ const CommercialKitchenDirectory = ({
               </h2>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div className="border-2 border-gray-200 p-8 rounded-3xl text-center bg-white hover:shadow-lg transition-shadow">
-                  <div className="text-6xl mb-4">💰</div>
                   <h3 className="text-2xl font-bold mb-4 text-gray-900">
                     Lower Costs
                   </h3>
@@ -275,7 +322,6 @@ const CommercialKitchenDirectory = ({
                   </p>
                 </div>
                 <div className="border-2 border-gray-200 p-8 rounded-3xl text-center bg-white hover:shadow-lg transition-shadow">
-                  <div className="text-6xl mb-4">👥</div>
                   <h3 className="text-2xl font-bold mb-4 text-gray-900">
                     Community
                   </h3>
@@ -284,7 +330,6 @@ const CommercialKitchenDirectory = ({
                   </p>
                 </div>
                 <div className="border-2 border-gray-200 p-8 rounded-3xl text-center bg-white hover:shadow-lg transition-shadow">
-                  <div className="text-6xl mb-4">⚡</div>
                   <h3 className="text-2xl font-bold mb-4 text-gray-900">
                     Fast Start
                   </h3>
@@ -293,7 +338,6 @@ const CommercialKitchenDirectory = ({
                   </p>
                 </div>
                 <div className="border-2 border-gray-200 p-8 rounded-3xl text-center bg-white hover:shadow-lg transition-shadow">
-                  <div className="text-6xl mb-4">📈</div>
                   <h3 className="text-2xl font-bold mb-4 text-gray-900">
                     Scale Easily
                   </h3>
@@ -303,7 +347,6 @@ const CommercialKitchenDirectory = ({
                   </p>
                 </div>
                 <div className="border-2 border-gray-200 p-8 rounded-3xl text-center bg-white hover:shadow-lg transition-shadow">
-                  <div className="text-6xl mb-4">✅</div>
                   <h3 className="text-2xl font-bold mb-4 text-gray-900">
                     Stay Compliant
                   </h3>
@@ -313,7 +356,6 @@ const CommercialKitchenDirectory = ({
                   </p>
                 </div>
                 <div className="border-2 border-gray-200 p-8 rounded-3xl text-center bg-white hover:shadow-lg transition-shadow">
-                  <div className="text-6xl mb-4">🔧</div>
                   <h3 className="text-2xl font-bold mb-4 text-gray-900">
                     Pro Equipment
                   </h3>
@@ -324,6 +366,22 @@ const CommercialKitchenDirectory = ({
                 </div>
               </div>
             </div>
+          </section>
+
+          {/* Mid-page CTA */}
+          <section className="py-12 text-center">
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">
+              Ready to Find Your Kitchen?
+            </h2>
+            <p className="text-lg text-gray-600 mb-6">
+              Browse 380+ verified commercial kitchens across 43 cities.
+            </p>
+            <Link
+              href="/browse-kitchens"
+              className="inline-block bg-blue-600 text-white px-8 py-4 rounded-lg font-medium text-lg hover:bg-blue-700 transition-colors"
+            >
+              Browse All Kitchens
+            </Link>
           </section>
 
           {/* Commercial Kitchen Solutions */}
@@ -399,129 +457,65 @@ const CommercialKitchenDirectory = ({
             </div>
           </section>
 
-          {/* Tools & Resources */}
+          {/* Tools & Resources — linked to real pages */}
           <section>
             <h2 className="text-3xl font-bold text-gray-900 mb-8">
               Tools & Resources for Food Entrepreneurs
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              <a
-                href="#"
+              <Link
+                href="/resources/nutrition-label-maker"
                 className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-all group"
               >
                 <div className="w-12 h-12 bg-blue-100 rounded-xl flex items-center justify-center mb-4 group-hover:bg-blue-200 transition-colors">
                   <Shield className="w-6 h-6 text-blue-600" />
                 </div>
                 <h3 className="font-bold text-gray-900 mb-2">
-                  ServSafe Certification
+                  Nutrition Label Maker
                 </h3>
                 <p className="text-gray-600 text-sm mb-3">
-                  Get certified and meet health department requirements.
+                  Generate FDA-compliant nutrition labels for free.
                 </p>
                 <span className="text-blue-600 font-medium text-sm">
-                  Learn More →
+                  Create Labels &rarr;
                 </span>
-              </a>
+              </Link>
 
-              <a
-                href="#"
+              <Link
+                href="/resources/recipe-cost-tracker"
                 className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-all group"
               >
                 <div className="w-12 h-12 bg-green-100 rounded-xl flex items-center justify-center mb-4 group-hover:bg-green-200 transition-colors">
                   <DollarSign className="w-6 h-6 text-green-600" />
                 </div>
                 <h3 className="font-bold text-gray-900 mb-2">
-                  Business Formation
+                  Recipe Cost Tracker
                 </h3>
                 <p className="text-gray-600 text-sm mb-3">
-                  Start your LLC and get your business registered.
+                  Calculate ingredient costs and track your margins.
                 </p>
                 <span className="text-blue-600 font-medium text-sm">
-                  Get Started →
+                  Track Costs &rarr;
                 </span>
-              </a>
+              </Link>
 
-              <a
-                href="#"
+              <Link
+                href="/resources/food-expiration-date-checker"
                 className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-all group"
               >
                 <div className="w-12 h-12 bg-purple-100 rounded-xl flex items-center justify-center mb-4 group-hover:bg-purple-200 transition-colors">
-                  <Shield className="w-6 h-6 text-purple-600" />
+                  <ExternalLink className="w-6 h-6 text-purple-600" />
                 </div>
                 <h3 className="font-bold text-gray-900 mb-2">
-                  Kitchen Insurance
+                  Food Expiration Checker
                 </h3>
                 <p className="text-gray-600 text-sm mb-3">
-                  Protect your business with liability coverage.
+                  Check USDA food safety guidelines and shelf life data.
                 </p>
                 <span className="text-blue-600 font-medium text-sm">
-                  Compare Plans →
+                  Check Dates &rarr;
                 </span>
-              </a>
-            </div>
-          </section>
-
-          {/* Blog Previews */}
-          <section>
-            <h2 className="text-3xl font-bold text-gray-900 mb-8">
-              Learn More About {city} Food Business
-            </h2>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              <a
-                href="#"
-                className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-all group"
-              >
-                <div className="w-12 h-12 bg-blue-100 rounded-xl flex items-center justify-center mb-4 group-hover:bg-blue-200 transition-colors">
-                  <ExternalLink className="w-6 h-6 text-blue-600" />
-                </div>
-                <h3 className="font-bold text-gray-900 mb-2">
-                  Starting a Food Business in {city}
-                </h3>
-                <p className="text-gray-600 text-sm mb-3">
-                  Complete guide to launching your culinary venture in {city}.
-                </p>
-                <span className="text-blue-600 font-medium text-sm">
-                  Read More →
-                </span>
-              </a>
-
-              <a
-                href="#"
-                className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-all group"
-              >
-                <div className="w-12 h-12 bg-green-100 rounded-xl flex items-center justify-center mb-4 group-hover:bg-green-200 transition-colors">
-                  <Check className="w-6 h-6 text-green-600" />
-                </div>
-                <h3 className="font-bold text-gray-900 mb-2">
-                  Shared Kitchen vs. Commissary
-                </h3>
-                <p className="text-gray-600 text-sm mb-3">
-                  Understanding the differences and choosing what's right for
-                  your business.
-                </p>
-                <span className="text-blue-600 font-medium text-sm">
-                  Learn More →
-                </span>
-              </a>
-
-              <a
-                href="#"
-                className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-md transition-all group"
-              >
-                <div className="w-12 h-12 bg-orange-100 rounded-xl flex items-center justify-center mb-4 group-hover:bg-orange-200 transition-colors">
-                  <Shield className="w-6 h-6 text-orange-600" />
-                </div>
-                <h3 className="font-bold text-gray-900 mb-2">
-                  Common Kitchen Rental Mistakes
-                </h3>
-                <p className="text-gray-600 text-sm mb-3">
-                  Avoid these pitfalls when renting your first commercial
-                  kitchen space.
-                </p>
-                <span className="text-blue-600 font-medium text-sm">
-                  Read Guide →
-                </span>
-              </a>
+              </Link>
             </div>
           </section>
         </div>
@@ -547,11 +541,11 @@ const CommercialKitchenDirectory = ({
                     {faq.question}
                   </h3>
                   <div className="flex-shrink-0">
-                    {expandedFaq === index ? (
-                      <ChevronDown className="w-6 h-6 text-gray-700 transform rotate-180 transition-transform" />
-                    ) : (
-                      <ChevronDown className="w-6 h-6 text-gray-700 transition-transform" />
-                    )}
+                    <ChevronDown
+                      className={`w-6 h-6 text-gray-700 transition-transform ${
+                        expandedFaq === index ? 'rotate-180' : ''
+                      }`}
+                    />
                   </div>
                 </button>
                 {expandedFaq === index && (
