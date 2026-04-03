@@ -5,6 +5,144 @@ import { ChevronDown, ArrowRight, MapPin } from 'lucide-react'
 import SearchBar from '@/component/SearchBar'
 import Link from 'next/link'
 
+function CostCalculator() {
+  const [hoursPerWeek, setHoursPerWeek] = useState(20)
+  const [hourlyRate, setHourlyRate] = useState(25)
+
+  const monthlyRental = hoursPerWeek * hourlyRate * 4.33
+  const yearlyRental = monthlyRental * 12
+
+  const buildCosts = {
+    construction: 150000,
+    equipment: 50000,
+    permits: 15000,
+    firstYearOps: 36000, // utilities, insurance, maintenance
+  }
+  const totalBuild = buildCosts.construction + buildCosts.equipment + buildCosts.permits + buildCosts.firstYearOps
+  const yearsSaved = Math.floor(totalBuild / yearlyRental)
+  const savings = totalBuild - yearlyRental
+
+  const fmt = (n) => n.toLocaleString('en-US', { maximumFractionDigits: 0 })
+
+  return (
+    <section className="py-24" style={{ background: 'var(--cream)' }}>
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="text-center mb-12">
+          <p className="text-sm font-medium tracking-widest uppercase mb-3" style={{ color: 'var(--terracotta)', letterSpacing: '0.15em' }}>
+            Cost calculator
+          </p>
+          <h2 className="font-editorial text-4xl lg:text-5xl mb-4" style={{ color: 'var(--espresso)' }}>
+            How much could you <span className="italic" style={{ color: 'var(--terracotta)' }}>save?</span>
+          </h2>
+          <p className="text-lg max-w-xl mx-auto" style={{ color: 'var(--warm-gray)' }}>
+            Adjust the sliders to see how renting compares to building your own kitchen.
+          </p>
+        </div>
+
+        <div className="grid md:grid-cols-2 gap-8">
+          {/* Inputs */}
+          <div className="rounded-2xl p-8" style={{ background: 'var(--light-warm)', border: '1px solid var(--border-warm)' }}>
+            <h3 className="font-editorial text-xl mb-6" style={{ color: 'var(--espresso)' }}>
+              Your kitchen usage
+            </h3>
+
+            <div className="mb-8">
+              <div className="flex justify-between mb-2">
+                <label className="text-sm font-medium" style={{ color: 'var(--warm-brown)' }}>
+                  Hours per week
+                </label>
+                <span className="text-sm font-bold" style={{ color: 'var(--espresso)' }}>{hoursPerWeek}h</span>
+              </div>
+              <input
+                type="range"
+                min="5"
+                max="60"
+                value={hoursPerWeek}
+                onChange={(e) => setHoursPerWeek(Number(e.target.value))}
+                className="w-full h-2 rounded-full appearance-none cursor-pointer"
+                style={{ background: 'var(--border-warm)', accentColor: 'var(--terracotta)' }}
+              />
+              <div className="flex justify-between text-xs mt-1" style={{ color: 'var(--warm-gray)' }}>
+                <span>5h</span>
+                <span>60h</span>
+              </div>
+            </div>
+
+            <div className="mb-8">
+              <div className="flex justify-between mb-2">
+                <label className="text-sm font-medium" style={{ color: 'var(--warm-brown)' }}>
+                  Hourly rate
+                </label>
+                <span className="text-sm font-bold" style={{ color: 'var(--espresso)' }}>${hourlyRate}/hr</span>
+              </div>
+              <input
+                type="range"
+                min="10"
+                max="75"
+                step="5"
+                value={hourlyRate}
+                onChange={(e) => setHourlyRate(Number(e.target.value))}
+                className="w-full h-2 rounded-full appearance-none cursor-pointer"
+                style={{ background: 'var(--border-warm)', accentColor: 'var(--terracotta)' }}
+              />
+              <div className="flex justify-between text-xs mt-1" style={{ color: 'var(--warm-gray)' }}>
+                <span>$10/hr</span>
+                <span>$75/hr</span>
+              </div>
+            </div>
+
+            <div className="rounded-xl p-5" style={{ background: 'var(--cream)', border: '1px solid var(--border-warm)' }}>
+              <div className="flex justify-between mb-3">
+                <span className="text-sm" style={{ color: 'var(--warm-gray)' }}>Monthly cost</span>
+                <span className="font-bold" style={{ color: 'var(--espresso)' }}>${fmt(monthlyRental)}</span>
+              </div>
+              <div className="flex justify-between">
+                <span className="text-sm" style={{ color: 'var(--warm-gray)' }}>Annual cost</span>
+                <span className="font-bold" style={{ color: 'var(--espresso)' }}>${fmt(yearlyRental)}</span>
+              </div>
+            </div>
+          </div>
+
+          {/* Results */}
+          <div className="rounded-2xl p-8" style={{ background: 'var(--espresso)' }}>
+            <h3 className="font-editorial text-xl mb-6" style={{ color: 'var(--amber)' }}>
+              Building your own kitchen
+            </h3>
+
+            <div className="space-y-4 mb-8">
+              {[
+                { label: 'Construction & buildout', value: buildCosts.construction },
+                { label: 'Equipment purchase', value: buildCosts.equipment },
+                { label: 'Permits & licensing', value: buildCosts.permits },
+                { label: 'First year operations', value: buildCosts.firstYearOps },
+              ].map((item) => (
+                <div key={item.label} className="flex justify-between">
+                  <span className="text-sm" style={{ color: '#8C8279' }}>{item.label}</span>
+                  <span className="font-medium" style={{ color: 'var(--cream)' }}>${fmt(item.value)}</span>
+                </div>
+              ))}
+              <div className="pt-4" style={{ borderTop: '1px solid rgba(250,246,240,0.1)' }}>
+                <div className="flex justify-between">
+                  <span className="font-medium" style={{ color: 'var(--cream)' }}>Total first year</span>
+                  <span className="font-bold text-lg" style={{ color: 'var(--cream)' }}>${fmt(totalBuild)}</span>
+                </div>
+              </div>
+            </div>
+
+            <div className="rounded-xl p-5" style={{ background: 'rgba(200, 150, 62, 0.15)', border: '1px solid rgba(200, 150, 62, 0.25)' }}>
+              <p className="text-sm mb-1" style={{ color: 'var(--amber)' }}>Your first-year savings</p>
+              <p className="font-editorial text-3xl" style={{ color: 'var(--cream)' }}>${fmt(savings)}</p>
+              <p className="text-sm mt-2" style={{ color: '#8C8279' }}>
+                That&apos;s {yearsSaved}+ years of renting for the cost of building.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  )
+}
+
 const HomePage = () => {
   const [expandedFaq, setExpandedFaq] = useState(null)
 
@@ -226,6 +364,9 @@ const HomePage = () => {
           </div>
         </div>
       </section>
+
+      {/* ─── COST CALCULATOR ─── */}
+      <CostCalculator />
 
       {/* ─── COMPARISON ─── */}
       <section className="py-24" style={{ background: 'var(--cream)' }}>
