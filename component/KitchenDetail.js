@@ -1697,7 +1697,6 @@ export default function KitchenDetail({
               </div>
             </div>
           </div>
-        </div>
 
         {/* Loading and Error States */}
         {loading && (
