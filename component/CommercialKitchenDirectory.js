@@ -1,32 +1,17 @@
 'use client'
 
-import React, { useState, useEffect } from 'react'
-import Hero from '@/component/Hero'
+import React, { useState } from 'react'
 import Link from 'next/link'
 import { slugify } from '@/lib/slugify'
-
 import {
   MapPin,
-  Clock,
-  Thermometer,
-  Calendar,
-  ChevronDown,
-  ChevronUp,
-  Filter,
   Star,
   Shield,
   ExternalLink,
-  Check,
-  Menu,
-  X,
-  Axe,
   Heart,
-  Share2,
   Phone,
-  Mail,
-  DollarSign,
-  Users,
-  MapIcon,
+  ArrowRight,
+  Filter,
 } from 'lucide-react'
 import AffiliateLinks from './AffiliateLinks'
 import BreadCrumbs from '@/component/BreadCrumbs'
@@ -34,25 +19,19 @@ import AdSenseAd from '@/component/AdSenseAd'
 import OptimizedImage from '@/component/OptimizedImage'
 
 const CommercialKitchenDirectory = ({
-  city = { city },
-  state = { state },
+  city = '',
+  state = '',
   kitchens = [],
   relatedCities = [],
 }) => {
-  const [showFilters, setShowFilters] = useState(true)
-  const [showMap, setShowMap] = useState(false)
-  const [viewType, setViewType] = useState('grid')
+  const [showSidebar, setShowSidebar] = useState(true)
 
-  const baseUrl = process.env.BASE_URL
-    ? `https://${process.env.BASE_URL}`
-    : 'http://localhost:3000'
-
-  // Use props data or fallback to sample data
   const displayKitchens =
     kitchens.length > 0
       ? kitchens.map((kitchen, index) => ({
           id: kitchen.placeId || index,
           name: kitchen.name || kitchen.title,
+          title: kitchen.title || kitchen.name,
           image:
             kitchen.imageUrl ||
             kitchen.photo ||
@@ -60,20 +39,11 @@ const CommercialKitchenDirectory = ({
           rating: kitchen.totalScore || kitchen.rating || 0,
           reviews: kitchen.reviewsCount || kitchen.reviews || 0,
           tags: kitchen.tags || [],
-          price: kitchen.price || 'Contact for pricing',
-          priceType: kitchen.price ? 'per hour' : '',
+          price: kitchen.price || null,
           verified: kitchen.totalScore > 4.0,
-          distance: `${kitchen.neighborhood || kitchen.city} • ${
-            kitchen.street
-          }`,
           description:
             kitchen.description ||
             'Commercial kitchen space available for rent.',
-          featured: index === 0,
-          capacity:
-            kitchen.categoryName === 'Shared-use commercial kitchen'
-              ? 'Industrial scale'
-              : 'Variable',
           availability: kitchen.hours || 'Contact for hours',
           phone: kitchen.phone,
           website: kitchen.website || kitchen.site,
@@ -82,303 +52,287 @@ const CommercialKitchenDirectory = ({
           city: kitchen.city,
           state: kitchen.state,
         }))
-      : [
-          // Fallback sample data
-          {
-            id: 1,
-            name: 'Sample Kitchen',
-            image: '/api/placeholder/400/280',
-            rating: 4.5,
-            reviews: 25,
-            tags: ['24/7 Access', 'Equipment Included'],
-            price: '$25',
-            priceType: 'per hour',
-            verified: true,
-            distance: 'Downtown',
-            description: 'Sample commercial kitchen for demonstration.',
-            featured: true,
-            capacity: '8-12 people',
-            availability: 'Available Today',
-          },
-        ]
-
-  const faqs = []
-
-  function getSlug(kitchen) {
-    return (
-      kitchen.name ||
-      kitchen.title
-        ?.toLowerCase()
-        .replace(/\s+/g, '-') // replace spaces with dashes
-        .replace(/[^\w-]+/g, '')
-    ) // remove special characters
-  }
+      : []
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div style={{ background: 'var(--cream)' }}>
       <BreadCrumbs city={city} state={state} />
 
-      {/* <Hero city={city} state={state} kitchenCount={kitchens.length} /> */}
+      {/* Header */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 pb-6">
+        <div className="flex flex-col sm:flex-row justify-between items-start sm:items-end gap-4">
+          <div>
+            <p
+              className="text-sm font-medium tracking-widest uppercase mb-2"
+              style={{ color: 'var(--terracotta)', letterSpacing: '0.12em' }}
+            >
+              {displayKitchens.length} verified kitchens
+            </p>
+            <h1
+              className="font-editorial text-3xl lg:text-4xl"
+              style={{ color: 'var(--espresso)' }}
+            >
+              Commercial Kitchen for Rent in {city}
+            </h1>
+          </div>
+          <button
+            onClick={() => setShowSidebar(!showSidebar)}
+            className="flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium transition-colors"
+            style={{
+              background: 'var(--light-warm)',
+              color: 'var(--warm-brown)',
+              border: '1px solid var(--border-warm)',
+            }}
+          >
+            <Filter className="w-4 h-4" />
+            {showSidebar ? 'Hide Sidebar' : 'Show Sidebar'}
+          </button>
+        </div>
+      </div>
 
       {/* Main Content */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-20 pb-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
         <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
-          {/* Filters Sidebar */}
-          {showFilters && (
-            <div className="lg:col-span-1">
+          {/* Sidebar */}
+          {showSidebar && (
+            <div className="lg:col-span-1 space-y-6">
+              {/* Related Cities */}
               {relatedCities && relatedCities.length > 0 && (
-                <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 mt-6">
-                  <h3 className="text-lg font-bold text-gray-900 mb-4 flex items-center">
-                    <MapPin className="w-5 h-5 mr-2 text-blue-600" />
-                    Find More Kitchens for Rent in {state}
+                <div
+                  className="rounded-2xl p-6"
+                  style={{
+                    background: 'var(--light-warm)',
+                    border: '1px solid var(--border-warm)',
+                  }}
+                >
+                  <h3
+                    className="font-editorial text-lg mb-4"
+                    style={{ color: 'var(--espresso)' }}
+                  >
+                    More kitchens in {state}
                   </h3>
-                  <div className="space-y-2">
+                  <div className="space-y-1">
                     {relatedCities.slice(0, 6).map((relatedCity, index) => (
                       <Link
                         key={index}
                         href={relatedCity.url}
-                        className="flex items-center justify-between p-3 bg-gray-50 rounded-xl hover:bg-blue-50 hover:border-blue-200 transition-all group border border-transparent"
+                        className="flex items-center justify-between py-2.5 px-3 rounded-lg group transition-colors"
+                        style={{ color: 'var(--warm-brown)' }}
                       >
-                        <div className="flex items-center">
-                          <div className="w-8 h-8 bg-blue-100 rounded-lg flex items-center justify-center mr-3 group-hover:bg-blue-200 transition-colors">
-                            <MapPin className="w-4 h-4 text-blue-600" />
-                          </div>
-                          <div>
-                            <h4 className="font-medium text-gray-900 text-sm">
-                              {relatedCity.name}
-                            </h4>
-                            <p className="text-xs text-gray-500">
-                              Commercial Kitchens
-                            </p>
-                          </div>
+                        <div className="flex items-center gap-2">
+                          <MapPin
+                            className="w-3.5 h-3.5"
+                            style={{ color: 'var(--amber)' }}
+                          />
+                          <span className="text-sm font-medium">
+                            {relatedCity.name}
+                          </span>
                         </div>
-                        <ExternalLink className="w-4 h-4 text-gray-400 group-hover:text-blue-600 transition-colors" />
+                        <ArrowRight
+                          className="w-3.5 h-3.5 opacity-0 group-hover:opacity-100 transition-opacity"
+                          style={{ color: 'var(--terracotta)' }}
+                        />
                       </Link>
                     ))}
-                    {relatedCities.length > 6 && (
-                      <button className="w-full text-blue-600 hover:text-blue-700 text-sm font-medium mt-2">
-                        View All Cities in {state} →
-                      </button>
-                    )}
                   </div>
                 </div>
               )}
-              <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 mt-6">
-                <p className="font-bold mb-4">Resources</p>
-                <div className="flex self-center justify-between mb-4 p-3 bg-gray-50 rounded-xl">
-                  <div className="text-sm">
-                    <Link href="/resources/nutrition-label-maker">
-                      Nutrition Label Maker
+
+              {/* Resources */}
+              <div
+                className="rounded-2xl p-6"
+                style={{
+                  background: 'var(--light-warm)',
+                  border: '1px solid var(--border-warm)',
+                }}
+              >
+                <h3
+                  className="text-sm font-medium tracking-widest uppercase mb-4"
+                  style={{
+                    color: 'var(--amber)',
+                    letterSpacing: '0.1em',
+                  }}
+                >
+                  Resources
+                </h3>
+                <div className="space-y-2">
+                  {[
+                    {
+                      href: '/resources/nutrition-label-maker',
+                      label: 'Nutrition Label Maker',
+                    },
+                    {
+                      href: '/resources/recipe-cost-tracker',
+                      label: 'Recipe Cost Tracker',
+                    },
+                    {
+                      href: '/resources/food-expiration-date-checker',
+                      label: 'Food Expiration Checker',
+                    },
+                  ].map((link) => (
+                    <Link
+                      key={link.href}
+                      href={link.href}
+                      className="flex items-center justify-between py-2.5 px-3 rounded-lg text-sm group transition-colors"
+                      style={{ color: 'var(--warm-brown)' }}
+                    >
+                      <span>{link.label}</span>
+                      <ArrowRight
+                        className="w-3.5 h-3.5 opacity-0 group-hover:opacity-100 transition-opacity"
+                        style={{ color: 'var(--terracotta)' }}
+                      />
                     </Link>
-                  </div>
-                  <ExternalLink className="w-4 h-4 text-gray-400 group-hover:text-blue-600 transition-colors" />
-                </div>
-                <div className="flex self-center justify-between mb-4 p-3 bg-gray-50 rounded-xl">
-                  <div className="text-sm">
-                    <Link href="/resources/recipe-cost-tracker">
-                      Kitchen Recipe Cost Tracker
-                    </Link>
-                  </div>
-                  <ExternalLink className="w-4 h-4 text-gray-400 group-hover:text-blue-600 transition-colors" />
-                </div>
-                <div className="flex self-center justify-between mb-4 p-3 bg-gray-50 rounded-xl">
-                  <div className="text-sm">
-                    <Link href="/resources/food-expiration-date-checker">
-                      Food Expiration Date Checker
-                    </Link>
-                  </div>
-                  <ExternalLink className="w-4 h-4 text-gray-400 group-hover:text-blue-600 transition-colors" />
+                  ))}
                 </div>
               </div>
 
               <AffiliateLinks
-                categories={['certifications', 'business-formation', 'insurance']}
+                categories={[
+                  'certifications',
+                  'business-formation',
+                  'insurance',
+                ]}
                 title="Start Your Food Business"
                 columns={1}
               />
             </div>
           )}
 
-          {/* Main Listings */}
-          <div className={showFilters ? 'lg:col-span-3' : 'lg:col-span-4'}>
-            {/* Results Header */}
-            <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-6">
-              <div>
-                <h1 className="text-3xl font-bold text-gray-900 mb-2 max-w-sm">
-                  Commercial Kitchen for Rent in {city}
-                </h1>
-                <p className="text-gray-600">
-                  Showing {displayKitchens.length} verified kitchens
-                </p>
-              </div>
-              <div className="flex items-center gap-3 mt-4 sm:mt-0">
-                {/* Filter Toggle */}
-                <button
-                  onClick={() => setShowFilters(!showFilters)}
-                  className="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition-colors font-medium flex items-center"
-                >
-                  <Filter className="w-4 h-4 mr-2" />
-                  {showFilters ? 'Hide Filters' : 'Show Filters'}
-                </button>
-
-                {/* Map Toggle */}
-                <button
-                  onClick={() => setShowMap(!showMap)}
-                  className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-medium flex items-center"
-                >
-                  <MapIcon className="w-4 h-4 mr-2" />
-                  {showMap ? 'Hide Map' : 'Show Map'}
-                </button>
-              </div>
-            </div>
-
-            {/* Map */}
-            {showMap && (
-              <div className="bg-gray-200 rounded-2xl h-80 mb-6 flex items-center justify-center">
-                <div className="text-center text-gray-600">
-                  <MapIcon className="w-12 h-12 mx-auto mb-2" />
-                  <p>Interactive Map Goes Here</p>
-                  <p className="text-sm">Google Maps Integration</p>
-                </div>
-              </div>
-            )}
-
-            {/* Kitchen Listings */}
-            <div
-              className={
-                viewType === 'grid'
-                  ? 'grid grid-cols-1 lg:grid-cols-2 gap-6'
-                  : 'space-y-6'
-              }
-            >
+          {/* Kitchen Listings */}
+          <div className={showSidebar ? 'lg:col-span-3' : 'lg:col-span-4'}>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
               {displayKitchens.map((kitchen) => (
                 <div
                   key={kitchen.id}
-                  className={`bg-white rounded-2xl shadow-sm border border-gray-100 hover:shadow-lg transition-all duration-300 overflow-hidden group ${
-                    viewType === 'list' ? 'flex' : ''
-                  }`}
+                  className="rounded-2xl overflow-hidden group hover-lift"
+                  style={{
+                    background: 'var(--light-warm)',
+                    border: '1px solid var(--border-warm)',
+                  }}
                 >
-                  {kitchen.featured && (
-                    <div className="absolute top-4 left-4 z-10 px-3 py-1 bg-gradient-to-r from-blue-600 to-purple-600 text-white text-xs font-semibold rounded-full">
-                      Featured
-                    </div>
-                  )}
-
-                  <div
-                    className={`relative ${
-                      viewType === 'list' ? 'w-80 flex-shrink-0' : ''
-                    }`}
-                  >
+                  {/* Image */}
+                  <div className="relative overflow-hidden">
                     <OptimizedImage
                       src={kitchen.image}
                       alt={kitchen.name || kitchen.title || 'Kitchen image'}
-                      width={300}
-                      height={200}
-                      className={`w-full object-cover group-hover:scale-105 transition-transform duration-300 ${
-                        viewType === 'list' ? 'h-full' : 'h-56'
-                      }`}
+                      width={400}
+                      height={240}
+                      className="w-full h-52 object-cover group-hover:scale-105 transition-transform duration-500"
                       fallbackSrc="/images/commercial-kitchen-for-rent.jpg"
                     />
-                    <div className="absolute top-4 right-4 flex gap-2">
-                      <button className="p-2 bg-white/90 backdrop-blur-sm rounded-full hover:bg-white transition-colors">
-                        <Heart className="w-4 h-4 text-gray-600" />
-                      </button>
-                      <button className="p-2 bg-white/90 backdrop-blur-sm rounded-full hover:bg-white transition-colors">
-                        <Share2 className="w-4 h-4 text-gray-600" />
+                    <div className="absolute top-3 right-3">
+                      <button
+                        className="p-2 rounded-full backdrop-blur-sm transition-colors"
+                        style={{
+                          background: 'rgba(250,246,240,0.85)',
+                        }}
+                      >
+                        <Heart
+                          className="w-4 h-4"
+                          style={{ color: 'var(--warm-gray)' }}
+                        />
                       </button>
                     </div>
-                    <div className="absolute bottom-4 left-4">
-                      <span className="px-2 py-1 bg-green-100 text-green-800 text-xs font-medium rounded-full">
+                    <div className="absolute bottom-3 left-3">
+                      <span
+                        className="px-2.5 py-1 rounded-full text-xs font-medium backdrop-blur-sm"
+                        style={{
+                          background: 'rgba(122, 139, 111, 0.9)',
+                          color: 'var(--cream)',
+                        }}
+                      >
                         {kitchen.availability}
                       </span>
                     </div>
                   </div>
 
-                  <div className={`p-6 ${viewType === 'list' ? 'flex-1' : ''}`}>
-                    <div className="flex items-start justify-between mb-3">
-                      <div>
-                        <h3 className="text-xl font-bold text-gray-900 mb-1 group-hover:text-blue-600 transition-colors">
-                          {kitchen.name}
-                        </h3>
-                        <div className="flex items-center gap-3 mb-2">
-                          <div className="flex items-center">
-                            <Star className="w-4 h-4 text-yellow-400 fill-current" />
-                            <span className="text-sm font-medium text-gray-900 ml-1">
-                              {kitchen.rating}
-                            </span>
-                            <span className="text-sm text-gray-500 ml-1">
-                              ({kitchen.reviews} reviews)
-                            </span>
-                          </div>
-                          {kitchen.verified && (
-                            <span className="inline-flex items-center px-2 py-1 text-xs font-medium bg-blue-100 text-blue-800 rounded-full">
-                              <Shield className="w-3 h-3 mr-1" />
-                              Verified
+                  {/* Content */}
+                  <div className="p-5">
+                    <div className="flex items-start justify-between mb-2">
+                      <h3
+                        className="font-semibold text-lg leading-tight"
+                        style={{ color: 'var(--espresso)' }}
+                      >
+                        {kitchen.name}
+                      </h3>
+                    </div>
+
+                    <div className="flex items-center gap-3 mb-3">
+                      {kitchen.rating > 0 && (
+                        <div className="flex items-center gap-1">
+                          <Star
+                            className="w-4 h-4 fill-current"
+                            style={{ color: 'var(--amber)' }}
+                          />
+                          <span
+                            className="text-sm font-medium"
+                            style={{ color: 'var(--espresso)' }}
+                          >
+                            {kitchen.rating}
+                          </span>
+                          {kitchen.reviews > 0 && (
+                            <span
+                              className="text-sm"
+                              style={{ color: 'var(--warm-gray)' }}
+                            >
+                              ({kitchen.reviews})
                             </span>
                           )}
                         </div>
-                      </div>
-                      {/* <div className="text-right">
-                        <div className="text-md font-bold text-gray-900">
-                          {kitchen.price}
-                        </div>
-                        <div className="text-sm text-gray-500">
-                          {kitchen.priceType}
-                        </div>
-                      </div> */}
-                    </div>
-
-                    <p className="text-gray-600 text-sm mb-4">
-                      {kitchen.description}
-                    </p>
-
-                    <div className="flex flex-wrap gap-3 mb-4">
-                      {kitchen.tags &&
-                        kitchen.tags.slice(0, 3).map((tag, index) => (
-                          <span
-                            key={index}
-                            className="px-3 py-1 bg-gray-100 text-gray-700 rounded-full text-xs font-medium"
-                          >
-                            {tag}
-                          </span>
-                        ))}
-                      {kitchen.tags && kitchen.tags.length > 3 && (
-                        <span className="px-3 py-1 bg-gray-100 text-gray-500 rounded-full text-xs">
-                          +{kitchen.tags.length - 3} more
+                      )}
+                      {kitchen.verified && (
+                        <span
+                          className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-xs font-medium"
+                          style={{
+                            background: 'rgba(122, 139, 111, 0.12)',
+                            color: 'var(--sage)',
+                          }}
+                        >
+                          <Shield className="w-3 h-3" />
+                          Verified
                         </span>
                       )}
                     </div>
 
-                    <div className="flex items-center gap-4 mb-4 text-sm text-gray-600">
-                      {/* <div className="flex items-center">
-                        <Users className="w-4 h-4 mr-1" />
-                        {kitchen.capacity}
-                      </div> */}
-                      <div className="flex items-center">
-                        <MapPin className="w-4 h-4 mr-1" />
-                        {kitchen.address}, {kitchen.city}
-                      </div>
-                      {/* <div className="flex items-center">
-                        <Clock className="w-4 h-4 mr-1" />
-                        {kitchen.availability}
-                      </div> */}
-                    </div>
+                    <p
+                      className="text-sm mb-3 leading-relaxed line-clamp-2"
+                      style={{ color: 'var(--warm-gray)' }}
+                    >
+                      {kitchen.description}
+                    </p>
 
-                    <div className="flex gap-3">
+                    {kitchen.address && (
+                      <div
+                        className="flex items-center gap-1.5 text-sm mb-4"
+                        style={{ color: 'var(--warm-gray)' }}
+                      >
+                        <MapPin className="w-3.5 h-3.5 shrink-0" />
+                        <span className="truncate">
+                          {kitchen.address}
+                          {kitchen.city ? `, ${kitchen.city}` : ''}
+                        </span>
+                      </div>
+                    )}
+
+                    <div className="flex gap-2">
                       <Link
-                        href={`/commercial-kitchen-for-rent/${slugify(
-                          city
-                        )}/${slugify(state)}/kitchen/${slugify(
-                          kitchen.title || kitchen.name
-                        )}`}
-                        className="flex-1 px-4 py-3 bg-blue-600 text-white rounded-xl font-medium hover:bg-blue-700 transition-colors text-center"
+                        href={`/commercial-kitchen-for-rent/${slugify(city)}/${slugify(state)}/kitchen/${slugify(kitchen.title || kitchen.name)}`}
+                        className="flex-1 px-4 py-2.5 rounded-full text-sm font-medium text-center transition-all hover:scale-[1.02]"
+                        style={{
+                          background: 'var(--espresso)',
+                          color: 'var(--cream)',
+                        }}
                       >
                         View Details
                       </Link>
                       {kitchen.phone && (
                         <a
                           href={`tel:${kitchen.phone}`}
-                          className="px-4 py-3 border border-gray-200 rounded-xl font-medium hover:bg-gray-50 transition-colors"
+                          className="px-3 py-2.5 rounded-full transition-colors"
+                          style={{
+                            border: '1px solid var(--border-warm)',
+                            color: 'var(--warm-brown)',
+                          }}
                         >
                           <Phone className="w-4 h-4" />
                         </a>
@@ -387,7 +341,12 @@ const CommercialKitchenDirectory = ({
                         <a
                           href={kitchen.website}
                           target="_blank"
-                          className="px-4 py-3 border border-gray-200 rounded-xl font-medium hover:bg-gray-50 transition-colors"
+                          rel="noopener noreferrer"
+                          className="px-3 py-2.5 rounded-full transition-colors"
+                          style={{
+                            border: '1px solid var(--border-warm)',
+                            color: 'var(--warm-brown)',
+                          }}
                         >
                           <ExternalLink className="w-4 h-4" />
                         </a>
@@ -398,16 +357,13 @@ const CommercialKitchenDirectory = ({
               ))}
             </div>
 
-            <div className="mt-12 text-center">
-              {/* <button className="px-8 py-4 bg-gray-100 text-gray-700 rounded-xl hover:bg-gray-200 transition-colors font-medium">
-                Load More Kitchens
-              </button> */}
-              <p className="text-sm text-gray-500 mt-2">
-                Showing {displayKitchens.length} results
+            <div className="mt-10 text-center">
+              <p className="text-sm" style={{ color: 'var(--warm-gray)' }}>
+                Showing {displayKitchens.length} kitchens in {city}
               </p>
             </div>
+
             <div className="my-8">
-              <p>Ads</p>
               <AdSenseAd />
             </div>
           </div>
