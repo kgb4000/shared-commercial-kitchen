@@ -57,6 +57,23 @@ const HomePage = () => {
 
   return (
     <main style={{ background: 'var(--cream)' }}>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": faqs.map((faq) => ({
+              "@type": "Question",
+              "name": faq.question,
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": faq.answer,
+              },
+            })),
+          }),
+        }}
+      />
 
       {/* ─── HERO ─── */}
       <section className="relative overflow-hidden grain" style={{ background: 'var(--espresso)', minHeight: '85vh' }}>
@@ -364,8 +381,9 @@ const HomePage = () => {
                   />
                 </button>
                 <div
-                  className="overflow-hidden transition-all duration-300"
-                  style={{ maxHeight: expandedFaq === index ? '200px' : '0' }}
+                  className={`overflow-hidden transition-all duration-300 ${
+                    expandedFaq === index ? 'max-h-96 opacity-100' : 'max-h-0 opacity-0'
+                  }`}
                 >
                   <div className="px-6 pb-5">
                     <p className="leading-relaxed" style={{ color: 'var(--warm-gray)' }}>
