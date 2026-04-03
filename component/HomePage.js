@@ -4,6 +4,7 @@ import React, { useState } from 'react'
 import { ChevronDown, ArrowRight, MapPin } from 'lucide-react'
 import SearchBar from '@/component/SearchBar'
 import Link from 'next/link'
+import Image from 'next/image'
 
 function CostCalculator() {
   const [hoursPerWeek, setHoursPerWeek] = useState(20)
@@ -239,8 +240,16 @@ const HomePage = () => {
 
       {/* ─── HERO ─── */}
       <section className="relative overflow-hidden grain" style={{ background: 'var(--espresso)', minHeight: '85vh' }}>
-        <div className="absolute inset-0 opacity-20" style={{
-          background: 'radial-gradient(ellipse at 30% 50%, rgba(200, 150, 62, 0.4), transparent 70%), radial-gradient(ellipse at 70% 80%, rgba(189, 91, 60, 0.3), transparent 60%)'
+        <Image
+          src="/images/shared-commercial-kitchens-for-rent.png"
+          alt="Food entrepreneur plating dishes in a commercial kitchen for rent"
+          fill
+          className="object-cover opacity-30"
+          priority
+          sizes="100vw"
+        />
+        <div className="absolute inset-0" style={{
+          background: 'linear-gradient(to right, rgba(30,17,8,0.85) 0%, rgba(30,17,8,0.6) 50%, rgba(30,17,8,0.4) 100%)'
         }} />
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-24 pb-20 flex flex-col justify-center" style={{ minHeight: '85vh' }}>
           <div className="max-w-3xl">
