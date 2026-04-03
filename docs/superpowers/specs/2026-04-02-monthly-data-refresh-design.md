@@ -33,7 +33,8 @@ A GitHub Actions workflow that runs monthly to refresh existing kitchen data and
 | `phone` | Place Details `nationalPhoneNumber` |
 | `website` | Place Details `websiteUri` |
 | `openingHours` | Place Details `regularOpeningHours.weekdayDescriptions` |
-| `imageUrl` | Place Details `photos[0]` URL |
+| `imageUrl` | Place Details `photos[0]` URL (primary) |
+| `images` | Place Details `photos` URLs (up to 10) |
 | `location.lat` | Place Details `location.latitude` |
 | `location.lng` | Place Details `location.longitude` |
 
@@ -55,7 +56,8 @@ When a new kitchen is discovered, it's added with:
   "totalScore": "[from API]",
   "reviewsCount": "[from API]",
   "openingHours": "[from API]",
-  "imageUrl": "[from API]",
+  "imageUrl": "[from API photos[0]]",
+  "images": ["[from API photos — up to 10 URLs]"],
   "location": { "lat": 0, "lng": 0 },
   "verified": false
 }
