@@ -7,10 +7,20 @@ import Link from 'next/link'
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
   return (
-    <header className="sticky top-0 z-50" style={{ background: 'var(--cream)', borderBottom: '1px solid var(--border-warm)' }}>
+    <header
+      className="sticky top-0 z-50"
+      style={{
+        background: 'var(--cream)',
+        borderBottom: '1px solid var(--border-warm)',
+      }}
+    >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
-          <Link href="/" className="font-editorial text-xl" style={{ color: 'var(--espresso)' }}>
+          <Link
+            href="/"
+            className="font-editorial text-xl"
+            style={{ color: 'var(--espresso)' }}
+          >
             Shared Kitchen Locator
           </Link>
 
@@ -19,17 +29,17 @@ export default function Header() {
               href="/browse-kitchens"
               className="text-sm font-medium tracking-wide uppercase transition-colors"
               style={{ color: 'var(--warm-gray)', letterSpacing: '0.05em' }}
-              onMouseEnter={e => e.target.style.color = 'var(--espresso)'}
-              onMouseLeave={e => e.target.style.color = 'var(--warm-gray)'}
+              onMouseEnter={(e) => (e.target.style.color = 'var(--espresso)')}
+              onMouseLeave={(e) => (e.target.style.color = 'var(--warm-gray)')}
             >
               Browse Kitchens
             </Link>
             <Link
-              href="/resources/nutrition-label-maker"
+              href="/resources"
               className="text-sm font-medium tracking-wide uppercase transition-colors"
               style={{ color: 'var(--warm-gray)', letterSpacing: '0.05em' }}
-              onMouseEnter={e => e.target.style.color = 'var(--espresso)'}
-              onMouseLeave={e => e.target.style.color = 'var(--warm-gray)'}
+              onMouseEnter={(e) => (e.target.style.color = 'var(--espresso)')}
+              onMouseLeave={(e) => (e.target.style.color = 'var(--warm-gray)')}
             >
               Resources
             </Link>
@@ -37,8 +47,8 @@ export default function Header() {
               href="/blog"
               className="text-sm font-medium tracking-wide uppercase transition-colors"
               style={{ color: 'var(--warm-gray)', letterSpacing: '0.05em' }}
-              onMouseEnter={e => e.target.style.color = 'var(--espresso)'}
-              onMouseLeave={e => e.target.style.color = 'var(--warm-gray)'}
+              onMouseEnter={(e) => (e.target.style.color = 'var(--espresso)')}
+              onMouseLeave={(e) => (e.target.style.color = 'var(--warm-gray)')}
             >
               Guides
             </Link>
@@ -55,21 +65,43 @@ export default function Header() {
             onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
             className="md:hidden p-2"
           >
-            {mobileMenuOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
+            {mobileMenuOpen ? (
+              <X className="w-5 h-5" />
+            ) : (
+              <Menu className="w-5 h-5" />
+            )}
           </button>
         </div>
       </div>
 
       {mobileMenuOpen && (
-        <div className="md:hidden" style={{ borderTop: '1px solid var(--border-warm)', background: 'var(--cream)' }}>
+        <div
+          className="md:hidden"
+          style={{
+            borderTop: '1px solid var(--border-warm)',
+            background: 'var(--cream)',
+          }}
+        >
           <div className="px-4 py-4 space-y-3">
-            <Link href="/browse-kitchens" className="block text-sm font-medium" style={{ color: 'var(--warm-brown)' }}>
+            <Link
+              href="/browse-kitchens"
+              className="block text-sm font-medium"
+              style={{ color: 'var(--warm-brown)' }}
+            >
               Browse Kitchens
             </Link>
-            <Link href="/resources/nutrition-label-maker" className="block text-sm font-medium" style={{ color: 'var(--warm-brown)' }}>
+            <Link
+              href="/resources/nutrition-label-maker"
+              className="block text-sm font-medium"
+              style={{ color: 'var(--warm-brown)' }}
+            >
               Resources
             </Link>
-            <Link href="/blog" className="block text-sm font-medium" style={{ color: 'var(--warm-brown)' }}>
+            <Link
+              href="/blog"
+              className="block text-sm font-medium"
+              style={{ color: 'var(--warm-brown)' }}
+            >
               Guides
             </Link>
             <Link
