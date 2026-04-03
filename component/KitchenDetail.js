@@ -25,6 +25,8 @@ import BusinessInsights from '@/component/BusinessInsights'
 import BackButton from '@/component/BackButton'
 import AdSenseAd from '@/component/AdSenseAd'
 import OptimizedImage from '@/component/OptimizedImage'
+import LeadCaptureForm from './LeadCaptureForm'
+import AffiliateLinks from './AffiliateLinks'
 
 // Helper functions
 function formatPhoneNumber(phone) {
@@ -1390,6 +1392,13 @@ export default function KitchenDetail({
                     )}
                   </div>
                 </div>
+
+                {/* Affiliate Links */}
+                <AffiliateLinks
+                  categories={['certifications', 'insurance', 'equipment']}
+                  title="Resources for Kitchen Renters"
+                />
+
                 {/* Nearby Places Section */}
                 <BusinessInsights
                   kitchen={kitchen}
@@ -1710,11 +1719,11 @@ export default function KitchenDetail({
 
               {/* Right Sidebar */}
               <div className="space-y-6">
-                {/* Contact Form */}
-                {/* <ContactForm
-                  kitchen={kitchen}
-                  placeDetails={initialGoogleData}
-                /> */}
+                {/* Lead Capture Form */}
+                <LeadCaptureForm
+                  kitchenName={kitchen.title || kitchen.name || 'this kitchen'}
+                  kitchenUrl={typeof window !== 'undefined' ? window.location.href : ''}
+                />
                 <div className="my-8">
                   <AdSenseAd />
                 </div>
