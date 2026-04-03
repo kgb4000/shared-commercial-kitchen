@@ -10,13 +10,9 @@ export async function GET() {
 
   // Static pages
   const staticPages = [
-    { url: '', priority: '1.0', changefreq: 'daily' }, // Homepage
+    { url: '', priority: '1.0', changefreq: 'daily' },
     { url: '/browse-kitchens', priority: '0.9', changefreq: 'daily' },
     { url: '/commercial-kitchen-for-rent', priority: '0.9', changefreq: 'weekly' },
-    { url: '/blog', priority: '0.7', changefreq: 'weekly' },
-    { url: '/blog/how-much-to-rent-a-commercial-kitchen', priority: '0.7', changefreq: 'monthly' },
-    { url: '/blog/commissary-kitchen-requirements', priority: '0.7', changefreq: 'monthly' },
-    { url: '/blog/ghost-kitchen-guide', priority: '0.7', changefreq: 'monthly' },
     { url: '/resources', priority: '0.8', changefreq: 'weekly' },
     { url: '/resources/nutrition-label-maker', priority: '0.8', changefreq: 'monthly' },
     { url: '/resources/recipe-cost-tracker', priority: '0.7', changefreq: 'monthly' },
@@ -25,6 +21,20 @@ export async function GET() {
     { url: '/cocinas-comerciales', priority: '0.6', changefreq: 'weekly' },
     { url: '/food-licensing-guides', priority: '0.7', changefreq: 'weekly' },
   ]
+
+  // Auto-discover blog posts from app/blog/ directory
+  const blogDir = path.join(process.cwd(), 'app', 'blog')
+  try {
+    const blogEntries = await fs.readdir(blogDir, { withFileTypes: true })
+    staticPages.push({ url: '/blog', priority: '0.7', changefreq: 'weekly' })
+    for (const entry of blogEntries) {
+      if (entry.isDirectory() && !entry.name.startsWith('[') && !entry.name.startsWith('.')) {
+        staticPages.push({ url: `/blog/${entry.name}`, priority: '0.7', changefreq: 'monthly' })
+      }
+    }
+  } catch {
+    staticPages.push({ url: '/blog', priority: '0.7', changefreq: 'weekly' })
+  }
 
   staticPages.forEach(page => {
     urls.push(
