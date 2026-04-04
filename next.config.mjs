@@ -3,6 +3,15 @@ const nextConfig = {
   env: {
     GOOGLE_PLACES_API_KEY: process.env.GOOGLE_PLACES_API_KEY,
   },
+  async redirects() {
+    return [
+      {
+        source: '/commercial-kitchen-for-rent/kitchen/:slug',
+        destination: '/browse-kitchens',
+        permanent: true,
+      },
+    ]
+  },
   images: {
     remotePatterns: [
       {
